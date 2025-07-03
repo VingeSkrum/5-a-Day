@@ -2,7 +2,7 @@ name: Fetch Daily News
 
 on:
   schedule:
-    - cron: "0 8 * * *"  # 8AM UTC daily
+    - cron: "0 16 * * *"  # 8AM UTC daily
   workflow_dispatch:
 
 jobs:
