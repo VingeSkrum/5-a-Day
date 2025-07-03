@@ -4,7 +4,7 @@ import os
 
 API_KEY = "32bf237815f80287e9186d538e0926fa"  # Or hardcode your key
 BASE_URL = "https://gnews.io/api/v4/top-headlines"
-CATEGORIES = ["world", "business", "technology", "sports"]
+CATEGORIES = ["world", "business", "technology", "sport"]
 LANG = "en"
 MAX_ARTICLES = 1  # Only one per category
 
