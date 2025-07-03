@@ -2,15 +2,18 @@ name: Fetch Daily News
 
 on:
   schedule:
-    - cron: "0 7 * * *"  # 8AM UTC daily
+    - cron: "0 17 * * *"  # 17:00 UTC daily
   workflow_dispatch:
 
 jobs:
   fetch-and-commit:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT_TOKEN }}  # ✅ use your PAT here
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -32,5 +35,3 @@ jobs:
           git add cached_articles.json
           git commit -m "📰 Daily update: $(date -u '+%Y-%m-%d')" || exit 0
           git push https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git HEAD:main
-
-
