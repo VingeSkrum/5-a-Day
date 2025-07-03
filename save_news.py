@@ -11,6 +11,8 @@ MAX_ARTICLES = 1  # Only one per category
 articles = []
 
 for category in CATEGORIES:
+    print(f"Fetching {category}...")  # 👈 debug log
+
     params = {
         "token": API_KEY,
         "lang": LANG,
@@ -27,9 +29,12 @@ for category in CATEGORIES:
             top_article = data["articles"][0]
             top_article["category"] = category
             articles.append(top_article)
+            print(f"✅ Found article for '{category}': {top_article['title']}")
+        else:
+            print(f"⚠️ No articles for category '{category}'")
 
     except requests.exceptions.RequestException as e:
-        print(f"Error fetching category '{category}': {e}")
+        print(f"❌ Error fetching {category}: {e}")
 
 with open("cached_articles.json", "w", encoding="utf-8") as f:
     json.dump(articles, f, indent=2)
