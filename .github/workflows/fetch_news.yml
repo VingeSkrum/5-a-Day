@@ -24,10 +24,13 @@ jobs:
         run: python save_news.py
 
       - name: Commit and push changes
+        env:
+          TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'actions@github.com'
           git add cached_articles.json
-          git commit -m "📰 Daily update: $(date -u '+%Y-%m-%d')" || echo "No changes to commit"
-          git push
+          git commit -m "📰 Daily update: $(date -u '+%Y-%m-%d')" || exit 0
+          git push https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git HEAD:main
+
 
