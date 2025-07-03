@@ -1,0 +1,33 @@
+name: Fetch Daily News
+
+on:
+  schedule:
+    - cron: "0 8 * * *"  # 8AM UTC daily
+  workflow_dispatch:
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Python script
+        run: python save_news.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'actions@github.com'
+          git add cached_articles.json
+          git commit -m "📰 Daily update: $(date -u '+%Y-%m-%d')" || echo "No changes to commit"
+          git push
+
