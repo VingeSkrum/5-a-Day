@@ -1,37 +1,39 @@
-# save_news.py
-
 import requests
 import json
-from datetime import datetime
+import os
 
-API_KEY = "32bf237815f80287e9186d538e0926fa"
+API_KEY = "32bf237815f80287e9186d538e0926fa"  # Or hardcode your key
 BASE_URL = "https://gnews.io/api/v4/top-headlines"
 CATEGORIES = ["world", "business", "technology", "sports"]
 LANG = "en"
-MAX_ARTICLES_PER_CATEGORY = 5
+MAX_ARTICLES = 1  # Only one per category
 
-all_articles = []
+articles = []
 
 for category in CATEGORIES:
     params = {
         "token": API_KEY,
         "lang": LANG,
         "topic": category,
-        "max": MAX_ARTICLES_PER_CATEGORY
+        "max": MAX_ARTICLES
     }
 
     try:
         response = requests.get(BASE_URL, params=params)
         response.raise_for_status()
         data = response.json()
-        for article in data.get("articles", []):
-            article["category"] = category
-            all_articles.append(article)
+
+        if data.get("articles"):
+            top_article = data["articles"][0]
+            top_article["category"] = category
+            articles.append(top_article)
+
     except requests.exceptions.RequestException as e:
-        print(f"Error fetching {category}: {e}")
+        print(f"Error fetching category '{category}': {e}")
 
 with open("cached_articles.json", "w", encoding="utf-8") as f:
-    json.dump(all_articles, f, indent=2)
+    json.dump(articles, f, indent=2)
 
-print(f"✅ Saved {len(all_articles)} articles.")
+print(f"✅ Saved {len(articles)} articles.")
+
 
