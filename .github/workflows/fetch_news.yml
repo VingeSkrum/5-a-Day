@@ -24,6 +24,9 @@ jobs:
         run: pip install requests
 
       - name: Run Python script
+        env:
+          GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python save_news.py
 
       - name: Commit and push changes
