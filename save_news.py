@@ -2,14 +2,14 @@ import requests
 import json
 import os
 import time
-import openai
+from openai import OpenAI
 
 # ---------------------
 # ✅ CONFIGURATION
 # ---------------------
 
 API_KEY = os.environ.get("GNEWS_API_KEY")
-openai.api_key = os.environ.get("OPENAI_API_KEY")
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 CATEGORIES = ["world", "politics", "sport"]
 LANG = "en"
@@ -33,7 +33,7 @@ Article 2 Title: {article2["title"]}
 Article 2 Description: {article2.get("description", "")}
 """
     try:
-        response = openai.ChatCompletion.create(
+        response = client.chat.completions.create(
             model="gpt-4",
             messages=[{"role": "user", "content": prompt}],
             max_tokens=5,
@@ -56,7 +56,7 @@ Title: {article["title"]}
 Description: {article.get("description", "")}
 """
     try:
-        response = openai.ChatCompletion.create(
+        response = client.chat.completions.create(
             model="gpt-4",
             messages=[{"role": "user", "content": prompt}],
             max_tokens=5,
