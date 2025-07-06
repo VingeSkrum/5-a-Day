@@ -22,7 +22,6 @@ MAX_ATTEMPTS_PER_CATEGORY = 2
 # ---------------------
 # 🔁 OpenAI Similarity Check
 # ---------------------
-
 def is_similar(article1, article2):
     prompt = f"""Are the following two news articles reporting the same story? Answer only 'Yes' or 'No'.
 
@@ -48,7 +47,6 @@ Article 2 Description: {article2.get("description", "")}
 # ---------------------
 # 🧠 Relevance Check
 # ---------------------
-
 def is_relevant(article, category):
     prompt = f"""Is the following news article relevant to the topic category "{category}"? Answer only 'Yes' or 'No'.
 
@@ -69,12 +67,33 @@ Description: {article.get("description", "")}
         return False
 
 # ---------------------
-# 🔍 Fetch + Filter per Category
+# 🧠 GPT Ranks Most Important
 # ---------------------
 
-def fetch_articles_for_category(category):
-    unique_articles = []
-    seen_titles = set()
+def rank_most_important_articles(articles, category):
+    prompt = f"""You are a news editor. Here are {len(articles)} news articles in the category '{category}'. Choose the 2 that are the most important and relevant right now. Return only their titles, one per line.
+
+{json.dumps([{"title": a["title"], "description": a.get("description", "")} for a in articles], indent=2)}
+"""
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4",
+            messages=[{"role": "user", "content": prompt}],
+            max_tokens=300,
+            temperature=0.3
+        )
+        result = response.choices[0].message.content.strip()
+        selected_titles = [line.strip() for line in result.split("\n") if line.strip()]
+        return selected_titles
+    except Exception as e:
+        print(f"❌ GPT ranking failed: {e}")
+        return []
+
+# ---------------------
+# 🔍 Fetch + Filter per Category
+# ---------------------
+def fetch_articles_for_category(category, seen_titles):
+    valid_articles = []
 
     for attempt in range(1, MAX_ATTEMPTS_PER_CATEGORY + 1):
         print(f"🔁 Attempt {attempt} for '{category}'")
@@ -93,7 +112,7 @@ def fetch_articles_for_category(category):
             articles = response.json().get("articles", [])
             print(f"✅ Received {len(articles)} articles")
 
-            # Filter by allowed sources
+            # Filter by allowed sources and global duplicates
             filtered = [
                 a for a in articles
                 if a.get("source", {}).get("name") in ALLOWED_SOURCES
@@ -104,42 +123,48 @@ def fetch_articles_for_category(category):
 
             for article in filtered:
                 article["category"] = category
-                seen_titles.add(article["title"])
 
                 if not is_relevant(article, category):
                     print(f"⛔ Irrelevant: {article['title']}")
                     continue
 
-                if any(is_similar(article, existing) for existing in unique_articles):
-                    print(f"⛔ Duplicate: {article['title']}")
-                    continue
-
-                unique_articles.append(article)
-                print(f"✅ Added: {article['title']}")
-
-                if len(unique_articles) == MAX_FINAL:
-                    break
+                valid_articles.append(article)
 
                 time.sleep(1.5)
 
         except requests.exceptions.RequestException as e:
             print(f"❌ Request failed for '{category}': {e}")
 
-        if len(unique_articles) >= 1:
+        if valid_articles:
             break
 
-    return unique_articles
+    # Ask GPT to pick top stories
+    top_titles = rank_most_important_articles(valid_articles, category)
+    selected = []
+
+    for title in top_titles:
+        for article in valid_articles:
+            if article["title"] == title and article["title"] not in seen_titles:
+                seen_titles.add(article["title"])
+                selected.append(article)
+                print(f"✅ Selected by GPT: {article['title']}")
+                break
+
+        if len(selected) == MAX_FINAL:
+            break
+
+    return selected
 
 # ---------------------
 # 🚀 Main Runner
 # ---------------------
-
 def run_news_pipeline():
     all_articles = []
+    seen_titles = set()  # Track across all categories
 
     for category in CATEGORIES:
         print(f"\n📦 Category: {category}")
-        category_articles = fetch_articles_for_category(category)
+        category_articles = fetch_articles_for_category(category, seen_titles)
 
         if not category_articles:
             print(f"⚠️ No valid articles found for '{category}'")
@@ -157,7 +182,6 @@ def run_news_pipeline():
 # ---------------------
 # ▶️ Entry Point
 # ---------------------
-
 if __name__ == "__main__":
     run_news_pipeline()
 
