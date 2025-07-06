@@ -7,7 +7,7 @@ from openai import OpenAI
 # ---------------------
 # ✅ CONFIGURATION
 # ---------------------
-
+print("✅ Got OpenAI key:", os.getenv("OPENAI_API_KEY")[:8], "...")
 API_KEY = os.environ.get("GNEWS_API_KEY")
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
