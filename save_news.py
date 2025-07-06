@@ -39,7 +39,7 @@ Article 2 Description: {article2.get("description", "")}
             max_tokens=5,
             temperature=0
         )
-        answer = response.choices[0].message["content"].strip().lower()
+        answer = response.choices[0].message.content.strip().lower()
         return "yes" in answer
     except Exception as e:
         print(f"❌ OpenAI similarity error: {e}")
@@ -62,7 +62,7 @@ Description: {article.get("description", "")}
             max_tokens=5,
             temperature=0
         )
-        answer = response.choices[0].message["content"].strip().lower()
+        answer = response.choices[0].message.content.strip().lower()
         return "yes" in answer
     except Exception as e:
         print(f"❌ OpenAI relevance error: {e}")
