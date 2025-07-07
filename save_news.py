@@ -95,7 +95,7 @@ def run_news_pipeline():
     # Save final 5
     with open("cached_articles.json", "w", encoding="utf-8") as f:
         json.dump(final_selection, f, indent=2)
-    print(f"\n
+    print(f"\n✅ Saved top {len(final_selection)} articles to cached_articles.json")
 
 
 
