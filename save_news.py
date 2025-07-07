@@ -14,39 +14,23 @@ ALLOWED_SOURCES = {"BBC", "Sky News", "The Guardian"}
 TOP_N = 20
 FINAL_N = 5
 
-
-def fetch_top_articles():
-    print("📡 Fetching top headlines from GNews...")
+def fetch_articles_from_source(domain):
+    print(f"🌐 Fetching from {domain}...")
     params = {
-        "token": GNEWS_API_KEY,
+        "token": API_KEY,
         "lang": LANG,
         "country": COUNTRY,
-        "max": TOP_N
+        "max": 10,
+        "domain": domain
     }
 
     try:
-        response = requests.get("https://gnews.io/api/v4/top-headlines", params=params)
+        response = requests.get("https://gnews.io/api/v4/search", params=params)
         response.raise_for_status()
-        raw_articles = response.json().get("articles", [])
-
-        articles = [
-            a for a in raw_articles
-            if a.get("source", {}).get("name") in ALLOWED_SOURCES
-        ]
-
-        print(f"✅ Got {len(articles)} articles from allowed sources.")
-
-        # Save full log
-        with open("article_log.json", "w", encoding="utf-8") as f:
-            json.dump(articles, f, indent=2)
-        print("📝 Saved full article log to article_log.json")
-
-        return articles
-
+        return response.json().get("articles", [])
     except Exception as e:
-        print(f"❌ Failed to fetch top headlines: {e}")
+        print(f"❌ Error fetching from {domain}: {e}")
         return []
-
 
 def rank_articles_with_gpt(articles):
     prompt = f"""
@@ -72,39 +56,50 @@ Return EXACTLY {FINAL_N} article titles, one per line. Do not explain. Just outp
         return []
 
 
-def run_pipeline():
-    all_articles = fetch_top_articles()
-    if not all_articles:
-        print("⚠️ No articles to rank.")
-        return
+def run_news_pipeline():
+    domains = {
+        "BBC": "bbc.co.uk",
+        "Sky News": "sky.com",
+        "The Guardian": "theguardian.com"
+    }
 
-    ranked_titles = rank_articles_with_gpt(all_articles)
-    selected = []
+    print("\n📡 Fetching from allowed sources...")
+    all_articles = []
+    seen_titles = set()
 
-    seen = set()
+    for name, domain in domains.items():
+        articles = fetch_articles_from_source(domain)
+        for article in articles:
+            title = article.get("title")
+            if title and title not in seen_titles:
+                all_articles.append(article)
+                seen_titles.add(title)
+
+    print(f"\n✅ Fetched {len(all_articles)} articles total.")
+    
+    # Save full list to log
+    with open("article_log.json", "w", encoding="utf-8") as f:
+        json.dump(all_articles, f, indent=2)
+
+    # 🧠 Rank and select top 5
+    ranked_titles = rank_most_important_articles(all_articles, "general")
+    final_selection = []
     for title in ranked_titles:
-        match = next((a for a in all_articles if a["title"] == title and a["title"] not in seen), None)
-        if match:
-            selected.append(match)
-            seen.add(match["title"])
-        if len(selected) == FINAL_N:
+        for article in all_articles:
+            if article["title"] == title:
+                final_selection.append(article)
+                break
+        if len(final_selection) == 5:
             break
 
-    if len(selected) < FINAL_N:
-        print(f"⚠️ Only found {len(selected)} matching GPT titles, padding with remaining top articles.")
-        for a in all_articles:
-            if a["title"] not in seen:
-                selected.append(a)
-                seen.add(a["title"])
-            if len(selected) == FINAL_N:
-                break
-
+    # Save final 5
     with open("cached_articles.json", "w", encoding="utf-8") as f:
-        json.dump(selected, f, indent=2)
-    print(f"✅ Saved {len(selected)} final articles to cached_articles.json")
+        json.dump(final_selection, f, indent=2)
+    print(f"\n
+
 
 
 if __name__ == "__main__":
-    run_pipeline()
+    run_news_pipeline()
 
 
