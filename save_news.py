@@ -21,8 +21,8 @@ MAX_REQUESTED = 20
 # ---------------------
 # 🤖 GPT Filters
 # ---------------------
-def gpt_select_top_5(articles):
-    prompt = f"""You are a news editor. Here are 20 news articles. Choose the 5 most important and relevant stories for a general audience today. Ensure at least 1 story is about politics and 1 about sport if possible. Return ONLY the titles of the selected articles, one per line.
+def rank_top_5_articles(articles):
+    prompt = f"""You are a news editor selecting the five most important, relevant, and diverse news stories from this list. Try to include at least one related to politics and one to sport, if they exist. Return exactly 5 titles, one per line.
 
 {json.dumps([{"title": a["title"], "description": a.get("description", "")} for a in articles], indent=2)}
 """
@@ -36,7 +36,7 @@ def gpt_select_top_5(articles):
         result = response.choices[0].message.content.strip()
         return [line.strip() for line in result.split("\n") if line.strip()]
     except Exception as e:
-        print(f"❌ GPT selection failed: {e}")
+        print(f"❌ GPT ranking failed: {e}")
         return []
 
 
@@ -67,21 +67,54 @@ def fetch_top_articles():
 # 🚀 Run and Save
 # ---------------------
 def run_news_pipeline():
-    articles = fetch_top_articles()
-    if not articles:
-        print("⚠️ No articles found.")
-        return
+    print("\n📡 Fetching top 20 headlines...")
+    params = {
+        "token": API_KEY,
+        "lang": LANG,
+        "country": COUNTRY,
+        "max": 20
+    }
 
-    selected_titles = gpt_select_top_5(articles)
-    final_articles = [a for a in articles if a["title"] in selected_titles]
+    try:
+        response = requests.get("https://gnews.io/api/v4/top-headlines", params=params)
+        response.raise_for_status()
+        raw_articles = response.json().get("articles", [])
 
-    if len(final_articles) < 5:
-        print(f"⚠️ Only selected {len(final_articles)} articles")
+        # Filter by allowed sources
+        articles = [
+            a for a in raw_articles
+            if a.get("source", {}).get("name") in ALLOWED_SOURCES
+        ]
 
-    with open("cached_articles.json", "w", encoding="utf-8") as f:
-        json.dump(final_articles, f, indent=2)
+        print(f"✅ {len(articles)} valid articles from allowed sources.")
 
-    print(f"✅ Saved {len(final_articles)} articles to cached_articles.json")
+        selected_titles = rank_top_5_articles(articles)
+        selected_articles = []
+
+        for title in selected_titles:
+            match = next((a for a in articles if a["title"] == title), None)
+            if match:
+                selected_articles.append(match)
+
+        # Fallback: if GPT gives < 5, fill remaining
+        if len(selected_articles) < 5:
+            print(f"⚠️ Only {len(selected_articles)} selected by GPT. Filling with additional articles.")
+            used_titles = {a["title"] for a in selected_articles}
+            for a in articles:
+                if a["title"] not in used_titles:
+                    selected_articles.append(a)
+                    used_titles.add(a["title"])
+                if len(selected_articles) == 5:
+                    break
+
+        # Save
+        with open("cached_articles.json", "w", encoding="utf-8") as f:
+            json.dump(selected_articles, f, indent=2)
+        print(f"\n✅ Saved {len(selected_articles)} articles to cached_articles.json")
+
+    except Exception as e:
+        print(f"❌ Fetch or save failed: {e}")
+
 
 
 # ---------------------
