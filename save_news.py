@@ -17,7 +17,7 @@ FINAL_N = 5
 def fetch_articles_from_source(domain):
     print(f"🌐 Fetching from {domain}...")
     params = {
-        "token": API_KEY,
+        "token": GNEWS_API_KEY,
         "lang": LANG,
         "country": COUNTRY,
         "max": 10,
