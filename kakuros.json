@@ -1,0 +1,19 @@
+{
+  "puzzles": [
+      {
+        "grid": [
+          [ {"type":"black"}, {"type":"clue","down":3}, {"type":"clue","down":34}, {"type":"black"}, {"type":"black"}, {"type":"clue","down":12}, {"type":"clue","down":6}, {"type":"black"}, {"type":"black"}],
+          [ {"type":"clue","across":10}, {"type":"white"}, {"type":"white"}, {"type":"black"}, {"type":"clue","across":4,"down":13}, {"type":"white"}, {"type":"white"}, {"type":"clue","down":33}, {"type":"black"}],
+          [ {"type":"clue","across":3}, {"type":"white"}, {"type":"white"}, {"type":"clue","down":17,"across":21}, {"type":"white"}, {"type":"white"}, {"type":"white"}, {"type":"white"}, {"type":"clue", "down":6} ],
+          [ {"type":"black"}, {"type":"clue","across":22}, {"type":"white"}, {"type":"white"}, {"type":"white"}, {"type":"clue","across":9}, {"type":"white"}, {"type":"white"}, {"type":"white"}],
+          [ {"type":"black"}, {"type":"clue","down":16,"across":12}, {"type":"white"}, {"type":"white"}, {"type":"white"}, {"type":"clue","down":23}, {"type":"clue","down": 12,"across":12}, {"type":"white"}, {"type":"white"}],
+          [ {"type":"clue","across":17}, {"type":"white"}, {"type":"white"}, {"type":"clue","down":10}, {"type":"clue","across":23}, {"type":"white"}, {"type":"white"}, {"type":"white"}, {"type":"black"} ],
+          [ {"type":"clue","across":12}, {"type":"white"}, {"type":"white"}, {"type":"white"}, {"type":"clue","across":14,"down":16}, {"type":"white"}, {"type":"white"}, {"type":"white"}, {"type":"clue", "down":7}],
+          [ {"type":"black"}, {"type":"clue","across":27}, {"type":"white"}, {"type":"white"}, {"type":"white"}, {"type":"white"}, {"type":"clue","across": 6}, {"type":"white"}, {"type":"white"}],
+          [ {"type":"black"}, {"type":"black"}, {"type":"clue","across":12}, {"type":"white"}, {"type":"white"}, {"type":"black"}, {"type":"clue","across": 4}, {"type":"white"}, {"type":"white"}],
+          [ {"type":"black"}, {"type":"black"}, {"type":"black"}, {"type":"black"}, {"type":"black"}, {"type":"black"}, {"type":"black"}, {"type":"black"}, {"type":"black"} ]
+        ]
+      }
+  ]
+
+}
