@@ -1,0 +1,634 @@
+[
+  {
+    "title": "Ordinary",
+    "artist": "Alex Warren",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/f4246416b5e3e71a35adf1e2cbe98bfb/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/7/0/597a83bc1aad2dc52435b507c1e81ca4.mp3?hdnea=exp=1750461738~acl=/api/1/1/5/9/7/0/597a83bc1aad2dc52435b507c1e81ca4.mp3*~data=user_id=0,application_id=42~hmac=5758981f2d7ffb3708499562fa4e34d516ae43efbc503d14128a28e10d6f3c11",
+    "spotifyURL": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe",
+    "category": "Pop"
+  },
+  {
+    "title": "Beautiful Things",
+    "artist": "Benson Boone",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/ab1ae3011977aa3c7f0a5f025a99cac9/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/7/0/1473eec25d81e5a9eaa41c63bf9242b1.mp3?hdnea=exp=1750461738~acl=/api/1/1/1/4/7/0/1473eec25d81e5a9eaa41c63bf9242b1.mp3*~data=user_id=0,application_id=42~hmac=c897659b4e5b0321a28578a4b8e70978d10ec2c9a99b630d399dbfef4e24d0fc",
+    "spotifyURL": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii",
+    "category": "Pop"
+  },
+  {
+    "title": "Pink Pony Club",
+    "artist": "Chappell Roan",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/71486ce8b24f612c4887efa0f79a9f66/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/7/0/cc7db99ce3da9b69b637da91d28f6039.mp3?hdnea=exp=1750461738~acl=/api/1/1/c/c/7/0/cc7db99ce3da9b69b637da91d28f6039.mp3*~data=user_id=0,application_id=42~hmac=27c706a30749cb586eda9be73bdf2535edbe7a22163dacc5a9ecffe55e6e2cf4",
+    "spotifyURL": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc",
+    "category": "Pop"
+  },
+  {
+    "title": "Die With A Smile",
+    "artist": "Lady Gaga",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/4bd5903f4ce8f2601916bfadb44efe8a/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/9/0/459c235b39ef8badd04c5ef181f58c24.mp3?hdnea=exp=1750461738~acl=/api/1/1/4/5/9/0/459c235b39ef8badd04c5ef181f58c24.mp3*~data=user_id=0,application_id=42~hmac=c13c39bfbff0e18acb48b023e60d7b7accd5dc5818f941098a4e160366809f07",
+    "spotifyURL": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe",
+    "category": "Pop"
+  },
+  {
+    "title": "Espresso",
+    "artist": "Sabrina Carpenter",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/e3221287a77eb262944e6528766eeba4/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/a/0/17a21c40ce4af3ac9514aac756403188.mp3?hdnea=exp=1750461738~acl=/api/1/1/1/7/a/0/17a21c40ce4af3ac9514aac756403188.mp3*~data=user_id=0,application_id=42~hmac=5e1925559efa3fb465b1d2d5eee98cedf4abeaddd5b4a6b7b3ba26f55278a690",
+    "spotifyURL": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz",
+    "category": "Pop"
+  },
+  {
+    "title": "Lose Control",
+    "artist": "Teddy Swims",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/fb2f549900acdfaefeee8c718e42037b/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/e/0/aae043c0e9e02ae21e885e02d92e08e2.mp3?hdnea=exp=1750461738~acl=/api/1/1/a/a/e/0/aae043c0e9e02ae21e885e02d92e08e2.mp3*~data=user_id=0,application_id=42~hmac=fa147ac5f61773abfc068a04288eb7fe7ae98f2aab285731f15d8ed694b549a9",
+    "spotifyURL": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj",
+    "category": "Pop"
+  },
+  {
+    "title": "Messy",
+    "artist": "Lola Young",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/41b98b2c9cf64689c4c77569610e3cf1/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/5/0/3b5a5013027d0eb81daec7412a9a0aec.mp3?hdnea=exp=1750461738~acl=/api/1/1/3/b/5/0/3b5a5013027d0eb81daec7412a9a0aec.mp3*~data=user_id=0,application_id=42~hmac=f097b7f2c9be38ba999b953a37532032f1bb2d383e7c43ffd921d2816391c938",
+    "spotifyURL": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g",
+    "category": "Pop"
+  },
+  {
+    "title": "APT.",
+    "artist": "ROS\u00c9",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/258e6042338ce64bb4157c0c94b232ac/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/0/0/0e093da717796aa9d2dbe0d189cfba66.mp3?hdnea=exp=1750461738~acl=/api/1/1/0/e/0/0/0e093da717796aa9d2dbe0d189cfba66.mp3*~data=user_id=0,application_id=42~hmac=61cf3c577e0d2732b6ab58c4e55bd64f547d9d67a86e2825ed826de6abfe507c",
+    "spotifyURL": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY",
+    "category": "Pop"
+  },
+  {
+    "title": "Manchild",
+    "artist": "Sabrina Carpenter",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/272cc67ce5d91682cc7281f171241f6c/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/0/0/e3063c37cd19926e08b09828b5eae595.mp3?hdnea=exp=1750461738~acl=/api/1/1/e/3/0/0/e3063c37cd19926e08b09828b5eae595.mp3*~data=user_id=0,application_id=42~hmac=f55f624d4ec4ae11bb8c3600f1cc671a00216cd23314977fbd3970975ee98acb",
+    "spotifyURL": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1",
+    "category": "Pop"
+  },
+  {
+    "title": "End of the World",
+    "artist": "Miley Cyrus",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/c4760f83c2eb365d82d73ece54ce7c23/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/0/0/07023d6b2237917fc4feef9ee09e9188.mp3?hdnea=exp=1750461738~acl=/api/1/1/0/7/0/0/07023d6b2237917fc4feef9ee09e9188.mp3*~data=user_id=0,application_id=42~hmac=79ff2dcae88bc164d1d44b69187e759fb763c26195f2614281c17cb9132e1278",
+    "spotifyURL": "https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c",
+    "category": "Pop"
+  },
+  {
+    "title": "Anxiety",
+    "artist": "Doechii",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/a86cc99df85173d25b3b8a5e52b10a1f/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/6/0/a863e118760c4d2d286fd986daeb6a28.mp3?hdnea=exp=1750461739~acl=/api/1/1/a/8/6/0/a863e118760c4d2d286fd986daeb6a28.mp3*~data=user_id=0,application_id=42~hmac=36b3c723e4a34e61d0c55e2d44f728d485008aa4f86b6ef0a4b16fa4d7b4a3e2",
+    "spotifyURL": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9",
+    "category": "Hip-Hop"
+  },
+  {
+    "title": "luther",
+    "artist": "Kendrick Lamar",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/82db4c0f8e9412cafb1cd765b076d58c/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/b/0/26b2e6342d760a15e4c87ee5adee1d17.mp3?hdnea=exp=1750461739~acl=/api/1/1/2/6/b/0/26b2e6342d760a15e4c87ee5adee1d17.mp3*~data=user_id=0,application_id=42~hmac=c1e664034935fac3c5fd0615abd7caf61618c5e3f1a4609ca23ed8d7d43eff92",
+    "spotifyURL": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd",
+    "category": "Hip-Hop"
+  },
+  {
+    "title": "Lose Yourself",
+    "artist": "Eminem",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/e2b36a9fda865cb2e9ed1476b6291a7d/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/a/0/27a14827ff1e82c5e40e8b6a934a8637.mp3?hdnea=exp=1750461739~acl=/api/1/1/2/7/a/0/27a14827ff1e82c5e40e8b6a934a8637.mp3*~data=user_id=0,application_id=42~hmac=16b4e46288acd6bb71ddc017105188e5a7f037b64d04c7798b2f9844e8aecafe",
+    "spotifyURL": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1",
+    "category": "Hip-Hop"
+  },
+  {
+    "title": "Lovin On Me",
+    "artist": "Jack Harlow",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/6d4d4cbd4990a644a184b5f64ee01ebf/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/3/0/4239b2d09c26e6efbb05bf101d8fe8ea.mp3?hdnea=exp=1750461739~acl=/api/1/1/4/2/3/0/4239b2d09c26e6efbb05bf101d8fe8ea.mp3*~data=user_id=0,application_id=42~hmac=ad9c8c0b7066e78a9028b89c32aa423fe601efaa6a772020232d52490a00f852",
+    "spotifyURL": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU",
+    "category": "Hip-Hop"
+  },
+  {
+    "title": "Feel Good Inc.",
+    "artist": "Gorillaz",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/3dc29a565149240729afc08e1f251b46/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/e/0/64e58540dc2ee51544ebfc5f2a33a652.mp3?hdnea=exp=1750461739~acl=/api/1/1/6/4/e/0/64e58540dc2ee51544ebfc5f2a33a652.mp3*~data=user_id=0,application_id=42~hmac=922845530513debf183ab17d04e776a66a360c766aaee5bc89a8929db6afde4f",
+    "spotifyURL": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT",
+    "category": "Hip-Hop"
+  },
+  {
+    "title": "Not Like Us",
+    "artist": "Kendrick Lamar",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/84345d29bc2ed8e713112425f8417e97/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/0/0/490577bad3aa52043078917ac1cedf60.mp3?hdnea=exp=1750461739~acl=/api/1/1/4/9/0/0/490577bad3aa52043078917ac1cedf60.mp3*~data=user_id=0,application_id=42~hmac=e398d0f5a02098da687e88dac88762599461c6f1f28a9add03cf7a8fbfc6641e",
+    "spotifyURL": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3",
+    "category": "Hip-Hop"
+  },
+  {
+    "title": "Without Me",
+    "artist": "Eminem",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/ec3c8ed67427064c70f67e5815b74cef/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/b/0/aeb58f2f63ee57fb9c47cbe8fb5ccdaa.mp3?hdnea=exp=1750461739~acl=/api/1/1/a/e/b/0/aeb58f2f63ee57fb9c47cbe8fb5ccdaa.mp3*~data=user_id=0,application_id=42~hmac=2cd221d1acb71df124ab8137d68d4c96580699af9ef832a9484a7773fd3948c2",
+    "spotifyURL": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk",
+    "category": "Hip-Hop"
+  },
+  {
+    "title": "Houdini",
+    "artist": "Eminem",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/bcb2a6548c1dadd89d0e94e6fce6a754/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/d/0/f2dd01104dd5eddd844c242c04ff337d.mp3?hdnea=exp=1750461739~acl=/api/1/1/f/2/d/0/f2dd01104dd5eddd844c242c04ff337d.mp3*~data=user_id=0,application_id=42~hmac=ba519bb6f088910a6edb8d034832449a0169c484bfbd3f8e64ded7b75972a999",
+    "spotifyURL": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z",
+    "category": "Hip-Hop"
+  },
+  {
+    "title": "Paint The Town Red",
+    "artist": "Doja Cat",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/ad4bfc2a374741218dd6498d04e323cc/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/9/0/4b956579219fee125efbcc04ec827c04.mp3?hdnea=exp=1750461739~acl=/api/1/1/4/b/9/0/4b956579219fee125efbcc04ec827c04.mp3*~data=user_id=0,application_id=42~hmac=1bc3266961313c8e8c69f92b7a5f39d25e6810d097297246d43431fe969134ec",
+    "spotifyURL": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7",
+    "category": "Hip-Hop"
+  },
+  {
+    "title": "Dark Thoughts",
+    "artist": "Lil Tecca",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/60a2a934343f79bc072539eac02526f0/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/a/0/33a1fcaf2218102dd3bbdbf5588837b8.mp3?hdnea=exp=1750461739~acl=/api/1/1/3/3/a/0/33a1fcaf2218102dd3bbdbf5588837b8.mp3*~data=user_id=0,application_id=42~hmac=2d9dc85bf2b6573dd2d3f84d665b577db9e2d9a12d3e417d885771e993bfdd85",
+    "spotifyURL": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of",
+    "category": "Hip-Hop"
+  },
+  {
+    "title": "Anxiety",
+    "artist": "Doechii",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/a86cc99df85173d25b3b8a5e52b10a1f/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/6/0/a863e118760c4d2d286fd986daeb6a28.mp3?hdnea=exp=1750461740~acl=/api/1/1/a/8/6/0/a863e118760c4d2d286fd986daeb6a28.mp3*~data=user_id=0,application_id=42~hmac=73c7a6db42ea0978621dc3e71fe23a190e52c00b82654d4ebf661943a0519218",
+    "spotifyURL": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9",
+    "category": "UK-Rap"
+  },
+  {
+    "title": "luther",
+    "artist": "Kendrick Lamar",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/82db4c0f8e9412cafb1cd765b076d58c/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/b/0/26b2e6342d760a15e4c87ee5adee1d17.mp3?hdnea=exp=1750461740~acl=/api/1/1/2/6/b/0/26b2e6342d760a15e4c87ee5adee1d17.mp3*~data=user_id=0,application_id=42~hmac=130c1c5652ef66aa186293f7fe7cb308dd8f6ae457c90b65f55c502c23ea9408",
+    "spotifyURL": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd",
+    "category": "UK-Rap"
+  },
+  {
+    "title": "Lose Yourself",
+    "artist": "Eminem",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/e2b36a9fda865cb2e9ed1476b6291a7d/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/a/0/27a14827ff1e82c5e40e8b6a934a8637.mp3?hdnea=exp=1750461740~acl=/api/1/1/2/7/a/0/27a14827ff1e82c5e40e8b6a934a8637.mp3*~data=user_id=0,application_id=42~hmac=4beb1495ac7b30daad4e28145b01d92af2cf9c500629bdbeb04e1b90c143a5f5",
+    "spotifyURL": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1",
+    "category": "UK-Rap"
+  },
+  {
+    "title": "Lovin On Me",
+    "artist": "Jack Harlow",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/6d4d4cbd4990a644a184b5f64ee01ebf/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/3/0/4239b2d09c26e6efbb05bf101d8fe8ea.mp3?hdnea=exp=1750461740~acl=/api/1/1/4/2/3/0/4239b2d09c26e6efbb05bf101d8fe8ea.mp3*~data=user_id=0,application_id=42~hmac=1443f33cd318eecd0167af1bb8bc35549d29bf195ba791d00509626b87ac5d9c",
+    "spotifyURL": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU",
+    "category": "UK-Rap"
+  },
+  {
+    "title": "Feel Good Inc.",
+    "artist": "Gorillaz",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/3dc29a565149240729afc08e1f251b46/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/e/0/64e58540dc2ee51544ebfc5f2a33a652.mp3?hdnea=exp=1750461740~acl=/api/1/1/6/4/e/0/64e58540dc2ee51544ebfc5f2a33a652.mp3*~data=user_id=0,application_id=42~hmac=e6612da8ecaccaa57ed3b6bbcef2630ca2322754be1ea654ab074d6a981ba446",
+    "spotifyURL": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT",
+    "category": "UK-Rap"
+  },
+  {
+    "title": "Not Like Us",
+    "artist": "Kendrick Lamar",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/84345d29bc2ed8e713112425f8417e97/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/0/0/490577bad3aa52043078917ac1cedf60.mp3?hdnea=exp=1750461740~acl=/api/1/1/4/9/0/0/490577bad3aa52043078917ac1cedf60.mp3*~data=user_id=0,application_id=42~hmac=cdbbf9d6c8677021d57ee30e7d72965e79fe07ce2675241a3d0a96e1319c3670",
+    "spotifyURL": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3",
+    "category": "UK-Rap"
+  },
+  {
+    "title": "Without Me",
+    "artist": "Eminem",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/ec3c8ed67427064c70f67e5815b74cef/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/b/0/aeb58f2f63ee57fb9c47cbe8fb5ccdaa.mp3?hdnea=exp=1750461740~acl=/api/1/1/a/e/b/0/aeb58f2f63ee57fb9c47cbe8fb5ccdaa.mp3*~data=user_id=0,application_id=42~hmac=238a532479b65e42bcb41e1a19061119f87f1feebe1f402a140c8faec8fd921e",
+    "spotifyURL": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk",
+    "category": "UK-Rap"
+  },
+  {
+    "title": "Houdini",
+    "artist": "Eminem",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/bcb2a6548c1dadd89d0e94e6fce6a754/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/d/0/f2dd01104dd5eddd844c242c04ff337d.mp3?hdnea=exp=1750461740~acl=/api/1/1/f/2/d/0/f2dd01104dd5eddd844c242c04ff337d.mp3*~data=user_id=0,application_id=42~hmac=027f3a1007d6794abad1f1f794d2ef6cc6fc5a793c12865c40f48309232951d2",
+    "spotifyURL": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z",
+    "category": "UK-Rap"
+  },
+  {
+    "title": "Paint The Town Red",
+    "artist": "Doja Cat",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/ad4bfc2a374741218dd6498d04e323cc/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/9/0/4b956579219fee125efbcc04ec827c04.mp3?hdnea=exp=1750461740~acl=/api/1/1/4/b/9/0/4b956579219fee125efbcc04ec827c04.mp3*~data=user_id=0,application_id=42~hmac=1dbe8fe35885e493d0b1df45b3840319cad40c9ad6d60164bc72f1c5ead7fa20",
+    "spotifyURL": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7",
+    "category": "UK-Rap"
+  },
+  {
+    "title": "Dark Thoughts",
+    "artist": "Lil Tecca",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/60a2a934343f79bc072539eac02526f0/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/a/0/33a1fcaf2218102dd3bbdbf5588837b8.mp3?hdnea=exp=1750461740~acl=/api/1/1/3/3/a/0/33a1fcaf2218102dd3bbdbf5588837b8.mp3*~data=user_id=0,application_id=42~hmac=fd39b210422e7b87235dcf48350ae565c260b07a72446c4f500ec04bdd5befd7",
+    "spotifyURL": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of",
+    "category": "UK-Rap"
+  },
+  {
+    "title": "Dior (feat. Chrystal)",
+    "artist": "MK",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/4ec3e63325629f0d68ef8a03ac2bc4b5/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/0/0/bd0f615fa8f50cb670d366ebbe49980f.mp3?hdnea=exp=1750461740~acl=/api/1/1/b/d/0/0/bd0f615fa8f50cb670d366ebbe49980f.mp3*~data=user_id=0,application_id=42~hmac=1219da28bc1cd7708c4ff42a8b658bc3c752fcbbe8a03faf556918c11d4834b2",
+    "spotifyURL": "https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX",
+    "category": "House"
+  },
+  {
+    "title": "Apple",
+    "artist": "Charli xcx",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/4bc0230b1e4d877b5fadb62a58dc6a3c/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/6/0/d863ea5f62d2c02d615fc0553835802a.mp3?hdnea=exp=1750461740~acl=/api/1/1/d/8/6/0/d863ea5f62d2c02d615fc0553835802a.mp3*~data=user_id=0,application_id=42~hmac=d6f66ed3cc647270df631a207f298bf34d0ec7ba35df705ad4ac344274ac358a",
+    "spotifyURL": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o",
+    "category": "House"
+  },
+  {
+    "title": "Victory Lap",
+    "artist": "Fred again..",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/a2d11ecbbf17e4a5f539124ac42ad714/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/b/0/31ba1dd3bd424ff036967b2d668d29b4.mp3?hdnea=exp=1750461740~acl=/api/1/1/3/1/b/0/31ba1dd3bd424ff036967b2d668d29b4.mp3*~data=user_id=0,application_id=42~hmac=5fb7cd4fd8b415bfb7ca3e87c56d3e76ff1c00ab74045bebcd41032fcf401749",
+    "spotifyURL": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP",
+    "category": "House"
+  },
+  {
+    "title": "Can't Decide",
+    "artist": "Max Dean",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/bef614b979cb903e6892b73ccb7800c3/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/7/0/227ef176ef65edf0da334800294b4f29.mp3?hdnea=exp=1750461740~acl=/api/1/1/2/2/7/0/227ef176ef65edf0da334800294b4f29.mp3*~data=user_id=0,application_id=42~hmac=83b55a3e0014dec79fd646f52ab67a2cb565e0908166d0574f8272d200c1051f",
+    "spotifyURL": "https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx",
+    "category": "House"
+  },
+  {
+    "title": "Somedays",
+    "artist": "Sonny Fodera",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/62a5e93a5011f6f4017e297f3359e128/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/0/0/5c056643a977b28e4474f9e4b160f86f.mp3?hdnea=exp=1750461740~acl=/api/1/1/5/c/0/0/5c056643a977b28e4474f9e4b160f86f.mp3*~data=user_id=0,application_id=42~hmac=62b328baf2f3c36da4a3c8e232fa91a0d49c75db3ddaa055a5f1a54bbe05ee50",
+    "spotifyURL": "https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB",
+    "category": "House"
+  },
+  {
+    "title": "Tell Me",
+    "artist": "Sonny Fodera",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/6441eff3381bb0135a69e38e8be0fe1a/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/0/0/810d3d88ad35ab09f3416c23d8bbf0cc.mp3?hdnea=exp=1750461740~acl=/api/1/1/8/1/0/0/810d3d88ad35ab09f3416c23d8bbf0cc.mp3*~data=user_id=0,application_id=42~hmac=63036d0913b9d7b20a30b61b5f0caebaad784fbc274030ebb50b894ed8b2b271",
+    "spotifyURL": "https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8",
+    "category": "House"
+  },
+  {
+    "title": "Neverender",
+    "artist": "Justice",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/488973700496ca712df8899028883682/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/1/0/4015bdfaa1c948a31a0696c5877705fa.mp3?hdnea=exp=1750461740~acl=/api/1/1/4/0/1/0/4015bdfaa1c948a31a0696c5877705fa.mp3*~data=user_id=0,application_id=42~hmac=5d01c422825665727ead233fe36ea92be5a58254af6c38015042a8855b461cda",
+    "spotifyURL": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn",
+    "category": "House"
+  },
+  {
+    "title": "Lean On (feat. M\u00d8 & DJ Snake)",
+    "artist": "Major Lazer",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/fde2708e9cdbcdb9b6286c4852db3e74/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/3/0/543e2ee2447d48ed00e96e510a4a9202.mp3?hdnea=exp=1750461740~acl=/api/1/1/5/4/3/0/543e2ee2447d48ed00e96e510a4a9202.mp3*~data=user_id=0,application_id=42~hmac=712d3d8b177d5f45d5612c02fa4bd7fe1bf4ea694aa9c93558672030c0127d28",
+    "spotifyURL": "https://open.spotify.com/track/2e7s0oEzUoJtDSPtYJuVvD",
+    "category": "House"
+  },
+  {
+    "title": "Timber",
+    "artist": "Pitbull",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/c70750fc7943ae13d3e6ccad60c3c0af/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/5/0/4d56dcec52f91ee284613a7df39ec3b0.mp3?hdnea=exp=1750461740~acl=/api/1/1/4/d/5/0/4d56dcec52f91ee284613a7df39ec3b0.mp3*~data=user_id=0,application_id=42~hmac=59e52a9b50224ef02386cdacf7f8e29bcd1f14fcccee1740ff4c8326967c3be9",
+    "spotifyURL": "https://open.spotify.com/track/3tgZ9vmhuAY9wEoNUJskzV",
+    "category": "House"
+  },
+  {
+    "title": "Something Just Like This",
+    "artist": "Coldplay",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/2ae6c01a51296a7ec6d89c96a4fac32c/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/b/0/23be037b51d21629c5c224bdec0b30c7.mp3?hdnea=exp=1750461740~acl=/api/1/1/2/3/b/0/23be037b51d21629c5c224bdec0b30c7.mp3*~data=user_id=0,application_id=42~hmac=7ffb0123c6cb2b33b1daa1c7a35b43cc38c79d69081ba794a5efd0a49129482b",
+    "spotifyURL": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW",
+    "category": "House"
+  },
+  {
+    "title": "A Bar Song (Tipsy)",
+    "artist": "Shaboozey",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/d4f0d9289d6f68204dee8a22fe777c70/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/c/0/e5c9f000eecf7738ff4e3a4e4e9f42b8.mp3?hdnea=exp=1750461741~acl=/api/1/1/e/5/c/0/e5c9f000eecf7738ff4e3a4e4e9f42b8.mp3*~data=user_id=0,application_id=42~hmac=9aa183ac2718524f65d5be7571a3d39af23d7fe056495b70d5e22715a9e58fca",
+    "spotifyURL": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf",
+    "category": "Country"
+  },
+  {
+    "title": "What I Want",
+    "artist": "Morgan Wallen",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/c0a95c46e56018109a6786f9e795acb6/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/d/0/dad4f93d72ed651edeacc6954b310054.mp3?hdnea=exp=1750461741~acl=/api/1/1/d/a/d/0/dad4f93d72ed651edeacc6954b310054.mp3*~data=user_id=0,application_id=42~hmac=bb7871155a6364a6da6005c6f98dc41b488a117d7e08f60468d2ec036b573679",
+    "spotifyURL": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP",
+    "category": "Country"
+  },
+  {
+    "title": "TEXAS HOLD 'EM",
+    "artist": "Beyonc\u00e9",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/e50407841497a26457036110eab49f1b/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/8/0/0885b31006caf52814a00ddfa612e998.mp3?hdnea=exp=1750461741~acl=/api/1/1/0/8/8/0/0885b31006caf52814a00ddfa612e998.mp3*~data=user_id=0,application_id=42~hmac=de5bb1805967e9200cb126602eb16c6a5e093e123c188cf76c10b774c90a134e",
+    "spotifyURL": "https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5",
+    "category": "Country"
+  },
+  {
+    "title": "I Had Some Help",
+    "artist": "Post Malone",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/b9c8cc4fd597a9bc516445e6573501cf/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/a/0/45ad068f03b8fcb7d858ea657f6cdaf8.mp3?hdnea=exp=1750461741~acl=/api/1/1/4/5/a/0/45ad068f03b8fcb7d858ea657f6cdaf8.mp3*~data=user_id=0,application_id=42~hmac=7393671b4eca9bff328470cbb054cc54c979d3908d16f49eb27df14d5beac7a5",
+    "spotifyURL": "https://open.spotify.com/track/5IZXB5IKAD2qlvTPJYDCFB",
+    "category": "Country"
+  },
+  {
+    "title": "Pink Skies",
+    "artist": "Zach Bryan",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/7060ea038f51fdeff23bc40eb5027663/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/7/0/a5792d5052792a546e8eac2a4f8d6732.mp3?hdnea=exp=1750461741~acl=/api/1/1/a/5/7/0/a5792d5052792a546e8eac2a4f8d6732.mp3*~data=user_id=0,application_id=42~hmac=2371da9bbb62fb32c760adfd9eb293ffd7ccb741995113dc35e1d0c33ec6fa58",
+    "spotifyURL": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7",
+    "category": "Country"
+  },
+  {
+    "title": "Miles On It",
+    "artist": "Marshmello",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/9d3f2ccb89a565d716e40ab894be49e8/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/e/0/4ee60e7b31c63eb34684f68e7e10b90b.mp3?hdnea=exp=1750461741~acl=/api/1/1/4/e/e/0/4ee60e7b31c63eb34684f68e7e10b90b.mp3*~data=user_id=0,application_id=42~hmac=8f79774e9efb3c92d6a6659e029459eee26e6266ccf4355b8b371af2fbaa31e0",
+    "spotifyURL": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf",
+    "category": "Country"
+  },
+  {
+    "title": "Am I Okay?",
+    "artist": "Megan Moroney",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/f505e162507b57bbd720084219f72370/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/8/0/cd8ce9d3b14f2be7471d02c3978ae93c.mp3?hdnea=exp=1750461741~acl=/api/1/1/c/d/8/0/cd8ce9d3b14f2be7471d02c3978ae93c.mp3*~data=user_id=0,application_id=42~hmac=da30c1151e082b4a4827a1a4f62cbb09e4b48add090f48801d81af767e7410d3",
+    "spotifyURL": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L",
+    "category": "Country"
+  },
+  {
+    "title": "Austin (Boots Stop Workin')",
+    "artist": "Dasha",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/a1290c54f6ee65776a244f316c45638e/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/9/0/d09a0963a6273b9ed662cc47db4b6df0.mp3?hdnea=exp=1750461741~acl=/api/1/1/d/0/9/0/d09a0963a6273b9ed662cc47db4b6df0.mp3*~data=user_id=0,application_id=42~hmac=e4287c78dbd79bfab96755a7a1ef3086b73cd9155d05ca1928a6e67c926f4ace",
+    "spotifyURL": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd",
+    "category": "Country"
+  },
+  {
+    "title": "I Ain't Comin' Back",
+    "artist": "Morgan Wallen",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/22c6d080209e45ef58cca3596bf95e71/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/6/0/84659acbc81c5876d52516c631a95e37.mp3?hdnea=exp=1750461741~acl=/api/1/1/8/4/6/0/84659acbc81c5876d52516c631a95e37.mp3*~data=user_id=0,application_id=42~hmac=f79e505b6d96174b208e30f6985f152e36373a59c04f2f052dad6465168ae71f",
+    "spotifyURL": "https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9",
+    "category": "Country"
+  },
+  {
+    "title": "I Remember Everything (feat. Kacey Musgraves)",
+    "artist": "Zach Bryan",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/6c6a9089cda16da7f524b9ef1f965270/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/1/0/1d16d3a4d94be2b552073bce6a8cb183.mp3?hdnea=exp=1750461741~acl=/api/1/1/1/d/1/0/1d16d3a4d94be2b552073bce6a8cb183.mp3*~data=user_id=0,application_id=42~hmac=ede73741d362caa2f89c00b2274e5f4f294ac5ecc3eadeca8ff96c473d13912a",
+    "spotifyURL": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG",
+    "category": "Country"
+  },
+  {
+    "title": "Just the Two of Us",
+    "artist": "Grover Washington, Jr.",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/16e68170112a7a2a51759623e4a8b516/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/7/0/157d1d1b4454170f6e42657e2e5d6217.mp3?hdnea=exp=1750461742~acl=/api/1/1/1/5/7/0/157d1d1b4454170f6e42657e2e5d6217.mp3*~data=user_id=0,application_id=42~hmac=1758f320cb1ae0f023effeaf84e77643804ce97c1c6b7db8ba4a5133286b72bc",
+    "spotifyURL": "https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT",
+    "category": "Jazz"
+  },
+  {
+    "title": "Tongue Tied",
+    "artist": "Jamie WilliamS.",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/eca243c304631e199fda34823b4f28b3/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/3/0/0d35fc918a5866cd92887552f5c18e89.mp3?hdnea=exp=1750461742~acl=/api/1/1/0/d/3/0/0d35fc918a5866cd92887552f5c18e89.mp3*~data=user_id=0,application_id=42~hmac=0c383a781637cec837f79de0312e1460cd649da70270b6a84bc98c6ba2a6783a",
+    "spotifyURL": "https://open.spotify.com/track/2xle0hupKW2QCyN1C9lzfP",
+    "category": "Jazz"
+  },
+  {
+    "title": "Dance with Me",
+    "artist": "Adam Hawley",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/3b7d9f9fabdfbda4e8a06254905d85ca/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/6/0/8f6c0a6e957eb501b9bb0c1920b4bb4d.mp3?hdnea=exp=1750461742~acl=/api/1/1/8/f/6/0/8f6c0a6e957eb501b9bb0c1920b4bb4d.mp3*~data=user_id=0,application_id=42~hmac=80cb946c5fcb96a84a42ffc389efab586799626580e051fb796dd18cb9e97d46",
+    "spotifyURL": "https://open.spotify.com/track/29mBQon8pgdVoe3eelq7a4",
+    "category": "Jazz"
+  },
+  {
+    "title": "Amor",
+    "artist": "Terence Young",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/c11a91cc2e936ba87df4227a2ec715fc/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/7/0/8f7376a674d368507213ff74ae43d9c5.mp3?hdnea=exp=1750461742~acl=/api/1/1/8/f/7/0/8f7376a674d368507213ff74ae43d9c5.mp3*~data=user_id=0,application_id=42~hmac=fb5e0081bf86a969baef42320180b1518aa2bad923f6fb3a2c0598c7185424d4",
+    "spotifyURL": "https://open.spotify.com/track/2Z1ZwI1uYOPnNJSr0ZzoZR",
+    "category": "Jazz"
+  },
+  {
+    "title": "Perseverance",
+    "artist": "Demetrius Nabors",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/4775f016c8319f065c0699b5e7699350/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/d/0/78dc241147992a443127d5fb2ae033f4.mp3?hdnea=exp=1750461742~acl=/api/1/1/7/8/d/0/78dc241147992a443127d5fb2ae033f4.mp3*~data=user_id=0,application_id=42~hmac=cf572c306c8496b75bd0e3040e7880ecaa8a566f9ebb6681e0cb7c1192cc1999",
+    "spotifyURL": "https://open.spotify.com/track/6NQfmVr2Kc0ElyjGUOYZ6h",
+    "category": "Jazz"
+  },
+  {
+    "title": "From The Start",
+    "artist": "Laufey",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/497515366a19189203786c2315eb6609/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/5/0/6e5ce0e8e1a654857daed25913ae1fcf.mp3?hdnea=exp=1750461742~acl=/api/1/1/6/e/5/0/6e5ce0e8e1a654857daed25913ae1fcf.mp3*~data=user_id=0,application_id=42~hmac=8a7d55cb41b35bb4bd63a2ef336b2493ebdf0433555dfec9883d0a93278489fc",
+    "spotifyURL": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN",
+    "category": "Jazz"
+  },
+  {
+    "title": "My Way",
+    "artist": "Frank Sinatra",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/ae5e2905c3e2236b19480b96c7b93bc8/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/d/0/18d336e276b5cd321494bba213dbc8d1.mp3?hdnea=exp=1750461742~acl=/api/1/1/1/8/d/0/18d336e276b5cd321494bba213dbc8d1.mp3*~data=user_id=0,application_id=42~hmac=07aacd58f54dad074a60a4240ffaba54e6fc9b10051e9b565d286d1d284e2b6b",
+    "spotifyURL": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe",
+    "category": "Jazz"
+  },
+  {
+    "title": "What You Won't Do for Love",
+    "artist": "Bobby Caldwell",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/0218fd347b94d34935dd025cdd7a7e09/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/4/0/ed449811d6c03bd61ab8d4e92991d4fa.mp3?hdnea=exp=1750461742~acl=/api/1/1/e/d/4/0/ed449811d6c03bd61ab8d4e92991d4fa.mp3*~data=user_id=0,application_id=42~hmac=56d58d97edb591436495823063aefc9bc037a853599763dc03cd37359a2d7f5c",
+    "spotifyURL": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx",
+    "category": "Jazz"
+  },
+  {
+    "title": "What A Wonderful World",
+    "artist": "Louis Armstrong",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/f6b09cd325e2494e7b6c748d03e08736/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/d/0/09d081e1d34d9a248aff8bd2967448cf.mp3?hdnea=exp=1750461742~acl=/api/1/1/0/9/d/0/09d081e1d34d9a248aff8bd2967448cf.mp3*~data=user_id=0,application_id=42~hmac=f77e6de54bca88d0fc280ff11926215f6192d9705fa222345edcb7520a20f0f4",
+    "spotifyURL": "https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9",
+    "category": "Jazz"
+  },
+  {
+    "title": "End of Beginning",
+    "artist": "Djo",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/f13749b2a226afa7f5f866ce2f4d3015/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/3/0/8d3e2d737a96e28902c7edca8b18e1f7.mp3?hdnea=exp=1750461742~acl=/api/1/1/8/d/3/0/8d3e2d737a96e28902c7edca8b18e1f7.mp3*~data=user_id=0,application_id=42~hmac=3452eacf7c968eb7509e9c6bb1d73e9c6a7c3b84c2f1a085d688f3d3c0f75c0b",
+    "spotifyURL": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD",
+    "category": "Rock"
+  },
+  {
+    "title": "Wonderwall",
+    "artist": "Oasis",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/ddb062c517401ee74d8a4df6f895d75e/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/9/0/e992ed1b27bd8da3c4f6128047285674.mp3?hdnea=exp=1750461742~acl=/api/1/1/e/9/9/0/e992ed1b27bd8da3c4f6128047285674.mp3*~data=user_id=0,application_id=42~hmac=5296e8198753f09fa65d68e4426c8fc6fc7b0db56702d0a64351489dd5065af2",
+    "spotifyURL": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY",
+    "category": "Rock"
+  },
+  {
+    "title": "Smells Like Teen Spirit",
+    "artist": "Nirvana",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/f0282817b697279e56df13909962a54a/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/b/0/34bad352aa1aa0f8eecbbc9c27a40eaf.mp3?hdnea=exp=1750461742~acl=/api/1/1/3/4/b/0/34bad352aa1aa0f8eecbbc9c27a40eaf.mp3*~data=user_id=0,application_id=42~hmac=c6d98289ef71b5b14807cdbe4ae4091dac76b536a56d7956989622789891111b",
+    "spotifyURL": "https://open.spotify.com/track/4CeeEOM32jQcH3eN9Q2dGj",
+    "category": "Rock"
+  },
+  {
+    "title": "Don't Look Back In Anger",
+    "artist": "Oasis",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/c4368c79bbe5c88b38b5c2a2527c51e5/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/0/0/86078719abe82afc13aaf2c9f00bc85a.mp3?hdnea=exp=1750461742~acl=/api/1/1/8/6/0/0/86078719abe82afc13aaf2c9f00bc85a.mp3*~data=user_id=0,application_id=42~hmac=433e4c60d6a0451134e5eb12e5874eb0d937f1a5d745b630997a5e5a097e99c8",
+    "spotifyURL": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl",
+    "category": "Rock"
+  },
+  {
+    "title": "The Chain (2004 Remaster)",
+    "artist": "Fleetwood Mac",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/9732751ce91d786dcf30069853697078/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/8/0/3580df8f8e660f3390842952c8f96437.mp3?hdnea=exp=1750461742~acl=/api/1/1/3/5/8/0/3580df8f8e660f3390842952c8f96437.mp3*~data=user_id=0,application_id=42~hmac=aa25eb9709bc2af3a08a16eb229d66e4a1caf15a110ded8a622a3b5b74f646f9",
+    "spotifyURL": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU",
+    "category": "Rock"
+  },
+  {
+    "title": "Zombie",
+    "artist": "The Cranberries",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/3de06bc63f4f84fd7ec6d119310ce476/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/b/0/06b1ebbd9ddad2e3c77fb34201b5460f.mp3?hdnea=exp=1750461742~acl=/api/1/1/0/6/b/0/06b1ebbd9ddad2e3c77fb34201b5460f.mp3*~data=user_id=0,application_id=42~hmac=bbf33ec2cec96a6ef8bb8d7a895f67631621ac43d5905efa8e73a3e4a013dd93",
+    "spotifyURL": "https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt",
+    "category": "Rock"
+  },
+  {
+    "title": "Dreams (2004 Remaster)",
+    "artist": "Fleetwood Mac",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/9732751ce91d786dcf30069853697078/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/3/0/9f3c661f9f58a75fe6e7aeb77b1b314c.mp3?hdnea=exp=1750461742~acl=/api/1/1/9/f/3/0/9f3c661f9f58a75fe6e7aeb77b1b314c.mp3*~data=user_id=0,application_id=42~hmac=d2fe2d8539e07031b4769c9541d097a33b6d5c7a0fd226a13296ac559f5e803d",
+    "spotifyURL": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz",
+    "category": "Rock"
+  },
+  {
+    "title": "Thunderstruck",
+    "artist": "AC/DC",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/e715766b21a8db6076f6a9a89e25cf82/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/1/0/1117489d36f3a1a80c8815c1137747a9.mp3?hdnea=exp=1750461742~acl=/api/1/1/1/1/1/0/1117489d36f3a1a80c8815c1137747a9.mp3*~data=user_id=0,application_id=42~hmac=0b11382d9b9a8a7021c9111a1f565782c42c3327f209952dfb7046e42a5f6beb",
+    "spotifyURL": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+    "category": "Rock"
+  },
+  {
+    "title": "Yellow",
+    "artist": "Coldplay",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/970dce98eeea6729244c0ae71707a83d/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/5/0/e4565bf1d1d79ab75414dd882a7b58d3.mp3?hdnea=exp=1750461742~acl=/api/1/1/e/4/5/0/e4565bf1d1d79ab75414dd882a7b58d3.mp3*~data=user_id=0,application_id=42~hmac=bdef7c467db6f6f493bd5e4ae00fa820c435c255cb4d2a3d9f323161440bcefa",
+    "spotifyURL": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg",
+    "category": "Rock"
+  },
+  {
+    "title": "Viva La Vida",
+    "artist": "Coldplay",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/eede3cd0dc3a5a87c7a5b1085b022e2d/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/6/0/5163c82c78e81d38115f68a89ac33ae8.mp3?hdnea=exp=1750461742~acl=/api/1/1/5/1/6/0/5163c82c78e81d38115f68a89ac33ae8.mp3*~data=user_id=0,application_id=42~hmac=c6f7477f27c90a18bc84e9ba020db0ce9d39bfa19f7a3ca94770b004db45aad2",
+    "spotifyURL": "https://open.spotify.com/track/4zOfy9kqJlG0ZXvcaSh4gv",
+    "category": "Rock"
+  },
+  {
+    "title": "Dior (feat. Chrystal)",
+    "artist": "MK",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/4ec3e63325629f0d68ef8a03ac2bc4b5/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/0/0/bd0f615fa8f50cb670d366ebbe49980f.mp3?hdnea=exp=1750461743~acl=/api/1/1/b/d/0/0/bd0f615fa8f50cb670d366ebbe49980f.mp3*~data=user_id=0,application_id=42~hmac=8716889b0bd0411aea3592b743399c14a67359564956aa379c700be308949257",
+    "spotifyURL": "https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX",
+    "category": "Electronic"
+  },
+  {
+    "title": "Apple",
+    "artist": "Charli xcx",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/4bc0230b1e4d877b5fadb62a58dc6a3c/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/6/0/d863ea5f62d2c02d615fc0553835802a.mp3?hdnea=exp=1750461743~acl=/api/1/1/d/8/6/0/d863ea5f62d2c02d615fc0553835802a.mp3*~data=user_id=0,application_id=42~hmac=fe0c7693ae5236950cd9ead6097ce98913466b911c1deab688cddf4b828e2fe7",
+    "spotifyURL": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o",
+    "category": "Electronic"
+  },
+  {
+    "title": "Victory Lap",
+    "artist": "Fred again..",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/a2d11ecbbf17e4a5f539124ac42ad714/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/b/0/31ba1dd3bd424ff036967b2d668d29b4.mp3?hdnea=exp=1750461743~acl=/api/1/1/3/1/b/0/31ba1dd3bd424ff036967b2d668d29b4.mp3*~data=user_id=0,application_id=42~hmac=6e3a73b1994e4d6e60fced435fc9fbb58a245cf3149f8acd9ed554fb6e3b32f8",
+    "spotifyURL": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP",
+    "category": "Electronic"
+  },
+  {
+    "title": "Can't Decide",
+    "artist": "Max Dean",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/bef614b979cb903e6892b73ccb7800c3/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/7/0/227ef176ef65edf0da334800294b4f29.mp3?hdnea=exp=1750461743~acl=/api/1/1/2/2/7/0/227ef176ef65edf0da334800294b4f29.mp3*~data=user_id=0,application_id=42~hmac=079206ca7b09f8bb868f2675f4ecc17b45065e12a208e8a357f87864223db445",
+    "spotifyURL": "https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx",
+    "category": "Electronic"
+  },
+  {
+    "title": "Somedays",
+    "artist": "Sonny Fodera",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/62a5e93a5011f6f4017e297f3359e128/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/0/0/5c056643a977b28e4474f9e4b160f86f.mp3?hdnea=exp=1750461743~acl=/api/1/1/5/c/0/0/5c056643a977b28e4474f9e4b160f86f.mp3*~data=user_id=0,application_id=42~hmac=1e9b9231417ba4443b42299392dd69aec8b2032b46d426fdfeb21dcd1f6f2fd9",
+    "spotifyURL": "https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB",
+    "category": "Electronic"
+  },
+  {
+    "title": "Tell Me",
+    "artist": "Sonny Fodera",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/6441eff3381bb0135a69e38e8be0fe1a/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/0/0/810d3d88ad35ab09f3416c23d8bbf0cc.mp3?hdnea=exp=1750461743~acl=/api/1/1/8/1/0/0/810d3d88ad35ab09f3416c23d8bbf0cc.mp3*~data=user_id=0,application_id=42~hmac=a36d74ec85a64599e6145b87243942a5430d723d8e12713969b54ecaa139b181",
+    "spotifyURL": "https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8",
+    "category": "Electronic"
+  },
+  {
+    "title": "Neverender",
+    "artist": "Justice",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/488973700496ca712df8899028883682/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/1/0/4015bdfaa1c948a31a0696c5877705fa.mp3?hdnea=exp=1750461743~acl=/api/1/1/4/0/1/0/4015bdfaa1c948a31a0696c5877705fa.mp3*~data=user_id=0,application_id=42~hmac=78255e41e3ccc572b2ce5c1b5b8105fe084d90f14bab95da35f10dc1f2935c56",
+    "spotifyURL": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn",
+    "category": "Electronic"
+  },
+  {
+    "title": "Lean On (feat. M\u00d8 & DJ Snake)",
+    "artist": "Major Lazer",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/fde2708e9cdbcdb9b6286c4852db3e74/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/3/0/543e2ee2447d48ed00e96e510a4a9202.mp3?hdnea=exp=1750461743~acl=/api/1/1/5/4/3/0/543e2ee2447d48ed00e96e510a4a9202.mp3*~data=user_id=0,application_id=42~hmac=025edd8510e3d8a68d651bac66a40c2940c989c44340ee8ae13db29086c94785",
+    "spotifyURL": "https://open.spotify.com/track/2e7s0oEzUoJtDSPtYJuVvD",
+    "category": "Electronic"
+  },
+  {
+    "title": "Timber",
+    "artist": "Pitbull",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/c70750fc7943ae13d3e6ccad60c3c0af/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/5/0/4d56dcec52f91ee284613a7df39ec3b0.mp3?hdnea=exp=1750461743~acl=/api/1/1/4/d/5/0/4d56dcec52f91ee284613a7df39ec3b0.mp3*~data=user_id=0,application_id=42~hmac=21298f2aaf13a8cd3c861cf9057b947e0eb5bbe63ec89ef30fe1979d28333505",
+    "spotifyURL": "https://open.spotify.com/track/3tgZ9vmhuAY9wEoNUJskzV",
+    "category": "Electronic"
+  },
+  {
+    "title": "Something Just Like This",
+    "artist": "Coldplay",
+    "albumArtURL": "https://cdn-images.dzcdn.net/images/cover/2ae6c01a51296a7ec6d89c96a4fac32c/250x250-000000-80-0-0.jpg",
+    "previewURL": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/b/0/23be037b51d21629c5c224bdec0b30c7.mp3?hdnea=exp=1750461743~acl=/api/1/1/2/3/b/0/23be037b51d21629c5c224bdec0b30c7.mp3*~data=user_id=0,application_id=42~hmac=014673ca689e9804dbc659f024eb5dbe603349194e44b3e758a50eae7e75ff25",
+    "spotifyURL": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW",
+    "category": "Electronic"
+  }
+]
