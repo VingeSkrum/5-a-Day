@@ -1,0 +1,475 @@
+[
+  {
+    "joke": "I have a joke about construction, but I’m still working on it.",
+    "category": "dad jokes"
+  },
+  {
+    "joke": "Why don't eggs tell jokes? They'd crack each other up.",
+    "category": "dad jokes"
+  },
+  {
+    "joke": "I'm reading a book about anti-gravity. It's impossible to put down.",
+    "category": "dad jokes"
+  },
+  {
+    "joke": "What do you call cheese that isn't yours? Nacho cheese.",
+    "category": "dad jokes"
+  },
+  {
+    "joke": "I would tell you a joke about paper, but it's tearable.",
+    "category": "dad jokes"
+  },
+  {
+    "joke": "Why did the scarecrow win an award? Because he was outstanding in his field.",
+    "category": "dad jokes"
+  },
+  {
+    "joke": "Why don’t skeletons fight each other? They don’t have the guts.",
+    "category": "dad jokes"
+  },
+  {
+    "joke": "Did you hear the rumor about butter? Well, I'm not going to spread it!",
+    "category": "dad jokes"
+  },
+  {
+    "joke": "What do you call a factory that makes okay products? A satisfactory.",
+    "category": "dad jokes"
+  },
+  {
+    "joke": "I only know 25 letters of the alphabet. I don't know y.",
+    "category": "dad jokes"
+  },
+  {
+    "joke": "What did the ocean say to the beach? Nothing, it just waved.",
+    "category": "dad jokes"
+  },
+  {
+    "joke": "I'm on a seafood diet. I see food and I eat it.",
+    "category": "dad jokes"
+  },
+  {
+    "joke": "How does a penguin build its house? Igloos it together.",
+    "category": "dad jokes"
+  },
+  {
+    "joke": "Why did the math book look sad? Because it had too many problems.",
+    "category": "dad jokes"
+  },
+  {
+    "joke": "I'm afraid for the calendar. Its days are numbered.",
+    "category": "dad jokes"
+  },
+  {
+    "joke": "Why did the bicycle fall over? Because it was two-tired.",
+    "category": "dad jokes"
+  },
+  {
+    "joke": "What do you call fake spaghetti? An impasta.",
+    "category": "dad jokes"
+  },
+  {
+    "joke": "Why can’t your nose be 12 inches long? Because then it would be a foot.",
+    "category": "dad jokes"
+  },
+  {
+    "joke": "What did one wall say to the other? I'll meet you at the corner.",
+    "category": "dad jokes"
+  },
+  {
+    "joke": "What do you call a fish wearing a bowtie? Sofishticated.",
+    "category": "dad jokes"
+  },
+  {
+    "joke": "I used to play piano by ear, but now I use my hands.",
+    "category": "dad jokes"
+  },
+  {
+    "joke": "Why did the golfer bring two pairs of pants? In case he got a hole in one.",
+    "category": "dad jokes"
+  },
+  {
+    "joke": "How do you organize a space party? You planet.",
+    "category": "dad jokes"
+  },
+  {
+    "joke": "I don’t trust stairs. They’re always up to something.",
+    "category": "dad jokes"
+  },
+  {
+    "joke": "Why don’t oysters share their pearls? Because they’re shellfish.",
+    "category": "dad jokes"
+  },
+  
+  {
+    "joke": "Parallel lines have so much in common. It\u2019s a shame they\u2019ll never meet.",
+    "category": "wordplay"
+  },
+  {
+    "joke": "I told my wife she was drawing her eyebrows too high. She looked surprised.",
+    "category": "wordplay"
+  },
+  {
+    "joke": "I used to be a banker, but I lost interest.",
+    "category": "wordplay"
+  },
+  {
+    "joke": "The man who survived pepper spray and mustard gas is now a seasoned veteran.",
+    "category": "wordplay"
+  },
+  {
+    "joke": "I relish the fact that you\u2019ve mustard the strength to ketchup to me.",
+    "category": "wordplay"
+  },
+  {
+    "joke": "I'm reading a book on anti-gravity. It's impossible to put down.",
+    "category": "wordplay"
+  },
+  {
+    "joke": "Time flies like an arrow. Fruit flies like a banana.",
+    "category": "wordplay"
+  },
+  {
+    "joke": "I was struggling to figure out how lightning works, but then it struck me.",
+    "category": "wordplay"
+  },
+  {
+    "joke": "I wondered why the baseball was getting bigger. Then it hit me.",
+    "category": "wordplay"
+  },
+  {
+    "joke": "The roundest knight at King Arthur\u2019s round table was Sir Cumference.",
+    "category": "wordplay"
+  },
+  {
+    "joke": "I\u2019m reading a book about teleportation. It\u2019s bound to take me places.",
+    "category": "wordplay"
+  },
+  {
+    "joke": "I used to be a baker, but I couldn't make enough dough.",
+    "category": "wordplay"
+  },
+  {
+    "joke": "I once got into a fight with a broken elevator. I took it to another level.",
+    "category": "wordplay"
+  },
+  {
+    "joke": "I tried to catch some fog earlier. I mist.",
+    "category": "wordplay"
+  },
+  {
+    "joke": "Claustrophobic people are more likely to think outside the box.",
+    "category": "wordplay"
+  },
+  {
+    "joke": "Don't trust atoms. They make up everything.",
+    "category": "wordplay"
+  },
+  {
+    "joke": "To the guy who invented zero: Thanks for nothing.",
+    "category": "wordplay"
+  },
+  {
+    "joke": "A bicycle can\u2019t stand on its own because it\u2019s two-tired.",
+    "category": "wordplay"
+  },
+  {
+    "joke": "I named my dog \u2018Five Miles\u2019 so I can say I walk Five Miles every day.",
+    "category": "wordplay"
+  },
+  {
+    "joke": "Why did the grammar teacher go to jail? Because she had a run-on sentence.",
+    "category": "wordplay"
+  },
+  {
+    "joke": "I'm friends with all electricians \u2014 we have good current connections.",
+    "category": "wordplay"
+  },
+  {
+    "joke": "The guy who invented Lifesavers candy made a mint.",
+    "category": "wordplay"
+  },
+  {
+    "joke": "I wanted to be a historian, but I realized there was no future in it.",
+    "category": "wordplay"
+  },
+  {
+    "joke": "Velcro \u2014 what a rip-off!",
+    "category": "wordplay"
+  },
+  {
+    "joke": "The shovel was a groundbreaking invention.",
+    "category": "wordplay"
+  },
+  {
+    "joke": "Why did the scarecrow win an award? Because he was outstanding in his field.",
+    "category": "witty humour"
+  },
+  {
+    "joke": "I asked my dog what's two minus two. He said nothing.",
+    "category": "witty humour"
+  },
+  {
+    "joke": "I told my computer I needed a break, and now it won\u2019t stop sending me KitKat ads.",
+    "category": "witty humour"
+  },
+  {
+    "joke": "I told my wife she should embrace her mistakes. She gave me a hug.",
+    "category": "witty humour"
+  },
+  {
+    "joke": "They say money talks, but mine just waves goodbye.",
+    "category": "witty humour"
+  },
+  {
+    "joke": "I told my friend 10 jokes to make him laugh. Sadly, no pun in ten did.",
+    "category": "witty humour"
+  },
+  {
+    "joke": "My math teacher called me average. How mean!",
+    "category": "witty humour"
+  },
+  {
+    "joke": "I got a job at a bakery because I kneaded dough.",
+    "category": "witty humour"
+  },
+  {
+    "joke": "Sometimes I tuck my knees into my chest and lean forward. That\u2019s just how I roll.",
+    "category": "witty humour"
+  },
+  {
+    "joke": "My friend says to me, \u201cWhat rhymes with orange?\u201d I said, \u201cNo it doesn\u2019t.\u201d",
+    "category": "witty humour"
+  },
+  {
+    "joke": "People say nothing is impossible, but I do nothing every day.",
+    "category": "witty humour"
+  },
+  {
+    "joke": "My wife told me to stop impersonating a flamingo. I had to put my foot down.",
+    "category": "witty humour"
+  },
+  {
+    "joke": "I told my boss three companies were after me, and I needed a raise. Turns out it was the electric, gas, and water companies.",
+    "category": "witty humour"
+  },
+  {
+    "joke": "I'm reading a book on reverse psychology. Don\u2019t bother trying to stop me.",
+    "category": "witty humour"
+  },
+  {
+    "joke": "Light travels faster than sound. That\u2019s why some people appear bright until they speak.",
+    "category": "witty humour"
+  },
+  {
+    "joke": "Why don\u2019t scientists trust atoms anymore? Because they make up everything\u2026 and gossip.",
+    "category": "witty humour"
+  },
+  {
+    "joke": "I poured root beer into a square cup. Now I just have beer.",
+    "category": "witty humour"
+  },
+  {
+    "joke": "I used to be indecisive. Now I'm not sure.",
+    "category": "witty humour"
+  },
+  {
+    "joke": "Insomnia is awful. But on the plus side \u2013 only three more sleeps till Christmas.",
+    "category": "witty humour"
+  },
+  {
+    "joke": "I gave all my dead batteries away today\u2026 Free of charge.",
+    "category": "witty humour"
+  },
+  {
+    "joke": "I can't believe I got fired from the calendar factory. All I did was take a day off.",
+    "category": "witty humour"
+  },
+  {
+    "joke": "I used to play piano by ear, but now I use my hands.",
+    "category": "witty humour"
+  },
+  {
+    "joke": "I didn't want to believe that my dad was stealing from his job as a traffic cop, but when I got home all the signs were there.",
+    "category": "witty humour"
+  },
+  {
+    "joke": "I wanted to be a better person\u2026 but then people happened.",
+    "category": "witty humour"
+  },
+  {
+    "joke": "I\u2019m not lazy. I\u2019m on energy-saving mode.",
+    "category": "witty humour"
+  },
+  {
+    "joke": "What do you call a bear with no teeth? A gummy bear.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "Why don't elephants use computers? They're afraid of the mouse.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "What do you call a fish wearing a bowtie? Sofishticated.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "Why did the cow win an award? Because she was outstanding in her field.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "What do you get from a pampered cow? Spoiled milk.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "Why do seagulls fly over the ocean? Because if they flew over the bay, they\u2019d be bagels.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "What do you call an alligator in a vest? An investigator.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "Why did the dog sit in the shade? Because he didn\u2019t want to be a hot dog.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "What do you call a sleeping bull? A bulldozer.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "How do you count cows? With a cowculator.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "Why are cats bad storytellers? Because they only have one tail.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "Why do fish live in saltwater? Because pepper makes them sneeze.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "What do you get when you cross a snake and a pie? A python.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "What kind of dog can do magic? A labracadabrador.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "Why was the cat sitting on the computer? To keep an eye on the mouse.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "What do you call a group of musical whales? An orca-stra.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "Why did the octopus cross the road? To get to the other tide.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "What do you call a pig that does karate? A pork chop.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "What do you call an owl that does magic tricks? Hoo-dini.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "What happened when the lion ate the comedian? He felt funny.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "Why did the frog take the bus to work? His car got toad away.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "What do you get if you cross a parrot with a shark? A bird that talks your ear off.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "Why did the chicken join a band? Because it had the drumsticks.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "What kind of bees produce milk? Boo-bees.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "Why can\u2019t you trust a tiger at poker night? Because he\u2019s always lion.",
+    "category": "animal jokes"
+  },
+  {
+    "joke": "Why don\u2019t cannibals eat clowns? Because they taste funny.",
+    "category": "dark humour"
+  },
+  {
+    "joke": "Why don\u2019t graveyards ever get overcrowded? People are dying to get in.",
+    "category": "dark humour"
+  },
+  {
+    "joke": "I have a joke about depression, but it never gets up.",
+    "category": "dark humour"
+  },
+  {
+    "joke": "Why did the zombie go to therapy? To work on his biting issues.",
+    "category": "dark humour"
+  },
+  {
+    "joke": "I started a company selling land mines disguised as prayer mats. Prophets are going through the roof.",
+    "category": "dark humour"
+  },
+  {
+    "joke": "Why did the orphan go to the party? He heard it was a family event.",
+    "category": "dark humour"
+  },
+  {
+    "joke": "Why don\u2019t orphans play baseball? Because they don\u2019t know where home is.",
+    "category": "dark humour"
+  },
+  {
+    "joke": "Dark humor is like food\u2026 not everyone gets it.",
+    "category": "dark humour"
+  },
+  {
+    "joke": "I\u2019d tell you a suicide joke, but it\u2019ll just hang in the air.",
+    "category": "dark humour"
+  },
+  {
+    "joke": "Why did the child cross the road? Because he wasn\u2019t strapped in properly.",
+    "category": "dark humour"
+  },
+  {
+    "joke": "Why don\u2019t cemeteries ever have 4G? Too many dead zones.",
+    "category": "dark humour"
+  },
+  {
+    "joke": "My grief counselor died. He was so good, I didn\u2019t even care.",
+    "category": "dark humour"
+  },
+  {
+    "joke": "What's the hardest part about eating a vegetable? The wheelchair.",
+    "category": "dark humour"
+  },
+  {
+    "joke": "Why did the blind man fall into the well? Because he couldn\u2019t see that well.",
+    "category": "dark humour"
+  },
+  {
+    "joke": "I have a stepladder because my real ladder left when I was a kid.",
+    "category": "dark humour"
+  },
+  {
+    "joke": "They say laughter is the best medicine. That\u2019s why I treat my depression with stand-up comedy.",
+    "category": "dark humour"
+  },
+  {
+    "joke": "I told my therapist about my dark sense of humor. Now she needs therapy.",
+    "category": "dark humour"
+  },
+  {
+    "joke": "Why did the man get hit by a bike every day? He was stuck in a vicious cycle.",
+    "category": "dark humour"
+  }
+  ]
