@@ -1,0 +1,122 @@
+[
+    {
+      "fact": "Bananas are berries, but strawberries are not.",
+      "category": "fun facts"
+    },
+    {
+      "fact": "Honey never spoils \u2014 archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
+      "category": "fun facts"
+    },
+    {
+      "fact": "A day on Venus is longer than its year.",
+      "category": "fun facts"
+    },
+    {
+      "fact": "The inventor of the microwave appliance only received $2 for his discovery.",
+      "category": "fun facts"
+    },
+    {
+      "fact": "There are more fake flamingos in the world than real ones.",
+      "category": "fun facts"
+    },
+    {
+      "fact": "The Eiffel Tower can grow more than 6 inches during summer due to heat expansion.",
+      "category": "general knowledge"
+    },
+    {
+      "fact": "Shakespeare invented more than 1,700 English words.",
+      "category": "general knowledge"
+    },
+    {
+      "fact": "The world\u2019s largest snowflake on record was 15 inches wide.",
+      "category": "general knowledge"
+    },
+    {
+      "fact": "The dot over the lowercase 'i' or 'j' is called a tittle.",
+      "category": "general knowledge"
+    },
+    {
+      "fact": "The average person walks the equivalent of five times around the world in their lifetime.",
+      "category": "general knowledge"
+    },
+    {
+      "fact": "Oxford University is older than the Aztec Empire.",
+      "category": "history facts"
+    },
+    {
+      "fact": "The Great Wall of China is not a single wall, but a series of fortifications built over centuries.",
+      "category": "history facts"
+    },
+    {
+      "fact": "Napoleon was once attacked by a horde of bunnies.",
+      "category": "history facts"
+    },
+    {
+      "fact": "The shortest war in history lasted only 38 minutes \u2014 between Britain and Zanzibar in 1896.",
+      "category": "history facts"
+    },
+    {
+      "fact": "Leonardo da Vinci could write with one hand and draw with the other at the same time.",
+      "category": "history facts"
+    },
+    {
+      "fact": "In Japan, slurping noodles is considered polite and shows appreciation for the food.",
+      "category": "cultural facts"
+    },
+    {
+      "fact": "India is home to more than 2 million Hindu temples.",
+      "category": "cultural facts"
+    },
+    {
+      "fact": "In South Korea, it\u2019s common to celebrate a person\u2019s 100th day of life with a special party.",
+      "category": "cultural facts"
+    },
+    {
+      "fact": "In Finland, there is an annual 'Wife Carrying Championship'.",
+      "category": "cultural facts"
+    },
+    {
+      "fact": "In Thailand, it\u2019s considered disrespectful to touch someone\u2019s head.",
+      "category": "cultural facts"
+    },
+    {
+      "fact": "A group of flamingos is called a 'flamboyance'.",
+      "category": "animal facts"
+    },
+    {
+      "fact": "Octopuses have three hearts and blue blood.",
+      "category": "animal facts"
+    },
+    {
+      "fact": "A snail can sleep for three years at a time.",
+      "category": "animal facts"
+    },
+    {
+      "fact": "Koalas have fingerprints that are almost identical to humans.",
+      "category": "animal facts"
+    },
+    {
+      "fact": "A cow-bison hybrid is called a beefalo.",
+      "category": "animal facts"
+    },
+    {
+      "fact": "Jupiter\u2019s Great Red Spot is a storm larger than Earth and has raged for at least 400 years.",
+      "category": "space and universe"
+    },
+    {
+      "fact": "One light-year is about 5.88 trillion miles.",
+      "category": "space and universe"
+    },
+    {
+      "fact": "A day on Mercury lasts 59 Earth days.",
+      "category": "space and universe"
+    },
+    {
+      "fact": "Neutron stars can spin 600 times per second.",
+      "category": "space and universe"
+    },
+    {
+      "fact": "If you could fold a piece of paper 42 times, it would reach the moon.",
+      "category": "space and universe"
+    }
+]
