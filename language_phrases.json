@@ -1,0 +1,213 @@
+[
+    {
+      "language": "French",
+      "phrase": "bonjour",
+      "translation": "hello",
+      "context_phrase": "Bonjour, comment allez-vous?",
+      "context_translation": "Hello, how are you?"
+    },
+    {
+      "language": "French",
+      "phrase": "merci",
+      "translation": "thank you",
+      "context_phrase": "Merci beaucoup pour tout.",
+      "context_translation": "Thank you very much for everything."
+    },
+    {
+      "language": "French",
+      "phrase": "au revoir",
+      "translation": "goodbye",
+      "context_phrase": "Au revoir, à demain!",
+      "context_translation": "Goodbye, see you tomorrow!"
+    },
+    {
+      "language": "Spanish",
+      "phrase": "hola",
+      "translation": "hello",
+      "context_phrase": "Hola, ¿cómo estás?",
+      "context_translation": "Hello, how are you?"
+    },
+    {
+      "language": "Spanish",
+      "phrase": "buenas noches",
+      "translation": "good night",
+      "context_phrase": "Buenas noches, que descanses.",
+      "context_translation": "Good night, sleep well."
+    },
+    {
+      "language": "Spanish",
+      "phrase": "lo siento",
+      "translation": "I'm sorry",
+      "context_phrase": "Lo siento por llegar tarde.",
+      "context_translation": "I'm sorry for being late."
+    },
+    {
+      "language": "Italian",
+      "phrase": "ciao",
+      "translation": "hi/bye",
+      "context_phrase": "Ciao! Come va?",
+      "context_translation": "Hi! How's it going?"
+    },
+    {
+      "language": "Italian",
+      "phrase": "grazie",
+      "translation": "thank you",
+      "context_phrase": "Grazie per il tuo aiuto.",
+      "context_translation": "Thank you for your help."
+    },
+    {
+      "language": "Italian",
+      "phrase": "scusa",
+      "translation": "sorry",
+      "context_phrase": "Scusa per il ritardo.",
+      "context_translation": "Sorry for being late."
+    },
+    {
+      "language": "Mandarin",
+      "phrase": "你好",
+      "translation": "hello",
+      "context_phrase": "你好，我叫李华。",
+      "context_translation": "Hello, my name is Li Hua."
+    },
+    {
+      "language": "Mandarin",
+      "phrase": "再见",
+      "translation": "goodbye",
+      "context_phrase": "我们下次见，再见！",
+      "context_translation": "See you next time, goodbye!"
+    },
+    {
+      "language": "Mandarin",
+      "phrase": "对不起",
+      "translation": "sorry",
+      "context_phrase": "对不起，我迟到了。",
+      "context_translation": "Sorry, I’m late."
+    },
+    {
+      "language": "Japanese",
+      "phrase": "こんにちは",
+      "translation": "hello",
+      "context_phrase": "こんにちは、お元気ですか？",
+      "context_translation": "Hello, how are you?"
+    },
+    {
+      "language": "Japanese",
+      "phrase": "ありがとう",
+      "translation": "thank you",
+      "context_phrase": "助けてくれてありがとう。",
+      "context_translation": "Thank you for helping me."
+    },
+    {
+      "language": "Japanese",
+      "phrase": "さようなら",
+      "translation": "goodbye",
+      "context_phrase": "また明日、さようなら！",
+      "context_translation": "See you tomorrow, goodbye!"
+    },
+    {
+      "language": "Arabic",
+      "phrase": "مرحبا",
+      "translation": "hello",
+      "context_phrase": "مرحبا، كيف حالك؟",
+      "context_translation": "Hello, how are you?"
+    },
+    {
+      "language": "Arabic",
+      "phrase": "شكراً",
+      "translation": "thank you",
+      "context_phrase": "شكراً لمساعدتك.",
+      "context_translation": "Thank you for your help."
+    },
+    {
+      "language": "Arabic",
+      "phrase": "مع السلامة",
+      "translation": "goodbye",
+      "context_phrase": "أراك لاحقاً، مع السلامة.",
+      "context_translation": "See you later, goodbye."
+    },
+    {
+      "language": "German",
+      "phrase": "hallo",
+      "translation": "hello",
+      "context_phrase": "Hallo! Wie geht’s?",
+      "context_translation": "Hello! How are you?"
+    },
+    {
+      "language": "German",
+      "phrase": "bitte",
+      "translation": "please/you're welcome",
+      "context_phrase": "Kannst du mir bitte helfen?",
+      "context_translation": "Can you help me, please?"
+    },
+    {
+      "language": "German",
+      "phrase": "tschüss",
+      "translation": "bye",
+      "context_phrase": "Ich gehe jetzt, tschüss!",
+      "context_translation": "I’m leaving now, bye!"
+    },
+    {
+      "language": "Portuguese",
+      "phrase": "olá",
+      "translation": "hello",
+      "context_phrase": "Olá! Como você está?",
+      "context_translation": "Hello! How are you?"
+    },
+    {
+      "language": "Portuguese",
+      "phrase": "obrigado",
+      "translation": "thank you",
+      "context_phrase": "Muito obrigado pela ajuda.",
+      "context_translation": "Thank you very much for the help."
+    },
+    {
+      "language": "Portuguese",
+      "phrase": "desculpa",
+      "translation": "sorry",
+      "context_phrase": "Desculpa pelo atraso.",
+      "context_translation": "Sorry for the delay."
+    },
+    {
+      "language": "Korean",
+      "phrase": "안녕하세요",
+      "translation": "hello",
+      "context_phrase": "안녕하세요? 잘 지냈어요?",
+      "context_translation": "Hello, have you been well?"
+    },
+    {
+      "language": "Korean",
+      "phrase": "미안합니다",
+      "translation": "sorry",
+      "context_phrase": "늦어서 미안합니다.",
+      "context_translation": "I’m sorry for being late."
+    },
+    {
+      "language": "Korean",
+      "phrase": "안녕히 가세요",
+      "translation": "goodbye",
+      "context_phrase": "안녕히 가세요, 또 봐요!",
+      "context_translation": "Goodbye, see you again!"
+    },
+    {
+      "language": "Hindi",
+      "phrase": "नमस्ते",
+      "translation": "hello",
+      "context_phrase": "नमस्ते, आप कैसे हैं?",
+      "context_translation": "Hello, how are you?"
+    },
+    {
+      "language": "Hindi",
+      "phrase": "धन्यवाद",
+      "translation": "thank you",
+      "context_phrase": "आपकी मदद के लिए धन्यवाद।",
+      "context_translation": "Thank you for your help."
+    },
+    {
+      "language": "Hindi",
+      "phrase": "माफ कीजिए",
+      "translation": "sorry",
+      "context_phrase": "देरी के लिए माफ कीजिए।",
+      "context_translation": "Sorry for the delay."
+    }
+]
+  
