@@ -1,34 +1,36 @@
-{
-  "grid": [
-    [{}, {}, {}, {}, {}, {}, {}, {}, {},{ "letter": "j", "number": 1 }, {}, {}, {}, {}],
-    [{}, {}, {}, {}, {}, {}, {}, {}, {},{ "letter": "u" }, {}, {}, {}, {}],
-    [{}, {}, {}, {}, {}, {}, {}, {}, {},{ "letter": "m" }, {}, {}, {}, {}],
-    [{}, {}, {}, {}, {}, {}, {}, {}, {},{ "letter": "b" }, {}, {}, {}, {}],
-    [{}, { "letter": "m", "number": 2 }, {}, {}, {}, {}, {}, {},{ "letter": "v", "number": 3 }, { "letter": "o" }, { "letter": "i" }, { "letter": "c" }, { "letter": "e" }, {}],
-    [{}, { "letter": "o" }, {}, {}, { "letter": "z", "number": 4 }, {}, {}, {}, { "letter": "i" }, {}, {}, {}, {}, {}],
-    [{ "letter": "s", "number": 5 }, { "letter": "n" }, { "letter": "a" }, { "letter": "k" }, { "letter": "e" }, {},{}, {}, { "letter": "r" }, {}, { "letter": "w", "number": 6 }, {}, {}, {}],
-    [{}, { "letter": "e" }, {}, {}, { "letter": "b" }, {}, { "letter": "b", "number": 7 }, { "letter": "r" }, { "letter": "u" }, { "letter": "s" }, { "letter": "h" }, {}, { "letter": "m", "number": 8 }, {}],
-    [{}, { "letter": "y" }, {}, {}, { "letter": "r" }, {}, { "letter": "r" }, {}, { "letter": "s" }, {}, { "letter": "a" }, {}, { "letter": "o" }, {}],
-    [{}, {}, { "letter": "g", "number": 9 }, { "letter": "r" }, { "letter": "a" }, { "letter": "p" }, { "letter": "e" }, {}, {}, { "letter": "c", "number": 10 }, { "letter": "l" }, { "letter": "o" }, { "letter": "u" }, { "letter": "d" }],
-    [{}, {}, {}, {}, {}, {}, { "letter": "a" }, {}, {}, {},{ "letter": "e" }, {}, { "letter": "s" }, {}],
-    [{}, {}, {}, {}, {}, {}, { "letter": "d" }, {}, {}, {},{}, {}, { "letter": "e" }, {}],
-  ],
-  "clues": {
-    "across": [
-      { "number": 3, "clue": "for speaking" },
-      { "number": 5, "clue": "slithering reptile" },
-      { "number": 7, "clue": "used to clean your teeth" },
-      { "number": 9, "clue": "used to make wine" },
-      { "number": 10, "clue": "fluffy and white in the sky" }
+[
+  {
+    "grid": [
+      [{}, {}, {}, {}, {}, {}, {}, {}, {},{ "letter": "j", "number": 1 }, {}, {}, {}, {}],
+      [{}, {}, {}, {}, {}, {}, {}, {}, {},{ "letter": "u" }, {}, {}, {}, {}],
+      [{}, {}, {}, {}, {}, {}, {}, {}, {},{ "letter": "m" }, {}, {}, {}, {}],
+      [{}, {}, {}, {}, {}, {}, {}, {}, {},{ "letter": "b" }, {}, {}, {}, {}],
+      [{}, { "letter": "m", "number": 2 }, {}, {}, {}, {}, {}, {},{ "letter": "v", "number": 3 }, { "letter": "o" }, { "letter": "i" }, { "letter": "c" }, { "letter": "e" }, {}],
+      [{}, { "letter": "o" }, {}, {}, { "letter": "z", "number": 4 }, {}, {}, {}, { "letter": "i" }, {}, {}, {}, {}, {}],
+      [{ "letter": "s", "number": 5 }, { "letter": "n" }, { "letter": "a" }, { "letter": "k" }, { "letter": "e" }, {},{}, {}, { "letter": "r" }, {}, { "letter": "w", "number": 6 }, {}, {}, {}],
+      [{}, { "letter": "e" }, {}, {}, { "letter": "b" }, {}, { "letter": "b", "number": 7 }, { "letter": "r" }, { "letter": "u" }, { "letter": "s" }, { "letter": "h" }, {}, { "letter": "m", "number": 8 }, {}],
+      [{}, { "letter": "y" }, {}, {}, { "letter": "r" }, {}, { "letter": "r" }, {}, { "letter": "s" }, {}, { "letter": "a" }, {}, { "letter": "o" }, {}],
+      [{}, {}, { "letter": "g", "number": 9 }, { "letter": "r" }, { "letter": "a" }, { "letter": "p" }, { "letter": "e" }, {}, {}, { "letter": "c", "number": 10 }, { "letter": "l" }, { "letter": "o" }, { "letter": "u" }, { "letter": "d" }],
+      [{}, {}, {}, {}, {}, {}, { "letter": "a" }, {}, {}, {},{ "letter": "e" }, {}, { "letter": "s" }, {}],
+      [{}, {}, {}, {}, {}, {}, { "letter": "d" }, {}, {}, {},{}, {}, { "letter": "e" }, {}],
     ],
-    "down": [
-      { "number": 1, "clue": "very large" },
-      { "number": 2, "clue": "used to buy things" },
-      { "number": 3, "clue": "causes diseases" },
-      { "number": 4, "clue": "striped animal" },
-      { "number": 6, "clue": "large sea animal" },
-      { "number": 7, "clue": "made from flour" },
-      { "number": 8, "clue": "computer input device" }
-    ]
+    "clues": {
+      "across": [
+        { "number": 3, "clue": "for speaking" },
+        { "number": 5, "clue": "slithering reptile" },
+        { "number": 7, "clue": "used to clean your teeth" },
+        { "number": 9, "clue": "used to make wine" },
+        { "number": 10, "clue": "fluffy and white in the sky" }
+      ],
+      "down": [
+        { "number": 1, "clue": "very large" },
+        { "number": 2, "clue": "used to buy things" },
+        { "number": 3, "clue": "causes diseases" },
+        { "number": 4, "clue": "striped animal" },
+        { "number": 6, "clue": "large sea animal" },
+        { "number": 7, "clue": "made from flour" },
+        { "number": 8, "clue": "computer input device" }
+      ]
+    }
   }
-}
+]
