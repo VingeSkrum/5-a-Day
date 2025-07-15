@@ -114,9 +114,9 @@ def run_news_pipeline():
                 break
 
     # Save final output
-    with open("cached_articles.json", "w", encoding="utf-8") as f:
+    with open("articles.json", "w", encoding="utf-8") as f:
         json.dump(selected, f, indent=2)
-    print(f"✅ Saved {len(selected)} final articles to cached_articles.json")
+    print(f"✅ Saved {len(selected)} final articles to articles.json")
 
 
 # ---------------------
