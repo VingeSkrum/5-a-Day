@@ -1,12 +1,26 @@
 [
   {
-    "id": "1efefcdbb30bb88ee54c259c0ee2302e",
-    "title": "Weak password allowed hackers to sink a 158-year-old company",
-    "description": "Transport company KNP forced to shut down after international hacker gangs target thousands of UK businesses.",
-    "content": "One password is believed to have been all it took for a ransomware gang to destroy a 158-year-old company and put 700 people out of work.\nKNP - a Northamptonshire transport company - is just one of tens of thousands of UK businesses that have been hi... [863 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cx2gx28815wo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8557/live/6a792500-63b5-11f0-8dbd-f3d32ebd3327.jpg",
-    "publishedAt": "2025-07-21T05:01:31Z",
+    "id": "043b56596538465192ab8dacff21c17d",
+    "title": "Driver who inhaled laughing gas before killing 81-year-old cyclist in hit-and-run detained",
+    "description": "Cain Byrne, 20, who has never held a driving licence, made no attempt to stop at the crossing where 81-year-old Graham Slinn was struck, witnesses said.",
+    "content": "A driver who was inhaling nitrous oxide before and after he hit and killed an 81-year-old cyclist has been detained for more than 11 years.\nGraham Slinn had dismounted and was walking across the A57 near Todwick, South Yorkshire, when he was hit by a... [2894 chars]",
+    "url": "https://news.sky.com/story/driver-who-inhaled-laughing-gas-before-killing-81-year-old-cyclist-in-hit-and-run-detained-13399494",
+    "image": "https://e3.365dm.com/25/06/1600x900/skynews-graham-slinn-victim_6951996.jpg?20250627154341",
+    "publishedAt": "2025-07-21T12:07:19Z",
+    "source": {
+      "id": "896bbd67b1fce1e7e97122b9a4345dab",
+      "name": "Sky News",
+      "url": "https://news.sky.com"
+    }
+  },
+  {
+    "id": "8b1b0f3f1ca3813889f5880ed3096ab8",
+    "title": "Mother, 28, jailed for violently shaking baby daughter to death",
+    "description": "Melissa Wilband is jailed for 15 years for the manslaughter of her four-month-old daughter.",
+    "content": "A mother has been jailed for 15 years after causing the death of her baby daughter by violently shaking her.\nMelissa Wilband, from Gloucestershire, was found guilty of the manslaughter of Lexi Wilband, who was four months old when she died in April 2... [323 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cwyq0wjq82lo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd04/live/88ea24b0-624f-11f0-b903-f515e3045d80.jpg",
+    "publishedAt": "2025-07-21T11:22:01Z",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
       "name": "BBC",
@@ -14,45 +28,45 @@
     }
   },
   {
-    "id": "0b594fda9adbabf35057e8951bf89702",
-    "title": "Final report into 'broken' water industry in England and Wales to be released",
-    "description": "The major review led by former Bank of England deputy governor Sir Jon Cunliffe has been issued by the government to \"clean up our water once and for all\".",
-    "content": "A new 'consumer champion' for England's water industry, government says\nEsme Stallard\nClimate and science correspondent\nThere has been reporting that Ofwat, the regulator that oversees the financial running of water companies, is to be scrapped.\nIt i... [653 chars]",
-    "url": "https://www.bbc.com/news/live/c4g8dx94jr4t",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6450/live/54ffa390-6589-11f0-af20-030418be2ca5.jpg",
-    "publishedAt": "2025-07-21T04:02:12Z",
+    "id": "8560cc58830d64ae9ce248e3011e6292",
+    "title": "Bangladesh crash: At least 19 dead after air force jet crashes into school",
+    "description": "The air force training aircraft crashed into a school campus in the capital Dhaka.",
+    "content": "The age range for students attending the school is between four and 18 years old.\nA teacher at the college, Rezaul Islam, told BBC Bangla that he saw the plane \"directly\" hit the building.\nAnother teacher, Masud Tarik, told Reuters that he heard an e... [1108 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c75rprqwr67o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b78a/live/5f2f6b30-662d-11f0-8dbd-f3d32ebd3327.jpg",
+    "publishedAt": "2025-07-21T11:18:53Z",
+    "source": {
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    }
+  },
+  {
+    "id": "f02f8ef83cbe526fa547c31c9eb31776",
+    "title": "Somerset coach crash: Locals praised for 'amazing' response",
+    "description": "Fundraising for victims of a crash that killed a 10-year-old boy has now passed \u00a350,000.",
+    "content": "A man who has raised \u00a330,000 so far for victims of a fatal coach crash has said he has been \"overwhelmed\" by the response of the local community.\nBobbie Rammond said residents had been \"amazing\" after a coach carrying pupils from Minehead Middle Scho... [394 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cpqng74j2r9o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6115/live/19277aa0-6606-11f0-af20-030418be2ca5.jpg",
+    "publishedAt": "2025-07-21T11:07:43Z",
+    "source": {
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    }
+  },
+  {
+    "id": "001caf30cc0b45d8bed3bcf61c7d64c2",
+    "title": "Tracking Gaza evacuations as Israeli offensive in Deir al-Balah starts",
+    "description": "Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.",
+    "content": "Is Farage right about crime going up?\nLucy Gilder\nBBC Verify journalist\nImage source, PA Media\nReform UK leader Nigel Farage has been setting out his party\u2019s crime and justice plans.\nHe opened the conference by criticising successive home secretaries... [1295 chars]",
+    "url": "https://www.bbc.com/news/live/c1lj3mg16rqt",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2544/live/5c64dc80-660c-11f0-89ea-4d6f9851f623.png",
+    "publishedAt": "2025-07-21T10:39:21Z",
     "source": {
       "id": "f331a5ed3965fb59761dfcecfc7e7a34",
       "name": "BBC",
       "url": "https://www.bbc.com"
-    }
-  },
-  {
-    "id": "139b3c65746d4ac7a9dca6384be299a8",
-    "title": "Pension Commission to look at why four-in-ten fail to save enough",
-    "description": "Future pensioners are set to be worse off than today's with four-in-10 not saving enough for retirement, says the DWP.",
-    "content": "Future pensioners to be worse off, government warns\n3 hours ago Share Save Lucy Hooker Business reporter Share Save\nGetty Images\nPeople retiring in 2050 will be worse off than pensioners today, the government has warned, unless action is taken to boo... [3612 chars]",
-    "url": "https://www.bbc.com/news/articles/ckgj84ejd9wo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f840/live/67c11e10-656f-11f0-9c94-35a6128c06e3.jpg",
-    "publishedAt": "2025-07-21T00:13:38Z",
-    "source": {
-      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
-      "name": "BBC",
-      "url": "https://www.bbc.com"
-    }
-  },
-  {
-    "id": "b92f7abf29558b6cf9c936529eef2ec8",
-    "title": "Four arrested under Terrorism Act during Liverpool pro-Palestine protest",
-    "description": "Merseyside police says material in support of Palestine Action was reportedly seen in possession of protesters",
-    "content": "Four people were arrested on suspicion of terrorism offences during a pro-Palestine protest in Liverpool city centre on Sunday afternoon, police said.\nMerseyside police said material in support of campaign group Palestine Action was reportedly seen i... [1958 chars]",
-    "url": "https://www.theguardian.com/world/2025/jul/21/four-arrested-under-terrorism-act-during-liverpool-pro-palestine-protest",
-    "image": "https://i.guim.co.uk/img/media/22e32376fac73c872c084275eb800a62fc7573dc/88_302_3630_2906/master/3630.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84fd273e5d826ef6c14cebdcab19ecce",
-    "publishedAt": "2025-07-20T23:28:00Z",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com"
     }
   }
 ]
