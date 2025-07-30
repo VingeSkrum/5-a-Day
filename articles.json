@@ -1,26 +1,12 @@
 [
   {
-    "id": "dc2de27068a130d4768c38689bbcadb6",
-    "title": "Shopping addiction should be taken more seriously say sufferers",
-    "description": "People with experience of compulsive buying say more NHS help is needed to tackle the issue.",
-    "content": "A day of retail therapy can be just the ticket for some people to help them feel better about themselves. But what happens when you can't stop shopping?\nSurrounded by racks of shirts, dresses and jumpers, Lucy tells me that she could spend up to 14 h... [1075 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c625xkyxzkeo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8bd6/live/847f0820-6c70-11f0-af20-030418be2ca5.jpg",
-    "publishedAt": "2025-07-30T02:01:19Z",
-    "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "485a59259c1777211c4ec1a29aba4da7",
-    "title": "Israeli public figures call for \u2018crippling sanctions\u2019 on Israel over Gaza starvation",
-    "description": "Thirty-one high-profile Israelis accuse Tel Aviv of \u2018brutal campaign\u2019 and demand permanent ceasefire in letter",
-    "content": "A group of high-profile Israeli public figures, including academics, artists and public intellectuals, has called for \u201ccrippling sanctions\u201d to be imposed by the international community on Israel, amid mounting horror over its starvation of Gaza.\nThe ... [3721 chars]",
-    "url": "https://www.theguardian.com/world/2025/jul/29/letter-sanctions-israel-gaza-starvation",
-    "image": "https://i.guim.co.uk/img/media/8d6234971d1e319044c4aef5a751168568607061/505_0_6370_5096/master/6370.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad6d354d30b12fa76374a28b0b26044a",
-    "publishedAt": "2025-07-30T01:30:00Z",
+    "id": "be5bae9b96eb5e6fbd6195a9bab8c802",
+    "title": "Migration fuels second largest population jump in England and Wales for more than 75 years",
+    "description": "Data shows population rose by 700,000 in year to June 2024, with international migration driving growth",
+    "content": "The population of England and Wales has grown by the second largest annual increase in more than 75 years, largely due to international migration.\nFigures from the Office for National Statistics (ONS) show the population grew by 700,000 in the year t... [2737 chars]",
+    "url": "https://www.theguardian.com/society/2025/jul/30/population-migration-england-wales-data",
+    "image": "https://i.guim.co.uk/img/media/edc18e05380a84e5faccf443bb6944bae7f8438e/331_0_2917_2333/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=be43e9562e3d724d62e39ca2ef4b5c72",
+    "publishedAt": "2025-07-30T12:54:00Z",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
       "name": "The Guardian",
@@ -28,45 +14,59 @@
     }
   },
   {
-    "id": "77c67ce69eb734b3b31c06e12cbd2fe3",
-    "title": "Powerful 8.8-magnitude earthquake causes tsunami in Russia's Far East - with warnings issued for Japan, Hawaii and Alaska",
-    "description": "A powerful 8.8-magnitude earthquake has struck off Russia's far eastern Kamchatka Peninsula, causing a tsunami.",
-    "content": "A powerful 8.8-magnitude earthquake has struck off Russia's far eastern Kamchatka Peninsula, causing a tsunami.\nA tsunami of up to four metres (13 feet) was recorded in Kamchatka Peninsula, leading to evacuations and damaging buildings, officials sai... [3002 chars]",
-    "url": "https://news.sky.com/story/powerful-8-7-magnitude-earthquake-causes-tsunami-in-russias-far-east-with-warnings-issued-for-japan-hawaii-and-alaska-13403770",
-    "image": "https://e3.365dm.com/25/07/1600x900/skynews-japan-tsunami_6977425.png?20250730030455",
-    "publishedAt": "2025-07-30T01:16:10Z",
+    "id": "60aa8de8f17c951925ee5c52856b55b8",
+    "title": "\u2018True visionary\u2019 theatre school founder Sylvia Young dies aged 86",
+    "description": "Founded in London in 1972, the Sylvia Young theatre school helped shape careers of singers and actors from Amy Winehouse to Billie Piper and Nicholas Hoult",
+    "content": "Sylvia Young \u2013 the founder of a theatre school that taught the likes of the singer Amy Winehouse, the EastEnders actor Adam Woodyatt and the James Bond star Lashana Lynch \u2013 has been hailed as a \u201ctrue visionary\u201d after she died aged 86.\nHer daughters A... [3516 chars]",
+    "url": "https://www.theguardian.com/stage/2025/jul/30/sylvia-young-theatre-school-founder-dies",
+    "image": "https://i.guim.co.uk/img/media/5afa02a184c37d35195e71a559de0585bf0c9f7f/0_1409_4480_3582/master/4480.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a6de086909159c54425fc0144c65a725",
+    "publishedAt": "2025-07-30T12:51:00Z",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "7209daa2c05a217b67fa128cf929ef3c",
+    "title": "Zack Polanski\u2019s \u2018eco-populism\u2019 could put voters off Greens, opponents say",
+    "description": "Exclusive: Adrian Ramsay and Ellie Chowns say party could slide into irrelevance if it chooses new leader with \u2018polarising\u2019 approach",
+    "content": "The Green party risks going into reverse if they elect Zack Polanski as leader, his two opponents have said, arguing that his promised brand of \u201ceco-populism\u201d would prove polarising, divisive and likely to put off more moderate voters.\nSpeaking to th... [4743 chars]",
+    "url": "https://www.theguardian.com/politics/2025/jul/30/green-party-leadership-vote-polanski-polarising-ramsay-chowns-interview",
+    "image": "https://i.guim.co.uk/img/media/af832608fc4c5f1bc5bfb80017bfb39cd5474a5a/0_46_1638_1310/master/1638.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06c21473f193c8e2142cb15f0271d138",
+    "publishedAt": "2025-07-30T12:28:00Z",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "5a880f6c3f379d98b89e6ebd18a5ebb0",
+    "title": "Aston Martin\u2019s 24-hour scramble to get lower US tariffs pays off",
+    "description": "Carmaker avoids reporting a slump by sending three months\u2019 worth of sales on last day of the quarter at levy of 10%",
+    "content": "Aston Martin scrambled to deliver three months\u2019 worth of cars to dealers in the US within 24 hours as it rushed to qualify for lower tariffs that came into effect on 30 June.\nBy invoicing the whole quarter\u2019s cars on that same day it avoided having to... [3878 chars]",
+    "url": "https://www.theguardian.com/business/2025/jul/30/aston-martin-24-hour-scramble-lower-us-tariffs-pays-off",
+    "image": "https://i.guim.co.uk/img/media/7271dcb1dca470ebd9bf670b38729333277932ed/278_0_2918_2335/master/2918.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9427bb5dce7dd0ecfc568e8fa6baa2fa",
+    "publishedAt": "2025-07-30T12:16:00Z",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "ee44ea54368b9ac3bd19f0bbe061212f",
+    "title": "National Lottery sales and payouts to pause for 36 hours for 'unprecedented' upgrade",
+    "description": "New games and a better experience for players is being promised by the lottery operator - alongside a doubling in weekly returns for good causes.",
+    "content": "National Lottery sales and payouts will pause for around 36 hours this weekend for an \"unprecedented\" technology upgrade.\nAll draw game sales and prize claims will be paused in shops across the UK from 11pm on Saturday after the Lotto and Thunderball... [2087 chars]",
+    "url": "https://news.sky.com/story/national-lottery-sales-and-payouts-to-pause-for-36-hours-for-unprecedented-upgrade-13403988",
+    "image": "https://e3.365dm.com/22/10/1600x900/skynews-national-lottery-lotto_5947134.jpg?20221029091359",
+    "publishedAt": "2025-07-30T11:54:05Z",
     "source": {
       "id": "896bbd67b1fce1e7e97122b9a4345dab",
       "name": "Sky News",
       "url": "https://news.sky.com"
-    }
-  },
-  {
-    "id": "0395bc209dbdd213b58428b22120f86e",
-    "title": "Transgender row rape charity starts new service for biological women",
-    "description": "The new group will run alongside an existing service which allows trans and non-binary people to take part",
-    "content": "Rape crisis centre to launch single sex-only meetings after trans row\n\"Sarah\" and the Survivors' Network have come to an agreement\nEarlier this year, a UK Supreme Court ruling said single-sex services should be reserved for people of the same biologi... [2627 chars]",
-    "url": "https://www.bbc.com/news/articles/cvgp558qkz0o",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ca02/live/b3dae0e0-6c8d-11f0-bf2e-55eecfefc576.png",
-    "publishedAt": "2025-07-30T00:34:21Z",
-    "source": {
-      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
-      "name": "BBC",
-      "url": "https://www.bbc.com"
-    }
-  },
-  {
-    "id": "ee6161ca985dd497f98c2e8d1d391004",
-    "title": "The 'Dior' packages found in woman's home that led to pair's downfall",
-    "description": "Christopher Atkinson and Carolyn Knowles were jailed at Bolton Crown Court",
-    "content": "The 'Dior' packages found in woman's home that led to pair's downfall\nChristopher Atkinson and Carolyn Knowles were jailed at Bolton Crown Court\nAn image of seized items released by GMP (Image: GMP)\nTwo drug dealers whose operation was worth \u00a3500,000... [2467 chars]",
-    "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/dior-packages-found-womans-home-32158495",
-    "image": "https://i2-prod.manchestereveningnews.co.uk/article32158684.ece/ALTERNATES/s1200/1_AWR_KNOWLESATKINSONBANNER_290725.jpg",
-    "publishedAt": "2025-07-30T04:59:00Z",
-    "source": {
-      "id": "d747ad2c8a358a8ac802059a4e88a6a6",
-      "name": "Manchester Evening News",
-      "url": "https://www.manchestereveningnews.co.uk"
     }
   }
 ]
