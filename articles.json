@@ -1,12 +1,40 @@
 [
   {
-    "id": "72fbbff0b7e8d2c82822da2dfd008daf",
-    "title": "Rapidly spreading brush fire prompts evacuations for thousands in California",
-    "description": "Canyon fire in Ventura county, north of Los Angeles, is a \u2018very dynamic situation\u2019 and 0% contained, officials say",
-    "content": "A brush fire in a mountainous area north of Los Angeles ignited and spread quickly on Thursday, forcing thousands of evacuations.\nThe Canyon fire ignited around 1.30pm, growing to over 2.3 sq miles (6 sq km) in five hours, according to Ventura county... [2328 chars]",
-    "url": "https://www.theguardian.com/us-news/2025/aug/08/california-canyon-fire",
-    "image": "https://i.guim.co.uk/img/media/fed591276aa82c00b6832842dbc9b6a20e0760d5/973_0_4865_3892/master/4865.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=157b182a06c695560e9a249b698de526",
-    "publishedAt": "2025-08-08T11:53:00Z",
+    "id": "877c57f3abd95c9c1e81543b84d41ecb",
+    "title": "A father criticised the use of airdrops in Gaza. Five days later, he was killed by a falling package",
+    "description": "Sky News analysis has found that airdrops are making little difference to Gaza's hunger crisis, and pose serious risks to the population.",
+    "content": "Five days before he was killed by a falling aid package, father-of-two Uday al Qaraan called on world leaders to open Gaza's borders to food - and criticised the use of airdrops.\n\"This isn't aid delivery,\" said the 32-year-old medic as a crowd of chi... [7466 chars]",
+    "url": "https://news.sky.com/story/gaza-medic-killed-by-airdrop-as-system-delivers-miniscule-aid-13408270",
+    "image": "https://e3.365dm.com/25/08/1600x900/skynews-dandf-teaser-gaza_6984995.png?20250807173046",
+    "publishedAt": "2025-08-09T00:55:41Z",
+    "source": {
+      "id": "896bbd67b1fce1e7e97122b9a4345dab",
+      "name": "Sky News",
+      "url": "https://news.sky.com"
+    }
+  },
+  {
+    "id": "8da36f9fe43cb03c4614d7b00639dd86",
+    "title": "'People are angry': Behind the wave of asylum hotel protests",
+    "description": "The BBC visits sites of protests to hear the voices of those opposed to the hotels and others in support of asylum seekers.",
+    "content": "'People are angry': Behind the wave of asylum hotel protests\n4 hours ago Share Save Tom Symonds Correspondent, BBC News Share Save\nCarl Court/Getty Images\n\"We are not happy with these men in this hotel because we fear for our children,\" Orla Minihane... [10331 chars]",
+    "url": "https://www.bbc.com/news/articles/c4gerg74y71o",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/da35/live/dcaa6160-7473-11f0-a20f-3b86f375586a.jpg",
+    "publishedAt": "2025-08-08T23:03:08Z",
+    "source": {
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "name": "BBC",
+      "url": "https://www.bbc.com"
+    }
+  },
+  {
+    "id": "cfef0292f8dea07871d67ffdbcd87299",
+    "title": "Three thousand riot officers readied for weekend of protests in England and Wales",
+    "description": "At least 20 asylum seekers\u2019 hotels could be the focus of demonstrations and counter-rallies over migration",
+    "content": "Three thousand riot officers will be deployed and placed on standby amid concerns a string of anti-asylum seeker protests and counter-protests this weekend could lead to violence and disorder.\nPolice commanders at a national level have made the decis... [7893 chars]",
+    "url": "https://www.theguardian.com/uk-news/2025/aug/08/three-thousand-riot-officers-readied-for-weekend-of-protests-in-england-and-wales",
+    "image": "https://i.guim.co.uk/img/media/f058ca00e1d711cd5b6d908547b0743488ed183b/1000_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=034598bbf4e0cce58bcc3f0b1c4cefac",
+    "publishedAt": "2025-08-08T22:34:00Z",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
       "name": "The Guardian",
@@ -14,27 +42,13 @@
     }
   },
   {
-    "id": "ce9dd22cd0bf1fce388d663b5e74ea48",
-    "title": "Teenager guilty of murder of schoolboy Harvey Willgoose during lunch break",
-    "description": "Harvey, 15, was killed by a fellow student outside their school cafeteria in February this year.",
-    "content": "A 15-year-old boy has been found guilty of the murder of Sheffield schoolboy Harvey Willgoose.\nHarvey, also 15, was killed by a fellow student outside their school cafeteria in February this year.\nHis parents, Mark and Caroline Willgoose, have told S... [5149 chars]",
-    "url": "https://news.sky.com/story/teenager-guilty-of-murder-of-schoolboy-harvey-willgoose-during-lunch-break-13406898",
-    "image": "https://e3.365dm.com/25/08/1600x900/skynews-harvey-willgoose-sister_6982813.jpg?20250804155339",
-    "publishedAt": "2025-08-08T11:31:45Z",
-    "source": {
-      "id": "896bbd67b1fce1e7e97122b9a4345dab",
-      "name": "Sky News",
-      "url": "https://news.sky.com"
-    }
-  },
-  {
-    "id": "d69c69b0e9cfa5ef17a5ca19ab20cc65",
-    "title": "Mapping Israeli control in Gaza and analysing UK asylum claims",
-    "description": "Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.",
-    "content": "Satellite images show extent of damage in north India floods\nShruti Menon\nBBC Verify senior journalist\nIndia's space agency Isro has released satellite images that show the aftermath of the flooding in Dharali village in the hilly northern state of U... [772 chars]",
-    "url": "https://www.bbc.co.uk/news/live/cqxgegq04j3t",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e9d1/live/4dba9200-744a-11f0-8071-1788c7e8ae0e.jpg",
-    "publishedAt": "2025-08-08T11:30:28Z",
+    "id": "07e4f2e9e3c7c442071b720a743394a9",
+    "title": "The unlikely bond between JD Vance and David Lammy",
+    "description": "The US vice president is beginning his UK holiday with a visit to the foreign secretary. Since when were they so close?",
+    "content": "Vance acknowledged the two men come from \"different political spectrums\" but said Lammy had been \"kind enough to make time on a visit to [Washington] DC, we got to know each other a little bit then\".\nSince that first meeting, when Lammy was in opposi... [1683 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/czr68vde7nvo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3b82/live/63f69b30-745a-11f0-8689-0f7647a3ab5c.jpg",
+    "publishedAt": "2025-08-08T23:18:58Z",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
       "name": "BBC",
@@ -42,27 +56,13 @@
     }
   },
   {
-    "id": "ad5bf4eb6f42f6fd408f32acfcb8adb2",
-    "title": "Second California wildfire in a week at 'zero containment' - evacuating thousands",
-    "description": "The fire at Hasley Canyon, Ventura County began at around 1.30pm on Thursday, spreading to an area of 2.3 square miles in just five hours. A separate blaze within the Los Padres National Forest is now burning an area of 154 square miles.",
-    "content": "California's second wildfire in a week is \"0% contained\", with more than 4,200 people evacuated from their homes.\nThe Canyon Fire at Hasley Canyon, Ventura County, began at around 1.30pm on Thursday, spreading to an area of 2.3 square miles in just f... [2550 chars]",
-    "url": "https://news.sky.com/story/second-california-wildfire-in-a-week-at-zero-containment-evacuating-thousands-13408519",
-    "image": "https://e3.365dm.com/25/08/1600x900/skynews-hasley-canyon-california_6985373.jpg?20250808075841",
-    "publishedAt": "2025-08-08T11:07:01Z",
-    "source": {
-      "id": "896bbd67b1fce1e7e97122b9a4345dab",
-      "name": "Sky News",
-      "url": "https://news.sky.com"
-    }
-  },
-  {
-    "id": "c07bfa5b75fcd0ebe715c78a21f02399",
-    "title": "Heat alert for England as temperatures forecast to climb back above 30C",
-    "description": "UK Health Security Agency warns of potential rise in deaths as hot weather sweeps in from Monday",
-    "content": "A yellow heat health alert has been issued across swaths of England for next week as warm weather sweeps in.\nTemperatures are expected to exceed 30C (86F) across parts of central, southern and eastern England on Monday and Tuesday, according to the M... [1665 chars]",
-    "url": "https://www.theguardian.com/uk-news/2025/aug/08/heat-alert-england-temperatures-forecast-above-30c",
-    "image": "https://i.guim.co.uk/img/media/cf2f4e5672636bc15e74b31cd85168914a949858/12_0_3794_3036/master/3794.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ff58ca674ce518c121fce4438d0cee17",
-    "publishedAt": "2025-08-08T11:00:00Z",
+    "id": "47c0b21a9122272939cec23132f91490",
+    "title": "Hirst\u2019s late penalty earns Ipswich draw with Birmingham in Championship opener",
+    "description": "The Ipswich striker fired home from the spot in the 95th minute to earn a 1-1 draw at Birmingham on the opening night of the Championship season",
+    "content": "The latest club to secure promotion from League One to the Premier League in successive seasons were ill-prepared for their sudden rise to the summit of English football; it was merely a happy accident of an excellent managerial feat. So it is no sur... [4343 chars]",
+    "url": "https://www.theguardian.com/football/2025/aug/08/birmingham-ipswich-championship-match-report",
+    "image": "https://i.guim.co.uk/img/media/b822cef52e5afb269f3232358443bdc8ec1521ef/385_0_3851_3081/master/3851.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=22cf98ec1e714f80612d0b368115a781",
+    "publishedAt": "2025-08-08T23:50:00Z",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
       "name": "The Guardian",
