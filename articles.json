@@ -1,54 +1,12 @@
 [
   {
-    "id": "1c5a2a4ced6670b46b32d9d7bfbf767e",
-    "title": "Police make arrests at protest in support of proscribed group Palestine Action",
-    "description": "Legislation to proscribe Palestine Action came into force on 5 July, making it a criminal offence to show support for the organisation, carrying a sentence of up to 14 years in prison.",
-    "content": "Police have made arrests in central London after a \"significant number of people\" turned out for a Palestine Action demonstration - despite the group being banned.\nOrganisers Defend Our Juries said up to 700 people were at the event in Parliament Squ... [2493 chars]",
-    "url": "https://news.sky.com/story/police-make-arrests-at-protest-in-support-of-proscribed-group-palestine-action-13409027",
-    "image": "https://e3.365dm.com/25/08/1600x900/skynews-palestine-action-protest_6986359.jpg?20250809132212",
-    "publishedAt": "2025-08-09T12:22:49Z",
-    "source": {
-      "id": "896bbd67b1fce1e7e97122b9a4345dab",
-      "name": "Sky News",
-      "url": "https://news.sky.com"
-    }
-  },
-  {
-    "id": "c722806d6b7f241152a4fb68d2d027d2",
-    "title": "Arrests begin in London at largest protest over Palestine Action since group\u2019s ban",
-    "description": "Met police says it has drawn officers from other forces to form \u2018significant presence\u2019 in busy weekend of protests",
-    "content": "Arrests have begun in central London at the largest demonstration relating to Palestine Action since the group was proscribed as a terrorist organisation.\nThe Metropolitan police said they had drawn officers from other forces to help form a \u201csignific... [2734 chars]",
-    "url": "https://www.theguardian.com/world/2025/aug/09/palestine-action-arrests-london-largest-protest-ban",
-    "image": "https://i.guim.co.uk/img/media/f7bcc30b3740376e14cd41f39718ac898c6c619e/813_0_4876_3903/master/4876.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb2e0b66c15e8ebff40aa5accb11ff03",
-    "publishedAt": "2025-08-09T12:09:00Z",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com"
-    }
-  },
-  {
-    "id": "0a3ff5d168de1baa1e86843ae7e5eae5",
-    "title": "Three people injured in shooting at New York City\u2019s Times Square",
-    "description": "NYPD say shooting took place after verbal dispute and one person is being held in custody",
-    "content": "Three people have been injured in a shooting at New York City\u2019s Times Square after a 17-year-old opened fire, the New York police department has said.\nPolice said they were questioning one person who is being held in custody, but that no charges have... [1727 chars]",
-    "url": "https://www.theguardian.com/us-news/2025/aug/09/three-people-injured-in-shooting-at-new-york-citys-times-square",
-    "image": "https://i.guim.co.uk/img/media/2308ceb52f5b889864d7dfd637d806444114b0c5/462_0_4741_3791/master/4741.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f65284a88a0279f063f123e102f60d5b",
-    "publishedAt": "2025-08-09T11:09:00Z",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com"
-    }
-  },
-  {
-    "id": "886318995db786a2569158fac3ba09ec",
-    "title": "Liverpool police given extra stop and search powers for city centre",
-    "description": "A Section 60 order giving officers enhanced powers will be in effect in Liverpool until 16:00 BST.",
-    "content": "Police have said they will use extra stop and search powers in Liverpool city centre.\nThe Section 60 order - to run until 16:00 BST - is intended \"not to stop people going about their lawful business but to deter crime or serious violence\", Merseysid... [322 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cq87ze7g3w4o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/400e/live/00ff83b0-750f-11f0-9cb3-2344cd85f55f.png",
-    "publishedAt": "2025-08-09T11:04:26Z",
+    "id": "d36d19229a3b1635e534aafc4dd8e776",
+    "title": "Alaska summit: Europe allies urge Trump not to deal with Putin without Ukraine",
+    "description": "The White House says Trump is open to Ukraine joining talks with Putin on Friday, as Zelensky insists any deal without Kyiv is a \u201cdead decision\u201d.",
+    "content": "European allies have rallied behind Ukraine in a renewed surge of support, insisting that any peace talks with Russia must include Kyiv.\n\"The path to peace in Ukraine cannot be decided without Ukraine,\" said a joint statement issued by the leaders of... [417 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c0e9py7e28xo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3bc6/live/8f504ac0-7576-11f0-a975-cb151ca452f4.jpg",
+    "publishedAt": "2025-08-10T04:20:34Z",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
       "name": "BBC",
@@ -56,17 +14,59 @@
     }
   },
   {
-    "id": "282062080121c0d2b48550bb902af356",
-    "title": "Manchester United seal \u00a373.7m deal for Benjamin Sesko from RB Leipzig",
-    "description": "Manchester United have confirmed the signing of Benjamin Sesko in a deal worth up to \u00a373.7m with RB Leipzig",
-    "content": "Manchester United have confirmed the signing of Benjamin Sesko in a deal worth up to \u00a373.7m with RB Leipzig. The striker will join on a five-year deal and become Ruben Amorim\u2019s fourth major signing of the summer.\nSesko passed his medical at Old Traff... [3672 chars]",
-    "url": "https://www.theguardian.com/football/2025/aug/09/manchester-united-seal-76m-deal-benjamin-sesko-leipzig",
-    "image": "https://i.guim.co.uk/img/media/8389d99183f8a150a45c86773f77a48f92796a65/0_964_4068_3254/master/4068.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2a5029095d3860bf1df01f7154af1db9",
-    "publishedAt": "2025-08-09T10:18:00Z",
+    "id": "77bca288235e77ca42b9e57cf75fd651",
+    "title": "Ukraine war briefing: European leaders stress protection of Ukrainian interests ahead of Trump-Putin talks",
+    "description": "Leaders present counterproposal and urge more pressure on Russia ahead of summit; Zelenskyy rejects idea of giving up land to end the war. What we know on day 1",
+    "content": "European leaders stressed the need to keep pressure on Moscow and protect Ukrainian and European security interests after Donald Trump and Vladimir Putin arranged to meet in Alaska next week. A joint statement from French, Italian, German, Polish, Br... [2558 chars]",
+    "url": "https://www.theguardian.com/world/2025/aug/10/ukraine-war-briefing-europe-stresses-protection-of-ukrainian-interests-ahead-of-trump-putin-talks",
+    "image": "https://i.guim.co.uk/img/media/04643a66222eb77f7c1a01b904b65be80dc11054/317_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46b42f23c1252eb14e0954de91616e00",
+    "publishedAt": "2025-08-10T02:04:00Z",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
       "name": "The Guardian",
       "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "43b21bc39e4d267103a7de373c911abd",
+    "title": "'Is my secret camera working?' - posing as a migrant to infiltrate a cross-Channel gang",
+    "description": "In a forest in northern France, a BBC journalist pretends to be a migrant wanting to get to England.",
+    "content": "I am walking towards the forest near Dunkirk, thinking about the battery in my pocket. I've hidden the wires under two T-shirts, but is anything still showing? Is my secret camera working? Is it pointing at the right angle? I have, at most, three hou... [984 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c04r5y5xv11o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b644/live/052a4d70-7466-11f0-8071-1788c7e8ae0e.jpg",
+    "publishedAt": "2025-08-10T05:00:06Z",
+    "source": {
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    }
+  },
+  {
+    "id": "3156ba14ba39bae4a0ea2600b3e424b1",
+    "title": "Raducanu begins Roig partnership with victory against Danilovic in Cincinnati",
+    "description": "Emma Raducanu\u2019s time working with Francisco Roig began with a win as she defeated Olga Danilovic 6-3, 6-2 at the Cincinnati Open",
+    "content": "The Francisco Roig era of Emma Raducanu\u2019s career began with a positive performance as the 30th seed defeated Olga Danilovic of Serbia 6-3, 6-2 on a sweltering day in the second round at the Cincinnati Open.\nRaducanu\u2019s recent progress has been driven ... [5212 chars]",
+    "url": "https://www.theguardian.com/sport/2025/aug/09/emma-raducanu-francisco-roig-tennis-cincinnati-open",
+    "image": "https://i.guim.co.uk/img/media/0cf75330119c1ae4da947ea257c854757e6e1165/487_0_3608_2886/master/3608.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=07d711d8cfb6ba15305d5cfe72518a21",
+    "publishedAt": "2025-08-10T00:17:00Z",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "b8e7ce06d22ff9aaa025d9dd25c6163e",
+    "title": "The complex question of what it is to be culturally Irish in 2025",
+    "description": "Ed Sheeran grew up in England but described himself as 'culturally Irish,' prompting debate about what that really means",
+    "content": "He sang wistfully of the English town that shaped his life.\n\"Found my heart and broke it here. Made friends and lost them through the years. And I've not seen the roaring fields in so long, I know I've grown. But I can't wait to go home.\"\nEd Sheeran ... [842 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cgln9y13x3yo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cf55/live/dda03990-6e11-11f0-af20-030418be2ca5.png",
+    "publishedAt": "2025-08-09T23:09:31Z",
+    "source": {
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
     }
   }
 ]
