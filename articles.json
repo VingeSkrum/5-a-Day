@@ -1,40 +1,12 @@
 [
   {
-    "id": "a84ce5876dffcfaf9a37368644aa9da4",
-    "title": "North Koreans tell BBC they are sent to work 'like slaves' in Russia",
-    "description": "More than 50,000 North Koreans will be sent to work in Russia, as Moscow's war in Ukraine drains labour pools.",
-    "content": "Thousands of North Koreans are being sent to work in slave-like conditions in Russia to fill a huge labour shortage exacerbated by Russia's ongoing invasion of Ukraine, the BBC has learned.\nMoscow has repeatedly turned to Pyongyang to help it fight t... [1252 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c2077gwjlvxo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/116a/live/21750250-7690-11f0-a20f-3b86f375586a.png",
-    "publishedAt": "2025-08-12T05:10:26Z",
-    "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "d697c35c232b69836ad27929df97cc26",
-    "title": "Knee-replacement implant used on thousands of NHS patients known to be faulty for years",
-    "description": "Patients say they were left immobile or addicted to painkillers after receiving the NexGen implant.",
-    "content": "Debbie Booker from Southampton had an operation to replace her left knee in 2016.\nAlthough initially it appeared to have been successful, she started to experience severe pain a year later while on holiday in Majorca.\n\"I laid a bag of ice on my knee ... [1463 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cqxgen498ejo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/272c/live/91018110-76d2-11f0-a975-cb151ca452f4.jpg",
-    "publishedAt": "2025-08-12T05:00:19Z",
-    "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "206ec411d65db867267e23e76ab337ba",
-    "title": "Warm weather and England\u2019s Euros success lifted UK retail sales in July",
-    "description": "Sunnier picture clouded by warning that mooted higher taxes could lead to shop closures and job losses",
-    "content": "Warmer weather and a series of sporting events lifted retail sales last month but retailers said the return to growth \u201cbarely touched the sides\u201d and warned that mooted higher taxes would lead to shop closures and job losses.\nRetail sales rose by 2.5%... [4416 chars]",
-    "url": "https://www.theguardian.com/business/2025/aug/12/warm-weather-england-euros-success-lifted-uk-retail-sales-in-july",
-    "image": "https://i.guim.co.uk/img/media/e1ae2b12c6e67393dce7855c4b44d055e387db90/481_0_4813_3850/master/4813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a1d6fbfc2b53b232caa218ee8326fdae",
-    "publishedAt": "2025-08-12T05:00:00Z",
+    "id": "0bd0113f3584ab700a6628bcefff21fc",
+    "title": "Would-be niqab assassin guilty of conspiracy to murder in Birmingham",
+    "description": "Aimee Betro disguised herself and tried to shoot Sikander Ali at point-blank range when her gun jammed, finds court",
+    "content": "A would-be assassin who tried to shoot a rival at point-blank range while disguised in a niqab has been found guilty of conspiracy to murder.\nAimee Betro, 45, who is originally from the US, flew to the UK as part of a revenge plot orchestrated by co-... [412 chars]",
+    "url": "https://www.theguardian.com/uk-news/2025/aug/12/would-be-niqab-assassin-guilty-of-conspiracy-to-in-birmingham",
+    "image": "https://i.guim.co.uk/img/media/15ac94fe43a78a343a2c14918d2d40844f0553d5/437_0_1464_1172/master/1464.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=de154a5a37d9c73ca362182c8148c4ee",
+    "publishedAt": "2025-08-12T12:03:00Z",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
       "name": "The Guardian",
@@ -42,13 +14,13 @@
     }
   },
   {
-    "id": "59f8830ad2332052828ae77a54c93243",
-    "title": "Trump sparks concern after suggesting he might allow sales of Nvidia\u2019s advanced AI chips in China",
-    "description": "The president says he could \u2018make a deal\u2019 for Nvidia to sell a downgraded version of its flagship Blackwell chip in China",
-    "content": "Donald Trump has suggested he might allow Nvidia to sell chips in China that are more technology advanced than currently permitted, despite deep-seated fears in Washington that Beijing could harness US artificial intelligence capabilities to supercha... [3163 chars]",
-    "url": "https://www.theguardian.com/world/2025/aug/12/nvidia-chip-china-sale-trump-blackwell",
-    "image": "https://i.guim.co.uk/img/media/49f3fd9303e0e7ab2d619b45d62232f4c15b598b/290_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b3185dcf8c99535b3976645d6d97763e",
-    "publishedAt": "2025-08-12T03:42:00Z",
+    "id": "e0c929b8e7901906739646002a0d6a0e",
+    "title": "Thames Water: advisers appointed to plan for company\u2019s potential collapse",
+    "description": "FTI Consulting seen as frontrunner to advise on placing the utility into a special administration regime",
+    "content": "UK ministers have appointed insolvency advisers to make contingency plans for the potential collapse of Thames Water.\nThe company, which supplies 16 million customers, has been racing to pull together a deal to avoid financial collapse.\nIn a developm... [3818 chars]",
+    "url": "https://www.theguardian.com/business/2025/aug/12/thames-water-advisers-appointed-to-plan-for-utilitys-potential-collapse",
+    "image": "https://i.guim.co.uk/img/media/fbbe78588801d4bb5cb04fc52a51887b0cbc29e5/13_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f48264a8f15a401bfb383f3f9704762c",
+    "publishedAt": "2025-08-12T12:02:00Z",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
       "name": "The Guardian",
@@ -56,17 +28,45 @@
     }
   },
   {
-    "id": "7e475fe0c4029a86ee541f235c566605",
-    "title": "Settlers and segregation: Inside the conflict forcing Palestinians from their homes",
-    "description": "Settlers and segregation: Inside the conflict forcing Palestinians from their homes",
-    "content": "By Stuart Ramsay, chief correspondent\nOn the side of a busy road outside the West Bank city of Ramallah, I'm speaking to Mohammed Robin.\nI'd read how he left his smallholding one morning to go to work, and when he came back he found it had been taken... [1747 chars]",
-    "url": "https://news.sky.com/story/settlers-and-segregation-inside-the-conflict-forcing-palestinians-from-their-homes-13410010",
-    "image": "https://e3.365dm.com/25/08/1600x900/skynews-ramsay-west-bank_6988271.png?20250811162347",
-    "publishedAt": "2025-08-12T02:57:18Z",
+    "id": "96de2e936957aa79873896ae8f2f9e53",
+    "title": "Jayla-Jean Mclaren: Man and woman arrested on suspicion of murder after one-year-old's death",
+    "description": "The child died in hospital on Sunday, two days after being admitted with serious injuries.",
+    "content": "A man and a woman have been arrested on suspicion of murder following the death of a one-year-old girl on the Isle of Wight.\nJayla-Jean Mclaren died in hospital on Sunday, two days after being admitted with serious injuries.\nA 31-year-old man and 27-... [1538 chars]",
+    "url": "https://news.sky.com/story/jayla-jean-mclaren-man-and-woman-arrested-on-suspicion-of-murder-after-one-year-olds-death-13410542",
+    "image": "https://e3.365dm.com/25/08/1600x900/skynews-jayla-jean-mclaren_6985237.jpg?20250808000929",
+    "publishedAt": "2025-08-12T11:37:06Z",
     "source": {
       "id": "896bbd67b1fce1e7e97122b9a4345dab",
       "name": "Sky News",
       "url": "https://news.sky.com"
+    }
+  },
+  {
+    "id": "d255c6ad8ebba963d621de2930d351fe",
+    "title": "Man develops rare condition after ChatGPT query over stopping eating salt",
+    "description": "US medical journal article about 60-year-old with bromism warns against using AI app for health information",
+    "content": "A US medical journal has warned against using ChatGPT for health information after a man developed a rare condition following an interaction with the chatbot about removing table salt from his diet.\nAn article in the Annals of Internal Medicine repor... [3190 chars]",
+    "url": "https://www.theguardian.com/technology/2025/aug/12/us-man-bromism-salt-diet-chatgpt-openai-health-information",
+    "image": "https://i.guim.co.uk/img/media/909696357844bae84bdadb85207f95ea48e30f6f/837_221_5523_4419/master/5523.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ae4c1ea1bc507c1600fd2d641bddc7f",
+    "publishedAt": "2025-08-12T11:16:00Z",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "47c86dfacdc4afe46c57486ca475423b",
+    "title": "Men being over-treated for prostate cancer, says charity",
+    "description": "More low-risk cancers could be monitored rather than treated, avoiding significant side effects, says a charity.",
+    "content": "Men being over-treated for prostate cancer, says charity\nThe charity said outdated guidelines were to blame. The National Institute for Health and Care Excellence (NICE), which produces them, said it was reviewing its advice.\nOf the 56,000 diagnosed ... [2695 chars]",
+    "url": "https://www.bbc.com/news/articles/cger2712j1yo",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/89ed/live/01f736b0-776b-11f0-a20f-3b86f375586a.jpg",
+    "publishedAt": "2025-08-12T10:43:29Z",
+    "source": {
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "name": "BBC",
+      "url": "https://www.bbc.com"
     }
   }
 ]
