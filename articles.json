@@ -1,54 +1,12 @@
 [
   {
-    "id": "ee8a8aca4bf664780a2e6190ac03fce5",
-    "title": "UK weather: heat health warnings issued across England",
-    "description": "Health agency says hot weather could have significant impact as temperatures soar to mid-30s celsius",
-    "content": "Amber heat health warnings have been issued across swaths of England as temperatures rise. Parts of the UK are forecast to be hotter than Bali this week, with thermometer readings likely to hit the mid-30s celsius on Tuesday.\nThe UK Health Security A... [2075 chars]",
-    "url": "https://www.theguardian.com/uk-news/2025/aug/11/uk-weather-heat-health-warning-england",
-    "image": "https://i.guim.co.uk/img/media/796f6738a04eb8a4b43ffb6df52dec75c3f22af5/325_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6406d0ab61e095759c8b5226f5a0d8eb",
-    "publishedAt": "2025-08-11T11:50:00Z",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com"
-    }
-  },
-  {
-    "id": "c742243ef5ffdc3702f392a1ac776f90",
-    "title": "Crystal Palace to stay in Conference League after losing appeal at Cas",
-    "description": "Crystal Palace have lost their appeal at the court of arbitration for sport against their demotion to the Conference League",
-    "content": "Crystal Palace have lost their appeal against demotion from the Europa League and will take their place in the Conference League. The court of arbitration for sport confirmed on Monday that the FA Cup winners were unsuccessful in overturning the deci... [3004 chars]",
-    "url": "https://www.theguardian.com/football/2025/aug/11/crystal-palace-conference-league-lose-appeal-cas-europa-league",
-    "image": "https://i.guim.co.uk/img/media/4ccfdd651109cfee199a3395b7caa40416784471/1098_0_6226_4981/master/6226.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2be34fa393105e681d4fd712802b6ad3",
-    "publishedAt": "2025-08-11T10:59:00Z",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com"
-    }
-  },
-  {
-    "id": "be841c531dfec8521a75d4d5a8fa360a",
-    "title": "Jack Grealish agrees to join Everton on season\u2019s loan from Manchester City",
-    "description": "Jack Grealish is poised to sign for Everton on loan after agreeing to leave Manchester City in an attempt to revive his stalled career",
-    "content": "Jack Grealish is poised to sign for Everton on loan after agreeing to leave Manchester City in an attempt to revive his stalled career.\nEverton\u2019s interest in the City midfielder was reciprocated over the weekend with Grealish accepting the opportunit... [994 chars]",
-    "url": "https://www.theguardian.com/football/2025/aug/11/jack-grealish-agrees-to-join-everton-season-loan-manchester-city",
-    "image": "https://i.guim.co.uk/img/media/2e2dafe664be56bf0a3f781a1cfa0299bee53a09/222_155_1575_1260/master/1575.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d3e04d3aee68d2fb6d183590d5d879a5",
-    "publishedAt": "2025-08-11T10:58:00Z",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com"
-    }
-  },
-  {
-    "id": "d8d6722552ebef77a34732faf8ddaf51",
-    "title": "Three children arrested on suspicion of murder",
-    "description": "A 16-year-old girl and two boys, aged 14 and 15, are in police custody after an incident on Sunday.",
-    "content": "Three children have been arrested on suspicion of murder after a man was found dead in Leysdown-on-Sea on the Isle of Sheppey, Kent Police has said.\nOfficers were called to Warden Bay Road shortly after 19:00 BST on Sunday, following reports of an al... [304 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cn855zj319yo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/521f/live/5fef1620-769e-11f0-8155-5f8739f897b4.jpg",
-    "publishedAt": "2025-08-11T10:44:44Z",
+    "id": "a84ce5876dffcfaf9a37368644aa9da4",
+    "title": "North Koreans tell BBC they are sent to work 'like slaves' in Russia",
+    "description": "More than 50,000 North Koreans will be sent to work in Russia, as Moscow's war in Ukraine drains labour pools.",
+    "content": "Thousands of North Koreans are being sent to work in slave-like conditions in Russia to fill a huge labour shortage exacerbated by Russia's ongoing invasion of Ukraine, the BBC has learned.\nMoscow has repeatedly turned to Pyongyang to help it fight t... [1252 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c2077gwjlvxo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/116a/live/21750250-7690-11f0-a20f-3b86f375586a.png",
+    "publishedAt": "2025-08-12T05:10:26Z",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
       "name": "BBC",
@@ -56,13 +14,55 @@
     }
   },
   {
-    "id": "95d76f5c5f1d1e3ff8f28939819f2af3",
-    "title": "Girl, 16, and two teenage boys arrested on suspicion of murder after death of man on Isle of Sheppey",
-    "description": "Kent Police said officers were called to reports of an altercation involving a small group of people in Leysdown-on-Sea on the Isle of Sheppey.",
-    "content": "Three teenagers have been arrested following the death of a man in Kent.\nOfficers attended an incident in the seaside resort of Leysdown-on-Sea, on the Isle of Sheppey, shortly after 7pm on Sunday.\nKent Police said officers were called to the Warden ... [798 chars]",
-    "url": "https://news.sky.com/story/girl-16-and-two-teenage-boys-arrested-following-death-of-man-on-isle-of-sheppey-13410074",
-    "image": "https://e3.365dm.com/25/08/1600x900/skynews-sheppey-leysdown-on-sea_6988059.jpg?20250811125635",
-    "publishedAt": "2025-08-11T10:41:54Z",
+    "id": "d697c35c232b69836ad27929df97cc26",
+    "title": "Knee-replacement implant used on thousands of NHS patients known to be faulty for years",
+    "description": "Patients say they were left immobile or addicted to painkillers after receiving the NexGen implant.",
+    "content": "Debbie Booker from Southampton had an operation to replace her left knee in 2016.\nAlthough initially it appeared to have been successful, she started to experience severe pain a year later while on holiday in Majorca.\n\"I laid a bag of ice on my knee ... [1463 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cqxgen498ejo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/272c/live/91018110-76d2-11f0-a975-cb151ca452f4.jpg",
+    "publishedAt": "2025-08-12T05:00:19Z",
+    "source": {
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    }
+  },
+  {
+    "id": "206ec411d65db867267e23e76ab337ba",
+    "title": "Warm weather and England\u2019s Euros success lifted UK retail sales in July",
+    "description": "Sunnier picture clouded by warning that mooted higher taxes could lead to shop closures and job losses",
+    "content": "Warmer weather and a series of sporting events lifted retail sales last month but retailers said the return to growth \u201cbarely touched the sides\u201d and warned that mooted higher taxes would lead to shop closures and job losses.\nRetail sales rose by 2.5%... [4416 chars]",
+    "url": "https://www.theguardian.com/business/2025/aug/12/warm-weather-england-euros-success-lifted-uk-retail-sales-in-july",
+    "image": "https://i.guim.co.uk/img/media/e1ae2b12c6e67393dce7855c4b44d055e387db90/481_0_4813_3850/master/4813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a1d6fbfc2b53b232caa218ee8326fdae",
+    "publishedAt": "2025-08-12T05:00:00Z",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "59f8830ad2332052828ae77a54c93243",
+    "title": "Trump sparks concern after suggesting he might allow sales of Nvidia\u2019s advanced AI chips in China",
+    "description": "The president says he could \u2018make a deal\u2019 for Nvidia to sell a downgraded version of its flagship Blackwell chip in China",
+    "content": "Donald Trump has suggested he might allow Nvidia to sell chips in China that are more technology advanced than currently permitted, despite deep-seated fears in Washington that Beijing could harness US artificial intelligence capabilities to supercha... [3163 chars]",
+    "url": "https://www.theguardian.com/world/2025/aug/12/nvidia-chip-china-sale-trump-blackwell",
+    "image": "https://i.guim.co.uk/img/media/49f3fd9303e0e7ab2d619b45d62232f4c15b598b/290_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b3185dcf8c99535b3976645d6d97763e",
+    "publishedAt": "2025-08-12T03:42:00Z",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "7e475fe0c4029a86ee541f235c566605",
+    "title": "Settlers and segregation: Inside the conflict forcing Palestinians from their homes",
+    "description": "Settlers and segregation: Inside the conflict forcing Palestinians from their homes",
+    "content": "By Stuart Ramsay, chief correspondent\nOn the side of a busy road outside the West Bank city of Ramallah, I'm speaking to Mohammed Robin.\nI'd read how he left his smallholding one morning to go to work, and when he came back he found it had been taken... [1747 chars]",
+    "url": "https://news.sky.com/story/settlers-and-segregation-inside-the-conflict-forcing-palestinians-from-their-homes-13410010",
+    "image": "https://e3.365dm.com/25/08/1600x900/skynews-ramsay-west-bank_6988271.png?20250811162347",
+    "publishedAt": "2025-08-12T02:57:18Z",
     "source": {
       "id": "896bbd67b1fce1e7e97122b9a4345dab",
       "name": "Sky News",
