@@ -1,26 +1,12 @@
 [
   {
-    "id": "42e1f910a93bb6ff4c9626258bcbd6a7",
-    "title": "Spain wildfires are \u2018clear warning\u2019 of climate emergency, minister says",
-    "description": "Environment minister says blazes are proof of country\u2019s vulnerability to global heating as fires burn across Europe",
-    "content": "The heatwave-fuelled wildfires that have killed two people in Spain over recent days, devouring thousands of hectares of land and forcing thousands of people from their homes, are a \u201cclear warning\u201d of the impact of the climate emergency, the country\u2019... [5179 chars]",
-    "url": "https://www.theguardian.com/world/2025/aug/13/spain-wildfires-climate-crisis-heatwave",
-    "image": "https://i.guim.co.uk/img/media/923511128b39aa8b0f350af69522b507a37f0dc0/720_0_4961_3971/master/4961.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=82269ff555d958d10f5d3e9e684524f2",
-    "publishedAt": "2025-08-13T12:14:00Z",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com"
-    }
-  },
-  {
-    "id": "7214610f1db485222e478990a036dc90",
-    "title": "Evacuations in Alaska after glacial melt raises fears of record flooding",
-    "description": "Meltwater is escaping from a basin that is dammed by a glacier - prompting fears of a deluge in state capital Juneau.",
-    "content": "Some Alaskans are evacuating their homes as meltwater escapes a basin dammed by the Mendenhall Glacier - raising fears of record-breaking flooding in the US state's capital city.\nThe National Weather Service (NWS) office in Juneau has issued a flood ... [362 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c4gejyg8l7vo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bbca/live/2fd335e0-783b-11f0-aa29-15a69a839271.jpg",
-    "publishedAt": "2025-08-13T11:50:55Z",
+    "id": "69a3afc815a8d13ff4dd8e4d5d1012ed",
+    "title": "UK economic growth slows to 0.3% between April and June",
+    "description": "Chancellor Rachel Reeves has made growing the economy a priority - but many economists and politicians are concerned that it is not improving fast enough.",
+    "content": "These figures could dictate Reeves' decisions for the autumn Budget\nHarry Farley\nPolitical correspondent\nImage source, PA Media\nToday\u2019s figures cover the end of Rachel Reeves\u2019 first year in charge of the economy.\nIn that time she has repeatedly said ... [843 chars]",
+    "url": "https://www.bbc.co.uk/news/live/c209z9ez7v7t",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ae0/live/1168c470-77b5-11f0-a975-cb151ca452f4.jpg",
+    "publishedAt": "2025-08-14T06:11:15Z",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
       "name": "BBC",
@@ -28,45 +14,59 @@
     }
   },
   {
-    "id": "6237db6e549bb89081b9c7f7cc822c91",
-    "title": "Hefin David, Welsh Labour Member of the Senedd for Caerphilly, dies aged 47",
-    "description": "Tributes have been paid to Hefin David, who was called an \"outstanding politician\" - while Keir Starmer said he was \"a powerful voice for the people of Wales\".",
-    "content": "Hefin David, the Welsh Labour Member of the Senedd for Caerphilly, has died, aged 47.\nIn a statement, Welsh Labour leader Eluned Morgan said: \"We are extremely saddened by the sudden death of Hefin.\n\"Our thoughts are with his family at this terrible ... [2124 chars]",
-    "url": "https://news.sky.com/story/hefin-david-welsh-labour-member-of-the-senedd-for-caerphilly-dies-aged-48-13410980",
-    "image": "https://e3.365dm.com/25/08/1600x900/skynews-hefin-david-welsh-labour_6989703.jpg?20250813115627",
-    "publishedAt": "2025-08-13T10:51:18Z",
-    "source": {
-      "id": "896bbd67b1fce1e7e97122b9a4345dab",
-      "name": "Sky News",
-      "url": "https://news.sky.com"
-    }
-  },
-  {
-    "id": "29ec3579f9f283b986b0edfddd0f0d62",
-    "title": "Mortgage rates below 5% for first time since Truss budget",
-    "description": "Average two-year mortgage rates have fallen to 4.99%, the lowest point since September 2022.",
-    "content": "Average mortgage rates below 5% for first time since Truss budget\n2 hours ago Share Save Tom Espiner BBC business reporter Share Save\nGetty Images\nThe average two-year mortgage rate has dipped below 5% for the first time since former Prime Minister L... [1535 chars]",
-    "url": "https://www.bbc.com/news/articles/c4gzv41kw3jo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b54e/live/30d8d2f0-7823-11f0-a40c-cb6abba59855.jpg",
-    "publishedAt": "2025-08-13T10:48:02Z",
-    "source": {
-      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
-      "name": "BBC",
-      "url": "https://www.bbc.com"
-    }
-  },
-  {
-    "id": "a1900c29a0c8cdde94c17d50804e436a",
-    "title": "Chinese firm a leading contender to buy Thames Water, reports say",
-    "description": "Hong Kong\u2019s CKI among those lining up to acquire struggling company if it collapses",
-    "content": "A Chinese firm is reportedly a leading contender to buy Thames Water if the heavily indebted company collapses in coming weeks.\nHong Kong\u2019s CKI, which invests in power and other utility companies in the UK, is among those lining up to acquire the wat... [3325 chars]",
-    "url": "https://www.theguardian.com/business/2025/aug/13/chinese-firm-a-leading-contender-to-buy-thames-water-reports-say",
-    "image": "https://i.guim.co.uk/img/media/40c5adea32515f0a7177a8de93c9e9a6391ef904/529_130_3342_2675/master/3342.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2a7ecc331c0d001eb5a97c45812603c",
-    "publishedAt": "2025-08-13T10:29:00Z",
+    "id": "077e20d6ed82e1a7810cd2a9c6fc0599",
+    "title": "\u2018No country is safe\u2019: deadly Nordic heatwave supercharged by climate crisis, scientists say",
+    "description": "Historically cool nations saw hospitals overheating and surge in drownings, wildfires and toxic algal blooms",
+    "content": "The prolonged Nordic heatwave in July was supercharged by the climate crisis and shows \u201cno country is safe from climate change\u201d, scientists say.\nNorway, Sweden and Finland have historically cool climates but were hit by soaring temperatures, includin... [4188 chars]",
+    "url": "https://www.theguardian.com/environment/2025/aug/14/nordic-heatwave-climate-crisis-sweden-norway-finland",
+    "image": "https://i.guim.co.uk/img/media/7ae4f9d9581aebd758c9b559a0cd9150be054623/240_0_2402_1922/master/2402.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd5319318b2f2901d7c8886c39e18f27",
+    "publishedAt": "2025-08-14T05:00:00Z",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
       "name": "The Guardian",
       "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "ea682a19bfad4bbcc83d134fab91548b",
+    "title": "Drop in new properties for rent is steepest since Covid, says Rics",
+    "description": "Monthly report from surveyors\u2019 body sees \u2018firmly negative trend\u2019 that is expected to push up rental prices",
+    "content": "The flow of new rental properties coming on to the market has fallen at the fastest rate since the first Covid lockdown five years ago, according to research by Britain\u2019s property surveyors.\nAlthough the demand for properties is steady, there are few... [3180 chars]",
+    "url": "https://www.theguardian.com/money/2025/aug/14/drop-new-properties-rent-steepest-covid-says-rics-prices",
+    "image": "https://i.guim.co.uk/img/media/6997d57c69db90d143d0cfa80e82aa8eca143dbc/362_0_3925_3141/master/3925.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=edf00debf7d2d1daaed37b47ab357dd8",
+    "publishedAt": "2025-08-14T04:00:00Z",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "29c664ecc5064763209f5ccc34c0427c",
+    "title": "Prosecutors look to try Weinstein for third time on sexual assault charge",
+    "description": "New York judge says he wants charge \u2013 which jury could not reach verdict on \u2013 to be tried again before year\u2019s end",
+    "content": "New York prosecutors are looking to try Harvey Weinstein for a third time on a sexual assault charge on which a jury failed to reach a decision earlier this summer but which had succeeded in 2020 before being vacated by an appeals court.\nNew York jud... [2582 chars]",
+    "url": "https://www.theguardian.com/world/2025/aug/13/harvey-weinstein-trial-new-york",
+    "image": "https://i.guim.co.uk/img/media/ecceeb203982517f46249c224e1f0fe8d2d8f4ed/250_0_2501_2000/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=18556814c4834c8261177940c236e2a1",
+    "publishedAt": "2025-08-14T03:19:00Z",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "bfdf0f49277d41d672e019504e889831",
+    "title": "Man accused of driving into Liverpool title parade crowds to appear in court today",
+    "description": "Paul Doyle, 53, of Croxteth, Liverpool, was charged with two counts of wounding with intent, two counts of causing grievous bodily harm with intent, two counts of attempted grievous bodily harm with intent, and one count of dangerous driving.",
+    "content": "A man accused of driving into crowds at Liverpool FC's title parade is due to appear in court today.\nMore than 130 people, including children, were injured when Paul Doyle allegedly drove his Ford Galaxy vehicle into hordes of fans at the celebration... [510 chars]",
+    "url": "https://news.sky.com/story/man-accused-of-driving-into-liverpool-title-parade-crowds-to-appear-in-court-today-13411380",
+    "image": "https://e3.365dm.com/25/05/1600x900/skynews-paul-doyle-liverpool_6930591.jpg?20250529173146",
+    "publishedAt": "2025-08-14T02:01:42Z",
+    "source": {
+      "id": "896bbd67b1fce1e7e97122b9a4345dab",
+      "name": "Sky News",
+      "url": "https://news.sky.com"
     }
   }
 ]
