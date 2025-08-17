@@ -1,12 +1,44 @@
 [
   {
-    "id": "2390dc8bd0f467ff51ddefee70031575",
-    "title": "MPs call on government to bring sick and injured Gaza children to UK",
-    "description": "Unicef has estimated that 50,000 children have been killed or injured since the conflict in Gaza began two years ago.",
-    "content": "The letter, co-ordinated by the Labour MP and GP Dr Simon Opher, said essential infrastructure in Gaza has been destroyed, and a long \"blockade\" of food, water and medical supplies and the ongoing violence has led to a medical and humanitarian catast... [2852 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c4gmk2yj5e9o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b371/live/0576ce00-7a80-11f0-81f2-1b12a33e5000.jpg",
-    "publishedAt": "2025-08-16T09:23:46Z",
+    "id": "a109c4f6baf36bed880763f57c66ee80",
+    "title": "Hurricane Erin reaches wind speeds of up to 160mph near Caribbean",
+    "description": "The hurricane strengthened from a tropical storm to a Category 5 in just 24 hours, before weakening slightly to a Category 4.",
+    "content": "A hurricane making its way past the Caribbean Sea has quickly turned into a major storm, after rapidly strengthening in just 24 hours.\nHurricane Erin - the first of the 2025 Atlantic season - raced from maximum sustained winds of 100mph (160kph) to h... [2622 chars]",
+    "url": "https://news.sky.com/story/hurricane-erin-reaches-wind-speeds-of-up-to-160mph-near-caribbean-13413030",
+    "image": "https://e3.365dm.com/25/08/1600x900/skynews-erin-hurricane_6992991.jpg?20250816175106",
+    "publishedAt": "2025-08-17T04:18:45Z",
+    "lang": "en",
+    "source": {
+      "id": "896bbd67b1fce1e7e97122b9a4345dab",
+      "name": "Sky News",
+      "url": "https://news.sky.com",
+      "country": "gb"
+    }
+  },
+  {
+    "id": "79515e901e67f38a259399eb3233ae83",
+    "title": "Israeli military preparing to expel Gaza City residents as baby in tent among those killed in latest attacks",
+    "description": "Military claims it is displacing population \u2018to ensure their safety\u2019 even as health officials report deadly attacks on previously designated safe zones",
+    "content": "The Israeli military will begin preparing for the forcible displacement of Palestinians from Gaza City, it said on Saturday, as health officials said it had killed at least 40 people including a baby in a tent and people seeking aid in its latest att... [6004 chars]",
+    "url": "https://www.theguardian.com/world/2025/aug/17/israeli-military-preparing-to-expel-gaza-city-residents-as-baby-in-tent-among-those-killed-in-latest-attacks",
+    "image": "https://i.guim.co.uk/img/media/a314d2b9824db2ff386a41d6ff25356294a51d6b/459_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=13ec3faac768a42dea9ec9b474100f53",
+    "publishedAt": "2025-08-17T03:13:00Z",
+    "lang": "en",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com",
+      "country": "gb"
+    }
+  },
+  {
+    "id": "cd8787c234050cc6c19b0453b7dec0fa",
+    "title": "Yvette Cooper defends Palestine Action ban as 60 more faces charges",
+    "description": "She writes in the Observer that the group is more than \"a regular protest group known for occasional stunts\".",
+    "content": "More than 700 people have been arrested since the group was banned by the government on 5 July - including more than 500 at a demonstration in central London last week.\nOn Saturday, Norfolk Police arrested 13 people accused of supporting the group, a... [1181 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c4gj93j2r2go",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/062a/live/b614ae70-7aea-11f0-a6d0-432733abd1f3.jpg",
+    "publishedAt": "2025-08-17T02:19:34Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -16,66 +48,34 @@
     }
   },
   {
-    "id": "f0e9cd349589426eae571144e92126a2",
-    "title": "\u2018Feeding a narcissist:\u2019 Ukraine reflects on Trump-Putin summit",
-    "description": "Some wins for Russian president, Ukrainian analysts say \u2013 although nothing concrete comes out of the meeting.",
-    "content": "Some wins for Russian president, Ukrainian analysts say \u2013 although nothing concrete comes out of the meeting.\nKyiv, Ukraine \u2013 The Alaska summit between United States President Donald Trump and his Russian counterpart, Vladimir Putin, was a masterclas... [5925 chars]",
-    "url": "https://www.aljazeera.com/news/2025/8/16/feeding-a-narcissist-ukraine-reflects-on-trump-putin-summit",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2025/08/AP25227850089586-1755337235.jpg?resize=1920%2C1440",
-    "publishedAt": "2025-08-16T11:18:56Z",
+    "id": "d6874998eb3e2b7eec0f09f67a9ef413",
+    "title": "Publishers issue warning on AI-created books imitating sports autobiographies",
+    "description": "Sky News has spent months tracking apparent AI recreations, particularly sports books, that have been sold on Amazon as Kindle e-books, as well as printed versions.",
+    "content": "The publishing industry has warned that books created by artificial intelligence - often imitating autobiographies - are a growing concern, and called on retailers to issue clearer warnings to consumers.\nSky News has spent months tracking apparent AI... [5708 chars]",
+    "url": "https://news.sky.com/story/publishers-issue-warning-on-ai-created-books-imitating-sports-autobiographies-13413325",
+    "image": "https://e3.365dm.com/25/08/1600x900/skynews-michelle-agyemang-chloe-kelly_6993352.jpg?20250816235543",
+    "publishedAt": "2025-08-17T01:23:47Z",
     "lang": "en",
     "source": {
-      "id": "7530d90c9af769eda4cb548f32ed381d",
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com",
+      "id": "896bbd67b1fce1e7e97122b9a4345dab",
+      "name": "Sky News",
+      "url": "https://news.sky.com",
       "country": "gb"
     }
   },
   {
-    "id": "4be2cef0bfb06cd09cc3e6cb0363e074",
-    "title": "Matchday Guide | Wolves vs Man City",
-    "description": "The Premier League returns on Saturday and the opening day sees Wolves take on Manchester City at Molineux in the evening kick-off.",
-    "content": "The Premier League returns on Saturday and the opening day sees Wolves take on Manchester City at Molineux in the evening kick-off.\nFor the thousands of supporters who will be attending the 5.30pm kick-off, here is everything you need to know ahead o... [8407 chars]",
-    "url": "https://www.wolves.co.uk/news/club/20250815-matchday-guide-wolves-vs-man-city/",
-    "image": "https://www.wolves.co.uk/media/5eehvfzr/jota-fans.jpg",
-    "publishedAt": "2025-08-16T10:11:03Z",
+    "id": "da12a6cbff707cc58c90fd2a65cb4579",
+    "title": "Claire's was glitz 'heaven' for kids before Shein and TikTok came along",
+    "description": "As the future of the chain hangs in the balance, what made tweenagers fall in love with its quirky charm?",
+    "content": "Nerd glasses and friendship necklaces: Claire's was heaven until Shein came along\n2 hours ago Share Save Grace Dean BBC News Share Save\nMatthew Chattle/Future Publishing via Getty Images Claire's has appointed administrators in the UK and Ireland\nFor... [5177 chars]",
+    "url": "https://www.bbc.com/news/articles/c23pek275p5o",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/dd41/live/7f8bb5a0-79fb-11f0-83cc-c5da98c419b8.jpg",
+    "publishedAt": "2025-08-16T23:21:53Z",
     "lang": "en",
     "source": {
-      "id": "09cca2ad30d5d92b0f3fac0dc15c9dc0",
-      "name": "Wolverhampton Wanderers FC",
-      "url": "https://www.wolves.co.uk",
-      "country": "gb"
-    }
-  },
-  {
-    "id": "ea037683548b810b73eeef2024f0ac5c",
-    "title": "M6 traffic LIVE updates as long queues build up following crash",
-    "description": "Emergency repairs are taking place",
-    "content": "Drivers are facing hour-long delays on the M6 near Greater Manchester as urgent repairs take place following a crash.\nTwo lanes of traffic have been closed on the northbound carriageway between junctions 27 at Standish and 28 at Leyland this morning ... [725 chars]",
-    "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/m6-traffic-live-updates-long-32287926",
-    "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article32287981.ece/ALTERNATES/s1200/1_30140446.jpg",
-    "publishedAt": "2025-08-16T09:52:00Z",
-    "lang": "en",
-    "source": {
-      "id": "d747ad2c8a358a8ac802059a4e88a6a6",
-      "name": "Manchester Evening News",
-      "url": "https://www.manchestereveningnews.co.uk",
-      "country": "gb"
-    }
-  },
-  {
-    "id": "579c3dd9a4848ee71e213f44bf13cb0e",
-    "title": "Saudi Arabia Snooker Masters final LIVE RESULTS: O'Sullivan vs Robertson NOW for \u00a3500k JACKPOT after two 147s - latest",
-    "description": "THE final of this year's Saudi Arabia Snooker Masters has been set - which means that someone is 19 frames away from banking a whopping \u00a3500,000 jack",
-    "content": "'Maddest game'\nThe Rocket says he thought he was on course to LOSE that game when he was level at 3-3.\nBut he went up a gear and dominated the second half of the match.\nRonnie said: \"It\u2019s probably the maddest game I have ever played in.\n\"Maddest game... [1092 chars]",
-    "url": "https://www.thesun.co.uk/sport/36298850/saudi-arabia-snooker-masters-final-live-results-osullivan-robertson-updates/",
-    "image": "https://www.thesun.co.uk/wp-content/uploads/2025/08/SunSport-off-platform-templates-2025-08-16T102732.872.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-    "publishedAt": "2025-08-16T09:47:26Z",
-    "lang": "en",
-    "source": {
-      "id": "8312b3960d99553247ab475ee7eeed9a",
-      "name": "The Sun",
-      "url": "https://www.thesun.co.uk",
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "name": "BBC",
+      "url": "https://www.bbc.com",
       "country": "gb"
     }
   }
