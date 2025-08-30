@@ -1,12 +1,28 @@
 [
   {
-    "id": "e16b0a39a3ed8d24af1a383ee2f87d2c",
-    "title": "Donald Trump revokes Secret Service protection for former vice president Kamala Harris",
-    "description": "US President Donald Trump has revoked Secret Service protection for former vice president and 2024 Democratic rival Kamala Harris.",
-    "content": "US President Donald Trump has revoked Secret Service protection for former vice president and 2024 Democratic rival Kamala Harris.\nA senior adviser to the former vice president confirmed the decision to NBC News, Sky News' US partner.\nIn a statement,... [1741 chars]",
-    "url": "https://news.sky.com/story/donald-trump-revokes-secret-service-protection-for-former-vice-president-kamala-harris-13420601",
-    "image": "https://e3.365dm.com/25/07/1600x900/skynews-donald-trump-kamala-harris_6955354.jpg?20250702130557",
-    "publishedAt": "2025-08-29T12:56:15Z",
+    "id": "06cbd8eaf57b57d226f252632f698695",
+    "title": "US court rules many of Trump's global tariffs are illegal",
+    "description": "The tariffs can remain in place until mid-October to allow the Trump administration time to request the Supreme Court take up the case.",
+    "content": "US court rules many of Trump's global tariffs are illegal\nThe ruling will not take effect until 14 October to give the administration time to ask the Supreme Court to take up the case.\nIn a 7-4 decision, the US Court of Appeals for the Federal Circui... [5005 chars]",
+    "url": "https://www.bbc.com/news/articles/ckgj7jxkq58o",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/835c/live/b20c1ae0-8524-11f0-a172-2d379cd1f7b4.jpg",
+    "publishedAt": "2025-08-30T00:57:07Z",
+    "lang": "en",
+    "source": {
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "name": "BBC",
+      "url": "https://www.bbc.com",
+      "country": "gb"
+    }
+  },
+  {
+    "id": "9f8784836fcf1ad2eb0d9a01a7befea6",
+    "title": "US court rules Trump's global tariffs are illegal - but leaves them in place for now",
+    "description": "The US Court of Appeals ruled that the US president was not legally allowed to declare national emergencies and impose import taxes on almost every country, as it mostly upheld a decision by a specialised federal trade court.",
+    "content": "Donald Trump's tariffs are unconstitutional, but they can remain in place for now, the US Court of Appeals has said.\nThe court ruled that the US president was not legally allowed to declare national emergencies and impose import taxes on almost every... [2579 chars]",
+    "url": "https://news.sky.com/story/us-court-rules-trumps-global-tariffs-are-illegal-but-leaves-them-in-place-for-now-13421036",
+    "image": "https://e3.365dm.com/25/08/1600x900/skynews-trump-gaza_7002631.jpg?20250827133208",
+    "publishedAt": "2025-08-30T00:13:12Z",
     "lang": "en",
     "source": {
       "id": "896bbd67b1fce1e7e97122b9a4345dab",
@@ -16,13 +32,29 @@
     }
   },
   {
-    "id": "195caf2de530edbfcf9a6351a7fd8700",
-    "title": "Trent Alexander-Arnold left out of England squad for World Cup qualifiers",
-    "description": "Thomas Tuchel has left Real Madrid\u2019s Trent Alexander-Arnold out of his squad for the World Cup qualifiers against Andorra and Serbia",
-    "content": "Trent Alexander-Arnold has been left out of the England squad by Thomas Tuchel. The Real Madrid player\u2019s omission was the most striking decision by the head coach, who has given first call-ups to Elliot Anderson and Djed Spence.\nKyle Walker, Phil Fod... [3711 chars]",
-    "url": "https://www.theguardian.com/football/2025/aug/29/trent-alexander-arnold-left-out-of-england-squad-for-world-cup-qualifiers",
-    "image": "https://i.guim.co.uk/img/media/dbd825754df9b42eb50a67c68f6426966a53b68e/532_7_4093_3274/master/4093.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8484e82a0215879f307b678385cdcf3b",
-    "publishedAt": "2025-08-29T11:47:00Z",
+    "id": "677f7b49624733523f6ec2071a88cb3a",
+    "title": "US blocks Palestinian leader Mahmoud Abbas from attending UN meeting in New York",
+    "description": "The decision comes as France leads international efforts to recognise a Palestinian state at the UN meeting next month.",
+    "content": "US blocks Palestinian leader from attending UN meeting in New York\n3 hours ago Share Save Paulin Kola BBC News and Chris Graham BBC News Share Save\nGetty Images Palestinian leader Mahmoud Abbas had been planning to travel to New York for the UN assem... [3266 chars]",
+    "url": "https://www.bbc.com/news/articles/cjdym32z9v7o",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fa76/live/913f1f60-8501-11f0-bf6f-0d0a8492a6fd.jpg",
+    "publishedAt": "2025-08-29T23:19:12Z",
+    "lang": "en",
+    "source": {
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "name": "BBC",
+      "url": "https://www.bbc.com",
+      "country": "gb"
+    }
+  },
+  {
+    "id": "624472873e18d3b8d3773289863ee78b",
+    "title": "\u2018Just hysteria\u2019: UK faces a crisis but the IMF bailout talk is overblown",
+    "description": "Despite sluggish growth and rising borrowing costs, most economists agree that Rachel Reeves doesn\u2019t face a repeat of 1976",
+    "content": "International confidence in the UK government\u2019s economic policies had evaporated. Growth was stalling, inflation was galloping, and Labour \u2013 back in power after a reckless Conservative administration had gambled on tax cuts \u2013 was in deep trouble.\nIt ... [7255 chars]",
+    "url": "https://www.theguardian.com/politics/2025/aug/29/uk-crisis-denis-healey-comparison-rachel-reeves",
+    "image": "https://i.guim.co.uk/img/media/414cf0bfa01124b57aa58d068325048bbd84db0b/471_3_2441_1952/master/2441.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e9be003322f6d0ea1a7ef8cef358cfb0",
+    "publishedAt": "2025-08-29T22:39:00Z",
     "lang": "en",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
@@ -32,45 +64,13 @@
     }
   },
   {
-    "id": "3bcee98c5fa29fb54476f379835fa94d",
-    "title": "Dutch Grand Prix: Lando Norris fastest from Oscar Piastri in first practice",
-    "description": "Lando Norris leads McLaren team-mate Oscar Piastri by 0.292 seconds in first practice at the Dutch Grand Prix.",
-    "content": "Stroll set his lap much later in the session than Alonso and the other leading cars, when the track would have been faster.\nAlex Albon's Williams was fifth fastest, ahead of Max Verstappen's Red Bull and Mercedes' George Russell, whose team-mate Kimi... [751 chars]",
-    "url": "https://www.bbc.com/sport/formula1/articles/cp3egz1pv45o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d4f7/live/ccb803f0-84c9-11f0-ad01-e3ae9c5662f7.jpg",
-    "publishedAt": "2025-08-29T11:41:01Z",
-    "lang": "en",
-    "source": {
-      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
-      "name": "BBC",
-      "url": "https://www.bbc.com",
-      "country": "gb"
-    }
-  },
-  {
-    "id": "1d91c60f3f92b914476c724fd74c7b36",
-    "title": "Court to rule on whether asylum seekers can be removed from Epping hotel",
-    "description": "Almost 140 men are thought to be housed at the Bell Hotel in Epping, which has been at the centre of repeated protests in recent weeks.",
-    "content": "How did we get here?\nImage source, Getty Images Image caption, Protesters calling for the closure of the the Bell Hotel in Epping\nThe Home Office and owners of the Bell Hotel have challenged a High Court ruling that would stop asylum seekers from sta... [1370 chars]",
-    "url": "https://www.bbc.com/news/live/c1ej52299lqt",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/647a/live/8b503af0-844b-11f0-9cf6-cbf3e73ce2b9.jpg",
-    "publishedAt": "2025-08-29T11:34:31Z",
-    "lang": "en",
-    "source": {
-      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
-      "name": "BBC",
-      "url": "https://www.bbc.com",
-      "country": "gb"
-    }
-  },
-  {
-    "id": "b8191a9687faf8768eba0f7509b4bccc",
-    "title": "Bank share prices tumble after calls for tax on profits",
-    "description": "A think tank says a new bank tax could raise \u00a38bn a year, a suggestion that sent bank shares tumbling.",
-    "content": "Bank share prices tumble after calls for tax on profits\n44 minutes ago Share Save Rachel Clun Business reporter, BBC News Share Save\nGetty Images\nThe share prices of leading UK banks have tumbled following calls for the government to introduce a new ... [3586 chars]",
-    "url": "https://www.bbc.com/news/articles/cm2v3700pvqo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1268/live/d6325b50-84ca-11f0-ad01-e3ae9c5662f7.jpg",
-    "publishedAt": "2025-08-29T11:25:50Z",
+    "id": "b5dfb8dfc9c6275931b993e8d46692eb",
+    "title": "Football gossip: Isak, Hojlund, Beier, Baumgartner, Brooks, Akanji, Disasi, Tsimikas, Zinchenko, Hincapie, Donnarumma",
+    "description": "Liverpool to make \u00a3130 offer for Alexander Isak, Rasmus Hojlund nears Napoli move, Brentford's Maximilian Beier bid rejected and Oleksandr Zinchenko is on his way out of Arsenal.",
+    "content": "Liverpool to make \u00a3130 offer for Alexander Isak, Rasmus Hojlund nears Napoli move, Brentford's Maximilian Beier bid rejected and Oleksandr Zinchenko could be on his way out of Arsenal.\nLiverpool are expected to make an improved \u00a3130m offer for Newcas... [2187 chars]",
+    "url": "https://www.bbc.com/sport/football/articles/c939zgn8g78o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/73f8/live/fad86a20-8520-11f0-84c8-99de564f0440.png",
+    "publishedAt": "2025-08-29T22:06:31Z",
     "lang": "en",
     "source": {
       "id": "f331a5ed3965fb59761dfcecfc7e7a34",
