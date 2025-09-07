@@ -1,12 +1,28 @@
 [
   {
-    "id": "806d0271bf7cf622b448b265f44793f2",
-    "title": "France\u2019s political crisis reveals deep rift between the people and their politicians",
-    "description": "The likely fall of prime minister Fran\u00e7ois Bayrou exposes a political malaise that is likely to sour French politics well beyond the 2027 presidential election as the far right exploits the moment",
-    "content": "As the French government faces likely collapse in a confidence vote on Monday, plunging the eurozone\u2019s second biggest economy and key diplomatic power into a domestic political crisis, Jonathan Denis, a 42-year-old a bank manager and health rights ca... [8739 chars]",
-    "url": "https://www.theguardian.com/news/ng-interactive/2025/sep/07/frances-political-crisis-reveals-deep-rift-between-the-people-and-their-politicians",
-    "image": "https://i.guim.co.uk/img/media/b59607859e7695eea9adb75136bf615859b919b6/0_0_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d83c51ee4bda3cc3f32081924b4ab46",
-    "publishedAt": "2025-09-07T05:00:00Z",
+    "id": "7035e624398a68d87e41e2bda9daa038",
+    "title": "890 people arrested at Palestine Action protest yesterday - including 17 on suspicion of assaulting police officers",
+    "description": "A total of 857 individuals were arrested under the Terrorism Act 2000 over alleged offences, while 33 people were detained for other offences.",
+    "content": "The Metropolitan Police has said 890 people were arrested at a protest against the banning of Palestine Action as a terror group on Saturday - including 17 on suspicion of assaulting officers.\nA total of 857 individuals were arrested in Parliament Sq... [2237 chars]",
+    "url": "https://news.sky.com/story/890-people-arrested-at-palestine-action-protest-yesterday-including-17-on-suspicion-of-assaulting-police-officers-13413938",
+    "image": "https://e3.365dm.com/25/09/1600x900/skynews-met-police-metropolitan-police_7013445.jpg?20250907132651",
+    "publishedAt": "2025-09-07T12:22:30Z",
+    "lang": "en",
+    "source": {
+      "id": "896bbd67b1fce1e7e97122b9a4345dab",
+      "name": "Sky News",
+      "url": "https://news.sky.com",
+      "country": "gb"
+    }
+  },
+  {
+    "id": "917a4b1625bc2325a0dc02d27a81a993",
+    "title": "Andy Burnham says government needs \u2018reset\u2019 to become more decisive",
+    "description": "Greater Manchester mayor also suggests the cabinet needs to more \u2018pluralistic\u2019 and less London-centric",
+    "content": "The Labour government needs a reset to become more decisive and listen more to its MPs, Andy Burnham, the Greater Manchester mayor and former cabinet minister, has said.\nBurnham, who is touted as a potential future leader, said he was concerned about... [4384 chars]",
+    "url": "https://www.theguardian.com/politics/2025/sep/07/andy-burnham-says-government-needs-reset-to-become-more-decisive",
+    "image": "https://i.guim.co.uk/img/media/81f16c3366416a65f03ca3937504f7585977166c/845_242_3534_2829/master/3534.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b8e5b6a23d53c6b13ffca5fa22c44a9a",
+    "publishedAt": "2025-09-07T11:44:00Z",
     "lang": "en",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
@@ -16,13 +32,13 @@
     }
   },
   {
-    "id": "c85bfecedd273ea5aea0429f6b2514cb",
-    "title": "Baby among two killed in Russian drone attack on Kyiv, officials say",
-    "description": "Several residential buildings are reported partially destroyed and still ablaze in Ukraine's capital.",
-    "content": "At least two people have been killed and 11 injured in a new Russian overnight drone attack on Ukraine's capital Kyiv, local officials have said.\nOne of the victims was a one-year-old baby, whose body was pulled from the rubble, Kyiv's military admin... [330 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cpq5dl5y4nlo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d2af/live/5d91dc30-8b9a-11f0-bd59-f7bab3d14655.png",
-    "publishedAt": "2025-09-07T04:10:39Z",
+    "id": "549afe8ff42314925d1c3f79a8851ab7",
+    "title": "Japan's Prime Minister Shigeru Ishiba resigns",
+    "description": "The prime minister had struggled to inspire confidence as Japan faced economic headwinds.",
+    "content": "Japan's Prime Minister Shigeru Ishiba has announced he is stepping down after less than a year in the role, following two major election losses.\nThe move comes a day before his Liberal Democratic Party (LDP) was expected to vote on whether to hold an... [418 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c98edpz2yn9o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1fc6/live/fb7665d0-8bd9-11f0-b391-6936825093bd.jpg",
+    "publishedAt": "2025-09-07T10:21:00Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -32,50 +48,34 @@
     }
   },
   {
-    "id": "5f551624387ec0eaa2cbf3cdcef89469",
-    "title": "Newspaper headlines: Rights reform to 'head off Farage' and 'Enders Jamie axed'",
-    "description": "The fallout from Angela Rayner's resignation and the axing of EastEnders star Jamie Borthwick lead Sunday's papers.",
-    "content": "The Sunday Telegraph says, external that the new Home Secretary Shabana Mahmood will announce within weeks that migrants in asylum-seeker hotels will be moved into barracks on former military bases. The paper says Prime Minister Sir Keir Starmer has ... [1140 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c8rvlxrv2jyo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e139/live/b9fc52b0-8b6e-11f0-84c8-99de564f0440.jpg",
-    "publishedAt": "2025-09-06T23:03:00Z",
+    "id": "f7a9072b6c7d3ea6ba278e8d89bc99f5",
+    "title": "US Open 2025 men's final: Carlos Alcaraz and Jannik Sinner set for Grand Slam trilogy in New York",
+    "description": "Spain's Carlos Alcaraz and Italy's Jannik Sinner continue their dominance at the top of the men's game when they meet in Sunday's US Open final.",
+    "content": "Long before either player won a major title, Jannik Sinner and Carlos Alcaraz had already been identified as the rivalry to lead men's tennis into the post 'Big Three' landscape.\nAn electric night at the US Open three years ago was the first real sig... [4093 chars]",
+    "url": "https://www.bbc.com/sport/tennis/articles/cy9n479xz2ro",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/39b8/live/17623400-8ba2-11f0-a2e1-199c91326eb8.jpg",
+    "publishedAt": "2025-09-07T10:00:24Z",
     "lang": "en",
     "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
       "name": "BBC",
-      "url": "https://www.bbc.co.uk",
+      "url": "https://www.bbc.com",
       "country": "gb"
     }
   },
   {
-    "id": "0fecf91a8392ba0a0254823414b2737c",
-    "title": "Shabana Mahmood set to move asylum seekers from hotels to barracks",
-    "description": "New home secretary is expected to unveil plans to use military sites as Labour seeks to harden immigration policy",
-    "content": "Shabana Mahmood is expected to unveil plans to move asylum seekers from hotels into military barracks as Labour seeks to harden its immigration policy amid rising numbers of crossings in the channel.\nThe new home secretary is reportedly set to announ... [1791 chars]",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/06/shabana-mahmood-set-to-move-asylum-seekers-from-hotels-to-barracks",
-    "image": "https://i.guim.co.uk/img/media/f4d9f282c7de2a9b9f5ce7196323f48199b97110/1470_0_2083_1666/master/2083.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=abe6cbcca9362ebd8a4d278b51b8362a",
-    "publishedAt": "2025-09-06T22:33:00Z",
+    "id": "5c894631070fd91f164f8f5ac0ec054a",
+    "title": "Liverpool v Everton, Spurs v West Ham, Manchester United v Leicester and more: WSL - live",
+    "description": "Tottenham v West Ham, Liverpool v Everton and Manchester United v Leicester are on the Women\u2019s Super League menu. Join Billy Munday",
+    "content": "Key events\nShow key events only\nPlease turn on JavaScript to use this feature\nGOAL! Manchester United 1-0 Leicester (Toone 13)\nElla Toone gets off the mark for the campaign as the ball falls to her inside the box and she cooly slots past Leicester\u2019s ... [8123 chars]",
+    "url": "https://www.theguardian.com/football/live/2025/sep/07/liverpool-v-everton-spurs-v-west-ham-manchester-united-v-leicester-and-more-wsl-live",
+    "image": "https://i.guim.co.uk/img/media/f8c4662c992ae8a1443312348a9e10ded8052a57/499_35_3215_2572/master/3215.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2fdcc5ef673fdb779d30fa2935c9a585",
+    "publishedAt": "2025-09-07T10:00:00Z",
     "lang": "en",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
       "name": "The Guardian",
       "url": "https://www.theguardian.com",
-      "country": "gb"
-    }
-  },
-  {
-    "id": "b9ac55247ff61228d706937055010960",
-    "title": "Tales Of The Shire: \ufeffA The Lord Of The Rings Game Updated On Switch",
-    "description": "Addressing crashes, save stability and much more - Tales of the Shire: A The Lord of the Rings Game admittedly didn't get off to the best start when it launc...",
-    "content": "I for one, like how they wrote the notes and explanations for the fixes. Them keeping \"in character\" is a nice touch!\nIt shows they still care for the game.\n@JayJ I want to play Tales of the Shire. There are people who are enjoying it despite its iss... [931 chars]",
-    "url": "https://www.nintendolife.com/news/2025/09/tales-of-the-shire-a-the-lord-of-the-rings-game-updated-on-switch",
-    "image": "https://images.nintendolife.com/575fe8eaa9444/large.jpg",
-    "publishedAt": "2025-09-07T02:30:00Z",
-    "lang": "en",
-    "source": {
-      "id": "dd2cbc293c058fbe38c99af3f90e76c4",
-      "name": "Nintendo Life",
-      "url": "https://www.nintendolife.com",
       "country": "gb"
     }
   }
