@@ -1,12 +1,12 @@
 [
   {
-    "id": "41c0e933be73a076065572cfec6cb20e",
-    "title": "Suspect in fatal stabbing of Ukrainian refugee charged with federal crime",
-    "description": "The murder of Ukrainian refugee Iryna Zarutska on a train prompted an outcry over public safety and a debate over crime policy.",
-    "content": "The man suspected of carrying out a deadly knife attack on a Ukrainian refugee in Charlotte, North Carolina, has been charged with a federal crime that makes him eligible for the death penalty.\nDecarlos Brown Jr, 34, was arrested and charged with fir... [3254 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c4g7z8pk0j3o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/37f4/live/86d1f450-8d97-11f0-b391-6936825093bd.jpg",
-    "publishedAt": "2025-09-09T17:45:56Z",
+    "id": "2ef50697ca08d35aefee09ef874b2728",
+    "title": "More children are obese than underweight, Unicef warns",
+    "description": "Traditional, healthy diets are being replaced by ultra-processed foods, often high in sugar and additives, the UN agency says.",
+    "content": "For the first time, there are more children in the world who are obese than underweight, according to a major study by children's charity Unicef.\nAround one in 10 of those aged between five and 19 years old - around 188 million children and young peo... [3034 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c7v1e0jr9n8o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7721/live/953671c0-8d87-11f0-9530-4d799fcfe1d6.jpg",
+    "publishedAt": "2025-09-10T00:45:56Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -16,66 +16,50 @@
     }
   },
   {
-    "id": "8945182ec231996b05ca933e0da86426",
-    "title": "Man arrested on suspicion of bringing teargas to Heathrow airport",
-    "description": "Terminal 4\u2019s check-in area evacuated for three hours on Monday while police located CS spray",
-    "content": "Police have arrested a man on suspicion of bringing teargas into Heathrow airport, which caused Terminal 4\u2019s check-in area to briefly shut down.\nThe check-in area at the UK\u2019s main international airport was evacuated for around three hours on Monday e... [1387 chars]",
-    "url": "https://www.theguardian.com/travel/2025/sep/09/man-arrested-suspicion-bringing-teargas-heathrow-airport",
-    "image": "https://i.guim.co.uk/img/media/2e4c80d3dfb7c54ea08881e5d949a75be5485ba1/708_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0dd1b9403fa7674df60eb537aa7de1c7",
-    "publishedAt": "2025-09-09T17:29:00Z",
+    "id": "da855044446d5246354c6f227d673432",
+    "title": "Alzheimer's blood test could 'revolutionise' diagnosis",
+    "description": "Scientists leading the trial at University College London believe the blood test could improve the accuracy of diagnosis of the disease to more than 90%.",
+    "content": "More than 1,000 people across the UK with suspected dementia are to be offered a blood test for Alzheimer's disease which it is hoped could revolutionise diagnosis of the disease.\nThe blood test can detect biomarkers for rogue proteins which accumula... [2942 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cm2ze84e8p1o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/359b/live/d8f2bc40-8dbc-11f0-b9a7-a111464e9a18.jpg",
+    "publishedAt": "2025-09-10T00:36:00Z",
     "lang": "en",
     "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com",
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk",
       "country": "gb"
     }
   },
   {
-    "id": "503bc5c2cb053af8ee7fb65bc9cf5936",
-    "title": "Apple Seeds iOS 26 and iPadOS 26 Release Candidates",
-    "description": "Apple today provided developers and public beta testers with the release candidate versions of iOS 26 and iPadOS 26 for testing purposes, with the...",
-    "content": "Apple today provided developers and public beta testers with the release candidate versions of iOS 26 and iPadOS 26 for testing purposes, with the updates coming a week after Apple seeded the ninth betas. Release candidates represent the finalized ve... [1126 chars]",
-    "url": "https://www.macrumors.com/2025/09/09/apple-seeds-ios-26-rc/",
-    "image": "https://images.macrumors.com/t/p817t4gw5ljW1ROSxfadhn3mJew=/2500x/article-new/2025/06/iOS-26-Feature.jpg",
-    "publishedAt": "2025-09-09T18:34:10Z",
+    "id": "23bcce33793a2ef369d14c51ecdea6de",
+    "title": "Chappell Roan, Charli XCX and Doja Cat images among Music Photography Awards nominees",
+    "description": "Abbey Road studios' nominees for it Music Photography Awards had 20,000 submissions from 30 countries.",
+    "content": "Abbey Road studios has announced the nominees for its Music Photography Awards, after considering more than 20,000 submissions from 30 different countries.\nThe photographs up for awards feature stars including Chappell Roan, Lana Del Rey, Charli XCX,... [889 chars]",
+    "url": "https://www.bbc.com/news/articles/c306n1ve8y5o",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2ccb/live/cef1aee0-8d9e-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "publishedAt": "2025-09-10T00:17:44Z",
     "lang": "en",
     "source": {
-      "id": "7099dca4eeb5b149fe14116307bbb895",
-      "name": "MacRumors",
-      "url": "https://www.macrumors.com",
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "name": "BBC",
+      "url": "https://www.bbc.com",
       "country": "gb"
     }
   },
   {
-    "id": "fbca39ba67d1340ce2c54025868121ff",
-    "title": "England XI vs Serbia: Starting lineup, confirmed team news, injury latest for World Cup qualifier today",
-    "description": "Marc Guehi has shaken off a knock and starts in Belgrade",
-    "content": "The Crystal Palace centre-back complained of a groin problem at half-time of Saturday\u2019s 2-0 win over Andorra, but played on until the 76th minute before being replaced Aston Villa\u2019s Ezri Konsa.\nTuchel said after the game it was a substitution he had ... [1231 chars]",
-    "url": "https://www.standard.co.uk/sport/football/england-xi-vs-serbia-starting-lineup-confirmed-team-news-injury-latest-world-cup-qualifier-today-b1246514.html",
-    "image": "https://static.standard.co.uk/2025/02/04/13/32/TuchelEnglandPredictedXIV1.jpeg?width=1200&auto=webp&quality=75",
-    "publishedAt": "2025-09-09T18:05:01Z",
+    "id": "821ee5ce8fb3f492a1b3b2f26f2b5b1e",
+    "title": "'Qatar fury' and 'Trump condemns Israeli air strike'",
+    "description": "Israel's strike on Doha dominates the headlines on Wednesday.",
+    "content": "The Israeli airstrikes on Qatar feature prominently in the papers.\n\"Israel faces Trump's wrath by hitting Hamas in Qatar\" is the headline in the Times., external The paper says it was told by an Israeli source that the strike had been \"long in the pl... [1462 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/czdj4mnvrg7o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e0c/live/77549030-8dd0-11f0-9cf6-cbf3e73ce2b9.png",
+    "publishedAt": "2025-09-10T00:00:21Z",
     "lang": "en",
     "source": {
-      "id": "99b3c5a558a3e649a1397aa932026c34",
-      "name": "London Evening Standard",
-      "url": "https://www.standard.co.uk",
-      "country": "gb"
-    }
-  },
-  {
-    "id": "1498f919ae361e9da812ba63f2e99444",
-    "title": "Opta supercomputer reveals the favourites to win the Champions League after 10,000 simulations - and one Premier League club has just a 1 PER CENT chance of lifting the trophy!",
-    "description": "The first games of the 2025-26 competition will take place next Tuesday, with the likes of Arsenal and Tottenham in action on matchday one as 36 teams go for glory again.",
-    "content": "Opta's latest supercomputer has revealed the favourites to win the Champions League ahead of it starting up next week - and it's not good reading for one Premier League side.\nThe first games of the 2025-26 competition will take place next Tuesday, wi... [3797 chars]",
-    "url": "https://www.dailymail.co.uk/sport/football/article-15081651/Opta-supercomputer-favourites-Champions-League.html",
-    "image": "https://i.dailymail.co.uk/1s/2025/09/09/18/101982175-0-image-m-81_1757439030609.jpg",
-    "publishedAt": "2025-09-09T17:43:30Z",
-    "lang": "en",
-    "source": {
-      "id": "4aca9b1f6287a5f7a6dea911063bdb49",
-      "name": "Daily Mail",
-      "url": "https://www.dailymail.co.uk",
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk",
       "country": "gb"
     }
   }
