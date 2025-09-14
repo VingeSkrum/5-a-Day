@@ -1,12 +1,60 @@
 [
   {
-    "id": "d203727c8dfebb2584ae76f2a61e6d75",
-    "title": "Supermoons and meteor showers: Five celestial events to look for this autumn",
-    "description": "From supermoons to meteor showers, Elizabeth Rizzini has your guide to what may delight in the autumn night skies.",
-    "content": "Inspired by the recent total lunar eclipse? There are more celestial events to look out for this autumn as the nights start to draw in.\nWhilst meteorological autumn begins every year on the same date - 1 September - the start of astronomical autumn v... [1632 chars]",
-    "url": "https://www.bbc.co.uk/weather/articles/c39rvxz4jr1o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/ca1d/live/b93e2120-8fb3-11f0-8b60-91a9d6182437.jpg",
-    "publishedAt": "2025-09-13T00:50:07Z",
+    "id": "65c6b23e61d254ac3e827cc886fd87d1",
+    "title": "Far-right London rally sees record crowds and violent clashes with police",
+    "description": "More than 110,000 people join Tommy Robinson-organised protest featuring racist conspiracy theories and hate speech",
+    "content": "More than 110,000 people have taken part in a far-right street protest organised by the activist Stephen Yaxley-Lennon, known as Tommy Robinson, in what is thought to be the largest nationalist event in decades.\nMarchers travelled to London by train ... [6343 chars]",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/13/unite-the-kingdom-far-right-rally-london-tommy-robinson-police-assaulted",
+    "image": "https://i.guim.co.uk/img/media/da19315ad3260f40773e4e24c7c0bbb2fe1f4c8e/109_0_5623_4501/master/5623.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f7f9f5e2fa100befdf382fe753fabefb",
+    "publishedAt": "2025-09-13T18:18:00Z",
+    "lang": "en",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com",
+      "country": "gb"
+    }
+  },
+  {
+    "id": "c523e193b10e17257f46048ad16ec94e",
+    "title": "Ukraine drone starts fire at one of Russia\u2019s largest oil plants",
+    "description": "Head of Bashkortostan region reports second drone shot down and minor damage to Bashneft\u2019s Ufa refinery",
+    "content": "A Ukrainian drone has crashed into one of Russia\u2019s largest oil-refining complexes, sparking a fire and causing minor damage, a Russian official has said.\nThe complex, which belongs to Russian oil company Bashneft, lies on the outskirts of the central... [1252 chars]",
+    "url": "https://www.theguardian.com/world/2025/sep/13/ukraine-drone-sparks-fire-at-one-of-russias-largest-oil-plants",
+    "image": "https://i.guim.co.uk/img/media/6d33acc475be66d4af7ac5e4b657f344011a8934/141_0_2851_2280/master/2851.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=841da9d9b68d28dd0b2acbfc7bb67644",
+    "publishedAt": "2025-09-13T17:58:00Z",
+    "lang": "en",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com",
+      "country": "gb"
+    }
+  },
+  {
+    "id": "325dd3044fb94b74f10e903a8255667a",
+    "title": "At least 32 people killed as Israel intensifies airstrikes in Gaza City, medical staff say",
+    "description": "Israel has in recent days increased its strikes on Gaza City, having ordered residents to leave what it says is Hamas's last stronghold.",
+    "content": "A barrage of airstrikes has killed at least 32 people in Gaza City as Israel continued intensifying its offensive there, medical staff have said.\nThe dead include 12 children, according to the morgue in Shifa Hospital, where the bodies were brought.\n... [2413 chars]",
+    "url": "https://news.sky.com/story/at-least-32-people-killed-as-israel-intensifies-airstrikes-in-gaza-city-medical-staff-say-13430175",
+    "image": "https://e3.365dm.com/25/09/1600x900/skynews-gaza-strike_7019193.jpg?20250913165147",
+    "publishedAt": "2025-09-13T17:39:11Z",
+    "lang": "en",
+    "source": {
+      "id": "896bbd67b1fce1e7e97122b9a4345dab",
+      "name": "Sky News",
+      "url": "https://news.sky.com",
+      "country": "gb"
+    }
+  },
+  {
+    "id": "6ade8eb56dac858b493e9c226b6afdf8",
+    "title": "Man charged over damage to London synagogues",
+    "description": "The 37-year-old man has been charged with racially or religiously aggravated criminal damage, the Met Police said.",
+    "content": "A man has been charged in connection with a series of attacks on synagogues in north-west London.\nIonut-Cristian Bold, 37, of no fixed address, has been charged with six counts of racially or religiously aggravated criminal damage as well as one coun... [597 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cly61nm5r12o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b8f4/live/8a1c5df0-90c4-11f0-b920-0d1cda13728a.jpg",
+    "publishedAt": "2025-09-13T17:23:50Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -16,50 +64,18 @@
     }
   },
   {
-    "id": "9d3b32f50e317925ab1020b551d96998",
-    "title": "Defiant nuns flee Austrian care home for their abandoned convent in the Alps",
-    "description": "Sisters Bernadette, Regina and Rita needed a locksmith to get back into their convent, defying Church leaders.",
-    "content": "Defiant nuns flee care home for their abandoned convent in the Alps\n11 hours ago\nBethany BellAustria correspondent in Salzburg\nThree Austrian nuns in their 80s have run away from the retirement home where they were placed and gone back to their forme... [3693 chars]",
-    "url": "https://www.bbc.com/news/articles/c5y8r2gk0vyo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4422/live/f32c7830-8ff6-11f0-a5f1-addf1091094f.jpg",
-    "publishedAt": "2025-09-13T00:42:38Z",
+    "id": "e84881f346614f00c2fd43b806c7afdc",
+    "title": "Tottenham win at London Stadium",
+    "description": "Three second-half goals condemned West Ham United to a 3-0 home Premier League defeat by Tottenham Hotspur on Saturday.",
+    "content": "West Ham United 0-3 Tottenham Hotspur\nPremier League, London Stadium, Saturday 13 September 2025, 5.30pm BST\nThree second-half goals condemned West Ham United to a 3-0 home Premier League defeat by Tottenham Hotspur on Saturday.\nPape Matar Sarr, Luca... [3723 chars]",
+    "url": "https://www.whufc.com/news/match-report-tottenham-win-london-stadium",
+    "image": "https://cdn.whufc.com/sites/default/files/styles/og_image_style_2_1/public/2025-09/tottenham_h_report.jpg?h=f30ec571&itok=D-XXSi-y",
+    "publishedAt": "2025-09-13T18:22:12Z",
     "lang": "en",
     "source": {
-      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
-      "name": "BBC",
-      "url": "https://www.bbc.com",
-      "country": "gb"
-    }
-  },
-  {
-    "id": "1aeee0ec2e1df41bac4d0f975f833aa4",
-    "title": "England opener Phil Salt wants to be 'best in the world' after record-breaking century",
-    "description": "Phil Salt has set his sights on becoming the \"best in the world\" as a T20 opener after smashing a record-breaking century in England's 146-run victory over South Africa.",
-    "content": "Phil Salt has set his sights on becoming the \"best in the world\" as a T20 opener after smashing a record-breaking century in England's 146-run victory over South Africa.\nThe 29-year-old lit up Old Trafford with an unbeaten 141 off 60 deliveries to no... [4264 chars]",
-    "url": "https://www.bbc.com/sport/cricket/articles/c1l8pr1m1deo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4a2c/live/8dec98b0-9028-11f0-b391-6936825093bd.jpg",
-    "publishedAt": "2025-09-12T23:06:30Z",
-    "lang": "en",
-    "source": {
-      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
-      "name": "BBC",
-      "url": "https://www.bbc.com",
-      "country": "gb"
-    }
-  },
-  {
-    "id": "30ab343b0646a65f3fd6f5200b72948d",
-    "title": "Records tumble as Phil Salt\u2019s stunning century leads England to T20 rout of South Africa",
-    "description": "England made history, and for the first time more than 300 runs, to thump South Africa in the second Twenty20 at Old Trafford",
-    "content": "England made history, and for the first time more than 300 runs, on an extraordinary night in Manchester as they buried South Africa under a mountain of runs and shredded statistics. Their highest T20 total was turbocharged by a brilliant opening sta... [4279 chars]",
-    "url": "https://www.theguardian.com/sport/2025/sep/12/records-tumble-as-phil-salts-stunning-ton-leads-england-to-t20-rout-of-south-africa-match-report",
-    "image": "https://i.guim.co.uk/img/media/4a4527370ac100d9c733e79fd9a69f47b6404713/266_0_4320_3456/master/4320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=288522679d126cd9f71220e7137d506b",
-    "publishedAt": "2025-09-12T22:34:00Z",
-    "lang": "en",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com",
+      "id": "d0d9ad74aa2baf84b372dadd3a32353f",
+      "name": "West Ham United",
+      "url": "https://www.whufc.com",
       "country": "gb"
     }
   }
