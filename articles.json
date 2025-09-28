@@ -1,12 +1,12 @@
 [
   {
-    "id": "0343b62615c2b2fcd5656b709f5f97c5",
-    "title": "Strictly Come Dancing 2025: Ex-footballer Karen Carney makes history at top of leaderboard in week one",
-    "description": "Tess Daly and Claudia Winkleman return as 15 couples compete for the Glitterball trophy.",
-    "content": "Fresh batch of Strictly stars Foxtrot, Jive and Cha Cha Cha on to ballroom floor\nAdam Goldsmith\nLive reporter\nStrictly Saturday nights returned in an explosion of sequins and standing ovations as a fresh batch of celebrities gave the ballroom their b... [8870 chars]",
-    "url": "https://www.bbc.com/news/live/c4gw4gg8g8gt",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/abd3/live/84c99410-9be3-11f0-830f-5d42108555b8.jpg",
-    "publishedAt": "2025-09-27T18:03:58Z",
+    "id": "fc4ffdca1a938aa554614878924861bf",
+    "title": "Move over Murdochs, the Ellisons are the new family dynasty shaking up US media",
+    "description": "Larry Ellison's relationship with Donald Trump has drawn scrutiny as the tech billionaire and his son strive to become major media moguls.",
+    "content": "Tech billionaire Larry Ellison and his son, Hollywood producer David, have long walked the halls of the world's elite.\nBut this year, their power has taken on a new dimension, as they pursue deals involving names from TikTok to CNN that would give th... [5023 chars]",
+    "url": "https://www.bbc.com/news/articles/cr4qwwk0g0yo",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0f10/live/68429800-9b02-11f0-92db-77261a15b9d2.jpg",
+    "publishedAt": "2025-09-28T00:30:14Z",
     "lang": "en",
     "source": {
       "id": "f331a5ed3965fb59761dfcecfc7e7a34",
@@ -16,13 +16,45 @@
     }
   },
   {
-    "id": "812437823f41ce23728dda5a07085b34",
-    "title": "England outclass Canada to capture glorious Women\u2019s Rugby World Cup triumph",
-    "description": "England are Women\u2019s Rugby World Cup winners for a third time after beating Canada 33-13 before a world-record crowd at Twickenham",
-    "content": "If this were a movie, the scriptwriters would be shoo-ins for an Oscar, the plot centred on a dominant team who overcame the heartbreak of losing two back-to-back Rugby World Cup finals to complete an eight-year redemption arc and become world champi... [3927 chars]",
-    "url": "https://www.theguardian.com/sport/2025/sep/27/england-outclass-canada-to-capture-glorious-womens-rugby-world-cup-triumph",
-    "image": "https://i.guim.co.uk/img/media/419f43299f7512584409b061464caf5943147a87/1909_1397_1898_1519/master/1898.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fafc4e08963127b5019e6b840ca1e0b3",
-    "publishedAt": "2025-09-27T17:23:00Z",
+    "id": "390759a3c450dfbc0379a281bcc66c36",
+    "title": "Sean 'Diddy' Combs faces sentencing - how much time is he expected to serve?",
+    "description": "Hip-hop mogul Sean \"Diddy\" Combs is just days away from being sentenced on prostitution-related charges, following his high-profile trial earlier this year.",
+    "content": "Sean \"Diddy\" Combs is set to be sentenced over prostitution-related charges next week.\nThe hip-hop mogul has already served just over a year in prison after being arrested in New York in September 2023.\nFollowing his high-profile trial earlier in 202... [5925 chars]",
+    "url": "https://news.sky.com/story/sean-diddy-combs-faces-sentencing-how-much-time-is-he-expected-to-serve-13437222",
+    "image": "https://e3.365dm.com/25/05/1600x900/skynews-sean-combs-diddy-court_6907439.jpg?20250505190258",
+    "publishedAt": "2025-09-28T00:30:04Z",
+    "lang": "en",
+    "source": {
+      "id": "896bbd67b1fce1e7e97122b9a4345dab",
+      "name": "Sky News",
+      "url": "https://news.sky.com",
+      "country": "gb"
+    }
+  },
+  {
+    "id": "c20ec77ceef07cda3c85c85627726e4c",
+    "title": "Ryder Cup: Why Europe should beat United States at Bethpage on Sunday",
+    "description": "Europe's 6-2 demolition job of the US to take an 11\u00bd-4\u00bd lead into the singles has seemingly made Sunday a formality.",
+    "content": "Luke Donald stands on the precipice of Ryder Cup greatness.\nFour wins out of four as a player and the Englishman is now on the verge of becoming just the second European captain - after Tony Jacklin - to win both home and away matches.\nEurope will ta... [5716 chars]",
+    "url": "https://www.bbc.com/sport/golf/articles/ce8621jddj2o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6e0d/live/0e79e280-9bff-11f0-bd58-71d6e4e1de23.jpg",
+    "publishedAt": "2025-09-28T00:20:16Z",
+    "lang": "en",
+    "source": {
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "name": "BBC",
+      "url": "https://www.bbc.com",
+      "country": "gb"
+    }
+  },
+  {
+    "id": "03034d8588c735d2444e59802ee9323a",
+    "title": "PGA silent after Ryder Cup MC leads foul-mouthed chants abusing Rory McIlroy",
+    "description": "The Ryder Cup host organisation did not respond beyond boosting security and posting requests asking for decorum that were booed",
+    "content": "The European team were expecting abuse from the people paying to attend this Ryder Cup, but not from the people the Ryder Cup are paying to entertain them while they are here. In a dismal start to what turned into one of the most rancorous day\u2019s play... [3063 chars]",
+    "url": "https://www.theguardian.com/sport/2025/sep/27/pga-silent-after-ryder-cup-mc-leads-foul-mouthed-chants-abusing-rory-mcilroy",
+    "image": "https://i.guim.co.uk/img/media/dd4319a2d219a6bccb67a7107c8f1cc50f4509e6/392_0_2407_1926/master/2407.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f2657765263eaa1c325c989e36fd3612",
+    "publishedAt": "2025-09-28T00:18:00Z",
     "lang": "en",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
@@ -32,50 +64,18 @@
     }
   },
   {
-    "id": "a3e792e0ee96f3bc225113a8fce592aa",
-    "title": "Strictly Come Dancing's Tess Daly and Claudia Winkleman pause live show minutes in for announcement",
-    "description": "The hosts were seen back in the ballroom as the BBC One dance contest got underway",
-    "content": "The hosts were seen back in the ballroom as the BBC One dance contest got underway\nTess Daly and Claudia Winklem paused the first live show of Strictly Come Dancing to make an announcement about the line-up\nThe hosts were seen back in the ballroom fo... [2621 chars]",
-    "url": "https://www.manchestereveningnews.co.uk/news/tv/strictly-come-dancings-tess-daly-32565476",
-    "image": "https://i2-prod.manchestereveningnews.co.uk/article32565533.ece/ALTERNATES/s1200/1_strictly1.jpg",
-    "publishedAt": "2025-09-27T18:12:00Z",
+    "id": "8e8d1a7fe3b2dc3119e44fefe24370af",
+    "title": "Man dies and seven treated after suspected gas leak at takeaway restaurant in Walsall",
+    "description": "Seven other people were treated at the scene in Walsall, near Wolverhampton, with a number of them taken to hospital.",
+    "content": "A man has died after a suspected carbon monoxide leak at a takeaway restaurant in Walsall, near Wolverhampton.\nWest Midlands Police said that seven others were treated by medics after emergency services were called to the burger shop on Cresswell Cre... [1666 chars]",
+    "url": "https://news.sky.com/story/man-dies-and-seven-treated-after-suspected-gas-leak-at-takeaway-restaurant-in-walsall-13439893",
+    "image": "https://e3.365dm.com/25/09/1600x900/skynews-west-midlands-walsall_7034261.png?20250927215753",
+    "publishedAt": "2025-09-27T23:44:07Z",
     "lang": "en",
     "source": {
-      "id": "d747ad2c8a358a8ac802059a4e88a6a6",
-      "name": "Manchester Evening News",
-      "url": "https://www.manchestereveningnews.co.uk",
-      "country": "gb"
-    }
-  },
-  {
-    "id": "805bc5c0aba4d7fc61f24d952d730f1d",
-    "title": "George Galloway detained at airport under Terrorism Act",
-    "description": "Counter-terrorism officers stopped the 71-year-old former MP on Saturday as he arrived into Gatwick on a flight from Abu Dhabi.",
-    "content": "The Herald understands that Galloway and his wife had arrived into Gatwick on a flight from Abu Dhabi, having travelled from Moscow initially.\nMet Police confirmed that a man in his 70s and a woman in her 40s were temporarily detained by counter terr... [2115 chars]",
-    "url": "https://www.heraldscotland.com/news/25499918.george-galloway-detained-gatwick-terrorism-laws/",
-    "image": "https://www.heraldscotland.com/resources/images/18035973.jpg?type=og-image",
-    "publishedAt": "2025-09-27T17:59:35Z",
-    "lang": "en",
-    "source": {
-      "id": "9b25e1705be0112d24f51969c76c5846",
-      "name": "The Herald",
-      "url": "https://www.heraldscotland.com",
-      "country": "gb"
-    }
-  },
-  {
-    "id": "7c34938b4c7f550b5254b231305d8ebe",
-    "title": "1 Liverpool (27 Sep, 2025) Game Analysis",
-    "description": "Expert recap and game analysis of the Crystal Palace vs. Liverpool English Premier League game from 27 September 2025 on ESPN (UK).",
-    "content": "Liverpool were given a taste of their own medicine by Crystal Palace as Eddie Nketiah's last-gasp winner wrecked their 100% start to the season.\nThe Eagles snatched a deserved 2-1 victory with the last kick of the match, just after Federico Chiesa th... [2959 chars]",
-    "url": "https://www.espn.co.uk/football/report/_/gameId/740647",
-    "image": "https://a.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/soccer.png",
-    "publishedAt": "2025-09-27T17:57:00Z",
-    "lang": "en",
-    "source": {
-      "id": "813eb91433cb12dcbd3a5dd941011fda",
-      "name": "ESPN United Kingdom",
-      "url": "https://www.espn.co.uk",
+      "id": "896bbd67b1fce1e7e97122b9a4345dab",
+      "name": "Sky News",
+      "url": "https://news.sky.com",
       "country": "gb"
     }
   }
