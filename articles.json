@@ -1,44 +1,12 @@
 [
   {
-    "id": "475b68df80c1bdb8f08df58cc3a666c4",
-    "title": "Steve Coogan on the evolution of Alan Partridge and 'laughing around mental health, not at it'",
-    "description": "Comedy character Alan Partridge returns to investigate his own mental health and that of the nation.",
-    "content": "\"Do you like my orange socks?\" asks Steve Coogan.\nThe British actor is pointing down to a brightly coloured, Argyle patterned pair, worn with brown leather sandals.\n\"That's where Alan meets Steve,\" he adds. \"In the socks.\"\nBy Alan, of course, he is r... [6551 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cr747l04yr8o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/864e/live/16450000-92fc-11f0-ba89-ad7477f3387f.jpg",
-    "publishedAt": "2025-10-01T01:06:38Z",
-    "lang": "en",
-    "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk",
-      "country": "gb"
-    }
-  },
-  {
-    "id": "c5548c7a9d189b0e825d67b3e9f14616",
-    "title": "'Starmer takes on Farage' and 'Two-child benefit cap will be lifted'",
-    "description": "Sir Keir Starmer's conference speech and the two-child benefit cap make headlines in Wednesday's papers.",
-    "content": "Most of the newspapers' headlines focus on elements of Prime Minister Sir Keir Starmer's speech at the Labour conference in Liverpool. The Mirror leads with Sir Keir's criticism of Reform UK leader Nigel Farage, arguing that \"he doesn't believe in Br... [4023 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cm28p44z521o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a08/live/506197e0-9e54-11f0-928c-71dbb8619e94.jpg",
-    "publishedAt": "2025-10-01T01:01:29Z",
-    "lang": "en",
-    "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk",
-      "country": "gb"
-    }
-  },
-  {
-    "id": "02f35c0ed752a7788b8250186c82e93b",
-    "title": "US government shutdown to begin within hours",
-    "description": "Donald Trump had threatened to lay off \"a lot of people\" as a result of the shutdown, which comes after Republicans and Democrats failed to agree on a funding package.",
-    "content": "The US government is hours away from shutting down for the first time in almost seven years after last-ditch Senate votes on funding plans fell short.\nHundreds of thousands of federal workers deemed not essential for protecting people or property - s... [3440 chars]",
-    "url": "https://news.sky.com/story/us-government-on-brink-of-shutdown-13441990",
-    "image": "https://e3.365dm.com/25/10/1600x900/skynews-us-shutdown_7037800.jpg?20251001010711",
-    "publishedAt": "2025-10-01T00:45:00Z",
+    "id": "d10f8d51111ea7b58d919f053b6d1f41",
+    "title": "Primatologist Jane Goodall, famous for her study of chimpanzees, has died",
+    "description": "Jane Goodall, known for her ground-breaking studies involving chimpanzees, has died aged 91.",
+    "content": "Jane Goodall, known for her ground-breaking studies involving chimpanzees, has died aged 91.\nA post on her institute's Facebook page said she died on Wednesday morning from natural causes while in California as part of a speaking tour.\n\"Dr. Goodall's... [1185 chars]",
+    "url": "https://news.sky.com/story/jane-goodall-famous-for-her-study-of-chimpanzees-has-died-13442337",
+    "image": "https://e3.365dm.com/25/10/1600x900/skynews-jane-goodall-chimpanzee_7038434.jpg?20251001191548",
+    "publishedAt": "2025-10-01T18:20:22Z",
     "lang": "en",
     "source": {
       "id": "896bbd67b1fce1e7e97122b9a4345dab",
@@ -48,34 +16,66 @@
     }
   },
   {
-    "id": "6beb29518d76fe56c1d80973de229607",
-    "title": "Princess Anne visits Ukraine to support child war victims",
-    "description": "She meets children displaced from their families and visited a memorial for young people killed during the war.",
-    "content": "Anne visits Ukraine to support children 'traumatised' by war\n5 hours ago\nMaia Davies\nThe Princess Royal made a surprise visit to Ukraine on Tuesday to highlight the \"traumatic experiences of children living on the frontline of the conflict\", Buckingh... [2855 chars]",
-    "url": "https://www.bbc.com/news/articles/cgrqlrjgd51o",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6d52/live/cb07a540-9e7a-11f0-928c-71dbb8619e94.jpg",
-    "publishedAt": "2025-10-01T00:17:36Z",
+    "id": "787ffe568a965740c89daa3d5f3b793e",
+    "title": "Met plunged into crisis amid fresh claims of misogyny and racism",
+    "description": "Commissioner Mark Rowley says prejudice has \u2018put down deep roots\u2019 within force after BBC Panorama investigation",
+    "content": "\u200bMetropolitan police officers have been recorded calling for immigrants to be shot, bragging about excessive force, being dismissive about a rape complaint and making anti-Muslim and anti-women comments.\nThe BBC Panorama programme followed seven mont... [6564 chars]",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/01/met-plunged-into-crisis-amid-fresh-claims-of-bigotry-and-excessive-force",
+    "image": "https://i.guim.co.uk/img/media/34083fff3d2abc7fef0a4416c580b72bc5a343e6/405_0_2330_1864/master/2330.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4b91bf56617b238ee98f33b8100664d7",
+    "publishedAt": "2025-10-01T17:45:00Z",
     "lang": "en",
     "source": {
-      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
-      "name": "BBC",
-      "url": "https://www.bbc.com",
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com",
       "country": "gb"
     }
   },
   {
-    "id": "ae7f60b6f437327d817ad0be1c8d54c3",
-    "title": "Hollywood celebrities outraged over new 'AI actor' Tilly Norwood",
-    "description": "The AI actress is apparently in talks with Hollywood talent agencies to represent her on the big screen.",
-    "content": "Hollywood is not rolling out the red carpet for Tilly Norwood \u2013 an \"AI actor\" that has been causing a stir after its Dutch creators said the synthetic performer is in talks with talent agencies.\nNorwood could be mistaken for a young, aspiring actress... [2926 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c99glvn5870o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8329/live/9adbba00-9e57-11f0-8a84-ab55f9d26dc5.jpg",
-    "publishedAt": "2025-09-30T23:57:00Z",
+    "id": "db8cc2d68befcf4fbac72f46e9a57fea",
+    "title": "William may have been target of Mail publisher blagging, Harry's lawyer says",
+    "description": "The Duke of Sussex is one of seven high-profile people bringing legal action against Daily Mail publisher.",
+    "content": "The Prince and Princess of Wales may have been the targets of unlawful information gathering by the Daily Mail's publisher, lawyers for Prince Harry have told the High Court.\nDetails about Prince William's 21st birthday party in the Mail were potenti... [3981 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c07v2dmzv1jo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d927/live/2db64bf0-9ee0-11f0-98b1-59d49dad95e6.jpg",
+    "publishedAt": "2025-10-01T18:30:40Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
       "name": "BBC",
       "url": "https://www.bbc.co.uk",
+      "country": "gb"
+    }
+  },
+  {
+    "id": "200d63aac067c7f65e852fb4fa7b6ede",
+    "title": "Champions League LIVE: Scores & updates including Monaco vs Man City, Arsenal vs Olympiakos & Union SG vs Newcastle",
+    "description": "Follow build-up to nine Champions League matches, including Monaco v Man City, Barcelona v PSG, Arsenal v Olympiakos, Union SG v Newcastle & Dortmund v Athletic Club.",
+    "content": "'Foden performance one of the positives for City'\nFT: Monaco 2-2 Man City\nNedum Onuoha\nFormer Manchester City defender on MOTD: UEFA Champions League\nIt was a disappointing result but one of the positives for City tonight was Foden's performance, and... [4894 chars]",
+    "url": "https://www.bbc.co.uk/sport/football/live/cq65pr6vn2zt",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eac9/live/ed1d7c60-9f09-11f0-bf4d-3be239c29483.jpg",
+    "publishedAt": "2025-10-01T18:23:35Z",
+    "lang": "en",
+    "source": {
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk",
+      "country": "gb"
+    }
+  },
+  {
+    "id": "b1e49e3a2b6e50767611668db82c63c7",
+    "title": "Starmer bests his conference critics but path ahead still looks perilous",
+    "description": "PM made long-awaited rallying call against Reform threat, but many in Labour still fear his shortcomings will produce a public challenge",
+    "content": "With Labour party delegates waving the flags of the UK nations during Keir Starmer\u2019s conference speech, the beleaguered prime minister was reassured that his paean to patriotism had hit the spot.\nDowning Street insiders say his address had been locke... [7842 chars]",
+    "url": "https://www.theguardian.com/politics/2025/oct/01/starmer-bests-his-conference-critics-but-path-ahead-still-looks-perilous",
+    "image": "https://i.guim.co.uk/img/media/4fe5f5b7f88dd705b766dea2232bf636ad319f0b/571_0_3704_2965/master/3704.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c488888c79c913bb8fdd204f01676dd2",
+    "publishedAt": "2025-10-01T18:21:00Z",
+    "lang": "en",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com",
       "country": "gb"
     }
   }
