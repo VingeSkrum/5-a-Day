@@ -1,12 +1,28 @@
 [
   {
-    "id": "eb6adb162410c2d65b11c0b89cbec0d5",
-    "title": "Storm Amy: Man dies in Donegal in 'weather-related incident'",
-    "description": "Almost 200,000 homes in the Republic of Ireland are without electricity as Storm Amy brings gale force winds to some areas.",
-    "content": "A man in his 40s has died in the Republic of Ireland in what garda\u00ed (Irish police) understand was a \"weather-related incident\".\nIt comes as Storm Amy brought gale force winds to some areas, with almost 200,000 homes in the Republic loosing electricit... [795 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cm2zjrd80vyo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4404/live/3bc50650-a093-11f0-928c-71dbb8619e94.jpg",
-    "publishedAt": "2025-10-03T17:59:11Z",
+    "id": "1de9b62034cc14e85f6f0de8e5ffb114",
+    "title": "Storm Amy hits parts of UK with heavy rain and strong winds",
+    "description": "Some schools in Northern Ireland are closed, while several rail services and ferries in Scotland have been cancelled.",
+    "content": "Storm Amy has swept into the UK, bringing heavy rain and strong winds to large parts of the country.\nAn amber wind warning is in place for parts of northern and western Scotland, where the Met Office is warning of power cuts and flying debris that co... [2026 chars]",
+    "url": "https://www.bbc.com/news/articles/c0lky9nn948o",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8417/live/ee9ce990-a03f-11f0-92db-77261a15b9d2.jpg",
+    "publishedAt": "2025-10-04T01:04:30Z",
+    "lang": "en",
+    "source": {
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "name": "BBC",
+      "url": "https://www.bbc.com",
+      "country": "gb"
+    }
+  },
+  {
+    "id": "bea47412e630413fbdcc349cc2c1fe80",
+    "title": "Electric car sales hit record high in September",
+    "description": "Sales of fully electric or hybrid vehicles made up more than half of all new car registrations in the UK last month.",
+    "content": "Electric vehicle (EV) sales in the UK hit a record high last month, according to the latest industry figures.\nSales of pure battery electric vehicles (BEV) grew by almost a third to 72,779 in September, according to the Society of Motor Manufacturers... [1183 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cwyd094168go",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e058/live/ac7c44b0-a06d-11f0-8687-4726d7177866.jpg",
+    "publishedAt": "2025-10-04T00:41:12Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -16,66 +32,50 @@
     }
   },
   {
-    "id": "4a6b2127fc1113ee5a12f1ef25431987",
-    "title": "Russia persistently targeting British satellites, UK Space Command chief says",
-    "description": "Maj Gen Paul Tedman says Moscow trying to disrupt UK\u2019s military activities on \u2018weekly\u2019 basis and closely monitoring space assets",
-    "content": "Russia is attempting to jam UK military satellites on a regular basis, according to the head of the UK Space Command.\nSpeaking to the BBC, Maj Gen Paul Tedman said Russian forces were actively trying to disrupt UK-based military activities \u201cweekly\u201d a... [1846 chars]",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/03/russia-persistently-targeting-british-satellites-uk-space-command-chief-says",
-    "image": "https://i.guim.co.uk/img/media/d23a324b1e8f1e5f79b43a8599407c39c211bb71/409_190_4569_3655/master/4569.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06c3fc712024e0770925b7c942036b68",
-    "publishedAt": "2025-10-03T17:37:00Z",
+    "id": "324120c98b8547d7a5e4a5e17eca2e84",
+    "title": "'Best month ever' for UK battery electric vehicle sales",
+    "description": "The Society for Motor Manufacturers and Traders attributed the rise to the government's Electric Car Grant scheme, along with factors such as an \"ever-increasing choice of models\".",
+    "content": "Nearly a quarter of vehicles sold in the UK last month were battery electric (BEV) models, according to industry figures.\nMore than 72,000 new BEVs were registered in September, accounting for 23.3% of the total market, the Society for Motor Manufact... [2542 chars]",
+    "url": "https://news.sky.com/story/best-month-ever-for-uk-battery-electric-vehicle-sales-13443516",
+    "image": "https://e3.365dm.com/25/10/1600x900/skynews-ev-evs-electric-cars_7040053.jpg?20251003124545",
+    "publishedAt": "2025-10-04T00:29:09Z",
     "lang": "en",
     "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com",
+      "id": "896bbd67b1fce1e7e97122b9a4345dab",
+      "name": "Sky News",
+      "url": "https://news.sky.com",
       "country": "gb"
     }
   },
   {
-    "id": "7d66c67a5a399536300c07e5c308c7c7",
-    "title": "Man Utd vs Chelsea LIVE: Watch WSL stream, text commentary, stats & head-to-head",
-    "description": "Watch, follow live text commentary, score updates and match stats from Manchester United vs Chelsea in the Women's Super League.",
-    "content": "Post\nMan Utd 1-1 Chelsea\nJess Park nearly skips through the whole Chelsea defence, but runs into Millie Bright.\nYou'd have more luck trying to get a ball through a concrete wall.\nPost\nMan Utd 1-1 Chelsea\nErin Cuthbert nearly finds Aggie Beever-Jones ... [3903 chars]",
-    "url": "https://www.bbc.com/sport/football/live/cn4wg4159ylt",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/224e/live/a11f9d20-a08a-11f0-b184-97e3939592ff.jpg",
-    "publishedAt": "2025-10-03T18:29:05Z",
+    "id": "240e65d9aa5be4a70a0da3604d380a4a",
+    "title": "Why you should always pack a tennis ball in your carry-on luggage",
+    "description": "From hand sanitiser to a neck pillow, there are plenty of items travellers are often told are essential to pack in their carry-on luggage.",
+    "content": "From hand sanitiser to a neck pillow, there are plenty of items travellers are often told are essential to pack in their carry-on luggage.\nSeveral different tips float around for staying comfortable on flights, too, from walking up the aisle every fe... [2337 chars]",
+    "url": "https://www.dailymail.co.uk/travel/article-15158911/tennis-ball-carry-luggage-flight-circulation.html",
+    "image": "https://i.dailymail.co.uk/1s/2025/10/03/11/102672607-0-image-a-30_1759488900612.jpg",
+    "publishedAt": "2025-10-04T01:03:06Z",
     "lang": "en",
     "source": {
-      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
-      "name": "BBC",
-      "url": "https://www.bbc.com",
+      "id": "4aca9b1f6287a5f7a6dea911063bdb49",
+      "name": "dailymail.co.uk",
+      "url": "https://www.dailymail.co.uk",
       "country": "gb"
     }
   },
   {
-    "id": "ed49c582e3ab4bb1d359daae938d3653",
-    "title": "Taylor Swift gives album low-key launch on cheerful tour of UK radio",
-    "description": "Singer shares details about creation of The Life of a Showgirl in breakfast interviews while critics give it mixed reviews",
-    "content": "The biggest album of the year \u2013 that much can be assumed by default \u2013 deals with Taylor Swift\u2019s life on her record-breaking Eras tour. The 21-month global jaunt became not just the first $1bn tour but the first $2bn tour. Meanwhile, she found love wi... [5438 chars]",
-    "url": "https://www.theguardian.com/music/2025/oct/03/taylor-swift-album-the-life-of-a-showgirl-low-key-launch-uk-radio",
-    "image": "https://i.guim.co.uk/img/media/838133028a7317ef30ecef0b64a3f5c1d5dc57a4/1532_0_3409_2727/master/3409.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ba591b388d93d7361374d8315541151",
-    "publishedAt": "2025-10-03T17:37:00Z",
+    "id": "be3ca4f983ddf9e8f20281e39121f528",
+    "title": "Quin-demic fear: As Covid surges, flu and RSV are also on the rise sparking warnings NHS could be overwhelmed and operations cancelled",
+    "description": "A leading virologist has warned if cases of five common illnesses in the colder months soar, it will put 'extreme' pressure on the NHS.",
+    "content": "The UK could be hit by a 'quin-demic' of winter viruses\u2014Covid, flu, RSV, rhinovirus and norovirus\u2014putting 'extreme' pressure on the NHS, experts warn.\nTwo new Covid variants, Stratus and Nimbus, are already fuelling a surge in infections, with cases ... [5043 chars]",
+    "url": "https://www.dailymail.co.uk/health/article-15158571/covid-rsv-norovirus-flu-quindemic-NHS-winter-fears.html",
+    "image": "https://i.dailymail.co.uk/1s/2025/10/03/12/102674515-0-image-a-23_1759492667039.jpg",
+    "publishedAt": "2025-10-04T01:00:52Z",
     "lang": "en",
     "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com",
-      "country": "gb"
-    }
-  },
-  {
-    "id": "ee688ce65db4a67a9541a617f7d4a16b",
-    "title": "Storm Amy: Man dies in Donegal in 'weather",
-    "description": "Almost 200,000 homes in the Republic of Ireland are without electricity as Storm Amy brings gale force winds to some areas.",
-    "content": "A man in his 40s has died in the Republic of Ireland in what garda\u00ed (Irish police) understand was a \"weather-related incident\".\nIt comes as Storm Amy brought gale force winds to some areas, with almost 120,000 properties in the Republic still without... [1278 chars]",
-    "url": "https://www.bbc.com/news/articles/cm2zjrd80vyo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4404/live/3bc50650-a093-11f0-928c-71dbb8619e94.jpg",
-    "publishedAt": "2025-10-03T17:59:11Z",
-    "lang": "en",
-    "source": {
-      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
-      "name": "BBC",
-      "url": "https://www.bbc.com",
+      "id": "4aca9b1f6287a5f7a6dea911063bdb49",
+      "name": "dailymail.co.uk",
+      "url": "https://www.dailymail.co.uk",
       "country": "gb"
     }
   }
