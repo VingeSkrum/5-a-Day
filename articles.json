@@ -1,12 +1,12 @@
 [
   {
-    "id": "7eac5c1b9d8bb5b1da5875b861561d44",
-    "title": "Nobel peace prize officials investigate surge in bets for winner",
-    "description": "Bets for Maria Corina Machado spiked on Polymarket gambling site hours before she was awarded prize",
-    "content": "Norwegian officials who oversee the Nobel peace prize are investigating suspicious online betting for this year\u2019s winner that suggests a rare leak from the secretive committee that hands out the prize.\nOnline bets for the Venezuelan opposition leader... [1922 chars]",
-    "url": "https://www.theguardian.com/world/2025/oct/10/nobel-peace-prize-bets-polymarket",
-    "image": "https://i.guim.co.uk/img/media/56a7563ff6a229e79bb1daea0643a25a0c6b23fc/531_0_5675_4540/master/5675.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=60ba616c5497843f4c07c4274ebc2664",
-    "publishedAt": "2025-10-10T18:00:00Z",
+    "id": "5a603bc7af241ea01d93ac2de8936654",
+    "title": "Trump news at a glance: layoffs for federal workers begin and president threatens China with tariffs",
+    "description": "President suggests layoffs will be \u2018a lot\u2019 and in Democrat areas as unions for federal workers take the matter to court \u2013 key US politics stories from 10 October at a glance",
+    "content": "Mass firings of US federal workers have begun, as Republicans work to exert pressure on Democrat lawmakers to end a government shutdown. The White House budget office said the layoffs were \u201csubstantial\u201d, with unions for federal workers taking the mat... [500 chars]",
+    "url": "https://www.theguardian.com/us-news/2025/oct/11/trump-administration-news-updates-today",
+    "image": "https://i.guim.co.uk/img/media/042224f69354925660ce28455992de2040e41b85/530_160_3736_2989/master/3736.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b3abe9f14896c9bd5cf6a211d0cdb3b",
+    "publishedAt": "2025-10-11T00:54:56Z",
     "lang": "en",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
@@ -16,13 +16,29 @@
     }
   },
   {
-    "id": "36fb5ab5e1de731cfc3b2f0137e21f23",
-    "title": "Trump administration issues layoff notices to more than 4,000 workers during government shutdown",
-    "description": "More than 4,000 workers across seven agencies will receive notices that their jobs are being cut, the government disclosed in a court filing.",
-    "content": "The Trump administration has begun laying off thousands of federal workers in an effort to pressure Democrats amid the ongoing government shutdown.\n\"The RIFs have begun,\" White House Office of Management Director Russell Vought announced in a post on... [6283 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c1mxd1g71vxo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3fda/live/7c459810-a5fd-11f0-9de9-634bcd03313f.jpg",
-    "publishedAt": "2025-10-10T17:32:51Z",
+    "id": "d437c5bee03d86a9d8073ab10fef5c87",
+    "title": "Brit becomes fourth UK EuroMillions ticket-holder this year to scoop jackpot",
+    "description": "It is the fourth time this year that a UK ticket-holder has won the top prize - as Friday's draw numbers have made one lucky winner \u00a325m richer.",
+    "content": "A single ticket-holder has become the winner of a \u00a325m EuroMillions jackpot, The National Lottery has announced.\nIt marks the fourth time this year that a UK ticket-holder has won the top prize - and the second Friday in a row.\nOne lucky ticket-holde... [886 chars]",
+    "url": "https://news.sky.com/story/brit-becomes-fourth-uk-euromillions-ticket-holder-this-year-to-scoop-jackpot-13448424",
+    "image": "https://e3.365dm.com/24/07/1600x900/skynews-lottery-ticket-euromillions_6640536.jpg?20241128141219",
+    "publishedAt": "2025-10-11T00:34:12Z",
+    "lang": "en",
+    "source": {
+      "id": "896bbd67b1fce1e7e97122b9a4345dab",
+      "name": "Sky News",
+      "url": "https://news.sky.com",
+      "country": "gb"
+    }
+  },
+  {
+    "id": "e599b7232d4412935fb3b4fa12cdaf2a",
+    "title": "A tangled web of deals stokes AI bubble fears in Silicon Valley",
+    "description": "Some are worried that the rapid rise in the value of AI tech companies may be a bubble waiting to burst.",
+    "content": "At OpenAI's DevDaythis week, OpenAI boss Sam Altman did what American tech bosses rarely do these days: he actually answered questions from reporters.\n\"I know it's tempting to write the bubble story,\" Mr Altman told me as he sat flanked by his top li... [5511 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cz69qy760weo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bf9b/live/ff11e480-a5e2-11f0-920e-cb66ee1d5eb0.jpg",
+    "publishedAt": "2025-10-10T23:55:36Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -32,50 +48,34 @@
     }
   },
   {
-    "id": "e1a3ffed54015677f01bd8f6ee038348",
-    "title": "Prince Harry makes new bid for taxpayer-funded security",
-    "description": "Prince Harry news: latest updates as Duke of Sussex launches fresh attempt to attain taxpayer-funded security",
-    "content": "\u201cI can confirm that the duke has written to the new Home Secretary asking for a risk management board to be conducted,\u201d the source said.\n\u201cWhile he realises this will not be top of the incoming secretary\u2019s in-tray it is something which should have hap... [4053 chars]",
-    "url": "https://www.thetimes.com/uk/royal-family/article/prince-harry-security-bid-taxpayer-czmw97qfn",
-    "image": "https://www.thetimes.com/imageserver/image/%2Fac878985-18ce-4a15-907e-426765df1fd8.jpg?crop=3320%2C1867%2C1002%2C32&resize=1200",
-    "publishedAt": "2025-10-10T18:02:43Z",
+    "id": "ccdb7220e7ae8efb308062582279dce0",
+    "title": "King's coat of arms to feature on new UK passports",
+    "description": "The full redesign, coming into effect from December, will be the first since passports turned dark blue after Brexit.",
+    "content": "King Charles's coat of arms will feature on the front of all new passports from December, the Home Office has said.\nNatural landscapes from all four UK nations will also feature inside the updated documents, including Ben Nevis, the Lake District, Th... [1785 chars]",
+    "url": "https://www.bbc.com/news/articles/c0lk3dg7j6eo",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/62f4/live/eb947bf0-a61b-11f0-860a-456736746653.jpg",
+    "publishedAt": "2025-10-10T23:45:24Z",
     "lang": "en",
     "source": {
-      "id": "9e0e1039092ec85a0b069e08b66bb337",
-      "name": "The Times",
-      "url": "https://www.thetimes.com",
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "name": "BBC",
+      "url": "https://www.bbc.com",
       "country": "gb"
     }
   },
   {
-    "id": "679c6dcb60c13573063743b5361c937f",
-    "title": "Thomas Tuchel addresses England's homegrown problem as research shows issue is WORSE than when Gareth Southgate raised concerns",
-    "description": "IAN LADYMAN: Tuchel has told young English players they have to prove their worth after it emerged the number of homegrown footballers playing in the Premier League has plummeted.",
-    "content": "Thomas Tuchel has told young English players they have to prove their worth after it emerged the number of homegrown footballers playing in the Premier League has plummeted.\nResearch shows this season that the percentage of Premier League stars eligi... [3688 chars]",
-    "url": "https://www.dailymail.co.uk/sport/football/article-15180687/Thomas-Tuchel-England-homegrown-Gareth-Southgate.html",
-    "image": "https://i.dailymail.co.uk/1s/2025/10/10/16/102886427-0-image-m-20_1760109086950.jpg",
-    "publishedAt": "2025-10-10T18:00:46Z",
+    "id": "83165c0b925d735c1ab7abbc480382ef",
+    "title": "'Hope in Gaza' and 'Live forever in our hearts, Ricky'",
+    "description": "The beginning of a ceasefire between Israel and Hamas and the funeral of boxer Ricky Hatton lead Saturday's papers.",
+    "content": "Pictures of huge crowds of people walking back to their homes in Gaza feature on several front pages, with the Times saying, external the coastal road was \"clogged with refugees\". The i Paper headlines, external it as \"Hope in Gaza\", while the Financ... [1738 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cx27e9l9gxgo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e4e7/live/e486fd80-a628-11f0-92db-77261a15b9d2.jpg",
+    "publishedAt": "2025-10-10T23:32:15Z",
     "lang": "en",
     "source": {
-      "id": "4aca9b1f6287a5f7a6dea911063bdb49",
-      "name": "Daily Mail",
-      "url": "https://www.dailymail.co.uk",
-      "country": "gb"
-    }
-  },
-  {
-    "id": "05da7bc3fabbe73249c8c5eb42278940",
-    "title": "Migrant guilty of threatening to kill Nigel Farage in TikTok video",
-    "description": "Fayaz Khan issued the threat to kill Nigel Farage on TikTok",
-    "content": "Fayaz Khan issued the threat to kill Nigel Farage on TikTok\nA screengrab taken from a video issued by the CPS of Fayaz Khan allegedly making threats to Nigel Farage (CPS/PA)\nPA Media\nTristan Kirk, Courts Correspondent @ kirkkorner\n1 minute ago\nGet ou... [5214 chars]",
-    "url": "https://www.standard.co.uk/news/crime/migrant-guilty-threat-kill-nigel-farage-tiktok-video-b1252317.html",
-    "image": "https://static.standard.co.uk/2025/10/08/13/86e4538c36d58fc8a080d602729f3e5bY29udGVudHNlYXJjaGFwaSwxNzYwMDA2Njk4-2.81919364.jpg?width=1200&auto=webp&quality=75",
-    "publishedAt": "2025-10-10T17:32:03Z",
-    "lang": "en",
-    "source": {
-      "id": "99b3c5a558a3e649a1397aa932026c34",
-      "name": "London Evening Standard",
-      "url": "https://www.standard.co.uk",
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk",
       "country": "gb"
     }
   }
