@@ -1,12 +1,28 @@
 [
   {
-    "id": "fd0a8f670c4a4b3e84db9d73d91960f9",
-    "title": "Hapless Jets manage minus-10 passing yards in London loss to Broncos",
-    "description": "Wil Lutz kicked a late go-ahead field goal and the Denver Broncos sacked Justin Fields nine times in an ugly 13-11 victory in north London",
-    "content": "Bo Nix threw an early touchdown pass, Wil Lutz kicked a late go-ahead field goal and the Denver Broncos sacked Justin Fields nine times, with the final one sealing an ugly 13-11 victory over the winless New York Jets on Sunday.\nThe Broncos (4-2) won ... [717 chars]",
-    "url": "https://www.theguardian.com/sport/2025/oct/12/nfl-football-sunday-scores",
-    "image": "https://i.guim.co.uk/img/media/167cda94ccbc3ab4d2ff0c0dc2a745d6a13e2779/1038_585_5018_4015/master/5018.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2d1044d7e84f01573a8a47e05ead011",
-    "publishedAt": "2025-10-12T17:39:00Z",
+    "id": "b6fc9aa5c9f5c66b6f22ecda9384622c",
+    "title": "'Hostages set for release' and 'Hope amid the chaos'",
+    "description": "The imminent release of Israeli hostages by Hamas is the focus for most of Monday's papers.",
+    "content": "The imminent release of Israeli hostages by Hamas is the focus for most of Monday morning's papers, with the Times dubbing it an \"historic opportunity to end the war in Gaza\". According to the paper, Hamas says they have custody of all 20 living host... [2411 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/ckg1j270xp3o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f58/live/46ee6d10-a7c2-11f0-928c-71dbb8619e94.png",
+    "publishedAt": "2025-10-13T00:23:16Z",
+    "lang": "en",
+    "source": {
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk",
+      "country": "gb"
+    }
+  },
+  {
+    "id": "2d92357f78b4af9a28b1a473fd560fc7",
+    "title": "Gaza ceasefire live: Israeli hostages due to be released as Trump says \u2018war is over\u2019 and flies to Middle East",
+    "description": "US president is due to arrive in Israel shortly after the expected release of 20 living Israeli hostages by Hamas. Follow the latest developments",
+    "content": "World leaders are gathering in the Egyptian resort of Sharm El-Sheikh for a \u201cpeace summit\u201d aimed at finalising a permanent truce in Gaza.\nTrump will then fly to Sharm el-Sheikh in Egypt where he will co-chair a \u201cpeace summit\u201d attended by the leaders ... [4025 chars]",
+    "url": "https://www.theguardian.com/world/live/2025/oct/13/gaza-ceasefire-live-updates-israel-hostages-release-hamas-trump-middle-east",
+    "image": "https://i.guim.co.uk/img/media/0dd046a65799a4d82be460f1daeb08007faaa040/831_0_4167_3335/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a862e1ff9cf9826b8827a0a9ec447e21",
+    "publishedAt": "2025-10-12T23:28:43Z",
     "lang": "en",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
@@ -16,29 +32,13 @@
     }
   },
   {
-    "id": "9f05b3dc7aab7248041b89e604059fef",
-    "title": "Diane Keaton obituary",
-    "description": "Idiosyncratic American actor who starred in the film classics Annie Hall, The Godfather and Reds",
-    "content": "\u2018Too tall and too \u2018kooky\u2019\u201d \u2013 that was a casting director\u2019s verdict on Diane Keaton in the late 1960s. Either she was ahead of the curve or she bent the world gently to her will, but within a few years she was a star.\nKeaton, who has died aged 79, app... [9858 chars]",
-    "url": "https://www.theguardian.com/film/2025/oct/12/diane-keaton-obituary",
-    "image": "https://i.guim.co.uk/img/media/a3539d97b654d439d117954f153261199c4e3cc9/516_54_2686_2149/master/2686.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2b1f5ae66e4d267934ffe4fb4ec18e78",
-    "publishedAt": "2025-10-12T17:28:00Z",
-    "lang": "en",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com",
-      "country": "gb"
-    }
-  },
-  {
-    "id": "26fda6549e0b897b3a279275afa09206",
-    "title": "NFL London: Denver Broncos survive scare to beat New York Jets at Tottenham",
-    "description": "The Denver Broncos produce an \"almost impossible\" defensive display to escape with a 13-11 victory against the winless New York Jets in London.",
-    "content": "The Denver Broncos produced an \"almost impossible\" defensive display to escape with a 13-11 victory against the New York Jets in London - leaving Aaron Glenn's team as the only winless side in the NFL.\nDenver last week got the better of Super Bowl ch... [4703 chars]",
-    "url": "https://www.bbc.com/sport/american-football/articles/clylykkdle2o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/114c/live/d3030760-a787-11f0-9a78-e156f520d59c.jpg",
-    "publishedAt": "2025-10-12T17:05:31Z",
+    "id": "46b38e6d5c08f896b75458845cfa44ee",
+    "title": "Five carmakers go on trial over emissions cheat claims",
+    "description": "The trial is the latest chapter of what has become known as the \"dieselgate\" scandal.",
+    "content": "Carmakers go on trial over emissions cheat claims\n4 hours ago\nEmer MoreauBusiness reporter\nA major lawsuit against five leading carmakers accused of cheating on emissions tests is set to begin at the High Court on Monday.\nThe trial is the latest chap... [3182 chars]",
+    "url": "https://www.bbc.com/news/articles/cjr5epw8dweo",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6baf/live/c309be20-a760-11f0-af68-63d6dbe14439.jpg",
+    "publishedAt": "2025-10-12T23:26:16Z",
     "lang": "en",
     "source": {
       "id": "f331a5ed3965fb59761dfcecfc7e7a34",
@@ -48,34 +48,34 @@
     }
   },
   {
-    "id": "f271ff7e8d48205d2b6cd139b91c4a52",
-    "title": "ToeJam & Earl creator teases a new game is \"in the planning stage\"",
-    "description": "Designer and creator of ToeJam & Earl, Greg Johnson, has confirmed a new ToeJam & Earl game is \"in the planning stage\".",
-    "content": "Designer and creator of ToeJam & Earl, Greg Johnson, has confirmed a new ToeJam & Earl game is \"in the planning stage\".\nIn an AMA to promote the Kickstarter for his new game, Dancing with Ghosts, Johnson also talked openly about his time developing S... [1375 chars]",
-    "url": "https://www.eurogamer.net/toejam-earl-creator-teases-a-new-game-is-in-the-planning-stage",
-    "image": "https://assetsio.gnwcdn.com/toejam-and-earl-1392x884.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "publishedAt": "2025-10-12T18:01:53Z",
+    "id": "91edb8518733877e8575535aa28ee370",
+    "title": "Rachel Reeves should avoid 'half-baked' tax fixes in Budget, says IFS",
+    "description": "The think tank says the government should seize the opportunity to reform the tax system.",
+    "content": "Chancellor Rachel Reeves should avoid \"directionless tinkering and half-baked fixes\" when trying to boost the government's tax take in next month's Budget, a leading think tank has said.\nTaxes are widely expected to go up in the Budget, with pressure... [1994 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cx2n08n15w2o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/13d9/live/98a29640-a5d3-11f0-b98a-8b079c99c55e.jpg",
+    "publishedAt": "2025-10-12T23:21:33Z",
     "lang": "en",
     "source": {
-      "id": "ffe006a0fcb1eb49c90d4fafee3c075b",
-      "name": "Eurogamer",
-      "url": "https://www.eurogamer.net",
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk",
       "country": "gb"
     }
   },
   {
-    "id": "5cada5e1a38d552113b5525cd73e11b0",
-    "title": "Screenshots for Rare's Everwild Unveiled, Featuring UI and More",
-    "description": "MP1st uncovered posthumous details and exclusive screenshots from Rare's cancelled title, Everwild, with a first look at the game's UI.",
-    "content": "For years, Everwild felt more like a ghost than a game. Announced in 2019, Rare\u2019s next big multiplayer title quickly ran into problems throughout its development, soon becoming another victim of the infamous development hell.\nShifts in internal leade... [3358 chars]",
-    "url": "https://mp1st.com/news/screenshots-rares-everwild-featuring-ui-gameplay-details",
-    "image": "https://mp1st.com/wp-content/uploads/2025/10/evthmb.jpg",
-    "publishedAt": "2025-10-12T17:58:46Z",
+    "id": "72ee96bf58ecdf4476746d6061894d05",
+    "title": "Energy firms complete UK\u2019s first \u2018hydrogen blending\u2019 trial to power grid",
+    "description": "A 2% blend of low-carbon gas injected into gas grid to fuel Brigg power station in North Lincolnshire is a UK first",
+    "content": "Energy companies have injected green hydrogen into Britain\u2019s gas grid and used the low-carbon gas to generate electricity, in a landmark development for the UK\u2019s climate ambitions.\nFor the first time in the UK, a 2% blend of green hydrogen was inject... [2034 chars]",
+    "url": "https://www.theguardian.com/business/2025/oct/13/energy-firms-complete-uk-first-hydrogen-blending-trial-power-grid",
+    "image": "https://i.guim.co.uk/img/media/6941306d2b9087b51582ad2f3d49761278beef62/0_296_4180_3343/master/4180.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=716e03e40abadb6de407846c07ef2c95",
+    "publishedAt": "2025-10-12T23:01:09Z",
     "lang": "en",
     "source": {
-      "id": "45c9922083f902f153f53f6d32d3973d",
-      "name": "MP1st",
-      "url": "https://mp1st.com",
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com",
       "country": "gb"
     }
   }
