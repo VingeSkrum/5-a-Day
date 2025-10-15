@@ -1,60 +1,12 @@
 [
   {
-    "id": "4f3120de3680aba2f844695be3314592",
-    "title": "Thousands of homes now need repairs after insulation fitted under government scheme",
-    "description": "More than 30,000 homes face damp or mould due to ill-fitted insulation, with a handful facing immediate risks like fires, a government watchdog warned. The energy department said it had plans to fix the issues at no cost to the household.",
-    "content": "Thousands of homes fitted with insulation under a flagship government scheme now need major remedial work, or risk damp and mould, the public spending watchdog has warned.\nA damning report by the National Audit Office (NAO) said \"clear failures\" in t... [3906 chars]",
-    "url": "https://news.sky.com/story/thousands-of-homes-now-need-repairs-after-insulation-fitted-under-government-scheme-13449541",
-    "image": "https://e3.365dm.com/25/10/1600x900/skynews-insulation-wall-insulation_7050237.jpg?20251013190752",
-    "publishedAt": "2025-10-14T00:50:47Z",
-    "lang": "en",
-    "source": {
-      "id": "896bbd67b1fce1e7e97122b9a4345dab",
-      "name": "Sky News",
-      "url": "https://news.sky.com",
-      "country": "gb"
-    }
-  },
-  {
-    "id": "878112543046730a84855c51d9035a69",
-    "title": "Nato chief Mark Rutte jokes about 'limping' Russian submarine",
-    "description": "Moscow denies one of its vessels had to surface in the English Channel because of technical issues.",
-    "content": "Nato chief Mark Rutte joked about the condition of Russia's naval fleet on Monday as Moscow denied one of its submarines had to surface because of technical problems.\nRussia's Black Sea Fleet said the diesel-powered submarine Novorossiysk had surface... [2502 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/ckgk2pn4v9lo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce59/live/13441320-a894-11f0-b741-177e3e2c2fc7.jpg",
-    "publishedAt": "2025-10-14T00:38:58Z",
-    "lang": "en",
-    "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk",
-      "country": "gb"
-    }
-  },
-  {
-    "id": "2fe2e7266d707fed6b74c98539c67274",
-    "title": "Trump news at a glance: President declares \u2018peace in the Middle East\u2019 despite many barriers remaining",
-    "description": "Donald Trump has vowed to use the power of his presidency to ensure that Israel recognises it has achieved \u2018all that it can by force of arms\u2019. Key US politics stories from 13 October 2025",
-    "content": "\u201cAt long last, we have peace in the Middle East,\u201d Donald Trump declared, as he and regional leaders signed a declaration meant to cement a ceasefire in Gaza. Analysts said however that a litany of thorny issues are unresolved, and many barriers to a ... [927 chars]",
-    "url": "https://www.theguardian.com/us-news/2025/oct/14/trump-administration-news-updates-today-latest",
-    "image": "https://i.guim.co.uk/img/media/182f74da7c0b8460fab2917c80ec0cc4b166c725/0_0_5022_4018/master/5022.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=369e42ba0ee002b944d9bf540a19decd",
-    "publishedAt": "2025-10-13T23:26:06Z",
-    "lang": "en",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com",
-      "country": "gb"
-    }
-  },
-  {
-    "id": "3aa3d209dce19e22ec8063a502368a00",
-    "title": "Have plans on paper in case of cyber",
-    "description": "Prepare to switch to off-line systems in the event of a cyber-attack, firms are being advised.",
-    "content": "People should plan for potential cyber-attacks by going back to pen and paper, according to the latest advice.\nThe government has written to chief executives across the country strongly recommending that they should have physical copies of their plan... [3224 chars]",
-    "url": "https://www.bbc.com/news/articles/ced61xv967lo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/185a/live/0ae57c10-a87f-11f0-bc97-1f661444df9d.jpg",
-    "publishedAt": "2025-10-13T23:04:57Z",
+    "id": "3bb3d26cae6d2b486546aee07d44d12b",
+    "title": "Migrants will need A-level standard English to work in UK",
+    "description": "The tougher rules will come in force in January as part of wider plans to cut immigration.",
+    "content": "Some migrants coming to the UK will need to speak English to an A-level standard under tougher new rules set to be introduced by the government.\nThe changes, which will come into force from 8 January 2026, will affect some graduates and those applyin... [4537 chars]",
+    "url": "https://www.bbc.com/news/articles/c8679q0pe57o",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0fde/live/5730d520-a919-11f0-92db-77261a15b9d2.jpg",
+    "publishedAt": "2025-10-14T18:10:29Z",
     "lang": "en",
     "source": {
       "id": "f331a5ed3965fb59761dfcecfc7e7a34",
@@ -64,18 +16,66 @@
     }
   },
   {
-    "id": "17426c05c1674228abeb644cebeb15ce",
-    "title": "Have plans on paper in case of cyber-attack, firms told",
-    "description": "Prepare to switch to off-line systems in the event of a cyber-attack, firms are being advised.",
-    "content": "People should plan for potential cyber-attacks by going back to pen and paper, according to the latest advice.\nThe government has written to chief executives across the country strongly recommending that they should have physical copies of their plan... [3234 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/ced61xv967lo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/185a/live/0ae57c10-a87f-11f0-bc97-1f661444df9d.jpg",
-    "publishedAt": "2025-10-13T23:04:57Z",
+    "id": "21f713c90760688e8de33afb84d075c5",
+    "title": "Asylum seeker 'murdered hotel worker Rhiannon Whyte in frenzied attack'",
+    "description": "CCTV is shown to a jury showing the actions of an asylum seeker accused of murdering a hotel worker.",
+    "content": "Asylum seeker laughed after killing woman, jury told\n1 hour ago\nJames Bovillat Wolverhampton Crown Court and\nPhil MackieMidlands Correspondent\nAn asylum seeker from Sudan danced and laughed after murdering a Walsall hotel worker in a \"vicious and fre... [3411 chars]",
+    "url": "https://www.bbc.com/news/articles/cwy902djzv2o",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/88b8/live/a00ccce0-a8f6-11f0-b741-177e3e2c2fc7.jpg",
+    "publishedAt": "2025-10-14T18:10:06Z",
+    "lang": "en",
+    "source": {
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "name": "BBC",
+      "url": "https://www.bbc.com",
+      "country": "gb"
+    }
+  },
+  {
+    "id": "336f0ce1f43efe5f6a5e129a59328707",
+    "title": "Alex Jones's appeal over \u00a31bn Sandy Hook judgement rejected by US Supreme Court",
+    "description": "The lawyers for Alex Jones say the conspiracist will never be able to pay the amount.",
+    "content": "The US Supreme Court has rejected an appeal from conspiracy theorist Alex Jones over a $1.4bn (\u00a31bn) judgment against him after he described the Sandy Hook shooting as a hoax.\nThe Infowars host, who filed for bankruptcy in late 2022, had argued that ... [2107 chars]",
+    "url": "https://news.sky.com/story/alex-joness-appeal-over-1bn-sandy-hook-judgement-rejected-by-us-supreme-court-13450146",
+    "image": "https://e3.365dm.com/25/10/1600x900/skynews-alex-jones-infowars_7051045.jpg?20251014171920",
+    "publishedAt": "2025-10-14T18:06:01Z",
+    "lang": "en",
+    "source": {
+      "id": "896bbd67b1fce1e7e97122b9a4345dab",
+      "name": "Sky News",
+      "url": "https://news.sky.com",
+      "country": "gb"
+    }
+  },
+  {
+    "id": "0cfc85c9719e43f85404e0cc14c7985b",
+    "title": "Latvia vs England LIVE: World Cup 2026 Qualifier score, radio & updates",
+    "description": "Follow live text commentary, score updates and match stats from Latvia vs England in the UEFA World Cup Qualifiers",
+    "content": "'Disciplined start from England'\nLatvia 0-0 England\nMatt Upson\nFormer England defender on BBC Radio 5 Live in Riga\nThe pressure from England - they're not allowing any space and they're forcing errors.\nIt is a disciplined start from England.\nPost\nLat... [1815 chars]",
+    "url": "https://www.bbc.co.uk/sport/football/live/cy50xpn41dlt",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/748f/live/a1210190-a92e-11f0-a87a-599d240e4891.jpg",
+    "publishedAt": "2025-10-14T17:57:00Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
       "name": "BBC",
       "url": "https://www.bbc.co.uk",
+      "country": "gb"
+    }
+  },
+  {
+    "id": "76362f5c0a5055ce59804782c49b509f",
+    "title": "DNA test confirmed alleged stalker was not Madeleine McCann, court hears",
+    "description": "Investigating officer says he went against procedure to test Julia Wandelt, accused of campaign of harassment against McCann family",
+    "content": "An alleged stalker\u2019s claim to be Madeleine McCann was ruled out after a DNA test proved conclusively she was not the missing girl, police have revealed in court.\nJulia Wandelt, 24, is accused of a campaign of harassment against the family of Madelein... [2764 chars]",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/14/secret-dna-test-confirmed-alleged-stalker-was-not-madeleine-mccann-says-officer",
+    "image": "https://i.guim.co.uk/img/media/8dbd3f3706f1af8947530563a7825710b9044e0c/412_0_1439_1152/master/1439.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1e3dc3aadb9fd6fd5a269d6bbbf2514",
+    "publishedAt": "2025-10-14T17:53:00Z",
+    "lang": "en",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com",
       "country": "gb"
     }
   }
