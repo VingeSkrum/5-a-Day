@@ -1,28 +1,12 @@
 [
   {
-    "id": "7f99fd48bc195632e1cca9b72a0b86c5",
-    "title": "Hong Kong: two people reported killed after cargo plane skids off airport runway",
-    "description": "The northern runway at the airport was closed after the incident, Hong Kong International Airport said",
-    "content": "A cargo plane has skidded off the runway into the sea while landing at Hong Kong International Airport, the city\u2019s airport operator said on Monday, with two people reportedly confirmed dead.\nThe northern runway at the airport was closed after the inc... [755 chars]",
-    "url": "https://www.theguardian.com/world/2025/oct/20/hong-kong-cargo-plane-skids-off-airport-runway-people-killed",
-    "image": "https://i.guim.co.uk/img/media/2809baceefe3a96c3543692afac69661c433e7ec/418_0_4777_3821/master/4777.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c474ea647d4585dc20c321309fd10f37",
-    "publishedAt": "2025-10-20T00:24:49Z",
-    "lang": "en",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com",
-      "country": "gb"
-    }
-  },
-  {
-    "id": "cbb6121562fa658b31833160ccd8d09f",
-    "title": "Cargo plane skids off runway into sea at Hong Kong International Airport",
-    "description": "The Emirates flight reportedly hit a vehicle one the ground as it came into land at the international airport.",
-    "content": "A cargo plane has skidded off a runway at Hong Kong International Airport and landed in the sea, killing at least one person, local media have reported.\nThe Emirates flight, operating as Aerotranscargo, was arriving from Dubai just before 04:00 local... [351 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c5y0eeqz732o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6395/live/ea5330e0-ad43-11f0-b2a1-6f537f66f9aa.png",
-    "publishedAt": "2025-10-19T23:33:16Z",
+    "id": "5d77f9ead9434978f226300575e356e2",
+    "title": "Israel receives body Hamas says is Gaza hostage",
+    "description": "Before Monday, Hamas had handed over all living hostages and 12 out of 28 deceased hostages under a ceasefire.",
+    "content": "Hamas has handed over a body that it says is a hostage, the Israeli military has said.\nThe body was transported by the Red Cross to Israeli forces in Gaza, and has returned to Israel for formal identification.\nBefore Monday, Hamas had handed over all... [2363 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cew45zp1228o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78c0/live/83b457d0-addc-11f0-9c53-d1367f9334cb.jpg",
+    "publishedAt": "2025-10-20T18:08:00Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -32,13 +16,29 @@
     }
   },
   {
-    "id": "dd77b559835ed6866ef920f8a47d5ac9",
-    "title": "Housing market slows amid fears Reeves will increase property taxes",
-    "description": "Post-summer bounce in activity fails to materialise as buyers and sellers, in the south especially, opt to \u2018wait and see\u2019",
-    "content": "The UK\u2019s housing market is showing signs of slowing down amid speculation that Rachel Reeves could announce tax increases on property in next month\u2019s budget.\nIn a sign of growing caution among house hunters, figures from Rightmove showed that both th... [2866 chars]",
-    "url": "https://www.theguardian.com/money/2025/oct/20/housing-market-slows-reeves-increase-property-tax",
-    "image": "https://i.guim.co.uk/img/media/a2afb77bf356253d639ba785f1efee6993f90eb6/456_0_4723_3780/master/4723.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb37a6b5446507bd6043587a1943226e",
-    "publishedAt": "2025-10-19T23:01:00Z",
+    "id": "2e9e1a530b4e1cee135382b00f33b7b7",
+    "title": "University tuition fees in England to rise with inflation every year from 2026",
+    "description": "Bridget Phillipson confirmed the plans for the next two years, with fees to increase automatically after that.",
+    "content": "9 hours ago\nBranwen JeffreysEducation Editor\nUniversity tuition fees in England will increase every year in line with inflation from 2026 onwards, the government has announced.\nEducation Secretary Bridget Phillipson confirmed the increase for the nex... [4513 chars]",
+    "url": "https://www.bbc.com/news/articles/cgkzj87n8rdo",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4289/live/6de15860-adc6-11f0-9704-87425431ad41.jpg",
+    "publishedAt": "2025-10-20T18:03:07Z",
+    "lang": "en",
+    "source": {
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "name": "BBC",
+      "url": "https://www.bbc.com",
+      "country": "gb"
+    }
+  },
+  {
+    "id": "03c92822882d0a2cd5db5bfe203bc0b5",
+    "title": "Starmer\u2019s grooming gang inquiry left in turmoil after two survivors quit panel",
+    "description": "Fiona Goddard and Ellie-Ann Reynolds criticise handling of national inquiry, which is yet to appoint a chair",
+    "content": "Keir Starmer\u2019s national grooming gang inquiry has been left in turmoil after two survivors resigned from its oversight panel and accused the Home Office and Labour of \u201ccontempt\u201d and \u201cpolitical interference\u201d before it has appointed a chair.\nEllie-Ann ... [5825 chars]",
+    "url": "https://www.theguardian.com/society/2025/oct/20/starmer-grooming-gang-inquiry-left-in-turmoil-after-two-survivors-quit-panel",
+    "image": "https://i.guim.co.uk/img/media/5d1371cb8bb8342cca688cc65ad52565b2fd40b8/88_439_3003_2402/master/3003.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c97da8707ed2ac6f3961827e778fd3c",
+    "publishedAt": "2025-10-20T18:03:00Z",
     "lang": "en",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
@@ -48,34 +48,34 @@
     }
   },
   {
-    "id": "340af99914ad88d5e7b577f75bfac067",
-    "title": "L\u2019Or\u00e9al to Acquire Kering Beauty Portfolio for $4.6 Billion",
-    "description": "The companies announced on Sunday that L\u2019Or\u00e9al will acquire Kering\u2019s beauty brands and licenses for its fashion house names, including Gucci.",
-    "content": "L\u2019Or\u00e9al will take over Kering\u2019s beauty portfolio, including the prestige fragrance maker Creed it acquired in 2023 for $3.8 billion, and the rights to make beauty lines for its fashion house brands, the companies announced on Sunday.\nThis includes th... [2121 chars]",
-    "url": "https://www.businessoffashion.com/news/beauty/loreal-to-acquire-kering-beauty-portfolio-for-46-billion/",
-    "image": "https://img.businessoffashion.com/resizer/v2/I55YH6TRN5H5BGW72LNC6JPQFY.jpg?smart=true&auth=ecc7fddd8bf1b152874a93d5c8ae124768e01a3f3ef62a1d050f009ced16a00b&width=1200&height=630",
-    "publishedAt": "2025-10-19T23:17:19Z",
+    "id": "1e1cc67697c3e3d62a2226f5feaa6d7a",
+    "title": "University tuition fees in England to rise with inflation from next year",
+    "description": "The education secretary says maintenance loans will also rise in line with inflation, and undergraduate tuition fees will eventually be linked to university quality.",
+    "content": "Students are already acutely aware of the cost of going to university\nBranwen Jeffreys\nEducation editor\nIt\u2019s now clear tuition fees will go well over \u00a310,000 a year in this parliament, but there is little evidence on recent experience that those fees... [7682 chars]",
+    "url": "https://www.bbc.co.uk/news/live/cqjwvgqyrlzt",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/39e6/live/f9a11c50-add5-11f0-be67-e5f02edf63b3.png",
+    "publishedAt": "2025-10-20T17:43:15Z",
     "lang": "en",
     "source": {
-      "id": "e6c53ba5c574bbb26c04d4c1ed38b35c",
-      "name": "The Business of Fashion",
-      "url": "https://www.businessoffashion.com",
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk",
       "country": "gb"
     }
   },
   {
-    "id": "fd16e38ab0ae22dcac2a1ada64d1d67a",
-    "title": "UK\u2019s biggest pension funds back regional growth drive",
-    "description": "Legal & General and the Universities Superannuation Scheme are among 20 members of a new investment partnership called Sterling 20",
-    "content": "The 20 participants also include M&G, Phoenix, Aviva, Royal London and the Universities Superannuation Scheme.\nThe government is trying to encourage British pension funds to invest more in the UK and especially in growth industries and private busine... [2382 chars]",
-    "url": "https://www.thetimes.com/business-money/economics/article/uks-biggest-pension-funds-back-regional-growth-drive-sg67q8ljv",
-    "image": "https://www.thetimes.com/imageserver/image/%2Fce8e22b5-0466-4940-a893-83f69b7ba6b7.jpg?crop=5173%2C2910%2C0%2C275&resize=1200",
-    "publishedAt": "2025-10-19T23:01:00Z",
+    "id": "30e4035a8a04eaa83df8236a2ccb5b2b",
+    "title": "Tory MP criticised after demanding legally settled families be deported",
+    "description": "Katie Lam said move would make UK \u2018culturally coherent\u2019 and that a large number of people \u2018need to go home\u2019",
+    "content": "A Conservative MP tipped as a future party leader has been condemned for saying large numbers of legally settled families must be deported, in order to ensure the UK is mostly \u201cculturally coherent\u201d.\nThe Tory leader, Kemi Badenoch, has been urged to c... [2051 chars]",
+    "url": "https://www.theguardian.com/politics/2025/oct/20/tory-mp-criticised-after-demanding-legally-settled-families-be-deported",
+    "image": "https://i.guim.co.uk/img/media/c80d92bd58fcb73d41b2f632ce63e33bc771bbb0/1353_129_1415_1132/master/1415.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4583812a7ebe62757c46aee6215dd31a",
+    "publishedAt": "2025-10-20T17:36:00Z",
     "lang": "en",
     "source": {
-      "id": "9e0e1039092ec85a0b069e08b66bb337",
-      "name": "The Times",
-      "url": "https://www.thetimes.com",
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com",
       "country": "gb"
     }
   }
