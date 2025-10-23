@@ -1,82 +1,62 @@
 [
   {
-    "id": "1e23f39f0c58abcff24f3366973a2658",
-    "title": "Ukraine war briefing: Storm Shadow missiles \u2018hit gunpowder plant in Russia\u2019",
-    "description": "Russians confirm attack on Bryansk region home to explosives factory; Trump-Putin talks shelved, US diplomacy \u2018going in circles\u2019. What we know on day 1,337",
-    "content": "Storm Shadow missiles struck a Russian chemical plant making gunpowder, explosives and rocket fuel in the Bryansk region, Ukraine\u2019s military said late on Tuesday. The French-British missiles are also known as Scalp. \u201cA massive combined missile and ai... [3811 chars]",
-    "url": "https://www.theguardian.com/world/2025/oct/22/ukraine-war-briefing-storm-shadow-missiles-hit-gunpowder-plant-in-russia",
-    "image": "https://i.guim.co.uk/img/media/be16444e2c30815712db8d12b3c022433842c83b/306_402_3884_3107/master/3884.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0a091ae0df7f467001c66ab8f3416228",
-    "publishedAt": "2025-10-22T01:06:00Z",
+    "id": "e1319e4c4e13b7f0629e62e9af13c21c",
+    "title": "No charges over Trump-Epstein projection on to Windsor Castle",
+    "description": "Thames Valley Police says no further action will be taken against four men arrested in September.",
+    "content": "No charges will be brought against four men arrested after images of Donald Trump and convicted sex offender Jeffrey Epstein were projected on to Windsor Castle, Thames Valley Police has said.\nThe men - a 60-year-old from East Sussex, a 36-year-old a... [1107 chars]",
+    "url": "https://www.bbc.com/news/articles/cgmx1kpgr2do",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/65ec/live/30cd8a60-af70-11f0-ba75-093eca1ac29b.jpg",
+    "publishedAt": "2025-10-22T18:09:00Z",
     "lang": "en",
     "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com",
-      "country": "gb"
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "name": "BBC",
+      "url": "https://www.bbc.com"
     }
   },
   {
-    "id": "472ee2894185b42a0ea9ed3bed1ce3d0",
-    "title": "ChatGPT-maker OpenAI releases web browser to rival Google",
-    "description": "ChatGPT Atlas was unveiled as the company seeks new ways to corral users to its online offerings.",
-    "content": "ChatGPT-maker OpenAI has unveiled an artificial intelligence-powered web browser to challenge competitors like Google, which operates Chrome, the most popular browser in the world.\nChatGPT Atlas does away with the address bar that is a key feature in... [2218 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c07mz10m1k9o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d1a9/live/158147b0-aed0-11f0-b2a1-6f537f66f9aa.jpg",
-    "publishedAt": "2025-10-22T00:13:02Z",
+    "id": "723d51708ff8461220dc163688f739c1",
+    "title": "Why Beyond Meat shares have surged 1,000% in four days",
+    "description": "Shares in the struggling plant-based meat company have rallied as retail traders pile onto stock.",
+    "content": "Appetite for Beyond Meat's plant-based burgers is shaky. But traders sure seem to have developed a taste for its stock.\nShares in the company have soared more than 1,000% over four days - a stunning rally for a company that had seen its share price a... [2011 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cew4kqg09j8o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a6e8/live/3dc2c6c0-af68-11f0-a7d8-5bbfead1c50d.jpg",
+    "publishedAt": "2025-10-22T18:07:13Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
       "name": "BBC",
-      "url": "https://www.bbc.co.uk",
-      "country": "gb"
+      "url": "https://www.bbc.co.uk"
     }
   },
   {
-    "id": "a845226acf33d9354d8a75409c783d90",
-    "title": "First league table of antidepressant side effects",
-    "description": "Find out which to avoid if you are concerned about weight gain.",
-    "content": "Side effects of different antidepressants have been ranked for the first time, revealing huge differences between drugs.\nAcademics looked at the impact medications had on patients in the first eight weeks after starting treatment, with some causing p... [4081 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c9d65nqgd5zo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/61da/live/cd0dd240-ade0-11f0-8623-dd1b3d489f0f.jpg",
-    "publishedAt": "2025-10-21T23:53:25Z",
+    "id": "4b00c98e4ce439342537e53f65e3c444",
+    "title": "Louvre failed to spot jewel thieves early enough, says museum boss",
+    "description": "Laurence des Cars said there was only one camera pointing on the gallery which was robbed.",
+    "content": "The Louvre failed to spot a gang of thieves early enough to stop the theft of \u20ac88m (\u00a376m) worth of French crown jewels, the museum's director has revealed.\nLaurence des Cars, speaking publicly for the first time since the heist on Sunday, told French... [1963 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c9d6e2wv884o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/19d4/live/79950560-af71-11f0-a7d8-5bbfead1c50d.jpg",
+    "publishedAt": "2025-10-22T18:02:15Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
       "name": "BBC",
-      "url": "https://www.bbc.co.uk",
-      "country": "gb"
+      "url": "https://www.bbc.co.uk"
     }
   },
   {
-    "id": "3f3fd4c5531d1cceb858acfb3d33571e",
-    "title": "Barnes buries Benfica to keep Newcastle purring and pile pain on Mourinho",
-    "description": "Harvey Barnes scored twice after Anthony Gordon\u2019s opener to claim a 3-0 victory for Newcastle against Benfica",
-    "content": "When Jos\u00e9 Mourinho arrived on Tyneside and immediately showered Eddie Howe and his players with lavish praise, Newcastle fans feared the worst. Yet in lauding the terrifying pace of Howe\u2019s wingers, not to mention his team\u2019s aggression and organisatio... [4752 chars]",
-    "url": "https://www.theguardian.com/football/2025/oct/21/newcastle-benfica-champions-league-match-report",
-    "image": "https://i.guim.co.uk/img/media/fd1fcae0615e4d73e0e93498ede4a3b1a94ec43a/166_0_2057_1645/master/2057.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b51d704a4e318553f5a29569569412ab",
-    "publishedAt": "2025-10-21T23:02:00Z",
+    "id": "0756bca917356674adec8d02e6c022fe",
+    "title": "Send reform in England pushed back to 2026",
+    "description": "The government says it needs more time to test proposals for the special educational needs system.",
+    "content": "The government is delaying reforms to the Special Educational Needs and Disabilities (Send) system and other policy proposals for schools in England until next year.\nIt originally planned to publish its Schools White paper, which includes plans for S... [3145 chars]",
+    "url": "https://www.bbc.com/news/articles/ce8zmjmxe04o",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2478/live/bd05bd00-af5b-11f0-8482-5bc1453746a5.jpg",
+    "publishedAt": "2025-10-22T17:41:41Z",
     "lang": "en",
     "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com",
-      "country": "gb"
-    }
-  },
-  {
-    "id": "f98b69eba69f124db5cc023a1ccf9240",
-    "title": "Walking just 4,000 daily steps once a week cuts risk of early death in older people, study suggests",
-    "description": "Researchers say the target significantly reduces risk of dying and lowers likelihood of cardiovascular disease",
-    "content": "Older people who only walk 4,000 daily steps once a week still reduce their risk of dying early by a quarter, a study suggests.\nStaying active is known to bring a wide range of health benefits. But many people in their 60s, 70s and beyond may struggl... [3092 chars]",
-    "url": "https://www.theguardian.com/society/2025/oct/21/walking-just-4000-steps-once-week-cuts-risk-early-death-study",
-    "image": "https://i.guim.co.uk/img/media/d61f690d858a5344bea31693b83e7795f15fefce/1223_798_2596_2077/master/2596.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a246ada1d471b0261d753c1eda519504",
-    "publishedAt": "2025-10-21T22:30:00Z",
-    "lang": "en",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com",
-      "country": "gb"
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "name": "BBC",
+      "url": "https://www.bbc.com"
     }
   }
 ]
