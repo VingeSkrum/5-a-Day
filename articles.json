@@ -1,12 +1,57 @@
 [
   {
-    "id": "4e41056c5285fb689d040f7f46dc01a8",
-    "title": "Rapper Ghetts charged after fatal hit-and-run",
-    "description": "The 41-year-old grime MC is accused of driving off after hitting a man in north-east London.",
-    "content": "The rapper Ghetts has been charged with causing serious injury by dangerous driving after a fatal crash in north-east London.\nThe musician, whose real name is Justin Clarke-Samuel, allegedly failed to stop after hitting a 20-year-old man in Redbridge... [439 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c04g5dk5wkko",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2bbb/live/6651c9f0-b04a-11f0-b28d-7def5e0b07dd.jpg",
-    "publishedAt": "2025-10-23T17:49:48Z",
+    "id": "daf8800393b52988026f45bd42c83b17",
+    "title": "Ukraine war briefing: Lithuania accuses Russia of further Nato airspace violation",
+    "description": "Eurofighters scramble after incursion by fighter and tanker; Russian anti-tank drone kills two Ukrainian journalists at petrol station. What we know on day 1,339",
+    "content": "Lithuania said two Russian planes entered its airspace on Thursday: a Sukhoi SU-30 fighter and an IL-78 tanker flying from the Russian exclave of Kaliningrad. In response, Nato scrambled two Typhoon Eurofighters from its air patrol mission in the Bal... [4268 chars]",
+    "url": "https://www.theguardian.com/world/2025/oct/24/ukraine-war-briefing-lithuania-accuses-russia-of-further-nato-airspace-violation",
+    "image": "https://i.guim.co.uk/img/media/ed5b7f246bea513d923672e490f53e7d5ac9bc2e/0_0_4503_3602/master/4503.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=909ed4ecf8463be3a80ae2c7b0c5b91c",
+    "publishedAt": "2025-10-24T00:47:00Z",
+    "lang": "en",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "2def5c64fe11fe1df60bd583360ebdc4",
+    "title": "Caerphilly byelection result live: Plaid Cyrmu beats challenge from Reform UK to win pivotal Welsh parliament vote",
+    "description": "Outcome of byelection in historically Labour stronghold could mark historic shift in Welsh politics",
+    "content": "Key events\nShow key events only\nPlease turn on JavaScript to use this feature\nPlaid wins byelection\nPlaid candidate Lindsay Whittle has been announced as the byelection winner.\nShare\nThe byelection candidates are being summoned to the stage at the Ca... [8137 chars]",
+    "url": "https://www.theguardian.com/politics/live/2025/oct/24/caerphilly-byelection-result-live-reform-plaid-cymru-labour-wales-welsh-government-senedd-latest-voting-news",
+    "image": "https://i.guim.co.uk/img/media/362b88c00c791111e72a34bccb10eaca20a15ede/675_0_6599_5279/master/6599.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=8bd2f0338c6c03c9f86f671584c1076a",
+    "publishedAt": "2025-10-24T00:26:05Z",
+    "lang": "en",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "e47970acb7df1f996de0804e4328db6b",
+    "title": "Bank of England chief Afua Kyei tops 2026 Powerlist as UK's most influential black person",
+    "description": "Afua Kyei, 43, is in charge of the financial governance of the Bank's \u00a31 trillion balance sheet.",
+    "content": "Bank of England chief tops 2026 Powerlist as UK's most influential black person\n7 hours ago\nAdina Campbell,UK correspondent and\nAnthea Lee\nAfua Kyei, the Bank of England's chief financial officer, has been named the UK's most influential black person... [2652 chars]",
+    "url": "https://www.bbc.com/news/articles/cwy7gn1979go",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/01bc/live/c71d5cf0-b0a8-11f0-b2a1-6f537f66f9aa.jpg",
+    "publishedAt": "2025-10-24T00:18:31Z",
+    "lang": "en",
+    "source": {
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "name": "BBC",
+      "url": "https://www.bbc.com"
+    }
+  },
+  {
+    "id": "78545e011a281916698d5ad3eba83aa8",
+    "title": "Irish presidential election: Voters head to the polls",
+    "description": "The winning candidate will become the country's 10th president and replace Michael D Higgins.",
+    "content": "Voters in the Republic of Ireland are heading to the polls to elect a new president of Ireland.\nThe winning candidate will become the country's 10th president, replacing the current head of state Michael D Higgins.\nThere are two contenders to become ... [1023 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cx2y04znx4ro",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3553/live/06d4d7e0-a534-11f0-8469-192d9823e9a2.png",
+    "publishedAt": "2025-10-24T00:02:57Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -15,63 +60,18 @@
     }
   },
   {
-    "id": "dbc6e0c80052ca51397244ba9a42ba53",
-    "title": "Ringleader behind arson attack and kidnap plot was 'groomed' by Russian chatbot, court told",
-    "description": "Dylan Earl, 21, a builder and part-time drug dealer, has been cast by his defence as a cannabis-smoking gamer who was involved in \"desperate, pathetic and delusional\" message exchanges with a Russian chatbot controlled by the Wagner Group.",
-    "content": "The ringleader behind an arson attack and plot to kidnap a billionaire Russian dissident had been \"groomed\" by a chatbot, operated by Wagner mercenaries, a court was told.\nThe Old Bailey heard the fire at an industrial estate in Leyton, East London, ... [2690 chars]",
-    "url": "https://news.sky.com/story/ringleader-behind-arson-attack-and-kidnap-plot-was-groomed-by-russian-chatbot-court-told-13455886",
-    "image": "https://e3.365dm.com/24/10/1600x900/skynews-dylan-earl-wagner-arson_6727701.png?20241025181109",
-    "publishedAt": "2025-10-23T17:26:33Z",
+    "id": "2f871201a838bf56604763b1b5484fe2",
+    "title": "Airport expansion will put UK\u2019s net zero goal in \u2018serious jeopardy\u2019, MPs warn",
+    "description": "Committee urges ministers to set out measures to reduce carbon emissions before work starts on new runways",
+    "content": "Airport expansion plans backed by the government are putting the UK\u2019s net zero target in \u201cserious jeopardy\u201d, MPs have warned.\nWithout new safeguards, proposals to enlarge airports including Heathrow and Gatwick could push the UK over its carbon budge... [2779 chars]",
+    "url": "https://www.theguardian.com/environment/2025/oct/24/airport-expansion-uk-net-zero-mp-carbon-emissions-runway",
+    "image": "https://i.guim.co.uk/img/media/67fca8b65a13573d89ad157c7c58e75cac620fed/322_0_4329_3463/master/4329.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f900c38201c7d72883d7e69741e1b63e",
+    "publishedAt": "2025-10-23T23:02:00Z",
     "lang": "en",
     "source": {
-      "id": "896bbd67b1fce1e7e97122b9a4345dab",
-      "name": "Sky News",
-      "url": "https://news.sky.com"
-    }
-  },
-  {
-    "id": "b8be79a299733aebc4f748740f9ee3d3",
-    "title": "Soldier F acquitted on all seven Bloody Sunday charges",
-    "description": "The verdict in the trial of a former paratrooper accused of two murders during the Bloody Sunday shootings in 1972 was delivered at Belfast Crown Court. | UTV News",
-    "content": "By Nathan Hylands and Tori Watson\nBloody Sunday - the day the Army opened fire on 13 innocent civilians in 1972.\nIt became one of the most seismic events of the Troubles with the repercussions being felt for generations.\nNot least today, as Soldier F... [7868 chars]",
-    "url": "https://www.itv.com/news/utv/2025-10-23/verdict-expected-in-soldier-f-trial-over-bloody-sunday-murders",
-    "image": "https://images.ctfassets.net/pjshm78m9jt4/2PLLh1it857OpqLLhxdE7O/1adff51620e6ba69ad26d3d64d59048d/PRESSEYE_BLOODY_SUNDAY.jpg?fm=jpg&fit=fill&w=1600&h=900&q=80",
-    "publishedAt": "2025-10-23T18:07:20Z",
-    "lang": "en",
-    "source": {
-      "id": "50e936df020ec4ba91592a1399c1d92f",
-      "name": "ITVX",
-      "url": "https://www.itv.com"
-    }
-  },
-  {
-    "id": "93351df55aa19f843015e19140e07ba9",
-    "title": "Sadiq Khan blames Brexit for housing failure as he gets \u00a3300m rescue package",
-    "description": "Mayor of London points to Britain\u2019s exit from EU as reason for slump in construction",
-    "content": "The Mayor of London has blamed Brexit for failing to meet his housebuilding targets as he was handed an emergency \u00a3300m Government lifeline to salvage his plans.\nOn Wednesday, Sir Sadiq Khan agreed to adopt a string of emergency measures to meet his ... [3435 chars]",
-    "url": "https://www.telegraph.co.uk/business/2025/10/23/khan-blames-brexit-for-housing-failure-as-he-gets-rescue/",
-    "image": "https://www.telegraph.co.uk/content/dam/business/2025/10/23/TELEMMGLPICT000441536409_17612393540960_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Standard",
-    "publishedAt": "2025-10-23T17:40:00Z",
-    "lang": "en",
-    "source": {
-      "id": "0fc579b3cc7a823fd67a74b9ed6f0796",
-      "name": "The Telegraph",
-      "url": "https://www.telegraph.co.uk"
-    }
-  },
-  {
-    "id": "8d32a4b1cc6440720004940353b79205",
-    "title": "Vance criticises Israel's parliament vote on West Bank annexation, calls move an 'insult'",
-    "description": "While many members of Israel's coalition support annexation, they have backed off those calls since US President Donald Trump said last month that he opposes the move.",
-    "content": "US Vice President JD Vance criticised a symbolic vote in Israel's parliament on Thursday regarding the annexation of the occupied West Bank, calling it an \"insult\" that went against the Trump administration's policies.\nHard-liners in the Knesset narr... [3931 chars]",
-    "url": "https://www.euronews.com/2025/10/23/vance-criticises-israels-parliament-vote-on-west-bank-annexation-calls-move-an-insult",
-    "image": "https://static.euronews.com/articles/stories/09/52/42/54/1200x675_cmsv2_a184730c-924c-56cb-ab08-33d42dd625a0-9524254.jpg",
-    "publishedAt": "2025-10-23T17:36:54Z",
-    "lang": "en",
-    "source": {
-      "id": "fe7887ab38dfaf6c0f8af3a124d38295",
-      "name": "Euronews.com",
-      "url": "https://www.euronews.com"
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
     }
   }
 ]
