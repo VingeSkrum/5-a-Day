@@ -1,12 +1,12 @@
 [
   {
-    "id": "6feea5bedccf8b4e8791ffb0dc920a57",
-    "title": "Military sites to house asylum seekers in bid to end hotel use",
-    "description": "Housing asylum seekers in hotels has cost billions, while they have also become a focal point for protests.",
-    "content": "Hundreds of asylum seekers could be housed in military barracks as the government seeks to end the use of hotels.\nDiscussions are underway over the use of two sites - one in Scotland, the other in the south of England - for accommodation for 900 men,... [1965 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cjr0lx7n0y3o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f3be/live/f41732c0-b397-11f0-ba75-093eca1ac29b.jpg",
-    "publishedAt": "2025-10-28T00:50:46Z",
+    "id": "12e090e1d656ecc6f10db0f894e48ed8",
+    "title": "Man accused of racially aggravated rape of woman in Walsall",
+    "description": "John Ashby, 32, is charged with one count of rape and sexual assault after an attack in Walsall.",
+    "content": "A man has been charged with the racially aggravated rape of a woman in Walsall.\nJohn Ashby, 32, of no fixed address, is accused of one count of rape and sexual assault in relation to the attack, the Crown Prosecution Service (CPS) said.\nIt comes afte... [259 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/clyg636kdrgo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4f60/live/f3ff7ca0-a39f-11f0-95e7-93813d968835.png",
+    "publishedAt": "2025-10-28T18:12:24Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -15,13 +15,28 @@
     }
   },
   {
-    "id": "a000a6150792947356dd23143567269a",
-    "title": "Organised crime making millions from illegal waste dumping in UK, says committee",
-    "description": "Peers say \u2018woeful\u2019 record on prosecutions has led to a \u2018low-risk, high-reward\u2019 criminal culture",
-    "content": "Organised crime groups in the UK are making millions every year from illegally dumping and burning rubbish, peers have told ministers, after an inquiry found a lack of enforcement made it a \u201clow-risk, high-reward\u201d criminal enterprise.\n\u201cCriminality is... [3200 chars]",
-    "url": "https://www.theguardian.com/environment/2025/oct/28/organised-making-millions-from-waste-dumping-in-uk-says-committee",
-    "image": "https://i.guim.co.uk/img/media/55530f89c85c13771dbbd052a54b0f0a2cfe4ab5/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0bf42c6bd25a0e3737e688a275fffd28",
-    "publishedAt": "2025-10-28T00:03:00Z",
+    "id": "e4611437d3cfc213daa3d0de0b1213df",
+    "title": "Child dies after 'hazardous materials incident' in London",
+    "description": "Two adults and another child were also treated in hospital after reporting a smell of chemicals in a Newham flat",
+    "content": "A child has died following a \"hazardous materials incident\" in east London.\nFire crews attended a property in Barking Road, Upton Park, Newham, after two adults and two children went to hospital complaining about a smell of chemicals in a flat.\nOne o... [811 chars]",
+    "url": "https://news.sky.com/story/child-dies-after-hazardous-materials-incident-in-london-13459448",
+    "image": "https://e3.365dm.com/25/10/1600x900/skynews-barking-road-upton-park_7065085.jpg?20251028183327",
+    "publishedAt": "2025-10-28T18:02:36Z",
+    "lang": "en",
+    "source": {
+      "id": "896bbd67b1fce1e7e97122b9a4345dab",
+      "name": "Sky News",
+      "url": "https://news.sky.com"
+    }
+  },
+  {
+    "id": "65d7a48efa72380ac55c04085ab006d0",
+    "title": "\u2018Storm of the century\u2019: record-breaking Hurricane Melissa hits Jamaica",
+    "description": "Government says it has done all it can to prepare for strongest hurricane in country since records began",
+    "content": "Hurricane Melissa has made landfall in Jamaica, where sheltering residents braced themselves against ferocious winds, heavy flood waters and landslides from the category 5 storm, one of the strongest Atlantic hurricanes in history.\nVideos and photogr... [7301 chars]",
+    "url": "https://www.theguardian.com/world/2025/oct/28/hurricane-melissa-makes-landfall-in-jamaica",
+    "image": "https://i.guim.co.uk/img/media/890d152464797e466186f66ffec97e0a8e1f24ac/535_0_5352_4281/master/5352.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09ad2b3e85f866cff7077a31079e9df9",
+    "publishedAt": "2025-10-28T17:54:00Z",
     "lang": "en",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
@@ -30,48 +45,33 @@
     }
   },
   {
-    "id": "3bb9fc0ce5d7a5e39ea92079ba1aeec8",
-    "title": "Shrinkflation hits everyday staples, piling more pressure on households",
-    "description": "Which? finds products shrinking while supermarkets keep prices flat or rising",
-    "content": "Toothpaste, coffee and even heartburn medicine are among the latest products quietly shrinking in size while shoppers pay the same price, piling more pressure on household grocery budgets.\nConsumer watchdog Which? found a range of new examples of shr... [3574 chars]",
-    "url": "https://www.theguardian.com/business/2025/oct/28/shrinkflation-hits-everyday-staples-piling-more-pressure-on-households",
-    "image": "https://i.guim.co.uk/img/media/1ef9fdc13ab2d8c38515d87c8125effc71e0ddc5/514_463_1726_1381/master/1726.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=225b5d0ad5a49e412495f016ff6864a9",
-    "publishedAt": "2025-10-28T00:01:00Z",
+    "id": "e959e29f46438519ac730300f4a40b68",
+    "title": "'I know you loved me': Woman who claimed to be Madeleine McCann confronted parents at family home",
+    "description": "Julia Wandelt, 24, from Poland, travelled to Leicestershire to try and speak to Gerry and Kate McCann.",
+    "content": "Julia Wandelt, a woman who claimed to be the missing British toddler Madeleine McCann, told Kate McCann: \"I know you loved me,\" a court has heard.\nThe 24-year-old woman from southwest Poland is on trial at Leicester Crown Court along with Karen Sprag... [3442 chars]",
+    "url": "https://news.sky.com/story/i-know-you-loved-me-woman-who-claimed-to-be-madeleine-mccann-confronted-parents-at-family-home-13459366",
+    "image": "https://e3.365dm.com/25/10/1600x900/skynews-julia-wandelt-karen-spragg_7045999.jpg?20251008150819",
+    "publishedAt": "2025-10-28T17:40:17Z",
     "lang": "en",
     "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com"
+      "id": "896bbd67b1fce1e7e97122b9a4345dab",
+      "name": "Sky News",
+      "url": "https://news.sky.com"
     }
   },
   {
-    "id": "9e3021f47414f69fca58a609a12ec87d",
-    "title": "Reeves could face \u00a320bn Budget hole as UK productivity downgraded",
-    "description": "The OBR is understood to have downgraded the UK's productivity level in early Budget forecasts",
-    "content": "The government is facing a bigger-than-expected hole in the public finances as it prepares for next month's Budget.\nA downgrade to the UK's productivity performance from the government's official forecaster could lead to the chancellor facing a \u00a320bn... [2654 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c0rpve82jxvo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/efdc/live/9d17ca90-b390-11f0-8f14-918a243add68.jpg",
-    "publishedAt": "2025-10-27T23:58:07Z",
+    "id": "62b02b7163560031af6e88ca26fcb27b",
+    "title": "Hotel lockdowns and honeymoon hit as Britons caught up in Hurricane Melissa",
+    "description": "The powerful storm is set to be the world's strongest of the year.",
+    "content": "3 hours ago\nKathryn Armstrong,\nKerena Cobbina and\nNJ Convery\nFor Rob Cuff and his wife Leah, their Jamaican honeymoon is coming to an uncertain end as Hurricane Melissa, the strongest storm to hit the Caribbean island in modern history, bears down.\n\"... [6012 chars]",
+    "url": "https://www.bbc.com/news/articles/cx2p94x4pvro",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f0b7/live/3fbc77e0-b41e-11f0-aa13-0b0479f6f42a.jpg",
+    "publishedAt": "2025-10-28T17:13:15Z",
     "lang": "en",
     "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
       "name": "BBC",
-      "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "a9012c6a945948f58995b00ccffff4c6",
-    "title": "Lithuania says it will shoot down smuggling balloons from Russia\u2019s ally Belarus",
-    "description": "PM blames Alexander Lukashenko for not stopping \u2018hybrid attacks\u2019, which closed Vilnius airport four times last week",
-    "content": "Lithuania\u2019s prime minister has authorised the shooting down of smuggling balloons that cross the border from Russia\u2019s ally Belarus, calling them \u201chybrid attacks\u201d in an echo of the term used to describe Moscow\u2019s destabilisation efforts.\nIncursions by ... [3030 chars]",
-    "url": "https://www.theguardian.com/world/2025/oct/27/lithuania-authorises-shooting-down-of-smuggling-balloons-from-belarus",
-    "image": "https://i.guim.co.uk/img/media/4bfca4d0747bedd5fa74833fc4ee69e701036c22/62_0_1900_1520/master/1900.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e8bff513f9f4598a32c66f4fe51bcfa",
-    "publishedAt": "2025-10-27T23:53:00Z",
-    "lang": "en",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com"
+      "url": "https://www.bbc.com"
     }
   }
 ]
