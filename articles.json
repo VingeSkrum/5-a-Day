@@ -1,12 +1,12 @@
 [
   {
-    "id": "12e090e1d656ecc6f10db0f894e48ed8",
-    "title": "Man accused of racially aggravated rape of woman in Walsall",
-    "description": "John Ashby, 32, is charged with one count of rape and sexual assault after an attack in Walsall.",
-    "content": "A man has been charged with the racially aggravated rape of a woman in Walsall.\nJohn Ashby, 32, of no fixed address, is accused of one count of rape and sexual assault in relation to the attack, the Crown Prosecution Service (CPS) said.\nIt comes afte... [259 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/clyg636kdrgo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4f60/live/f3ff7ca0-a39f-11f0-95e7-93813d968835.png",
-    "publishedAt": "2025-10-28T18:12:24Z",
+    "id": "a33d8d8832b776e5fff832cde3d534dd",
+    "title": "Woman dies after being left behind by cruise ship on Australian island",
+    "description": "Crew of Coral Adventurer only realised the 80-year-old Australian was missing hours after they left Lizard Island on the Great Barrier Reef.",
+    "content": "An 80-year-old Australian woman has been found dead on a Great Barrier Reef island after being left behind by the cruise ship she was travelling on.\nThe woman had been hiking on Lizard Island, 250km (155 miles) north of Cairns, with fellow passengers... [2144 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c62eww646wjo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5029/live/7b55a3b0-b4ac-11f0-af34-1517978c0fa1.jpg",
+    "publishedAt": "2025-10-29T00:34:29Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -15,28 +15,43 @@
     }
   },
   {
-    "id": "e4611437d3cfc213daa3d0de0b1213df",
-    "title": "Child dies after 'hazardous materials incident' in London",
-    "description": "Two adults and another child were also treated in hospital after reporting a smell of chemicals in a Newham flat",
-    "content": "A child has died following a \"hazardous materials incident\" in east London.\nFire crews attended a property in Barking Road, Upton Park, Newham, after two adults and two children went to hospital complaining about a smell of chemicals in a flat.\nOne o... [811 chars]",
-    "url": "https://news.sky.com/story/child-dies-after-hazardous-materials-incident-in-london-13459448",
-    "image": "https://e3.365dm.com/25/10/1600x900/skynews-barking-road-upton-park_7065085.jpg?20251028183327",
-    "publishedAt": "2025-10-28T18:02:36Z",
+    "id": "3d5b823b4d0d7b9045ba312abbf231f7",
+    "title": "Reeves vows to 'defy' gloomy economic forecasts",
+    "description": "The chancellor says investment is the answer to boosting the UK's productivity performance.",
+    "content": "The chancellor has vowed to \"defy\" gloomy forecasts for the UK economy after it emerged the government is facing a bigger-than-expected hole in the public finances.\nThe BBC understands the official forecaster, the Office for Budget Responsibility (OB... [2592 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cql9ez5grpqo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3627/live/b2daf0a0-b458-11f0-a1fb-bd25202eee60.jpg",
+    "publishedAt": "2025-10-29T00:10:31Z",
     "lang": "en",
     "source": {
-      "id": "896bbd67b1fce1e7e97122b9a4345dab",
-      "name": "Sky News",
-      "url": "https://news.sky.com"
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
     }
   },
   {
-    "id": "65d7a48efa72380ac55c04085ab006d0",
-    "title": "\u2018Storm of the century\u2019: record-breaking Hurricane Melissa hits Jamaica",
-    "description": "Government says it has done all it can to prepare for strongest hurricane in country since records began",
-    "content": "Hurricane Melissa has made landfall in Jamaica, where sheltering residents braced themselves against ferocious winds, heavy flood waters and landslides from the category 5 storm, one of the strongest Atlantic hurricanes in history.\nVideos and photogr... [7301 chars]",
-    "url": "https://www.theguardian.com/world/2025/oct/28/hurricane-melissa-makes-landfall-in-jamaica",
-    "image": "https://i.guim.co.uk/img/media/890d152464797e466186f66ffec97e0a8e1f24ac/535_0_5352_4281/master/5352.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09ad2b3e85f866cff7077a31079e9df9",
-    "publishedAt": "2025-10-28T17:54:00Z",
+    "id": "953ab78d1182278324901b1c468aa40a",
+    "title": "BBC investigation exposes dangerous teeth-whitening industry",
+    "description": "A BBC investigation finds kits on sale with more than 500 times the legal limit of bleaches in them.",
+    "content": "Illegal teeth-whitening treatments that can burn gums and destroy teeth are being sold in car parks and on social media, a BBC investigation has found.\nSome gels contain more than 500 times the legal limit of bleaching agent for over-the-counter prod... [5766 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c20z7xx6nr4o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc8f/live/b6b46ad0-b417-11f0-8af8-23f34058d4bc.jpg",
+    "publishedAt": "2025-10-29T00:06:25Z",
+    "lang": "en",
+    "source": {
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    }
+  },
+  {
+    "id": "fa89e485543ac4922e12144f849194c2",
+    "title": "Five more prisoners freed in error after sex offender\u2019s release from Essex jail",
+    "description": "Union says staff shortages and confusion over early release schemes are driving a rise in mistakes",
+    "content": "Five other prisoners have also been released by mistake in the same week a convicted Ethiopian sex offender was allowed to walk free from an Essex jail, says the prison officers\u2019 union.\nThe disclosure of further mistakes highlights the intense pressu... [2339 chars]",
+    "url": "https://www.theguardian.com/society/2025/oct/28/five-more-prisoners-freed-in-error-after-sex-offenders-release-from-essex-jail",
+    "image": "https://i.guim.co.uk/img/media/a7bd711a5411d226beea2f7710696c360459b6f8/161_0_2363_1890/master/2363.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=66561bf6d405a249de9eb139735720c9",
+    "publishedAt": "2025-10-29T00:05:00Z",
     "lang": "en",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
@@ -45,33 +60,18 @@
     }
   },
   {
-    "id": "e959e29f46438519ac730300f4a40b68",
-    "title": "'I know you loved me': Woman who claimed to be Madeleine McCann confronted parents at family home",
-    "description": "Julia Wandelt, 24, from Poland, travelled to Leicestershire to try and speak to Gerry and Kate McCann.",
-    "content": "Julia Wandelt, a woman who claimed to be the missing British toddler Madeleine McCann, told Kate McCann: \"I know you loved me,\" a court has heard.\nThe 24-year-old woman from southwest Poland is on trial at Leicester Crown Court along with Karen Sprag... [3442 chars]",
-    "url": "https://news.sky.com/story/i-know-you-loved-me-woman-who-claimed-to-be-madeleine-mccann-confronted-parents-at-family-home-13459366",
-    "image": "https://e3.365dm.com/25/10/1600x900/skynews-julia-wandelt-karen-spragg_7045999.jpg?20251008150819",
-    "publishedAt": "2025-10-28T17:40:17Z",
+    "id": "5abb9a0bd0c53e365cf04323e0e5678f",
+    "title": "NHS makes morning-after pill available for free across pharmacies in England",
+    "description": "Those in need of free emergency contraception no longer have to see their GP or attend a sexual health clinic",
+    "content": "The NHS has made the morning-after pill available for free across pharmacies in England in an effort to reduce a \u201cpostcode lottery\u201d of access to emergency contraception.\nAlmost 10,000 pharmacies are now able to offer the pill without charge, saving t... [2181 chars]",
+    "url": "https://www.theguardian.com/society/2025/oct/29/nhs-makes-morning-after-pill-available-for-free-across-pharmacies-in-england",
+    "image": "https://i.guim.co.uk/img/media/c38e9786a452b342bb695fa9b0704dff37e25009/209_0_2746_2198/master/2746.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0183e3917966462393e2236c74b20d06",
+    "publishedAt": "2025-10-29T00:02:12Z",
     "lang": "en",
     "source": {
-      "id": "896bbd67b1fce1e7e97122b9a4345dab",
-      "name": "Sky News",
-      "url": "https://news.sky.com"
-    }
-  },
-  {
-    "id": "62b02b7163560031af6e88ca26fcb27b",
-    "title": "Hotel lockdowns and honeymoon hit as Britons caught up in Hurricane Melissa",
-    "description": "The powerful storm is set to be the world's strongest of the year.",
-    "content": "3 hours ago\nKathryn Armstrong,\nKerena Cobbina and\nNJ Convery\nFor Rob Cuff and his wife Leah, their Jamaican honeymoon is coming to an uncertain end as Hurricane Melissa, the strongest storm to hit the Caribbean island in modern history, bears down.\n\"... [6012 chars]",
-    "url": "https://www.bbc.com/news/articles/cx2p94x4pvro",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f0b7/live/3fbc77e0-b41e-11f0-aa13-0b0479f6f42a.jpg",
-    "publishedAt": "2025-10-28T17:13:15Z",
-    "lang": "en",
-    "source": {
-      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
-      "name": "BBC",
-      "url": "https://www.bbc.com"
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
     }
   }
 ]
