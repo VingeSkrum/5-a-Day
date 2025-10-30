@@ -1,57 +1,12 @@
 [
   {
-    "id": "a33d8d8832b776e5fff832cde3d534dd",
-    "title": "Woman dies after being left behind by cruise ship on Australian island",
-    "description": "Crew of Coral Adventurer only realised the 80-year-old Australian was missing hours after they left Lizard Island on the Great Barrier Reef.",
-    "content": "An 80-year-old Australian woman has been found dead on a Great Barrier Reef island after being left behind by the cruise ship she was travelling on.\nThe woman had been hiking on Lizard Island, 250km (155 miles) north of Cairns, with fellow passengers... [2144 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c62eww646wjo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5029/live/7b55a3b0-b4ac-11f0-af34-1517978c0fa1.jpg",
-    "publishedAt": "2025-10-29T00:34:29Z",
-    "lang": "en",
-    "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "3d5b823b4d0d7b9045ba312abbf231f7",
-    "title": "Reeves vows to 'defy' gloomy economic forecasts",
-    "description": "The chancellor says investment is the answer to boosting the UK's productivity performance.",
-    "content": "The chancellor has vowed to \"defy\" gloomy forecasts for the UK economy after it emerged the government is facing a bigger-than-expected hole in the public finances.\nThe BBC understands the official forecaster, the Office for Budget Responsibility (OB... [2592 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cql9ez5grpqo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3627/live/b2daf0a0-b458-11f0-a1fb-bd25202eee60.jpg",
-    "publishedAt": "2025-10-29T00:10:31Z",
-    "lang": "en",
-    "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "953ab78d1182278324901b1c468aa40a",
-    "title": "BBC investigation exposes dangerous teeth-whitening industry",
-    "description": "A BBC investigation finds kits on sale with more than 500 times the legal limit of bleaches in them.",
-    "content": "Illegal teeth-whitening treatments that can burn gums and destroy teeth are being sold in car parks and on social media, a BBC investigation has found.\nSome gels contain more than 500 times the legal limit of bleaching agent for over-the-counter prod... [5766 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c20z7xx6nr4o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc8f/live/b6b46ad0-b417-11f0-8af8-23f34058d4bc.jpg",
-    "publishedAt": "2025-10-29T00:06:25Z",
-    "lang": "en",
-    "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "fa89e485543ac4922e12144f849194c2",
-    "title": "Five more prisoners freed in error after sex offender\u2019s release from Essex jail",
-    "description": "Union says staff shortages and confusion over early release schemes are driving a rise in mistakes",
-    "content": "Five other prisoners have also been released by mistake in the same week a convicted Ethiopian sex offender was allowed to walk free from an Essex jail, says the prison officers\u2019 union.\nThe disclosure of further mistakes highlights the intense pressu... [2339 chars]",
-    "url": "https://www.theguardian.com/society/2025/oct/28/five-more-prisoners-freed-in-error-after-sex-offenders-release-from-essex-jail",
-    "image": "https://i.guim.co.uk/img/media/a7bd711a5411d226beea2f7710696c360459b6f8/161_0_2363_1890/master/2363.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=66561bf6d405a249de9eb139735720c9",
-    "publishedAt": "2025-10-29T00:05:00Z",
+    "id": "759931c978549651b0164d3f42639b19",
+    "title": "Fed cuts interest rates for second time this year amid economic uncertainty",
+    "description": "Central bank sets rates at range between 3.75% and 4% amid turbulence from government shutdown and Trump\u2019s tariffs",
+    "content": "The US Federal Reserve cut interest rates on Wednesday, the second rate cut this year amid economic turbulence from the federal government shutdown and Donald Trump\u2019s tariffs.\nThe decision to cut the Fed\u2019s benchmark interest rate by a quarter point t... [1603 chars]",
+    "url": "https://www.theguardian.com/business/2025/oct/29/federal-reserve-interest-rates",
+    "image": "https://i.guim.co.uk/img/media/5d232998793ff76249dbea13bb3f6af0074dcb39/709_0_7086_5669/master/7086.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dea7b4f66195d4456bf5761b0affdbe0",
+    "publishedAt": "2025-10-29T18:06:00Z",
     "lang": "en",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
@@ -60,18 +15,63 @@
     }
   },
   {
-    "id": "5abb9a0bd0c53e365cf04323e0e5678f",
-    "title": "NHS makes morning-after pill available for free across pharmacies in England",
-    "description": "Those in need of free emergency contraception no longer have to see their GP or attend a sexual health clinic",
-    "content": "The NHS has made the morning-after pill available for free across pharmacies in England in an effort to reduce a \u201cpostcode lottery\u201d of access to emergency contraception.\nAlmost 10,000 pharmacies are now able to offer the pill without charge, saving t... [2181 chars]",
-    "url": "https://www.theguardian.com/society/2025/oct/29/nhs-makes-morning-after-pill-available-for-free-across-pharmacies-in-england",
-    "image": "https://i.guim.co.uk/img/media/c38e9786a452b342bb695fa9b0704dff37e25009/209_0_2746_2198/master/2746.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0183e3917966462393e2236c74b20d06",
-    "publishedAt": "2025-10-29T00:02:12Z",
+    "id": "e83db7a68938dcb62c251a88ca7d8cf7",
+    "title": "Man charged with murder after triple stabbing in west London",
+    "description": "Safi Dawood to appear in court charged with murder of one man and attempted murder of another man and a 14-year-old boy",
+    "content": "A man has been charged with murder after a triple stabbing in Uxbridge, west London, police have said.\nSafi Dawood, 22, was charged with the murder of a 49-year-old man and the attempted murders of another man, 45, and a 14-year-old boy. He will appe... [1595 chars]",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/29/man-charged-with-after-triple-stabbing-in-west-london",
+    "image": "https://i.guim.co.uk/img/media/2f2efea1262d9977699cd94aca2e143809a403e1/962_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=753a93453d12f557b18950c5989cdc4e",
+    "publishedAt": "2025-10-29T17:55:00Z",
     "lang": "en",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
       "name": "The Guardian",
       "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "e232a9904495376bcbe2937c69115725",
+    "title": "Two suspects in Louvre jewellery heist 'partially' admit participation, Paris prosecutor says",
+    "description": "Experts fear the stolen pieces may already have been broken down and the stones recut to conceal where they actually came from.",
+    "content": "Two suspects in the jewel heist at the Louvre in Paris have \"partially\" admitted their participation and are believed to be the men who forced their way into the world\u2019s most visited museum, a Paris prosecutor said on Wednesday.\nLaure Beccuau told re... [3763 chars]",
+    "url": "https://www.euronews.com/2025/10/29/two-suspects-in-louvre-jewellery-heist-partially-admit-participation-paris-prosecutor-says",
+    "image": "https://images.euronews.com/articles/stories/09/53/01/91/1200x675_cmsv2_f04588ed-6b1e-5932-9dbd-ada894707678-9530191.jpg",
+    "publishedAt": "2025-10-29T17:35:15Z",
+    "lang": "en",
+    "source": {
+      "id": "fe7887ab38dfaf6c0f8af3a124d38295",
+      "name": "Euronews.com",
+      "url": "https://www.euronews.com"
+    }
+  },
+  {
+    "id": "d11e9c10158d8f80b5ad6c39fd0349a4",
+    "title": "Boy, 14, kills himself after being falsely accused of despicable crime",
+    "description": "'It would have hurt him deeply that people were saying he had stolen a baby's ashes, especially when this wasn't true'",
+    "content": "'It would have hurt him deeply that people were saying he had stolen a baby's ashes, especially when this wasn't true'\nA teenager took his own life after being falsely accused of stealing the ashes of a dead baby. To his family and head of year at Co... [2968 chars]",
+    "url": "https://www.walesonline.co.uk/news/wales-news/boy-14-kills-himself-after-32776620",
+    "image": "https://i2-prod.walesonline.co.uk/article24438525.ece/ALTERNATES/s1200/1_AOR_DPW_080722Kai.jpg",
+    "publishedAt": "2025-10-29T17:30:00Z",
+    "lang": "en",
+    "source": {
+      "id": "fcad4c1746f88086ef59fadd050f7798",
+      "name": "Wales Online",
+      "url": "https://www.walesonline.co.uk"
+    }
+  },
+  {
+    "id": "76082983cabf980e7a699d12d74a7bf1",
+    "title": "Russia tests nuclear torpedo designed to flood cities in \u2018radioactive tsunamis\u2019",
+    "description": "Vladimir Putin reveals successful trial days after launch of new Burevestnik cruise missile and nuclear drills",
+    "content": "Russia has successfully tested a nuclear-powered super-torpedo designed to create radioactive tsunamis and wipe out coastal cities\nOn Wednesday, Vladimir Putin confirmed a successful test of the Poseidon days after a trial of the new Burevestnik crui... [2834 chars]",
+    "url": "https://www.telegraph.co.uk/world-news/2025/10/29/russia-nuclear-torpedo-flood-cities-radioactive-tsunami/",
+    "image": "https://www.telegraph.co.uk/content/dam/world-news/2025/10/29/TELEMMGLPICT000446799200_17617558048380_trans_NvBQzQNjv4BqNJjoeBT78QIaYdkJdEY4CnGTJFJS74MYhNY6w3GNbO8.jpeg?impolicy=OG-Standard",
+    "publishedAt": "2025-10-29T17:25:00Z",
+    "lang": "en",
+    "source": {
+      "id": "0fc579b3cc7a823fd67a74b9ed6f0796",
+      "name": "The Telegraph",
+      "url": "https://www.telegraph.co.uk"
     }
   }
 ]
