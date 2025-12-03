@@ -1,12 +1,12 @@
 [
   {
-    "id": "5cc0cff72de672ba5ec4e606fd404c7a",
-    "title": "BBC Sound of 2026 shortlist: 10 acts you'll be obsessed with next year",
-    "description": "The list tips new music for the coming year, following previous winners like Adele, Haim and Chappell Roan.",
-    "content": "This year's list was compiled from votes by an international panel of more than 170 industry experts and artists including Sir Elton John, Dua Lipa, Jade, Olivia Dean, Yungblud and Sam Smith.\nIt is open to acts who have yet to score a number one albu... [654 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c2dzx76gr3yo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a11/live/3cea9d90-ced5-11f0-a892-01d657345866.png",
-    "publishedAt": "2025-12-02T01:09:44Z",
+    "id": "be48cfda3a74cde8bd55b63237c8fe91",
+    "title": "Dave Coulier: Full House star diagnosed with tongue cancer",
+    "description": "The 66-year-old had previously been diagnosed with non-Hodgkin Lymphoma, a form of blood cancer.",
+    "content": "Actor Dave Coulier, who starred in the US TV sitcom Full House, has announced he has been diagnosed with tongue cancer.\nIt comes seven months after Coulier, 66, told fans he was cancer free, following his 2024 diagnosis of stage three non-Hodgkin Lym... [1673 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cvgqnzk90v2o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/32b3/live/a6bace30-cfa1-11f0-976e-4fc7ee951a33.jpg",
+    "publishedAt": "2025-12-02T18:09:43Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -15,13 +15,43 @@
     }
   },
   {
-    "id": "0c4f3f536933f10cd81180314c3233c0",
-    "title": "Deputy PM David Lammy set to announce jury trial reforms",
-    "description": "The changes will restrict the right to a jury trial in a bid to reduce the backlog of cases.",
-    "content": "The government is set to announce plans to restrict the right to a jury trial in England and Wales in an attempt to turn around unprecedented backlogs and delays in justice.\nDavid Lammy, the deputy prime minister and justice secretary, will lay out t... [2522 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cvg1q62jmv0o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0ed2/live/250ca890-cee3-11f0-ad7f-93b968d03d1f.jpg",
-    "publishedAt": "2025-12-02T01:08:28Z",
+    "id": "fce1ee017b99805c1c0554eeede2c381",
+    "title": "Government delays Chinese 'super embassy' decision",
+    "description": "There have been large-scale protests against the embassy over fears it will become a European spy hub for China.",
+    "content": "The UK government has again delayed its decision over whether to approve a Chinese \"super embassy\" in London until January.\nA decision over the controversial plan close to the Tower of London will now take place on 20 January, instead of 10 December,... [3744 chars]",
+    "url": "https://news.sky.com/story/government-delays-chinese-super-embassy-decision-again-13478365",
+    "image": "https://e3.365dm.com/25/10/1600x900/skynews-china-embassy_7050654.jpg?20251014113348",
+    "publishedAt": "2025-12-02T17:48:45Z",
+    "lang": "en",
+    "source": {
+      "id": "896bbd67b1fce1e7e97122b9a4345dab",
+      "name": "Sky News",
+      "url": "https://news.sky.com"
+    }
+  },
+  {
+    "id": "34ad17d110932d64806e03dbd7007bc3",
+    "title": "Trans girls banned from joining Girlguiding",
+    "description": "Girls\u2019 adventure charity says it made decision after seeking legal advice in wake of supreme court ruling on gender",
+    "content": "Trans girls will no longer be able to join Girlguiding, the organisation has announced, saying it has made the decision after seeking legal advice as a result of the supreme court ruling on gender earlier this year.\nGirlguiding on Tuesday said: \u201cTran... [2517 chars]",
+    "url": "https://www.theguardian.com/uk-news/2025/dec/02/trans-girls-banned-girlguiding-supreme-court",
+    "image": "https://i.guim.co.uk/img/media/846af851ca5143279b91ae578023de685f13d558/0_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=87bffc9fa3f27218efbe50dc49ee0aa1",
+    "publishedAt": "2025-12-02T17:35:00Z",
+    "lang": "en",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "1924e79d92687f60909e715e63f8836b",
+    "title": "Dell family to seed Trump accounts for kids with $250",
+    "description": "The donation will help seed new Trump-branded investment accounts.",
+    "content": "Tech billionaire Michael Dell and his wife, Susan, have announced plans to donate $250 to 25 million children across the US.\nThe $6.25bn (\u00a34.72bn) gift will bolster Trump-branded investment accounts, which were authorised by Congress as part of its t... [4493 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cyvgq184vgqo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0782/live/6bc7ddf0-cf96-11f0-8806-37fcc1c641ce.jpg",
+    "publishedAt": "2025-12-02T17:34:25Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -30,48 +60,18 @@
     }
   },
   {
-    "id": "15ae84ff7a57d9e92613ae05e63ea27c",
-    "title": "OBR head's resignation leaves potential landmines for Reeves",
-    "description": "Chancellor's next mission to find a respected and credible economist to run the OBR will require careful balance",
-    "content": "The shock resignation came for a very specific reason, but the OBR saga will continue with a series of decisions the chancellor will have to make over Richard Hughes' replacement.\nFirstly the Chancellor will have to find a respected and credible econ... [4245 chars]",
-    "url": "https://www.bbc.com/news/articles/cwyvnnz5842o",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0d57/live/7743be00-cf10-11f0-9e1e-2102f856ffa4.jpg",
-    "publishedAt": "2025-12-02T00:29:54Z",
+    "id": "4c1421d7eb253393ec16c8112a012432",
+    "title": "Sister of Palestine Action-linked prison hunger striker says she fears for his life",
+    "description": "Shahmina Alam urges ministers to engage with demands after Kamran Ahmed, who is awaiting trial, taken to hospital",
+    "content": "The sister of one of six Palestine Action-affiliated hunger strikers has said she fears every conversation with him will be her last and that ministers are waiting for them all to be hospitalised or \u201ceven worse\u201d before engaging with them.\nTwo of thos... [4089 chars]",
+    "url": "https://www.theguardian.com/uk-news/2025/dec/02/sister-of-palestine-action-linked-prison-hunger-striker-says-she-fears-for-his-life",
+    "image": "https://i.guim.co.uk/img/media/505baa72048ecb4eb5042b67bbb4d8f037bf9424/828_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3f851751c44893c9c6cdf35266c1fc16",
+    "publishedAt": "2025-12-02T17:32:00Z",
     "lang": "en",
     "source": {
-      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
-      "name": "BBC",
-      "url": "https://www.bbc.com"
-    }
-  },
-  {
-    "id": "95de1fc0585ccd40db677a663ae5b34d",
-    "title": "Samsung Galaxy Z TriFold announced with a 10-inch screen and 3.9mm thin design",
-    "description": "The next era of folding phones is here",
-    "content": "\ud83d\udd35 Samsung just announced its next major foldable phone\n\ud83d\udcf1 Called the Galaxy Z TriFold, it has the biggest screen ever on a smartphone\n\ud83d\udcd0 The device folds twice to reveal a huge 10-inch display\n\ud83d\udc40 When folded up, it has a similar size and shape to the Ga... [5292 chars]",
-    "url": "https://www.theshortcut.com/p/samsung-galaxy-z-trifold-announced",
-    "image": "https://substackcdn.com/image/fetch/$s_!WiKj!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9835c168-485f-42c9-a1b2-da28d912de87_1440x714.jpeg",
-    "publishedAt": "2025-12-02T01:00:38Z",
-    "lang": "en",
-    "source": {
-      "id": "b5a1d9033fb472f5dacbe9f846bcf6d2",
-      "name": "The Shortcut | Matt Swider",
-      "url": "https://www.theshortcut.com"
-    }
-  },
-  {
-    "id": "e363476484f56ba77d75971afd202d7d",
-    "title": "The 15 best and worst Xbox 360 games that defined a generation",
-    "description": "The Xbox 360 has turned 20 years old, as we celebrate Gears Of War, Call Of Duty, Halo 3, Fable 2, and the less beloved Kinect Star Wars.",
-    "content": "For the Xbox 360\u2019s 20th anniversary, GameCentral reflects on the console\u2019s most influential games and how their impact is still felt today.\nToday marks the Xbox 360\u2019s 20th anniversary here in the UK (in the US, it was November 22) and it remains the ... [11551 chars]",
-    "url": "https://metro.co.uk/2025/12/02/15-best-worst-xbox-360-games-defined-a-generation-24793110/",
-    "image": "https://metro.co.uk/wp-content/uploads/2025/11/SEI_275643258-bcef_1764260523.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
-    "publishedAt": "2025-12-02T01:00:00Z",
-    "lang": "en",
-    "source": {
-      "id": "b40633e34a62c20b9ec4adf5e8bee789",
-      "name": "Metro.co.uk",
-      "url": "https://metro.co.uk"
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
     }
   }
 ]
