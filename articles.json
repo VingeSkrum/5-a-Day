@@ -1,12 +1,42 @@
 [
   {
-    "id": "e994dc90bdbb6ad6002bc35d9c00487d",
-    "title": "Zelensky due at Downing Street for high-level Ukraine talks",
-    "description": "Sir Keir Starmer will also welcome the leaders of France and Germany as Europe looks to respond to a US-led push for a peace deal.",
-    "content": "President Volodymyr Zelensky will meet key European leaders in London on Monday, as Ukraine's allies plan their response to an ongoing US push for Kyiv to accept concessions in peace talks.\nThe leaders of France and Germany will join Zelensky and Pri... [5139 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c2k4z9nwz4yo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78e1/live/554da6a0-d3e1-11f0-b81e-6bde304fddf1.jpg",
-    "publishedAt": "2025-12-08T00:32:31Z",
+    "id": "1bf6c648ca8732918ca0b6a53617de5d",
+    "title": "Teen asylum seekers from Afghanistan sentenced for rape",
+    "description": "A judge has lifted reporting restrictions on naming the attackers, Jan Jahanzeb and Israr Niaza.",
+    "content": "Asylum seekers, 17, sentenced for girl's rape\n1 hour ago\nAnnie Delaney ,in Leamington Spaand\nShannen Headley ,West Midlands\nTwo teenage Afghan nationals seeking asylum in the UK have each been given custodial sentences for the rape of a 15-year-old g... [3631 chars]",
+    "url": "https://www.bbc.com/news/articles/c74x9ln0y4qo",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4536/live/4fdae370-d451-11f0-9aed-598bbb04d197.jpg",
+    "publishedAt": "2025-12-08T18:11:25Z",
+    "lang": "en",
+    "source": {
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "name": "BBC",
+      "url": "https://www.bbc.com"
+    }
+  },
+  {
+    "id": "9597099daa796248775f2ab9cdeaa9b0",
+    "title": "US student guilty of murdering Chinese partner after row over STDs",
+    "description": "Joshua Michals, 26, fatally stabbed\u00a0Zhe Wang, 31, at her flat in Lewisham last year after she accused him of passing on an STD. Both studied at Goldsmiths University and had been in an on-and-off relationship since 2023.",
+    "content": "An American student has been found guilty of murdering a Chinese woman after she accused him of passing on a sexually transmitted disease (STD).\nAppearing at the Old Bailey, Joshua Michals, 26, was found to have fatally stabbed Zhe Wang, 31, at her f... [3013 chars]",
+    "url": "https://news.sky.com/story/us-student-guilty-of-murdering-chinese-partner-after-row-over-stds-13481011",
+    "image": "https://e3.365dm.com/25/12/1600x900/skynews-joshua-michals-zhe-wang_7104817.jpg?20251208141641",
+    "publishedAt": "2025-12-08T18:02:17Z",
+    "lang": "en",
+    "source": {
+      "id": "896bbd67b1fce1e7e97122b9a4345dab",
+      "name": "Sky News",
+      "url": "https://news.sky.com"
+    }
+  },
+  {
+    "id": "d7b7d08661af4a2512f6d50938e8a954",
+    "title": "Birmingham hospitals' 'critical' incident over flu admissions",
+    "description": "University Hospitals Birmingham said 269 people with the flu currently require admission.",
+    "content": "A critical incident has been declared at four hospitals due to \"exceptional\" numbers of patients with flu.\nUniversity Hospitals Birmingham NHS Foundation Trust said \"extreme\" pressures were being experienced across its hospitals.\nA spokesperson said ... [287 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cvgjr5j855wo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d91c/live/7de61390-d45e-11f0-9aed-598bbb04d197.jpg",
+    "publishedAt": "2025-12-08T17:59:03Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -15,63 +45,33 @@
     }
   },
   {
-    "id": "de9a30b5dc7e3ef829efc5ff48ef772e",
-    "title": "Royal Navy unveils new Atlantic strategy to counter Russian threat",
-    "description": "Experimental underwater drones form part of a new plan to protect the UK's undersea cables and pipelines.",
-    "content": "In the dark waters off the west coast of Scotland, a slender submarine glider, like a torpedo with wings, slips under the surface and quickly disappears off into the murk.\nThe SG-1 Fathom is on the prowl for intruders.\n\"The glider patrols through the... [5167 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c3d01nxg0y0o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e786/live/07087000-d360-11f0-b94d-393969a99b2f.png",
-    "publishedAt": "2025-12-08T00:30:31Z",
+    "id": "4a0236aad857fd4b30a294bb906d7ec0",
+    "title": "Two more arrests over Heathrow airport \u2018pepper spray attack\u2019",
+    "description": "Man to be quizzed on suspicion of robbery and assault, and woman on suspicion of conspiracy to commit robbery, after 21 people hurt at Heathrow airport",
+    "content": "Police have arrested two more people following an assault suspected to have been with pepper spray and a robbery at Heathrow airport on Sunday.\nOn Monday afternoon, officers arrested a 24-year-old man in Lambeth, south London, on suspicion of robbery... [1001 chars]",
+    "url": "https://www.independent.co.uk/news/uk/crime/heathrow-airport-pepper-spray-attack-arrests-police-b2880348.html",
+    "image": "https://static.independent.co.uk/2025/12/07/12/06/SEI277173226.jpeg?trim=0,171,0,280&width=1200&height=800&crop=1200:800",
+    "publishedAt": "2025-12-08T18:12:00Z",
     "lang": "en",
     "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
+      "id": "0d5c0adfb0e84da759fe48296b9f6e55",
+      "name": "The Independent",
+      "url": "https://www.independent.co.uk"
     }
   },
   {
-    "id": "4082d36fbdc80c45e58f29aee40a55be",
-    "title": "Golden Globes: Which films and stars could be nominated and when is the ceremony?",
-    "description": "The Globes are the first major film awards to announce their shortlists as awards season heats up.",
-    "content": "Hamnet, Sinners, Marty Supreme and Wicked: For Good are a few of the films expected to be up for Golden Globe awards when the nominations are announced later.\nThe Globes are the first major Hollywood honours to reveal their shortlists, effectively ki... [4143 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c4gjg6wzzx0o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6916/live/72103db0-d0f4-11f0-a892-01d657345866.jpg",
-    "publishedAt": "2025-12-08T00:30:22Z",
+    "id": "a332a24b9db94e2b8379e11e07251734",
+    "title": "American Goldsmiths student stabbed girlfriend to death in \u2018savage\u2019 attack \u2018then called his father for a lawyer\u2019",
+    "description": "Joshua Michals, from Chicago in the US, and Chinese national Zhe Wang had an on-and-off relationship in London that ended in murder, a trial heard",
+    "content": "An American student at a London university has been convicted of stabbing his on-off girlfriend to death, in a \u201cbrutal and savage\u201d attack.\nZhe Wang, a creative writing student at Goldsmiths, was found dead with two stab wounds to her face at her flat... [3815 chars]",
+    "url": "https://www.independent.co.uk/news/uk/crime/joshua-michals-murder-zhe-wang-goldsmith-b2880371.html",
+    "image": "https://static.independent.co.uk/2025/12/08/13/31/Zhe-Wang.jpeg?trim=761,0,761,0&width=1200&height=800&crop=1200:800",
+    "publishedAt": "2025-12-08T18:11:00Z",
     "lang": "en",
     "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "adb4f72b6c0760d23f92ca0e18330ec6",
-    "title": "Ukraine war briefing: With no Miami breakthrough, Zelenskyy turns to European allies",
-    "description": "Positive tone after Florida talks with Ukrainian president heading to London Street to see Starmer, Macron and Merz. What we know on day 1,383",
-    "content": "Three days of talks between Ukrainian and US officials in Miami, Florida produced no evident breakthrough by the end of Saturday. Ukraine\u2019s president, Volodymyr Zelenskyy, said he joined his negotiators for a \u201cvery substantive and constructive\u201d call ... [4537 chars]",
-    "url": "https://www.theguardian.com/world/2025/dec/07/ukraine-war-briefing-with-no-miami-breakthrough-zelenskyy-turns-to-european-allies",
-    "image": "https://i.guim.co.uk/img/media/a8d70560ee965477562aeae086d36314fedb43a5/305_0_4705_3764/master/4705.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e135eab7363122c54e4736cd3f887ac2",
-    "publishedAt": "2025-12-08T00:10:00Z",
-    "lang": "en",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com"
-    }
-  },
-  {
-    "id": "135d8d9afda61846f2c0754e17888898",
-    "title": "UK asylum policy causes more violence and deaths, say rights groups",
-    "description": "Home Office drive to stop small boats crossing Channel is handing more power to people smugglers, report finds",
-    "content": "The UK\u2019s policy to stop asylum seekers from crossing the Channel in small boats has led to an increase in violence, deaths and smuggler control, but has not deterred arrivals, according to a report by human rights organisations.\nThe 176-page report f... [3828 chars]",
-    "url": "https://www.theguardian.com/uk-news/2025/dec/08/uk-asylum-policy-causes-more-violence-and-deaths-say-rights-groups",
-    "image": "https://i.guim.co.uk/img/media/9bc1f1328ad1f3a8de266d36727c46183715f0e0/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1678352c7ad2297b4959be00da594b80",
-    "publishedAt": "2025-12-08T00:01:00Z",
-    "lang": "en",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com"
+      "id": "0d5c0adfb0e84da759fe48296b9f6e55",
+      "name": "The Independent",
+      "url": "https://www.independent.co.uk"
     }
   }
 ]
