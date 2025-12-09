@@ -1,27 +1,12 @@
 [
   {
-    "id": "1bf6c648ca8732918ca0b6a53617de5d",
-    "title": "Teen asylum seekers from Afghanistan sentenced for rape",
-    "description": "A judge has lifted reporting restrictions on naming the attackers, Jan Jahanzeb and Israr Niaza.",
-    "content": "Asylum seekers, 17, sentenced for girl's rape\n1 hour ago\nAnnie Delaney ,in Leamington Spaand\nShannen Headley ,West Midlands\nTwo teenage Afghan nationals seeking asylum in the UK have each been given custodial sentences for the rape of a 15-year-old g... [3631 chars]",
-    "url": "https://www.bbc.com/news/articles/c74x9ln0y4qo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4536/live/4fdae370-d451-11f0-9aed-598bbb04d197.jpg",
-    "publishedAt": "2025-12-08T18:11:25Z",
-    "lang": "en",
-    "source": {
-      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
-      "name": "BBC",
-      "url": "https://www.bbc.com"
-    }
-  },
-  {
-    "id": "9597099daa796248775f2ab9cdeaa9b0",
-    "title": "US student guilty of murdering Chinese partner after row over STDs",
-    "description": "Joshua Michals, 26, fatally stabbed\u00a0Zhe Wang, 31, at her flat in Lewisham last year after she accused him of passing on an STD. Both studied at Goldsmiths University and had been in an on-and-off relationship since 2023.",
-    "content": "An American student has been found guilty of murdering a Chinese woman after she accused him of passing on a sexually transmitted disease (STD).\nAppearing at the Old Bailey, Joshua Michals, 26, was found to have fatally stabbed Zhe Wang, 31, at her f... [3013 chars]",
-    "url": "https://news.sky.com/story/us-student-guilty-of-murdering-chinese-partner-after-row-over-stds-13481011",
-    "image": "https://e3.365dm.com/25/12/1600x900/skynews-joshua-michals-zhe-wang_7104817.jpg?20251208141641",
-    "publishedAt": "2025-12-08T18:02:17Z",
+    "id": "e62ec371f3eccc277deee326353259a0",
+    "title": "'Striking' new artwork for UK trains revealed - as MPs debate rail nationalisation",
+    "description": "A new design for publicly owned trains is to be revealed, ahead of MPs debating rail nationalisation on Tuesday.",
+    "content": "A \"striking\" new design for UK trains has been revealed by the transport secretary - but you may well think it looks familiar.\nTrain services already in public ownership will begin to adopt a Union flag-inspired design from this spring, Heidi Alexand... [3089 chars]",
+    "url": "https://news.sky.com/story/striking-new-artwork-for-uk-trains-revealed-as-mps-debate-rail-nationalisation-13481073",
+    "image": "https://e3.365dm.com/25/12/1600x900/skynews-gbr-great-british-railways_7104936.jpg?20251208163656",
+    "publishedAt": "2025-12-09T00:56:15Z",
     "lang": "en",
     "source": {
       "id": "896bbd67b1fce1e7e97122b9a4345dab",
@@ -30,13 +15,28 @@
     }
   },
   {
-    "id": "d7b7d08661af4a2512f6d50938e8a954",
-    "title": "Birmingham hospitals' 'critical' incident over flu admissions",
-    "description": "University Hospitals Birmingham said 269 people with the flu currently require admission.",
-    "content": "A critical incident has been declared at four hospitals due to \"exceptional\" numbers of patients with flu.\nUniversity Hospitals Birmingham NHS Foundation Trust said \"extreme\" pressures were being experienced across its hospitals.\nA spokesperson said ... [287 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cvgjr5j855wo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d91c/live/7de61390-d45e-11f0-9aed-598bbb04d197.jpg",
-    "publishedAt": "2025-12-08T17:59:03Z",
+    "id": "adba85756aa4ea06cfcdf85ab8785227",
+    "title": "Maternity care failings 'much worse' than anticipated, says head of national review",
+    "description": "An interim report by Baroness Amos finds poor care and dirty wards are blighting England\u2019s maternity services.",
+    "content": "Hungry mothers, dirty wards and poor care are blighting England's maternity services while staff receive death threats for working in some units, according to a new report.\nBaroness Amos, who is chairing a review into maternity care, said that what s... [4255 chars]",
+    "url": "https://www.bbc.com/news/articles/c4g45ev3gkdo",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d88a/live/9b2cb330-d49c-11f0-b551-c948c3e8b5a0.jpg",
+    "publishedAt": "2025-12-09T00:38:57Z",
+    "lang": "en",
+    "source": {
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "name": "BBC",
+      "url": "https://www.bbc.com"
+    }
+  },
+  {
+    "id": "fafab54e146b3d3962a18a563ea66757",
+    "title": "Hungry mothers on dirty wards, finds ongoing maternity review",
+    "description": "Poor care is ingrained on England's maternity wards, says chair of national investigation.",
+    "content": "Hungry mothers, dirty wards and poor care are blighting England's maternity services while staff receive death threats for working in some units, according to a new report.\nBaroness Amos, who is chairing a review into maternity care, said that what s... [4265 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c4g45ev3gkdo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c7a8/live/8ac99550-d459-11f0-8c06-f5d460985095.jpg",
+    "publishedAt": "2025-12-09T00:38:57Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -45,33 +45,33 @@
     }
   },
   {
-    "id": "4a0236aad857fd4b30a294bb906d7ec0",
-    "title": "Two more arrests over Heathrow airport \u2018pepper spray attack\u2019",
-    "description": "Man to be quizzed on suspicion of robbery and assault, and woman on suspicion of conspiracy to commit robbery, after 21 people hurt at Heathrow airport",
-    "content": "Police have arrested two more people following an assault suspected to have been with pepper spray and a robbery at Heathrow airport on Sunday.\nOn Monday afternoon, officers arrested a 24-year-old man in Lambeth, south London, on suspicion of robbery... [1001 chars]",
-    "url": "https://www.independent.co.uk/news/uk/crime/heathrow-airport-pepper-spray-attack-arrests-police-b2880348.html",
-    "image": "https://static.independent.co.uk/2025/12/07/12/06/SEI277173226.jpeg?trim=0,171,0,280&width=1200&height=800&crop=1200:800",
-    "publishedAt": "2025-12-08T18:12:00Z",
+    "id": "ca9978000e7df564db54041cdfe570e8",
+    "title": "Trump gives Nvidia the OK to sell advanced AI chips to China",
+    "description": "Nvidia had been at the centre of a geopolitical tug-of-war between the US and China in recent months.",
+    "content": "US President Donald Trump has announced that he will allow AI chip giant Nvidia to sell its advanced H200 chips to \"approved customers\" in China.\n\"We will protect National Security, create American Jobs, and keep America's lead in AI,\" Trump said on ... [3005 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/ckg9q635q6po",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e67/live/7cbfa1e0-d493-11f0-aff6-df14a823a605.jpg",
+    "publishedAt": "2025-12-08T23:55:20Z",
     "lang": "en",
     "source": {
-      "id": "0d5c0adfb0e84da759fe48296b9f6e55",
-      "name": "The Independent",
-      "url": "https://www.independent.co.uk"
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
     }
   },
   {
-    "id": "a332a24b9db94e2b8379e11e07251734",
-    "title": "American Goldsmiths student stabbed girlfriend to death in \u2018savage\u2019 attack \u2018then called his father for a lawyer\u2019",
-    "description": "Joshua Michals, from Chicago in the US, and Chinese national Zhe Wang had an on-and-off relationship in London that ended in murder, a trial heard",
-    "content": "An American student at a London university has been convicted of stabbing his on-off girlfriend to death, in a \u201cbrutal and savage\u201d attack.\nZhe Wang, a creative writing student at Goldsmiths, was found dead with two stab wounds to her face at her flat... [3815 chars]",
-    "url": "https://www.independent.co.uk/news/uk/crime/joshua-michals-murder-zhe-wang-goldsmith-b2880371.html",
-    "image": "https://static.independent.co.uk/2025/12/08/13/31/Zhe-Wang.jpeg?trim=761,0,761,0&width=1200&height=800&crop=1200:800",
-    "publishedAt": "2025-12-08T18:11:00Z",
+    "id": "76b32c80fee784b61c3e46fcefd396e0",
+    "title": "Powerful earthquake in northern Japan triggers tsunami, injuring 33",
+    "description": "A 7.5-magnitude earthquake has hit off the northeastern coast of Japan, unleashing a tsunami of up to 70cm.",
+    "content": "A powerful earthquake struck off northern Japan, injuring 33 people and unleashing a tsunami.\nThe 7.5-magnitude quake struck at about 11.15pm local time, around 80 kilometers off the coast of Aomori prefecture.\nJapan's Fire and Disaster Management Ag... [2212 chars]",
+    "url": "https://news.sky.com/story/powerful-earthquake-in-northern-japan-triggers-tsunami-injuring-23-13481160",
+    "image": "https://e3.365dm.com/25/12/1600x900/skynews-earthquake-japan-aomori_7104849.jpg?20251208150036",
+    "publishedAt": "2025-12-08T23:25:06Z",
     "lang": "en",
     "source": {
-      "id": "0d5c0adfb0e84da759fe48296b9f6e55",
-      "name": "The Independent",
-      "url": "https://www.independent.co.uk"
+      "id": "896bbd67b1fce1e7e97122b9a4345dab",
+      "name": "Sky News",
+      "url": "https://news.sky.com"
     }
   }
 ]
