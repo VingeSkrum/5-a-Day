@@ -1,12 +1,12 @@
 [
   {
-    "id": "7f7d4f1df5dd6b02cf4b7b8930d997ee",
-    "title": "Trump orders blockade of sanctioned oil tankers entering and leaving Venezuela",
-    "description": "Move against all sanctioned vessels comes amid escalating campaign against authoritarian leader Nicol\u00e1s Maduro",
-    "content": "Donald Trump has ordered \u201ca total and complete\u201d blockade of all sanctioned oil tankers entering and leaving Venezuela, ramping up pressure on the country\u2019s authoritarian leader Nicol\u00e1s Maduro.\nThe move comes amid an escalating campaign by the Trump a... [4197 chars]",
-    "url": "https://www.theguardian.com/us-news/2025/dec/16/trump-orders-blockade-oil-tankers-venezuela",
-    "image": "https://i.guim.co.uk/img/media/36a5e9e6101260d25c7349392ee7eb8c72997edd/505_0_4167_3333/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=603b31bb264c258b1cdba905cd6e8198",
-    "publishedAt": "2025-12-17T01:01:00Z",
+    "id": "ac63f138b85e8cbf3d93dfc4d982a112",
+    "title": "Rights group challenges trans-inclusive swimming policy at Hampstead Heath",
+    "description": "Allowing entry on the basis of self-identification of gender rather than biological sex is unlawful, high court told",
+    "content": "Rules permitting trans women to share female changing facilities and swim in a women-only pond are discriminatory and unlawful, the high court has heard.\nThe City of London Corporation is breaching equality legislation by allowing trans people to use... [3675 chars]",
+    "url": "https://www.theguardian.com/society/2025/dec/17/rights-group-challenges-trans-inclusive-swimming-policy-at-hampstead-heath",
+    "image": "https://i.guim.co.uk/img/media/6f9848e75ad79c90e570b6a2b24a5c57b891faf6/480_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=493f6e5afdb53ec99f59957d9bb963ce",
+    "publishedAt": "2025-12-17T18:10:00Z",
     "lang": "en",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
@@ -15,28 +15,13 @@
     }
   },
   {
-    "id": "3b0520368f01da57b57a16f50013b47c",
-    "title": "Ukraine war briefing: Peacekeepers could repel Russian forces under ceasefire plan, says Merz",
-    "description": "German Chancellor says this remains a far-off prospect; Zelenskyy says negotiations on peace deal could soon be finalised. What we know on day 1,393",
-    "content": "Under post-ceasefire guarantees provided by the United States and Europe to Ukraine, peacekeepers could in certain circumstances repel Russian forces, German Chancellor Friedrich Merz told ZDF public television in an interview, adding that this remai... [2990 chars]",
-    "url": "https://www.theguardian.com/world/2025/dec/17/ukraine-war-briefing-peacekeepers-could-repel-russian-forces-under-ceasefire-plan-says-merz",
-    "image": "https://i.guim.co.uk/img/media/2a32226329b3b5906911fe075d42e7a02104bde5/158_0_1620_1296/master/1620.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=53048d5b2f2d947c521e95ca85b96f7d",
-    "publishedAt": "2025-12-17T00:45:00Z",
-    "lang": "en",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com"
-    }
-  },
-  {
-    "id": "80ab41c832828dff6dbb2ae70f6dc248",
-    "title": "Patients warned to expect disruption as doctor strike begins",
-    "description": "British Medical Association members start 14th walkout of pay dispute in England at 07:00 on Wednesday.",
-    "content": "Patients are being told to expect disruption as doctors start their five-day strike in England, with NHS bosses saying they are struggling to keep as many services going as they have done in recent walkouts.\nNHS England said with a wave of flu placin... [4622 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c98nqz29vg2o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2094/live/9baee790-daa7-11f0-b825-331725716d67.jpg",
-    "publishedAt": "2025-12-17T00:34:07Z",
+    "id": "88c6370cab9d4ef40e1254fad7f26bc4",
+    "title": "'I learned languages and travelled Europe through Erasmus'",
+    "description": "Several years after it was scrapped, the UK is now set to rejoin the Erasmus scheme in 2027.",
+    "content": "Living abroad while at university allowed me to become almost fluent in two other languages and have experiences that would never have been possible in Scotland.\nWhile studying at the University of Glasgow in 2021, I moved to Germany aged 19 to work ... [3230 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cly0d9je56zo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ebd2/live/6d5facb0-db62-11f0-b1a4-5dc5d1c6f4ef.jpg",
+    "publishedAt": "2025-12-17T18:04:17Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -45,33 +30,48 @@
     }
   },
   {
-    "id": "44761dea6bb0f224356b1957da0ef478",
-    "title": "Nicotine pouch rise is driven by young men, study finds",
-    "description": "Around 7.5% of 16 to 24-year-old-men are using the small sachets that fit under the top lip, research suggests.",
-    "content": "Young men are behind the growing popularity of nicotine pouches in Great Britain, a study suggests.\nAround 7.5% of 16 to 24-year-old-men are using the small sachets that fit under the top lip, compared with 1.9% use among young women and 1% among adu... [3090 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c075j3ezvrgo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2ad9/live/ad2b4070-daa4-11f0-b825-331725716d67.jpg",
-    "publishedAt": "2025-12-17T00:22:30Z",
+    "id": "024a5ba34737a04a8b99a9d034f6a7db",
+    "title": "Woman accused of killing girls with poison raspberries pulled from Thames",
+    "description": "Ines de Bedout, 14, and close friend Emilia Forero, 13, died days after consuming the berries allegedly poisoned by Zulma Guzman Castro.",
+    "content": "A fugitive accused of killing two schoolgirls with poisoned chocolate-covered raspberries was pulled alive from the River Thames.\nZulma Guzman Castro was rescued from the water close to Battersea Bridge, west London, on Tuesday morning.\nThe businessw... [3053 chars]",
+    "url": "https://metro.co.uk/2025/12/17/woman-accused-killing-girls-poison-raspberries-pulled-thames-25563545/",
+    "image": "https://metro.co.uk/wp-content/uploads/2025/12/SEI_277165694-dafc_1765993647.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+    "publishedAt": "2025-12-17T17:47:00Z",
     "lang": "en",
     "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
+      "id": "b40633e34a62c20b9ec4adf5e8bee789",
+      "name": "Metro.co.uk",
+      "url": "https://metro.co.uk"
     }
   },
   {
-    "id": "9fa5c728fa0c6f9aa75db5a7dbdee509",
-    "title": "Timoth\u00e9e Chalamet on Marty Supreme, his twenties and his love of Susan Boyle",
-    "description": "The US actor is tipped for an Oscar nomination for his portrayal of table tennis star Marty Mauser.",
-    "content": "Hollywood star Timoth\u00e9e Chalamet is compiling his list of five Brits who he considers to be all-time greats.\n\"Lewis Hamilton, David and Victoria,\" he begins, referring to the seven-time Formula One champion and the Beckhams.\n\"Fakemink,\" he continues,... [6843 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/clyd1m47rkro",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0323/live/3ab64720-dab7-11f0-b2d6-8b03c56348b7.jpg",
-    "publishedAt": "2025-12-17T00:21:58Z",
+    "id": "6493b285e6830f78daaef60a24de9634",
+    "title": "EU axes 2035 petrol and diesel car sales ban but UK holds firm on 2030",
+    "description": "From 2035, 10 per cent of car sales in the EU can comprise hybrid, plug-in hybrid or even standard petrol and diesel cars",
+    "content": "The UK Government has doubled down on its pledge to ban the sale of pure-petrol and diesel cars by 2030 and all non-zero-emissions models by 2035. This comes after the EU made the monumental decision to scrap its own 2035 ban, sending a seismic wave ... [6149 chars]",
+    "url": "https://www.autoexpress.co.uk/news/368488/eu-axes-2035-petrol-and-diesel-car-sales-ban-uk-holds-firm-2030",
+    "image": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1753970517/autoexpress/2025/07/Electric car charging mega test - charging overhead_orkmka.jpg",
+    "publishedAt": "2025-12-17T17:37:52Z",
     "lang": "en",
     "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
+      "id": "720b35f419019dd58eb83517f7f0e0cf",
+      "name": "Auto Express",
+      "url": "https://www.autoexpress.co.uk"
+    }
+  },
+  {
+    "id": "2be3d2976cafd60d854269f7da72f7c7",
+    "title": "RAF cortege for soldier as Oxfordshire mourners pay respects",
+    "description": "People paid their respects today to a British paratrooper killed in a \u201ctragic accident\u201d in Ukraine. He was repatriated to RAF Brize Norton",
+    "content": "The body of Lance Corporal George Hooley, 28, was repatriated to RAF Brize Norton in west Oxfordshire following his death last week.\nA private, family-only ceremony was held at the country\u2019s largest RAF station before L/Cpl Hooley\u2019s body was carried ... [2466 chars]",
+    "url": "https://www.oxfordmail.co.uk/news/25706584.repatriation-ceremony-paratrooper-killed-ukraine/",
+    "image": "https://www.oxfordmail.co.uk/resources/images/20334188.jpg?type=og-image",
+    "publishedAt": "2025-12-17T17:33:00Z",
+    "lang": "en",
+    "source": {
+      "id": "79d393249dcc2df14dc9d781e21fa1a6",
+      "name": "Oxford Mail",
+      "url": "https://www.oxfordmail.co.uk"
     }
   }
 ]
