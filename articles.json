@@ -1,27 +1,12 @@
 [
   {
-    "id": "db98dbf56122402c7491a3375cac77d9",
-    "title": "Cold weather to ring in New Year as amber health alerts issued",
-    "description": "Temperatures will fall to lows of -4C in the North West of England, with snow expected in some areas.",
-    "content": "The UK Health Security Agency (UKHSA) has issued two amber health alerts for parts of the country as cold weather is set to ring in the new year.\nThe alerts, which warn of a rise in deaths particularly among elderly and vulnerable people, cover the N... [2428 chars]",
-    "url": "https://www.bbc.com/news/articles/cx25e9yr28go",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a82d/live/1ef8e390-e411-11f0-a8dc-93c15fe68710.jpg",
-    "publishedAt": "2025-12-28T18:06:48Z",
-    "lang": "en",
-    "source": {
-      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
-      "name": "BBC",
-      "url": "https://www.bbc.com"
-    }
-  },
-  {
-    "id": "f11d7871a3787afa6e4f2a42e84475ec",
-    "title": "Romsey farmers praise 'amazing' support for charity tractor run",
-    "description": "The 2025 young farmers tractor run saw the convoy travel from Broughton to Romsey.",
-    "content": "Thousands of people have gathered to see more than 300 festively decorated tractors on a drive to raise money for charity.\nRomsey young farmers tractor run saw the convoy travel from Broughton to Romsey to raise money for Hampshire and Isle of Wight ... [984 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c62npy45693o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a38/live/11948c50-e406-11f0-b1f0-1f23e4e3eea7.jpg",
-    "publishedAt": "2025-12-28T17:55:37Z",
+    "id": "1d4c9cc9700dbff57911868822c6fca0",
+    "title": "Trump and Zelensky appear more upbeat",
+    "description": "Although both leaders express optimism in Florida there is no indication of progress, writes the BBC's Vitaliy Shevchenko.",
+    "content": "The much-anticipated talks lasted two-and-a-half hours, and that's an achievement in itself. Presidents Trump and Zelensky had never before spent this long in one room, negotiating.\nAfterwards, optimism was much on display at Mar-a-Lago. It was a \"te... [2022 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c17x7lnd1r7o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/88ad/live/08c7e1d0-e44c-11f0-8c64-8135cea560e2.jpg",
+    "publishedAt": "2025-12-29T01:05:38Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -30,13 +15,13 @@
     }
   },
   {
-    "id": "dced2c8d7ae23d4f8eeac39aa92e2593",
-    "title": "Family pay tribute to man who died after assault outside Leicestershire pub",
-    "description": "David Darke sustained fatal injuries in incident outside the Crown Inn in Appleby Magna, police say",
-    "content": "The relatives of a 66-year-old man who died days after being punched outside a village pub have paid tribute to the \u201cdevoted family man\u201d.\nDavid Darke, who died in hospital on Saturday, was injured outside the Crown Inn in Appleby Magna, Leicestershir... [764 chars]",
-    "url": "https://www.theguardian.com/uk-news/2025/dec/28/family-pay-tribute-to-man-who-died-after-assault-outside-leicestershire-pub",
-    "image": "https://i.guim.co.uk/img/media/768413154647c491bb001f8c83e94605d98c9c14/179_237_1869_1495/master/1869.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aef0562310d1735d3e8cf5aebdaf64a8",
-    "publishedAt": "2025-12-28T17:25:00Z",
+    "id": "b0ac9100485674f26f66da2fbddf9e3a",
+    "title": "Trump news at a glance: progress but no breakthrough in Ukraine peace talks",
+    "description": "Donald Trump says \u2018one or two tough\u2019 issues could lead to negotiations breaking down \u2013 key US politics stories from 28 December at a glance",
+    "content": "President Donald Trump says Ukraine and Russia are \u201ccloser than ever before\u201d to a peace deal, but he acknowledged negotiations could still break down and leave the war dragging on for years.\nAfter a two-hour meeting in Florida with the Ukrainian pres... [331 chars]",
+    "url": "https://www.theguardian.com/us-news/2025/dec/29/trump-administration-latest-news-today",
+    "image": "https://i.guim.co.uk/img/media/7c8830191f4bb76673c12fe4c1dc30f2479e3d4d/514_0_4304_3445/master/4304.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6605e2bc1d6318ae7cd168e38c2e3fb6",
+    "publishedAt": "2025-12-29T00:52:00Z",
     "lang": "en",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
@@ -45,33 +30,48 @@
     }
   },
   {
-    "id": "099ce890cba4a336732c5de170243bd4",
-    "title": "Sunday Preview - A putrescent crop begins to bloom",
-    "description": "Everything available to pre-order next week.",
-    "content": "Battletome: Maggotkin of Nurgle\nThe servants of Nurgle bring rot and ruin to the Mortal Realms with smiles and sneers. They view the maladies and diseases they spread as munificent gifts from the Grandfather, an inevitable step in the cycle of life s... [7536 chars]",
-    "url": "https://www.warhammer-community.com/en-gb/articles/dphevrv5/sunday-preview-a-putrescent-crop-begins-to-bloom/",
-    "image": "https://assets.warhammer-community.com/sundaypreview-dec28-1-feature-hohgzidz8b.jpg",
-    "publishedAt": "2025-12-28T17:57:38Z",
+    "id": "84ea8cfc21bea05d7843e38aa271749b",
+    "title": "Matthew Potts poised to play in fifth Ashes Test after England rule out Gus Atkinson",
+    "description": "Tourists expected to pick fast bowler in XI for series finale at SCG, while the Cricket Australia boss is confident of a \u2018good wicket\u2019 in Sydney",
+    "content": "Matthew Potts is poised to play his first Ashes Test in Sydney after England confirmed that Gus Atkinson has been ruled out of the series finale.\nAtkinson limped off with a hamstring issue on the second and final day of England\u2019s rollercoaster four-w... [2416 chars]",
+    "url": "https://www.theguardian.com/sport/2025/dec/29/matthew-potts-fifth-ashes-test-england-cricket",
+    "image": "https://i.guim.co.uk/img/media/97a378a1b5e8cdd98919ff53b8d67fcfab74db43/282_0_2822_2258/master/2822.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e51b5cf60adf1e7c1860c3b6048e5cbf",
+    "publishedAt": "2025-12-29T00:51:00Z",
     "lang": "en",
     "source": {
-      "id": "ff0cce4a7da337a925c01deb06a20c2b",
-      "name": "Warhammer Community",
-      "url": "https://www.warhammer-community.com"
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
     }
   },
   {
-    "id": "ff431d75363ca6946da4fe9cfc3d5c8f",
-    "title": "Kate Bush pays tribute to antiques dealer missing after Christmas Day swim",
-    "description": "Singer, who has known Matthew Upham for 30 years, describes him as \u2018extraordinarily kind and thoughtful\u2019",
-    "content": "Kate Bush has paid tribute to a \u201cspecial\u201d antiques dealer who remains missing after a Christmas Day swim in Devon.\nThe singer said she had been friends with Matthew Upham, 63, for 30 years and that he \u201clived life to the full\u201d.\nMr Upham and another ma... [3259 chars]",
-    "url": "https://www.telegraph.co.uk/news/2025/12/28/kate-bush-tribute-antiques-dealer-missing-christmas-swim/",
-    "image": "https://www.telegraph.co.uk/content/dam/news/2025/12/28/TELEMMGLPICT000454494602_17669428165551_trans_NvBQzQNjv4BqB9o-xXBa0egoauwvCP1YUEa0fHzc5GbZGVIIlFfG-ks.jpeg?impolicy=OG-Standard",
-    "publishedAt": "2025-12-28T17:49:00Z",
+    "id": "387b639ee24aa112d9bb08053f3bae40",
+    "title": "Kosovo's ruling party wins election after months of political deadlock",
+    "description": "The decisive victory for the Albanian nationalist Vetevendosje party means a third term for leader Albin Kurti.",
+    "content": "The Albanian nationalist Vetevendosje party has won a landslide victory in Kosovo's parliamentary elections, according to preliminary results.\nWith 90% of the votes counted, the party, whose name means \"self determination\", was on 50.8%, meaning a th... [3153 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/ce3z3w4wy0go",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/adfd/live/7e288ec0-e44c-11f0-a8dc-93c15fe68710.jpg",
+    "publishedAt": "2025-12-29T00:27:02Z",
     "lang": "en",
     "source": {
-      "id": "0fc579b3cc7a823fd67a74b9ed6f0796",
-      "name": "The Telegraph",
-      "url": "https://www.telegraph.co.uk"
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    }
+  },
+  {
+    "id": "debab8001bdf9b158d2b97be8bf0c473",
+    "title": "One killed in mid-air helicopter crash in New Jersey",
+    "description": "Police and fire crews extinguished flames that engulfed one of the aircraft. Video from the scene showed a helicopter spinning rapidly to the ground.",
+    "content": "Two helicopters crashed into each other in the air in New Jersey, killing one person and critically injuring another.\nRescuers responded to a report of an aviation crash around 11.25am local time on Sunday, Hammonton police chief Kevin Friel said.\nPo... [796 chars]",
+    "url": "https://news.sky.com/story/one-killed-in-mid-air-helicopter-crash-in-new-jersey-13488126",
+    "image": "https://e3.365dm.com/25/12/1600x900/skynews-helicopter-crash-new-jersey_7121038.jpg?20251228204938",
+    "publishedAt": "2025-12-29T00:25:46Z",
+    "lang": "en",
+    "source": {
+      "id": "896bbd67b1fce1e7e97122b9a4345dab",
+      "name": "Sky News",
+      "url": "https://news.sky.com"
     }
   }
 ]
