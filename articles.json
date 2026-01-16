@@ -1,12 +1,12 @@
 [
   {
-    "id": "237bd1d1803d73c7020a367591450031",
-    "title": "Matthew McConaughey trademarks iconic phrase to stop AI misuse",
-    "description": "The Oscar-winning actor has trademarked several phrases, including \"Alright, alright, alright\" from the cult classic film, Dazed and Confused.",
-    "content": "Oscar-winner Matthew McConaughey has trademarked his image and voice to protect them from unauthorised use by artificial intelligence (AI) platforms.\nClips including his famous catchphrase \"alright, alright, alright\" from the 1993 film, Dazed and Con... [2664 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cp87z6vexl3o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a2d/live/10b7dcd0-f23c-11f0-aff5-138622067c76.jpg",
-    "publishedAt": "2026-01-15T18:34:41Z",
+    "id": "594896931b602a2776f1916eb34e0cee",
+    "title": "Actor Timothy Busfield charged with sexually abusing boys on TV series set",
+    "description": "The actor starred in the West Wing TV series and is also known for the baseball film Field of Dreams.",
+    "content": "Actor Timothy Busfield has made his first court appearance after turning himself in on criminal charges that he allegedly sexually abused two boys on the set of a TV series filming New Mexico, prosecutors say.\nThe Emmy-winning actor, who starred in T... [5869 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cj9rvkde0xxo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4215/live/88632d60-f189-11f0-b143-899e3da76f9b.jpg",
+    "publishedAt": "2026-01-16T00:24:22Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -15,13 +15,43 @@
     }
   },
   {
-    "id": "c8ddde5db1eee9ff52add52d0d0f1b55",
-    "title": "Birmingham man jailed for possessing bomb-making video",
-    "description": "Adam Mahmood, 20, is sentenced after received the instructional video via social media.",
-    "content": "A man has been jailed for possessing a bomb-making video which explained how to make explosives similar to those previously used in UK terror attacks.\nAdam Mahmood asked a TikTok user to send him the instructional video, which prosecutors described a... [1000 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cgk8rr8eg01o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/317d/live/37789970-f23e-11f0-aff5-138622067c76.png",
-    "publishedAt": "2026-01-15T18:18:00Z",
+    "id": "6c2ddd61015f317beee3f9efdf3151f1",
+    "title": "Elon Musk\u2019s xAI datacenter generating extra electricity illegally, regulator rules",
+    "description": "Win for Memphis activists who say \u2018Colossus\u2019 facilities add extra pollution to already overburdened communities",
+    "content": "A US regulator ruled on Thursday that Elon Musk\u2019s artificial intelligence company had acted illegally by using dozens of methane gas turbines to power massive data centers in Tennessee.\nxAI has been fighting for a year and a half over truck-sized gas... [3676 chars]",
+    "url": "https://www.theguardian.com/technology/2026/jan/15/elon-musk-xai-datacenter-memphis",
+    "image": "https://i.guim.co.uk/img/media/35ea77469eaf6bce0c12acdb9ce4762b484e729f/1328_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9b1075319c3d5051751bb342d54dc8a7",
+    "publishedAt": "2026-01-16T00:10:00Z",
+    "lang": "en",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "79a16c05a6f0baa8504779f4ff910d7a",
+    "title": "Arsenal\u2019s power statement shows this time they have the muscle for the battle",
+    "description": "First-leg victory at Stamford Bridge displayed the hallmarks of another vintage Gunners team who refused to be bullied",
+    "content": "Nobody said it had to be pretty. And for large portions of Arsenal\u2019s 3-2 win at Chelsea in the Carabao Cup semi-final first leg on Wednesday, it certainly was not. But for Mikel Arteta and his players there was a beauty in the physicality, the remors... [3380 chars]",
+    "url": "https://www.theguardian.com/football/2026/jan/15/arsenal-power-statement-chelsea-carabao-cup",
+    "image": "https://i.guim.co.uk/img/media/0ca83016042ca9e3bddc9045529dc8bbea67886c/276_178_2877_2300/master/2877.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c792084c5449b0ace2e548c082911d25",
+    "publishedAt": "2026-01-16T00:05:00Z",
+    "lang": "en",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "7726fcc10171eee36016d992d9c6e13e",
+    "title": "Government to offer cash payouts for people in financial crisis",
+    "description": "The replacement for the Household Support Fund aims to help people facing sudden difficulties.",
+    "content": "A new funding scheme will give access to emergency cash for people on low incomes across England.\nThe Crisis and Resilience Fund beginning at the start of April will provide \u00a31bn annually for the next three years.\nPeople will be able to apply for eme... [2006 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cx2l74eykxdo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/678f/live/fe6d3340-f245-11f0-aff5-138622067c76.jpg",
+    "publishedAt": "2026-01-16T00:02:52Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -30,48 +60,18 @@
     }
   },
   {
-    "id": "c51b4e14847b3911c6d78839e4aa1aad",
-    "title": "Tour de France 2027: Men's and women's events to start in Edinburgh and Leeds",
-    "description": "Edinburgh and Leeds will host the opening stages of the men's and women's Tour de France in 2027, with the UK Government saying it will be \"the most accessible major sporting spectacle ever held in Britain\".",
-    "content": "Edinburgh and Leeds will host the opening stages of the men's and women's Tour de France in 2027, with the UK Government saying it will be \"the most accessible major sporting spectacle ever held in Britain\".\nIt is estimated the Grand Departs of both ... [1943 chars]",
-    "url": "https://www.bbc.co.uk/sport/cycling/articles/c2e1nr0n8m1o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ce97/live/e9015180-f218-11f0-8f9d-7304521a922a.jpg",
-    "publishedAt": "2026-01-15T18:00:08Z",
+    "id": "8b2028f62f852ebed380ddc0d2654f1c",
+    "title": "The Rip review - Ben Affleck and Matt Damon tear through flashy Netflix bro thriller",
+    "description": "The longtime friends and colleagues add weight to Joe Carnahan\u2019s enjoyably boisterous Friday night crowdpleaser",
+    "content": "January has long been a B-movie buffet for those exhausted by prestige awards bait, a month when Gerard Butler and Jason Statham are suddenly commanding wide releases and often No 1 mini-hits. But as the former\u2019s apocalyptic sequel Greenland 2: Migra... [4964 chars]",
+    "url": "https://www.theguardian.com/film/2026/jan/16/the-rip-review-ben-affleck-and-matt-damon-tear-through-flashy-netflix-bro-thriller",
+    "image": "https://i.guim.co.uk/img/media/8186945f794cf25a21872883cfd8ef7a20408764/657_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=f1395e1be5ddc6e198f671f4f793bec0",
+    "publishedAt": "2026-01-16T00:02:00Z",
     "lang": "en",
     "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "a5e2cc58402a0000f47783b51aa95076",
-    "title": "No 10 'no longer has confidence' in West Midlands Police boss as pressure builds to resign",
-    "description": "Two government ministers express shock that Chief Constable Craig Guildford is still in his post.",
-    "content": "No 10 no longer has confidence in Guildford as he faces mounting calls to resign\nWest Midlands Police Chief Constable Craig Guildford is facing mounting calls to resign after Israeli football fans were banned from a match against Aston Villa.\nDowning... [14949 chars]",
-    "url": "https://www.bbc.co.uk/news/live/cwy80p8qg89t",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bf44/live/67829bb0-f1db-11f0-a422-4ba8a094a8fa.png",
-    "publishedAt": "2026-01-15T17:23:21Z",
-    "lang": "en",
-    "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "61248f82e3d87c7376202c05a77ccb10",
-    "title": "Birmingham City and Liverpool hatch new Lewis Koumas plan amid loan recall reveal",
-    "description": "Birmingham City have Lewis Koumas on loan from Premier League champions Liverpool",
-    "content": "Birmingham City have Lewis Koumas on loan from Premier League champions Liverpool\nBirmingham City and Liverpool have agreed to extend the window in which the Premier League champions can recall Lewis Koumas.\nLiverpool originally had to inform Blues w... [2575 chars]",
-    "url": "https://www.birminghammail.co.uk/sport/football/transfer-news/birmingham-city-liverpool-koumas-transfer-33241138",
-    "image": "https://i2-prod.birminghammail.co.uk/article33241143.ece/ALTERNATES/s1200/0_JS392064688.jpg",
-    "publishedAt": "2026-01-15T18:05:29Z",
-    "lang": "en",
-    "source": {
-      "id": "5f4885f054306abb568a7b785f060c1f",
-      "name": "Birmingham Live",
-      "url": "https://www.birminghammail.co.uk"
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
     }
   }
 ]
