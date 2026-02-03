@@ -1,57 +1,12 @@
 [
   {
-    "id": "4cac3b977ecb42159d49836514021c1f",
-    "title": "Kennedy Center to close for two years for renovations, Trump says",
-    "description": "The move follows several artists cancelling performances after it was recently renamed the Trump Kennedy Center.",
-    "content": "The Kennedy Center in Washington DC will be closed for a two-year renovation beginning in July, US President Donald Trump has announced.\nTrump wrote on Truth Social on Sunday that the centre would close on 4 July this year \"in honour of the 250th Ann... [2277 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c1ev53zyww2o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b85e/live/ac72e680-ffff-11f0-b7e1-afb6d0884c18.jpg",
-    "publishedAt": "2026-02-02T01:13:12Z",
-    "lang": "en",
-    "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "293796d4bf048b191f3e7401d8439b53",
-    "title": "Grammys red carpet: Stars arrive for music award show",
-    "description": "A collection of some of the best looks from Sunday's awards in Los Angeles.",
-    "content": "Stars including Addison Rae and Sabrina Carpenter hit the red carpet at the Grammy Awards in Los Angeles on Sunday.\nHere are some of the most eye-catching looks from on the red carpet and inside the premiere ceremony before the main show.\nSabrina Car... [1089 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cqj2kyp29l7o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a2fc/live/74c17430-ffc9-11f0-b669-eb89c7ddc639.jpg",
-    "publishedAt": "2026-02-02T00:43:38Z",
-    "lang": "en",
-    "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "78fc98e9d08f6b2feb2cae2023124a9a",
-    "title": "Syria\u2019s only woman minister Hind Kabawat on challenges of rebuilding",
-    "description": "The BBC's Lyse Doucet follows Hind Kabawat as she confronts the challenges of fragmented, post-Assad Syria.",
-    "content": "\"On the first day, I asked 'why are there no more women?',\" says Hind Kabawat.\nShe is Syria's minister for social affairs and labour - the only female minister in the transitional government tasked with navigating the country's jagged road from war t... [9454 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cj0n3j16p8lo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b066/live/6c4497c0-fde8-11f0-b7e1-afb6d0884c18.jpg",
-    "publishedAt": "2026-02-02T00:28:13Z",
-    "lang": "en",
-    "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "8d33a774c3ac64b8ed4513b5df8339b5",
-    "title": "American Psycho review - yuppies making a killing offers a chilling origin story for our corrupt times",
-    "description": "In a bloody, brilliant, full circle Rupert Goold bows out as artistic director of the Almeida with a timely revival of the musical he first staged here in 2013",
-    "content": "The term \u201cyuppie\u201d conjures visions of shoulder pads, Filofaxes and liquid lunches. This is the world Patrick Bateman inhabits and Bret Easton Ellis\u2019s narcissistic banker is every inch the embodiment of it \u2013 a creature of Wall Street\u2019s hedonistic heyd... [3550 chars]",
-    "url": "https://www.theguardian.com/stage/2026/feb/02/american-psycho-review-almeida-theatre-london-rupert-goold",
-    "image": "https://i.guim.co.uk/img/media/1837bb772cad37ea5dd79008ec0dab70c5f522d3/455_0_4531_3627/master/4531.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=cad2536d3e8bcf984c061cce4d4d7d62",
-    "publishedAt": "2026-02-02T00:01:00Z",
+    "id": "05d4464823d1b5382826e8344a30b2a3",
+    "title": "Lack of mental health beds contributed to UK teenager\u2019s death, inquest finds",
+    "description": "Poor communication also cited as factor in death of Ellame Ford-Dunn, 16, on Worthing hospital\u2019s grounds",
+    "content": "A shortage of mental health beds and poor communication between agencies contributed to the death of a teenage girl on hospital grounds, an inquest has found.\nEllame Ford-Dunn, 16, who had a history of self-harm, died in March 2022 after absconding f... [3838 chars]",
+    "url": "https://www.theguardian.com/society/2026/feb/02/lack-of-mental-health-beds-ellame-ford-dunn-death-inquest",
+    "image": "https://i.guim.co.uk/img/media/31559a2c54759e74ba8a4b8bf1a0b4c7578718e8/0_436_2448_1958/master/2448.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=95c76637fce49ee3b459998fe80b3cfb",
+    "publishedAt": "2026-02-02T17:56:00Z",
     "lang": "en",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
@@ -60,18 +15,63 @@
     }
   },
   {
-    "id": "8191dbb95fef171a86ad48d185bda619",
-    "title": "Farmers Insurance Open: Justin Rose secures record-breaking victory",
-    "description": "England's Justin Rose clinches an utterly dominant win at the Farmers Insurance Open in a new tournament record score.",
-    "content": "England's Justin Rose clinched an utterly dominant win at the Farmers Insurance Open in a new tournament record score.\nRose, the 2019 winner, led by six shots before Sunday's fourth round on Torrey Pines' South Course and was rarely troubled over his... [1415 chars]",
-    "url": "https://www.bbc.com/sport/golf/articles/c74wk9g2272o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e5b9/live/5ed2df00-ffca-11f0-b669-eb89c7ddc639.jpg",
-    "publishedAt": "2026-02-01T23:55:06Z",
+    "id": "c0ec49fb1aaaec8a19df2fa5f928fb0b",
+    "title": "US agrees to drop tariffs after India stops Russian oil purchases",
+    "description": "Tariffs will drop from 50% to 18% on Indian goods, while India has agreed to stop buying Russian oil.",
+    "content": "US President Donald Trump announced that he agreed to a trade deal with India's Prime Minister Narendra Modi, where the US will lower tariffs on goods from India to 18% from 25%.\nIn a post on Truth Social, Trump said India will reduce trade barriers ... [3119 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c5yve1x9zv0o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/445f/live/2ae0bb90-0079-11f1-b527-21c46db45f72.jpg",
+    "publishedAt": "2026-02-02T17:55:54Z",
     "lang": "en",
     "source": {
-      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "id": "da05009467a13bbcc84557ea09d86db3",
       "name": "BBC",
-      "url": "https://www.bbc.com"
+      "url": "https://www.bbc.co.uk"
+    }
+  },
+  {
+    "id": "e98e5a19e0c81bea763947064ea2a5c4",
+    "title": "South Wales council to buy and demolish homes prone to flooding",
+    "description": "Residents of 16 houses on Clydach Terrace in Ynysybwl express relief after repeated floods caused by climate crisis",
+    "content": "A row of homes in a village in south Wales is to be bought by a local authority and demolished as they can no longer be protected from flooding caused by the climate crisis.\nIt will cost Rhondda Cynon Taf county borough council more than \u00a32.5m to buy... [4297 chars]",
+    "url": "https://www.theguardian.com/uk-news/2026/feb/02/south-wales-council-buy-demolish-homes-flooding-clydach-terrace-ynysybwl",
+    "image": "https://i.guim.co.uk/img/media/b1e494bf2078b20600fe6ec96eabac53dcf4045a/253_0_4550_3640/master/4550.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=40002895c7e3e285903552d9296e2b21",
+    "publishedAt": "2026-02-02T17:46:00Z",
+    "lang": "en",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "0c8506ffae5dcc77711ac4a2c5755200",
+    "title": "UK weather: Areas of UK hit by record January rainfall",
+    "description": "Anyone thinking it had been a particularly drab and wet January, that has been confirmed by the Met Office's latest monthly figures, as Chris Fawkes explains.",
+    "content": "Official statistics for January have been released by the Met Office and confirm what many will already suspect - it has been very wet for many areas.\nNorthern Ireland, south-west and southern England, and the east of Scotland all had one of their we... [2618 chars]",
+    "url": "https://www.bbc.co.uk/weather/articles/cx2lz3k65w5o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/39cf/live/cee62d40-0049-11f1-a8b8-bdd2c5f9bcad.jpg",
+    "publishedAt": "2026-02-02T17:44:12Z",
+    "lang": "en",
+    "source": {
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    }
+  },
+  {
+    "id": "92f1d607d4a6317297b661369e9073b6",
+    "title": "Crown Princess Mette-Marit's son arrested for alleged assault before rape trial in Norway",
+    "description": "Marius Borg H\u00f8iby, who goes on trial on Tuesday, has been remanded in custody for four weeks after new allegations.",
+    "content": "The son of Norway's Crown Princess Mette-Marit has been arrested by police on suspicion of assault, before he goes on trial in Oslo on Tuesday on 38 charges, including the rape of four women.\nMarius Borg H\u00f8iby, 29, was remanded in custody for four we... [2483 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/crrn44p9r59o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d7c7/live/675324e0-004d-11f1-b0e3-c598b6818235.jpg",
+    "publishedAt": "2026-02-02T17:38:53Z",
+    "lang": "en",
+    "source": {
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
     }
   }
 ]
