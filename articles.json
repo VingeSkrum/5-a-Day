@@ -1,12 +1,12 @@
 [
   {
-    "id": "734cefbc576b7c3b4674e337612a5ed1",
-    "title": "US says it shot down Iranian drone flying towards aircraft carrier",
-    "description": "A US military spokesman says the drone was shot down while approaching an American vessel in the Arabian Sea.",
-    "content": "An Iranian drone was shot down as it \"aggressively approached\" an American aircraft carrier in the Arabian Sea on Tuesday, a US military spokesman has said.\nAn F-35C stealth fighter jet which took off from the USS Abraham Lincoln warship shot down th... [430 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c3dmjn7n985o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ee7b/live/4ad86aa0-0129-11f1-9f22-c9b288f3a22b.jpg",
-    "publishedAt": "2026-02-03T18:15:19Z",
+    "id": "e3e82e78eb9e853d6f140aa54b3c0a41",
+    "title": "Government pledges 10,000 new foster care places in England",
+    "description": "Rule changes aim to create thousands of new foster places and help full-time workers.",
+    "content": "Fostering rules will be relaxed and red tape cut to create 10,000 new places for vulnerable children in England, the government says.\nIt will become easier for full-time workers to become foster carers under the plans and clearer guidelines are being... [3872 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cpwngvlzgg4o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a3a3/live/aa8a26a0-012e-11f1-a8b8-bdd2c5f9bcad.jpg",
+    "publishedAt": "2026-02-04T00:34:05Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -15,28 +15,13 @@
     }
   },
   {
-    "id": "5ef863cdc46b33649e7d5c25207feba6",
-    "title": "West Yorkshire cultural festival funding still unclear",
-    "description": "Much of the cash for West Yorkshire's Seasons of Culture event is yet to be secured, a report says.",
-    "content": "Much of the funding for West Yorkshire's first ever \"Seasons of Culture\" festival remains unsecured, it has been revealed.\nThe annual festival was created in the light of Bradford's City of Culture celebrations, with its inaugural edition this year d... [450 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cwygrkykwnmo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/82b9/live/34d1e1a0-011f-11f1-81c6-992a7f9e25ff.jpg",
-    "publishedAt": "2026-02-03T18:10:38Z",
-    "lang": "en",
-    "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "034359fd7ff0d2abd03087a55de214bc",
-    "title": "Police believe son of Norway\u2019s crown princess sexually assaulted a woman, court hears",
-    "description": "Marius Borg H\u00f8iby, 29, pleads not guilty to four counts of rape in trial that has embarrassed the royal family",
-    "content": "Police believe the son of Norway\u2019s crown princess sexually assaulted a woman at an afterparty at a royal residence, a court has heard.\nMarius Borg H\u00f8iby, 29, pleaded not guilty to four counts of rape on Tuesday, the first day of his trial for multipl... [4187 chars]",
-    "url": "https://www.theguardian.com/world/2026/feb/03/son-norway-crown-princess-rape-trial-begins-marius-borg-hoiby",
-    "image": "https://i.guim.co.uk/img/media/30873112cd284329447fb11342e7511253028d7d/687_146_4277_3421/master/4277.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef3f8c534f3a4f736fb203dc0a8c5620",
-    "publishedAt": "2026-02-03T17:57:00Z",
+    "id": "4cc373c27d452daa5db33fc9976f401c",
+    "title": "Cost of UK\u2019s drug price with US will come out of NHS budget",
+    "description": "Department of health, not Treasury, will foot the bill \u2013 with costs forecast to reach \u00a39bn",
+    "content": "The cost of the government\u2019s drug pricing deal with the Trump administration will come out of the NHS budget instead of the Treasury\u2019s and could eventually reach \u00a39bn a year, campaigners fear.\nPatrick Vallance, the science minister, has confirmed tha... [3402 chars]",
+    "url": "https://www.theguardian.com/society/2026/feb/04/cost-of-uks-drug-price-with-us-will-come-out-of-nhs-budget",
+    "image": "https://i.guim.co.uk/img/media/bf6d4ce0157413987efdc6f9ee206ab801e103a3/676_0_5188_4150/master/5188.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=66583437534d1b155812858f10d7d366",
+    "publishedAt": "2026-02-04T00:02:20Z",
     "lang": "en",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
@@ -45,33 +30,48 @@
     }
   },
   {
-    "id": "9d94a4713cf2dd5bed116e3e3dbd3a0d",
-    "title": "PepsiCo to cut prices of some snacks after backlash",
-    "description": "The snack conglomerate is cutting the price of products including Doritos, Cheetos and Lays",
-    "content": "PepsiCo is to cut the prices of some of its snack products in the US, following backlash against previous price hikes and pressure in the face of appetite-suppressing GLP-1 jabs.\nProducts including Doritos, Lays (known as Walkers in the UK) and Cheet... [2518 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cm2y38v4prvo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8ce7/live/da8622b0-0119-11f1-a88f-113f60a613fb.jpg",
-    "publishedAt": "2026-02-03T17:36:48Z",
+    "id": "38ac467d0965cdc26222de6336b963af",
+    "title": "Jimmy Lai\u2019s son says UK government did not do enough to help him on China visit",
+    "description": "Sebastien Lai criticises ministers for not putting conditions on his father\u2019s release during Beijing trip",
+    "content": "The British son of the jailed Hong Kong media entrepreneur Jimmy Lai has criticised the UK government for failing to place conditions on his father\u2019s release during the prime minister\u2019s visit to China last week.\nSpeaking at a parliamentary hearing on... [2964 chars]",
+    "url": "https://www.theguardian.com/world/2026/feb/03/jimmy-lais-son-says-uk-government-did-not-do-enough-to-help-him-on-china-visit",
+    "image": "https://i.guim.co.uk/img/media/faa8685d67382ce0903733b0a13285b02feb43be/392_0_3920_3136/master/3920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a69f27ec320ea492545ef533fd4c7c74",
+    "publishedAt": "2026-02-03T23:15:00Z",
     "lang": "en",
     "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
     }
   },
   {
-    "id": "4b6fb2bde4ae9e9fd81b2db1ca1f4ad0",
-    "title": "Coastal road swept away into the sea in Devon",
-    "description": "South West England was badly hit by storms Goretti, Ingrid and Chandra, which brought heavy rain and flooding last month. The A379 in Devon has been destroyed.",
-    "content": "A coastal road that was hit by three named storms has been destroyed after another downpour.\nPart of the A379 in Devon, connecting the villages of Torcross and Slapton, near Dartmouth, broke apart overnight, with its sea defences destroyed in January... [1689 chars]",
-    "url": "https://news.sky.com/story/coastal-road-hit-by-three-named-storms-swept-away-into-the-sea-in-a-matter-of-hours-13502820",
-    "image": "https://e3.365dm.com/26/02/1600x900/skynews-caroline-voaden-a379_7154658.jpg?20260203165005",
-    "publishedAt": "2026-02-03T17:33:50Z",
+    "id": "7ff9c8d937b928a57b4bf0c6884c7a88",
+    "title": "Kate Nash tells MPs: I sell pictures of my bum on the internet to fund my tour",
+    "description": "The musician told MPs she lost \u00a326,000 on her last tour of Europe.",
+    "content": "The musician told MPs she lost \u00a326,000 on her last tour of Europe.\nLaura Harding\n18 hours ago\nMusician Kate Nash has told MPs she has to \u201csell pictures of my bum on the internet\u201d to be able to fund her tour.\nThe Foundations singer was giving evidence... [4160 chars]",
+    "url": "https://www.standard.co.uk/culture/music/kate-nash-mps-europe-house-of-commons-uk-parliament-b1269396.html",
+    "image": "https://static.standard.co.uk/2026/02/03/11/4ae9177e23e4963fc49155d359eb1dd2Y29udGVudHNlYXJjaGFwaSwxNzcwMjA0ODcw-2.83316854.jpg?width=1200&auto=webp&quality=75",
+    "publishedAt": "2026-02-04T01:04:14Z",
     "lang": "en",
     "source": {
-      "id": "896bbd67b1fce1e7e97122b9a4345dab",
-      "name": "Sky News",
-      "url": "https://news.sky.com"
+      "id": "99b3c5a558a3e649a1397aa932026c34",
+      "name": "London Evening Standard",
+      "url": "https://www.standard.co.uk"
+    }
+  },
+  {
+    "id": "3fbc958014249d92d7145bf575604dcd",
+    "title": "No, GTA 6 PS5 Physical Copies Won't Be Delayed",
+    "description": "\"That's not the plan\" - One rumour floating around in relation to GTA 6 is that physical copies of the PS5 title will not arrive until 2027 in order to avoid...",
+    "content": "One rumour floating around in relation to GTA 6 is that physical copies of the PS5 title will not arrive until 2027 in order to avoid leaks prior to release.\nThat claim has now been debunked by Take-Two CEO Strauss Zelnick: \"That's not the plan,\" he ... [527 chars]",
+    "url": "https://www.pushsquare.com/news/2026/02/no-gta-6-ps5-physical-copies-wont-be-delayed",
+    "image": "https://images.pushsquare.com/0701a34b905e1/large.jpg",
+    "publishedAt": "2026-02-04T00:15:00Z",
+    "lang": "en",
+    "source": {
+      "id": "c7c68503aa78dda4184c68c0b81a4f03",
+      "name": "Push Square",
+      "url": "https://www.pushsquare.com"
     }
   }
 ]
