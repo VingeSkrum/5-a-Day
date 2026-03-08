@@ -1,12 +1,27 @@
 [
   {
-    "id": "88a9b89b207a4d74538d85cd14651f62",
-    "title": "Woman and four children hurt in two-car crash",
-    "description": "A man has been arrested in connection with the crash near Burton Constable, East Yorkshire.",
-    "content": "A woman and four children have been injured in a crash in East Yorkshire, police have said.\nEmergency crews were called to reports of a collision involving a BMW and a Toyota on New Ellerby Road, near Burton Constable, at 16:30 GMT on Friday.\nHumbers... [340 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c2lr2d52zlro",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60db/live/f09ce7f0-1893-11f1-be38-73b0266e268f.jpg",
-    "publishedAt": "2026-03-07T18:11:06Z",
+    "id": "02d819b7db220124449240e30cd12b50",
+    "title": "Nightclub bombing in Peru injures more than 30 people",
+    "description": "Some of those in surgery have required amputations and treatment for shrapnel wounds - with one victim saying the blast felt like \"the sound system had suddenly been turned off\".",
+    "content": "A bombing at a nightclub in Peru has injured at least 33 people, including teenagers.\nThe explosion occurred in the early hours of Saturday at the Dali nightclub in Trujillo - a province along Peru's northern coast.\nThe region has recently been affec... [1481 chars]",
+    "url": "https://news.sky.com/story/nightclub-bombing-in-peru-injures-more-than-30-people-13516750",
+    "image": "https://e3.365dm.com/26/03/1600x900/skynews-peru-nightclub_7185665.jpg?20260308004758",
+    "publishedAt": "2026-03-08T01:09:40Z",
+    "lang": "en",
+    "source": {
+      "id": "896bbd67b1fce1e7e97122b9a4345dab",
+      "name": "Sky News",
+      "url": "https://news.sky.com"
+    }
+  },
+  {
+    "id": "5f255858d4cd2e40b420eb32f3568acb",
+    "title": "'Death of a monster' and 'Blair rebukes Starmer'",
+    "description": "Soham murderer Ian Huntley's death following a prison attack dominates today's papers.",
+    "content": "The Sunday Telegraph, external says Sir Tony Blair has \"rebuked\" Sir Keir Starmer for his decision not to support American strikes on Iran. The paper quotes the former Prime Minister, who supported George W Bush's invasion of Iraq and Afghanistan, as... [1356 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c2k82v8qjzyo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1164/live/106fcd40-1a7e-11f1-b048-c9424b2cf5fd.jpg",
+    "publishedAt": "2026-03-08T00:18:32Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -15,63 +30,48 @@
     }
   },
   {
-    "id": "5b7b2bf8908299b96c8cc024b3b561ca",
-    "title": "Bristol City 0-2 Coventry City: Tatsuhiro Sakamoto and Haji Wright score in Sky Blues win",
-    "description": "Report and free match highlights from the Sky Bet Championship match between Bristol City and Coventry City at Ashton Gate on Saturday; Tatsuhiro Sakamoto and Haji Wright score as Sky Blues win as both sides see red.",
-    "content": "First half goals from Tatsuhiro Sakamoto and Haji Wright strengthened Coventry's position at the top of the Sky Bet Championship as they won 2-0 in a match that saw both teams finish with 10 men.\nThe visitors took a 37th minute lead when former Robin... [4680 chars]",
-    "url": "https://www.skysports.com/football/news/11095/13515040/bristol-city-0-2-coventry-city-tatsuhiro-sakamoto-and-haji-wright-score-in-sky-blues-win",
-    "image": "https://e0.365dm.com/26/03/1600x900/skysports-coventry-city_7185193.jpg?20260307155345",
-    "publishedAt": "2026-03-07T18:15:25Z",
+    "id": "d88aae389c557b62f759db3888b81018",
+    "title": "New Employment Rights Act \u2018a huge boost for women in the workplace\u2019",
+    "description": "Government says new rights for parental leave and sick pay will increase equality and economic growth",
+    "content": "Women will disproportionately benefit from new workers\u2019 rights measures rolled out from next month, according to research.\nThe TUC said approximately 4.7 million women are to benefit from stronger sick pay from April, including more than 830,000 who ... [2214 chars]",
+    "url": "https://www.theguardian.com/law/2026/mar/08/new-employment-rights-act-a-huge-boost-for-women-in-the-workplace",
+    "image": "https://i.guim.co.uk/img/media/75fdda10dc02154c2d00e8cb16ea355a2287f404/0_0_3005_2405/master/3005.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab3d1e5c87b855da72e9345893435f8a",
+    "publishedAt": "2026-03-08T00:17:00Z",
     "lang": "en",
     "source": {
-      "id": "375c6022b40a085995083df0ed1ac413",
-      "name": "Sky Sports",
-      "url": "https://www.skysports.com"
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
     }
   },
   {
-    "id": "6c3d9243d31c7ea1b3f01563bdf0dda1",
-    "title": "Britain boosting defence on Cyprus",
-    "description": "The UK has expanded its military presence on Cyprus at RAF Akrotiri with additional aircraft, helicopters and surveillance assets.",
-    "content": "The UK has expanded its military presence on Cyprus at RAF Akrotiri with additional aircraft, helicopters and surveillance assets as tensions in the region continue, according to the Ministry of Defence.\nIn an update released by the MOD, officials sa... [1221 chars]",
-    "url": "https://ukdefencejournal.org.uk/britain-boosting-defence-on-cyprus/",
-    "image": "https://ukdj.ams3.digitaloceanspaces.com/2026/03/akrotiri.jpg",
-    "publishedAt": "2026-03-07T17:51:05Z",
+    "id": "e5da8f80aa337eb775e890e9aea3f1c1",
+    "title": "UK faces growing calls from locals to remove Cyprus military bases",
+    "description": "Foreign minister, Constantinos Kombos, tells Guardian Iranian-made drone that hit airbase was launched from Lebanon",
+    "content": "Britain is facing growing calls to withdraw its military bases from Cyprus as locals step up protests against facilities seen as a threat to their security after an unprecedented drone attack on RAF Akrotiri.\nAnger over the installations spilled on t... [5146 chars]",
+    "url": "https://www.theguardian.com/world/2026/mar/07/uk-faces-growing-calls-from-locals-to-remove-cyprus-military-bases",
+    "image": "https://i.guim.co.uk/img/media/f7b1c2b335c2904535cb188c80403292a25c1004/117_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5181b9976da949c5383dfca0d70fa117",
+    "publishedAt": "2026-03-07T23:20:00Z",
     "lang": "en",
     "source": {
-      "id": "5208220e2cc36edd2b2ca1fdb19eb446",
-      "name": "UK Defence Journal",
-      "url": "https://ukdefencejournal.org.uk"
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
     }
   },
   {
-    "id": "9ca94d82d281271dddd9cfd39b07918e",
-    "title": "Report: Iran's selection of Khamenei's successor imminent",
-    "description": "The Assembly of Experts will convene on Sunday to select Iran\u2019s next Supreme Leader following the death of Ali Khamenei. The move comes amid a joint US-Israeli offensive and internal regime chaos.",
-    "content": "Iran's Assembly of Experts announced on Saturday that it would \"meet within a day\" to select the new leader to succeed former supreme leader Ayatollah Ali Khamenei, Iranian media reported.\nAyatollah Mozafari, one of the 88 members of the assembly, re... [1480 chars]",
-    "url": "https://www.jpost.com/middle-east/iran-news/article-889149",
-    "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/709948",
-    "publishedAt": "2026-03-07T17:22:35Z",
+    "id": "ea6c7e66b7920ee0bf64bd94decdfda4",
+    "title": "Antoine Dupont and Ben White had afters following in-game spat",
+    "description": "Ill will between Antoine Dupont and Ben White appeared to spill beyond the final whistle at Murrayfield after Scotland\u2019s extraordinary...",
+    "content": "Ill will between Antoine Dupont and Ben White appeared to spill beyond the final whistle at Murrayfield after Scotland\u2019s extraordinary 50-40 Guinness Six Nations victory over France.\nImages of the two scrum-halves exchanging words during the match ha... [2239 chars]",
+    "url": "https://www.rugbypass.com/news/antoine-dupont-and-ben-white-had-afters-following-in-game-spat/",
+    "image": "https://eu-cdn.rugbypass.com/wp/wp-content/uploads/2026/03/New-Project-9-1200x630.jpg",
+    "publishedAt": "2026-03-08T00:29:45Z",
     "lang": "en",
     "source": {
-      "id": "78834c45a26f98bca295cc641123cf7f",
-      "name": "The Jerusalem Post",
-      "url": "https://www.jpost.com"
-    }
-  },
-  {
-    "id": "57d2627a706813e1c3bf0485dac096b1",
-    "title": "Girl's childhood 'stolen' by paedophile firefighter who preyed on her",
-    "description": "Scott Cameron demanded naked pictures from the girl and asked her to \"meet him in the woods\"",
-    "content": "Scott Cameron demanded naked pictures from the girl and asked her to \"meet him in the woods\"\nA girl who was groomed and sexually abused by a firefighter she met on a school open day said \"he stole a part of my childhood which he replaced with fear an... [5007 chars]",
-    "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/girls-childhood-stolen-paedophile-firefighter-33550471",
-    "image": "https://i2-prod.liverpoolecho.co.uk/article30554256.ece/ALTERNATES/s1200/0_Scott-Cameron-at-court.jpg",
-    "publishedAt": "2026-03-07T17:22:00Z",
-    "lang": "en",
-    "source": {
-      "id": "1aa6f0dbd00b7d9acf000f0ae47eaa40",
-      "name": "Liverpool Echo",
-      "url": "https://www.liverpoolecho.co.uk"
+      "id": "389d8f1b16fc923ff6857a2ef761a3cc",
+      "name": "Rugbypass.com",
+      "url": "https://www.rugbypass.com"
     }
   }
 ]
