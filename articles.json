@@ -1,12 +1,57 @@
 [
   {
-    "id": "25750582a24dcbf7840cf81ebe556c62",
-    "title": "UK weather: Snow forecast for some as cold air returns this week",
-    "description": "The weather is set to get a lot colder as the week progresses, as Tomasz Shafernaker explains.",
-    "content": "After a taste of springlike warmth across the UK, single-digit temperatures are set to return this week with the chance of snow for some.\nAlthough March is commonly when the sun starts to feel considerably warmer, the air over the far northern Atlant... [1695 chars]",
-    "url": "https://www.bbc.co.uk/weather/articles/cp32x44kllko",
-    "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/a5b2/live/e6c9d720-af74-11f0-ba75-093eca1ac29b.jpg",
-    "publishedAt": "2026-03-10T00:59:25Z",
+    "id": "036d4bd5ded10e6a1e9d5c5ec8f2e960",
+    "title": "MP tells Commons she waited 1,088 days for her rape case to reach court",
+    "description": "Charlotte Nichols opposes plan to cut jury trials in England and Wales and calls for creation of special courts to hear rape cases",
+    "content": "An MP has told the House of Commons that she was raped after an event that she attended as a member of parliament, revealing that she waited 1,088 days for her case to get to court.\nSpeaking at a debate on Tuesday to discuss changes to the law under ... [3210 chars]",
+    "url": "https://www.theguardian.com/society/2026/mar/10/mp-tells-commons-she-was-left-with-ptsd-after-being-raped-at-work-event",
+    "image": "https://i.guim.co.uk/img/media/7d36fe51f5e2ed9c11b778bbcf04d1682c19e1d6/1769_1657_3860_3088/master/3860.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ec129767784210b6cd49c054542ec43f",
+    "publishedAt": "2026-03-10T18:26:00Z",
+    "lang": "en",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "874d4e406e834fbf05478fbef06c778f",
+    "title": "Farage delivers energy sermon at the pump - just don\u2019t mention the war",
+    "description": "Reform leader\u2019s Derbyshire petrol station stunt grinds to halt when questions on Iran leave him short-tempered",
+    "content": "Let\u2019s try to look on the bright side. At least Nigel Farage wasn\u2019t personally out of pocket. There again, he seldom is. The whole point of being Nige is to never pay for anything if you can help it. Unless you fancy buying a few shares in Kwasi Kwart... [6146 chars]",
+    "url": "https://www.theguardian.com/politics/2026/mar/10/farage-delivers-energy-sermon-at-the-pump-just-dont-mention-the-war",
+    "image": "https://i.guim.co.uk/img/media/d7b802e6ff9871e80d5e9e9b7a0dbca75a285fb6/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=573c6b9fa07409fa70a05cf38b326482",
+    "publishedAt": "2026-03-10T18:25:00Z",
+    "lang": "en",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "f2fe2c31b39f277dc4e014c5968ac720",
+    "title": "NYPD says suspicious device reported near Zohran Mamdani\u2019s residence is \u2018non-threatening\u2019",
+    "description": "New York police responded to an alert days after two men threw homemade explosives at Gracie Mansion",
+    "content": "The New York police department determined that a suspicious device reported near Gracie Mansion on Tuesday afternoon was \u201cnon-threatening\u201d.\n\u201cThis was an instance of everyday New Yorkers following a clear message: if you see something, say something,\u201d... [3182 chars]",
+    "url": "https://www.theguardian.com/us-news/2026/mar/10/suspicious-device-zohran-mamdani-residence",
+    "image": "https://i.guim.co.uk/img/media/cfd630bbea12d6a4632c09c230e3983e2bc3d7fc/4_0_6682_5347/master/6682.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9f090c5284544aedc04d20fb53aab240",
+    "publishedAt": "2026-03-10T18:25:00Z",
+    "lang": "en",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "d7074419f8d1a2c2be857bc56a8e39e6",
+    "title": "Jury restriction plan clears first hurdle despite Labour dissent",
+    "description": "The justice secretary says the limits are required to stem a growing backlog of cases in crown courts.",
+    "content": "MPs have voted to allow a bill that would curb access to jury trials in England and Wales to progress to the next stage, despite some Labour MPs stating their opposition to the reforms.\nThe Courts and Tribunals Bill passed by 304 votes to 203, a majo... [5778 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cpw0eg9q7kwo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f965/live/6e41f370-1caa-11f1-adb4-1b9470df1d12.jpg",
+    "publishedAt": "2026-03-10T18:02:12Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -15,63 +60,18 @@
     }
   },
   {
-    "id": "3a1116dcbd8e9da01902f18e21a778c1",
-    "title": "Thousands of lawyers oppose jury restriction plan",
-    "description": "Lawyers including top barristers and retired judges urge the government to drop a plan to abolish some jury trials.",
-    "content": "More than 3,200 lawyers including 300 top barristers and retired judges have called on the government to drop a plan to abolish some jury trials.\nThe letter to Prime Minister Sir Keir Starmer, a former director of public prosecutions, says there is n... [2399 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cm2x01yne13o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/51c8/live/b4653ad0-1c3a-11f1-a9ea-11f2c093363e.jpg",
-    "publishedAt": "2026-03-10T00:45:22Z",
+    "id": "8c882530a7bd29534a127cc8b5ca4cd2",
+    "title": "Tehran endures \u2018worst night of strikes\u2019 amid mixed US messages about more to come",
+    "description": "Hegseth follows Trump\u2019s suggestion war will soon be over by saying US will not stop until Iran \u2018decisively defeated\u2019",
+    "content": "Tehran residents say the Iranian capital has endured what they described as its worst night of aerial bombardment, as the US defense secretary, Pete Hegseth, followed Donald Trump\u2019s suggestion on Monday the war could soon be over with a warning of mo... [6792 chars]",
+    "url": "https://www.theguardian.com/world/2026/mar/10/tehran-strikes-mixed-us-messages",
+    "image": "https://i.guim.co.uk/img/media/660ed1a9c71fd52fda810a03487b2ca238ce7087/2191_1163_5071_4057/master/5071.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a1aa60e8797fb9401ccaefb0789d613f",
+    "publishedAt": "2026-03-10T17:38:00Z",
     "lang": "en",
     "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "25b555739a40a837700d48b27c1c397c",
-    "title": "First New V-Level subjects announced from 2027",
-    "description": "Ministers say \"bold reforms\" for post-16 students will end snobbery and prepare students for work.",
-    "content": "Education, finance and digital are among the first new V-level subjects rolling out from 2027.\nEducation Secretary Bridget Phillipson says the \"bold reforms\" will end the snobbery in post-16 education, and support young people to build secure, future... [4369 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cz6e7004dj9o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a502/live/80497cc0-1be0-11f1-9a61-1b759d532334.jpg",
-    "publishedAt": "2026-03-10T00:31:14Z",
-    "lang": "en",
-    "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "775100ea21b88bb89958ab840061a56d",
-    "title": "First subjects for new V-level qualification revealed",
-    "description": "Education, finance and digital are the inaugural subjects to be offered from 2027 for students who want a more vocational pathway to work, alongside the bigger T-levels and academic A-levels.",
-    "content": "Students in England will be able to take a new qualification known as V-levels from 2027, under major reforms designed to give teenagers more flexibility in how they study after GCSEs.\nThe courses will sit alongside A-levels and T-levels, creating a ... [2859 chars]",
-    "url": "https://news.sky.com/story/first-subjects-for-new-v-level-qualification-revealed-13517407",
-    "image": "https://e3.365dm.com/26/03/1600x900/skynews-tech-digital-coding_7187161.jpg?20260309165617",
-    "publishedAt": "2026-03-10T00:24:15Z",
-    "lang": "en",
-    "source": {
-      "id": "896bbd67b1fce1e7e97122b9a4345dab",
-      "name": "Sky News",
-      "url": "https://news.sky.com"
-    }
-  },
-  {
-    "id": "d7ee186c8296be0c9fa9784a32f04b8f",
-    "title": "Has Hollywood golden boy Timoth\u00e9e Chalamet lost his shine?",
-    "description": "Is the backlash against Timoth\u00e9e Chalamet about more than his views on ballet and opera?",
-    "content": "Timoth\u00e9e Chalamet was, until very recently, Hollywood's golden boy and a frontrunner to win an Oscar this weekend - so is the backlash he has faced about more than his views on ballet and opera?\nWhen Chalamet recently said \"no-one cares\" about ballet... [5912 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c20lyk1lpn2o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cd89/live/7c5baa20-1bc7-11f1-964c-87b629a369ca.jpg",
-    "publishedAt": "2026-03-10T00:09:33Z",
-    "lang": "en",
-    "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
     }
   }
 ]
