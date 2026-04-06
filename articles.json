@@ -1,27 +1,12 @@
 [
   {
-    "id": "910a73531ab64cac3dedb43a1f842997",
-    "title": "Apple at 50: Where did the tech giant succeed and fail?",
-    "description": "On the tech giant's 50th year, we ask analysts to give their top three Apple successes and misses",
-    "content": "Few companies have managed to define how people use technology in their everyday lives as resoundingly as Apple.\nThe company, which celebrated its 50th birthday this week, was started by two Steves in a San Franciscan garage. It has had some truly st... [4480 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/ckgxdn9lyd2o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ee7/live/6a634ad0-2f4f-11f1-a79a-77e93010d956.jpg",
-    "publishedAt": "2026-04-04T23:56:55Z",
-    "lang": "en",
-    "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "ec3e20fa94e9759995f8b3d2ab2bc320",
-    "title": "Deontay Wilder beats battling Derek Chisora as epic bout goes the distance",
-    "description": "Deontay Wilder consigned British heavyweight Derek Chisora to defeat in his final bout but only after an exhilarating fight-of-the-year contender in London",
-    "content": "Deontay Wilder consigned the British heavyweight Derek Chisora to defeat in his final bout but only after an exhilarating fight-of-the-year contender at a raucous O2 Arena. In the 50th bout of Chisora\u2019s eventful professional career, Del Boy showed re... [3161 chars]",
-    "url": "https://www.theguardian.com/sport/2026/apr/05/deontay-wilder-beats-derek-chisora-epic-bout-split-decision",
-    "image": "https://i.guim.co.uk/img/media/08e03047f56ef28300e00945846e863cdf2c4fcc/705_24_2388_1910/master/2388.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=756475c5c3fda6f2a7696a52971c1647",
-    "publishedAt": "2026-04-04T23:36:00Z",
+    "id": "bdf7f146400fbc0c796ef2d29ab56b70",
+    "title": "Hungarian PM faces \u2018false flag\u2019 claims after Serbia says explosives found near pipeline",
+    "description": "Incident prompts political scrutiny across Hungary as Viktor Orb\u00e1n trails in polls before next Sunday\u2019s election",
+    "content": "Serbia has said it found \u201cexplosives of devastating power\u201d near a pipeline that carries Russian natural gas to Hungary and beyond, sparking claims by Hungary\u2019s leading opposition candidate of a possible \u201cfalse flag\u201d operation aimed at influencing the... [5663 chars]",
+    "url": "https://www.theguardian.com/world/2026/apr/05/viktor-orban-hungary-election-serbia-explosives-gas-pipeline",
+    "image": "https://i.guim.co.uk/img/media/4ae390d0267a06418551c72e85af1feb6d2ff1c3/140_0_2083_1667/master/2083.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=40d2daa3c255712bd635e5f04aea89a1",
+    "publishedAt": "2026-04-05T18:32:00Z",
     "lang": "en",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
@@ -30,13 +15,13 @@
     }
   },
   {
-    "id": "545789ca737e87a2ed8508c0190c9c9e",
-    "title": "Man charged over fatal shooting of baby Kaori Patterson-Moore in pram in New York",
-    "description": "Two men have been arrested over the shooting of a seven-month-old baby in Williamsburg.",
-    "content": "A man has been charged with murder after a seven-month-old baby died after being shot while sitting in her pushchair in New York.\nAmuri Greene, 21, has been charged with three counts of murder and one of attempted murder after police accused him of f... [714 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cx267dnex7ko",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/195b/live/8b2a0c70-307d-11f1-b556-69ab2f69cc04.jpg",
-    "publishedAt": "2026-04-04T23:28:09Z",
+    "id": "7b30d2990b1105f780a4c95bfda4f8e0",
+    "title": "Tributes to 'fun, bright' boy, 13, killed in Flitwick crash",
+    "description": "Noah Campbell's family say he was a \"talented, versatile sportsman\" who was \"incredibly well-liked\".",
+    "content": "The family of a 13-year-old who died in a crash have paid tribute to a \"fun, bright, handsome, athletic\" boy who was \"incredibly well-liked\".\nNoah Campbell died in a collision between a car, a bike and a scooter in Flitwick, Bedfordshire, at 23:50 BS... [1356 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c8jkm74yvzjo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb9c/live/baab9960-310d-11f1-b297-95b0a0a8331e.jpg",
+    "publishedAt": "2026-04-05T18:11:36Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -45,13 +30,13 @@
     }
   },
   {
-    "id": "0087271b8d4eb237dc9094b0916d161d",
-    "title": "Keir Starmer 'deeply concerned' by Kanye West's Wireless festival booking 'despite antisemitic remarks'",
-    "description": "The rapper will headline all three nights of London's Wireless festival, just over a year after posting \"I love Hitler\" and \"I'm a Nazi\" on X.",
-    "content": "The prime minister has said it is \"deeply concerning\" that Kanye West has been booked for a London music festival \"despite his previous antisemitic remarks and celebration of Nazism\".\nThe 48-year-old rapper - who has not performed in the UK since he ... [2321 chars]",
-    "url": "https://news.sky.com/story/keir-starmer-deeply-concerned-by-kanye-wests-wireless-festival-booking-despite-antisemitic-remarks-13528071",
-    "image": "https://e3.365dm.com/26/04/1600x900/skynews-keir-starmer-kanye-west_7211252.png?20260404230205",
-    "publishedAt": "2026-04-04T22:14:43Z",
+    "id": "65d2936d5198b185b9cd5bac17f521e1",
+    "title": "Baby and mother among three killed after tree topples during Easter egg hunt in Germany",
+    "description": "The incident took place as around 50 people from a nearby residential facility for new mothers, pregnant women and children looked for eggs in the area.",
+    "content": "A 10-month-old girl has died along with two other people after a tree toppled during an Easter egg hunt in northern Germany, police say.\nThe 100-foot tree fell on four people participating in the event on Sunday morning in woods near the town of Satr... [842 chars]",
+    "url": "https://news.sky.com/story/baby-and-mother-among-three-killed-after-tree-topples-during-easter-egg-hunt-in-germany-13528237",
+    "image": "https://e3.365dm.com/25/11/1600x900/skynews-police-germany_7080329.jpg?20251112172310",
+    "publishedAt": "2026-04-05T17:43:54Z",
     "lang": "en",
     "source": {
       "id": "896bbd67b1fce1e7e97122b9a4345dab",
@@ -60,18 +45,33 @@
     }
   },
   {
-    "id": "04902d5fbefaa200b563bf27748611d6",
-    "title": "Porsche 968 Club Sport | Spotted",
-    "description": "We're used to racy 911s being valuable - now it's the turn of the 968",
-    "content": "It\u2019s a close run thing, but probably Porsche is still the best out there at making road racer sports cars. The kind of things that are as thrilling on the circuit as they are the street, that are built tough enough to endure years of track days, and ... [3422 chars]",
-    "url": "https://www.pistonheads.com/news/ph-spottedykywt/porsche-968-club-sport--spotted/51053",
-    "image": "https://images.pistonheads.com/nimg/51053/blobid0.jpg",
-    "publishedAt": "2026-04-05T01:04:16Z",
+    "id": "ca2340959bc47d74bb9b9d279149d302",
+    "title": "Family of 13-year-old boy who died in Flitwick crash 'utterly devastated' - as man and woman charged",
+    "description": "Another boy involved in the crash remains in hospital in a serious condition, while the other was treated for serious injuries and has been discharged, police have said.",
+    "content": "The family of a 13-year-old boy who died in a crash in Bedfordshire have said they are \"utterly devastated\".\nThe teenager, identified as Noah Campbell, died after a car was involved in a crash with him and two other teenage boys on Friday night in Fl... [2695 chars]",
+    "url": "https://news.sky.com/story/family-of-13-year-old-boy-killed-in-flitwick-crash-utterly-devastated-as-two-people-charged-13528262",
+    "image": "https://e3.365dm.com/26/04/1600x900/skynews-noah-campbell-flitwick_7211668.jpg?20260405175455",
+    "publishedAt": "2026-04-05T17:31:41Z",
     "lang": "en",
     "source": {
-      "id": "6e89ed4a8045670abdaa63de030621b3",
-      "name": "PistonHeads",
-      "url": "https://www.pistonheads.com"
+      "id": "896bbd67b1fce1e7e97122b9a4345dab",
+      "name": "Sky News",
+      "url": "https://news.sky.com"
+    }
+  },
+  {
+    "id": "6d292162a9192206a54b98bfcd3c8daf",
+    "title": "\u2018Unhinged madman\u2019: US politicians react to Trump\u2019s expletive-laden threat to Iran",
+    "description": "Marjorie Taylor Greene and Bernie Sanders among those responding with alarm to Trump writing \u2018open the fuckin\u2019 strait, you crazy bastards\u2019",
+    "content": "Some US politicians have reacted with alarm and questioned the US president\u2019s mental state after Donald Trump issued an abusive, expletive-laden threat to Iran in which he called on the regime to \u201copen the fuckin\u2019 strait [of Hormuz], you crazy bastar... [5649 chars]",
+    "url": "https://www.theguardian.com/us-news/2026/apr/05/trump-iran-threats-politician-reactions",
+    "image": "https://i.guim.co.uk/img/media/f40878bd56fe68cde5097cb3d6ff7af109235b99/613_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2cb6f82160ae4d13683c23a6122faacd",
+    "publishedAt": "2026-04-05T18:25:00Z",
+    "lang": "en",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "theguardian.com",
+      "url": "https://www.theguardian.com"
     }
   }
 ]
