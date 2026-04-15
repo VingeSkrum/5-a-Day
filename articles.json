@@ -1,12 +1,12 @@
 [
   {
-    "id": "0cccddb4dd22730a90733c3740b6ebca",
-    "title": "\u2018A pope who uses his brain\u2019: Vatican locals and visitors take sides in Leo v Trump spat",
-    "description": "While some US visitors back their president, shopkeepers who serve the papacy and tourists support the pontiff",
-    "content": "On the wall of the back room of an optician\u2019s in Borgo Pio, a neighbourhood in Rome that borders the Vatican, hang the photos of five popes dating back to the late 1970s, charting both the recent history of Catholic church leaders and the shop itself... [4400 chars]",
-    "url": "https://www.theguardian.com/world/2026/apr/14/a-pope-who-uses-his-brain-vatican-locals-and-visitors-take-sides-in-leo-v-trump-spat",
-    "image": "https://i.guim.co.uk/img/media/47649db8306395fbc72c01298069d867a1c5d63c/1032_0_5906_4725/master/5906.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8c22a5dd00be335d14d351a81d19a2fb",
-    "publishedAt": "2026-04-14T18:28:00Z",
+    "id": "50f45ff1f50275495c7c097c72fd2058",
+    "title": "Anger at \u2018bloody unacceptable\u2019 efforts to end Sudan\u2019s war as conflict enters fourth year",
+    "description": "A top UN official has criticised lack of global urgency as reports confirm the world\u2019s largest humanitarian crisis is worsening",
+    "content": "Efforts to end Sudan\u2019s catastrophic war have been criticised as \u201cunacceptable\u201d by the country\u2019s top UN official as a series of new reports confirm that the world\u2019s biggest humanitarian crisis is worsening.\nSpeaking to the Guardian on the eve of the t... [4146 chars]",
+    "url": "https://www.theguardian.com/global-development/2026/apr/14/no-end-sudan-war-conflict-third-anniversary",
+    "image": "https://i.guim.co.uk/img/media/f3d3f3a0318248d64ad49c59b3fc0a24ba7bdfdd/985_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9fce2e3c06f8d11dd86d022afb700bd6",
+    "publishedAt": "2026-04-15T01:30:00Z",
     "lang": "en",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
@@ -15,13 +15,28 @@
     }
   },
   {
-    "id": "08011b32e0fd3d07b4b4406c9ea85858",
-    "title": "Israel and Lebanon hold first direct talks since 1993",
-    "description": "The Iran-backed Hezbollah militia said it would not abide by any agreements of the meeting in Washington.",
-    "content": "Lebanon and Israel have held their first direct diplomatic talks in over three decades, a rare encounter aimed at ending fighting between Israel and the Iran-backed Hezbollah group.\nNo immediate outcome was expected from the discussion, which US Secr... [3501 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cp8ddydl18vo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73fd/live/12865e50-3824-11f1-87a9-4117efae0ff4.jpg",
-    "publishedAt": "2026-04-14T18:17:44Z",
+    "id": "f6cbfd87e549275f0a7b6e26a61acfea",
+    "title": "How war in Gulf reveals the \u2018cut corners\u2019 on British defence",
+    "description": "With the army\u2019s size halved since the cold war, UK ambitions to be globally deployable do not match the reality, experts say",
+    "content": "If Russia\u2019s full-scale invasion of Ukraine in 2022 was a wake-up call for Nato, the war in the Gulf has brought some harsh realities home to the British public about the state of the UK\u2019s armed forces.\nWhile air defence systems and fighter jets were ... [4180 chars]",
+    "url": "https://www.theguardian.com/politics/2026/apr/14/war-gulf-british-defence",
+    "image": "https://i.guim.co.uk/img/media/534903b24e84b1c53bd453aa5c6bfbc0835a8953/750_95_2754_2203/master/2754.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3bcef69e900e6859122958169e32664f",
+    "publishedAt": "2026-04-15T01:30:00Z",
+    "lang": "en",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "d9773a968e7791c77687e222aa91ff7e",
+    "title": "250 missing as boat carrying Rohingya and Bangladeshi migrants sinks in Indian Ocean",
+    "description": "The trawler \"reportedly sank due to heavy winds, rough seas and overcrowding\", the United Nations said.",
+    "content": "About 250 Rohingya and Bangladeshis, including children, are missing after their boat capsized last week in the Andaman Sea, according to the United Nations' refugee and migration agencies.\nThe trawler, which had departed from Bangladesh and was boun... [2696 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cz6778j78vlo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a78/live/41248c90-3866-11f1-88f7-8f678e5cb386.jpg",
+    "publishedAt": "2026-04-15T01:28:08Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -30,13 +45,13 @@
     }
   },
   {
-    "id": "ab068f2dd7eedb6b563c50d5e4b5df06",
-    "title": "First look at new Cambridge station entrance",
-    "description": "East-West Rail says the new entrance at Cambridge railway station could be open by the mid-2030s.",
-    "content": "A new entrance at Cambridge railway station could be open by the mid-2030s, according to a rail company.\nEast West Rail (EWR), which is planning a new rail line connecting Oxford and Cambridge, said the new entrance, on the other side of the tracks, ... [598 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cy411m2zmnno",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e2b3/live/a99cfd40-37f1-11f1-bf98-335695df34d3.jpg",
-    "publishedAt": "2026-04-14T18:06:59Z",
+    "id": "55a10fe91c4ea7913e5c5e14f34b91ac",
+    "title": "Women's health strategy: 'I still don't feel listened to'",
+    "description": "New plans to improve healthcare for women and girls have been set out, but will they change anything?",
+    "content": "Zoe Trafford often had to play the role of agony aunt to her customers. But the hairdresser in Liverpool told the BBC there came a point when the roles had to be reversed - the customers in her salon had to instead listen to her problems.\nZoe has had... [3635 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cm2kke1jn8xo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d27b/live/1d9e7ca0-3824-11f1-9d5c-8ba507d7dbde.jpg",
+    "publishedAt": "2026-04-15T00:03:56Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -45,33 +60,18 @@
     }
   },
   {
-    "id": "499925a460d3b29e86a8b72ba61760e4",
-    "title": "Number of asylum hotels falls to 185 after 11 close",
-    "description": "The government says the fall is partly due to housing people in alternative sites such as military barracks.",
-    "content": "Eleven hotels will no longer be used to house asylum seekers, bringing the total number down to 185 from a peak of around 400.\nHome Office Minister Alex Norris said the fall was due to increased removals of people with no right to stay in the UK and ... [4088 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c4gllpll2rno",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5e13/live/0b6d4a20-3810-11f1-8fdd-51dab7090d67.jpg",
-    "publishedAt": "2026-04-14T18:01:17Z",
+    "id": "deaba369ec60aff17b45deb1e27814ab",
+    "title": "Don't feel like exercising? Maybe it's the wrong time of day for you",
+    "description": "Time your workout to your body clock, health researchers advise based on latest evidence.",
+    "content": "To get the most out of a gym session, fitness class or a run, do it at the time of day that best suits your own natural internal body clock, say health researchers.\nEarly risers or \"larks\" should exercise in the morning for maximum benefit, while nig... [3103 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cd6lzpxwx50o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c6f/live/aef2a2b0-3759-11f1-a6a0-913b15480fa1.jpg",
+    "publishedAt": "2026-04-14T23:54:08Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
       "name": "BBC",
       "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "88904898609e4ca89dc8d2d6403506df",
-    "title": "Meghan\u2019s Australia \u2018tour\u2019 has heels, arms, and a matching Harry",
-    "description": "Meghan and Harry have begun their not-a-royal-tour of Australia with a lesson in his and hers dressing",
-    "content": "What to pack when you are going on a pseudo royal tour? Not a question that the likes of you and me are ever going to face. Yet this week in Australia the Duke and Duchess of Sussex are generously testing the matter on our behalf. I know. The couple\u2019... [4394 chars]",
-    "url": "https://www.thetimes.com/life-style/fashion/article/meghan-harry-australia-sydney-tour-retreat-j0sks8lp7",
-    "image": "https://www.thetimes.com/imageserver/image/b671af1a-5f0d-4519-9917-46583b5b91ba.jpg?strip=all&format=webp&crop=1600px%2C900px%2C0px%2C0px&resize=1200",
-    "publishedAt": "2026-04-14T18:30:00Z",
-    "lang": "en",
-    "source": {
-      "id": "9e0e1039092ec85a0b069e08b66bb337",
-      "name": "The Times",
-      "url": "https://www.thetimes.com"
     }
   }
 ]
