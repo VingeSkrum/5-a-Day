@@ -1,12 +1,12 @@
 [
   {
-    "id": "aefced357c221ca55003c1a7d332b27b",
-    "title": "Trump to participate in marathon Bible reading",
-    "description": "Amid a quarrel with the Pope and criticism for a social media image, Trump will share a passage during a week-long event of reading the Bible.",
-    "content": "US President Donald Trump will participate in a marathon Bible reading session organised by Christian conservatives, against the backdrop of his rift with the Pope and his recent posting of an image that appeared to depict him as a Jesus-like figure.... [2457 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c248jrvd8d6o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bf93/live/1fa31a70-3daf-11f1-b354-01900b4051a0.jpg",
-    "publishedAt": "2026-04-21T18:49:27Z",
+    "id": "e8a16ea6fccd712671b7fc6fdedbaae2",
+    "title": "Virginia approves redistricting measure, boosting Democrats' hopes for midterms",
+    "description": "The new maps approved by the state's voters could allow Democrats to flip as many as four House seats.",
+    "content": "Virginia voters have approved a redistricting measure that could help Democrats in their bid to win control of the thinly-divided US House of Representatives in the midterm elections later this year.\nThe ballot measure will redraw the state's congres... [2874 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c895j8zgqe4o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/85bd/live/6138c7b0-3e21-11f1-8ba5-cfdd8d3337ac.jpg",
+    "publishedAt": "2026-04-22T01:06:53Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -15,13 +15,43 @@
     }
   },
   {
-    "id": "ae0de444afc6ce9d3b63f208e77ff027",
-    "title": "Miliband\u2019s \u2018break the link\u2019 plan is not a magic formula for lowering energy bills",
-    "description": "The government\u2019s plan to de-link gas and electricity prices will have a modest effect \u2013 more promising are plans on EVs and heat pumps",
-    "content": "It\u2019s a holy grail of UK energy policy \u2013 de-linking gas and electricity prices. After all, we\u2019ve been told endlessly that one reason why our energy bills are so high is because \u201cgas sets the price of electricity\u201d. And here it comes: \u201cdecisive action\u201d ... [4834 chars]",
-    "url": "https://www.theguardian.com/money/nils-pratley-on-finance/2026/apr/21/milibands-break-the-link-plan-is-not-a-magic-formula-for-lowering-energy-bills",
-    "image": "https://i.guim.co.uk/img/media/a242f226cb127b009fa98bdeb19c266123bb0d35/2122_0_4294_3438/master/4294.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=885d155dde0ef0c01c8a91c0234544d3",
-    "publishedAt": "2026-04-21T18:27:00Z",
+    "id": "16ce1b92f34daf3978fb690db7ba5a5e",
+    "title": "Oil prices dip as Trump extends Iran war ceasefire",
+    "description": "The president also said the US will continue to blockade Iran's ports until peace talks progress.",
+    "content": "Global oil prices edged lower in Asia on Wednesday after US President Donald Trump said he would extend a ceasefire with Iran until peace talks between the two countries have progressed.\nHe added that the US will continue to blockade Iran's ports unt... [1532 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c995dkl4dvvo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c270/live/30946600-3ddb-11f1-9334-ed7ce6ee8e1f.jpg",
+    "publishedAt": "2026-04-22T00:45:33Z",
+    "lang": "en",
+    "source": {
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    }
+  },
+  {
+    "id": "91f08755103661654bce76dd6cbc9a58",
+    "title": "Foo Fighters interview: We're a different band without Taylor Hawkins",
+    "description": "The band talk about life without their drummer, their \"angry\" new album, and their backstage Lego habit.",
+    "content": "\"I'm 57 years old,\" says Dave Grohl. \"But there are still times where I feel like the little punk I was at 13.\n\"I can still connect with that side of myself where I can scream and we can thrash, and it feels good.\"\nAs if to prove it, the rock frontma... [5283 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c0krl571l67o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f66d/live/c3720ba0-3da7-11f1-b55d-0f258dce1735.png",
+    "publishedAt": "2026-04-21T23:52:36Z",
+    "lang": "en",
+    "source": {
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    }
+  },
+  {
+    "id": "538cef690bf44569530fd0681ab1eb50",
+    "title": "Condom prices could rise 30% due to Iran war, says world\u2019s top producer Karex",
+    "description": "Karex produces more than 5 billion condoms annually and is a supplier to leading brands like Durex and Trojan, as well as the NHS",
+    "content": "The world\u2019s top condom producer, Malaysia\u2019s Karex Bhd, plans to raise prices by 20% to 30% and possibly further if supply chain disruptions drag on due to the Iran war, its chief executive has said.\nKarex is also seeing a surge in condom demand as ri... [1824 chars]",
+    "url": "https://www.theguardian.com/society/2026/apr/22/condom-prices-iran-war-cost-price-rise-karex",
+    "image": "https://i.guim.co.uk/img/media/7e0cce82d0444204f32b4a760cc3a417255340d3/514_0_4750_3802/master/4750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4a4a3d2242879c8281a4557a37aae1fe",
+    "publishedAt": "2026-04-21T23:52:00Z",
     "lang": "en",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
@@ -30,48 +60,18 @@
     }
   },
   {
-    "id": "c0de96673e19b45c3cbd5160db6a115d",
-    "title": "Prince Harry Sent Flowers to Queen Elizabeth\u2019s Gravesite",
-    "description": "While the Duke of Sussex is not publicly marking the 100th anniversary of his grandmother\u2019s birth, he did quietly observe the day in his own way.",
-    "content": "3 min read\nSenior members of the British royal family gathered in London today to celebrate what would have been Queen Elizabeth\u2019s 100th birthday, but across the pond in Montecito, California, Prince Harry is spending the day in private.\nHowever, Tow... [3061 chars]",
-    "url": "https://www.townandcountrymag.com/society/tradition/a71087084/prince-harry-queen-elizabeth-100-flowers/",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/f5b417c7-4a17-48fa-8211-ce286d386614.jpeg?crop=1xw:0.627xh;0xw,0.046xh&resize=1200:*",
-    "publishedAt": "2026-04-21T18:43:00Z",
+    "id": "8cfd8a164fc31f155f04e64f181e2b21",
+    "title": "Lyrid meteor shower 2026: Ideal conditions forecast for peak of display",
+    "description": "The Lyrid meteor shower is the oldest recorded and Wednesday brings near perfect weather conditions to see them as they peak. Simon King explains.",
+    "content": "With lots of clear skies over the coming nights there is a good chance of seeing the Lyrid meteor shower.\nWhile it has been ongoing since the 15 April, the peak is expected on Wednesday night.\nExpect to see around 10 to 15 meteors an hour with surges... [2148 chars]",
+    "url": "https://www.bbc.co.uk/weather/articles/cede7gpjn85o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/1cd0/live/be6e5f60-3d92-11f1-92e4-6b980ce20915.jpg",
+    "publishedAt": "2026-04-21T23:04:07Z",
     "lang": "en",
     "source": {
-      "id": "d5451250488b5d9e105c4bc8c170911f",
-      "name": "Town & Country Magazine",
-      "url": "https://www.townandcountrymag.com"
-    }
-  },
-  {
-    "id": "7f154d467118bccad7c446573c35bfb5",
-    "title": "Liam Rosenior provides update on Cole Palmer and Joao Pedro before Brighton",
-    "description": "Liam Rosenior provided an update on Blues duo Cole Palmer and Joao Pedro, with both missing out on the matchday squad for our game against Brighton later this evening.",
-    "content": "Kick-off is fast approaching at the Amex with Chelsea looking to return to winning ways following a narrow 1-0 defeat at the Bridge to Manchester United on the weekend.\nBefore the players take to the pitch, Rosenior's team news revealed that both Col... [709 chars]",
-    "url": "https://www.chelseafc.com/en/news/article/liam-rosenior-provides-update-on-cole-palmer-and-joao-pedro-before-brighton",
-    "image": "http://res.cloudinary.com/chelsea-production/image/upload/c_fit,h_630,w_1200/v1/The%205th%20Stand%20app%20editorial/GettyImages-2272418856_1",
-    "publishedAt": "2026-04-21T18:25:00Z",
-    "lang": "en",
-    "source": {
-      "id": "66df11438edbb05edc6ad4bc47325441",
-      "name": "Chelsea official site",
-      "url": "https://www.chelseafc.com"
-    }
-  },
-  {
-    "id": "31c8228f6c2fe9fe4190c4b067d1ddd1",
-    "title": "Ronnie O\u2019Sullivan overcomes Crucible misstep to lead World Championship opener against China's He Guoqiang",
-    "description": "Ronnie O\u2019Sullivan started with a rare Crucible misstep but still emerged with a 7-2 lead after the opening session of his first-round match against China\u2019s He Guoqiang at the World Snooker Championship in Sheffield.",
-    "content": "Ronnie O\u2019Sullivan started with a rare Crucible misstep but still emerged with a 7-2 lead after the opening session of his first-round match against China\u2019s He Guoqiang at the World Snooker Championship in Sheffield.\nHeading out for his 34th-consecuti... [2440 chars]",
-    "url": "https://www.skysports.com/more-sports/snooker/news/12243/13534677/ronnie-osullivan-overcomes-crucible-misstep-to-lead-world-championship-opener-against-chinas-he-guoqiang",
-    "image": "https://e0.365dm.com/26/04/1600x900/skysports-ronnie-o-sullivan_7226546.jpg",
-    "publishedAt": "2026-04-21T18:07:47Z",
-    "lang": "en",
-    "source": {
-      "id": "375c6022b40a085995083df0ed1ac413",
-      "name": "Sky Sports",
-      "url": "https://www.skysports.com"
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
     }
   }
 ]
