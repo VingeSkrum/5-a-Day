@@ -1,12 +1,27 @@
 [
   {
-    "id": "3f5f738f529d24e04a2088b4b711f1d0",
-    "title": "Google worker charged with using internal data to make $1.2m on Polymarket",
-    "description": "The longtime Google employee was charged in New York for allegedly breaking insider trading laws.",
-    "content": "A Google employee has been arrested for allegedly using his access to company information to successfully place lucrative bets on the prediction platform Polymarket.\nThe US Attorney for the Southern District of New York said it had charged Michele Sp... [2690 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c052yv259jvo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5c42/live/ad6ddc90-5a39-11f1-b445-b9f1ca9c9352.jpg",
-    "publishedAt": "2026-05-28T02:14:19Z",
+    "id": "979e6d145cae242426cfe2af3f40d648",
+    "title": "Water-related deaths rise to 11 amid UK heatwave",
+    "description": "Bodies of two teenage bodies recovered following separate incidents in Kent and Oxford",
+    "content": "The number of water-related deaths during the UK\u2019s recent heatwave has risen to 11 after the bodies of two teenage boys were recovered in Kent and Oxford.\nEmergency workers recovered the body of a 14-year-old boy from the River Thames near Donnington... [2810 chars]",
+    "url": "https://www.theguardian.com/environment/2026/may/28/water-related-deaths-uk-heatwave-teenagers-kent-oxford",
+    "image": "https://i.guim.co.uk/img/media/df85464cb702b65a337d73e9cefb9d2ddc2caee2/308_0_4626_3701/master/4626.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=22bf7ca9dbb6d2198e303e6428277d87",
+    "publishedAt": "2026-05-28T18:27:00Z",
+    "lang": "en",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "d3919cf384657cc0e3b01f03658bfe32",
+    "title": "Plymouth waterfront flat fire sparks emergency response",
+    "description": "Fire crews went to a top-floor flat on Plymouth waterfront after reports of smoke and flames.",
+    "content": "Fire crews have been battling a blaze in a top-floor flat on Plymouth waterfront.\nThe alarm was raised at 16:55 BST with people reporting flames and smoke pouring from the St Peter and the Waterfront property, said Devon and Somerset Fire and Rescue ... [543 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c62de4qvz88o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/13ef/live/8d907eb0-5aba-11f1-8f60-593796f4e07d.png",
+    "publishedAt": "2026-05-28T17:30:17Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -15,63 +30,48 @@
     }
   },
   {
-    "id": "4908519187d72cbf5868d11a2eed30e6",
-    "title": "US justice department reportedly opens criminal inquiry into Trump accuser E Jean Carroll",
-    "description": "Officials said to be examining whether Carroll committed perjury in 2022 deposition tied to lawsuits against president",
-    "content": "The Trump administration has opened a criminal investigation into E Jean Carroll, the writer who accused the president of sexual assault, according to news reports.\nProsecutors, the New York Times and CNN reported on Wednesday, are looking into wheth... [2136 chars]",
-    "url": "https://www.theguardian.com/us-news/2026/may/27/trump-doj-investigation-e-jean-carroll",
-    "image": "https://i.guim.co.uk/img/media/ca1dfd4f9fcb728e91fc230edca6e8e724e281d8/133_0_2870_2296/master/2870.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5402594d1137ae2ba2e946ed79700f8f",
-    "publishedAt": "2026-05-28T01:45:00Z",
-    "lang": "en",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com"
-    }
-  },
-  {
-    "id": "d2e6da64b2590a191c306a54d6b3573d",
-    "title": "\u2018Utterly appalling\u2019: anger over swimmers in Hampstead Heath wildlife ponds",
-    "description": "Nature groups urge people to avoid unauthorised areas to protect birds during nesting season",
-    "content": "Nature groups have pleaded with swimmers to give wildlife a wide berth after dozens of people swam in a nature pond on Hampstead Heath among nests of baby birds.\nSwans and their 12-day-old cygnets were disturbed by hordes of splashing revellers in th... [3018 chars]",
-    "url": "https://www.theguardian.com/world/2026/may/27/swimmers-hampstead-heath-pond-nesting-swans",
-    "image": "https://i.guim.co.uk/img/media/98f29ea72bcd4f9a00ab9d9bb0d95df89d28b953/215_0_6830_5464/master/6830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b8f13cdb244bbd0d0eb166cc8c9600bc",
-    "publishedAt": "2026-05-28T01:30:00Z",
-    "lang": "en",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com"
-    }
-  },
-  {
-    "id": "6893076911907f0490edec114a41c5fa",
-    "title": "Brexiters peddled \u2018nationalistic pish\u2019, said Reform UK\u2019s Makerfield candidate",
-    "description": "Robert Kenyon castigated Brexit as an economically self-harming project on rugby league forum in 2016",
-    "content": "Reform UK\u2019s candidate for the Makerfield byelection has castigated Brexit as an economically self-harming project promoted by politicians who \u201cpeddled the nationalistic pish\u201d, raising more doubts about his commitment to Nigel Farage\u2019s signature achie... [2265 chars]",
-    "url": "https://www.theguardian.com/politics/2026/may/27/brexiters-peddled-nationalistic-pish-said-reform-uk-makerfield-candidate",
-    "image": "https://i.guim.co.uk/img/media/248094d2d776481223008f4f2f74dc20ff3bf59e/162_0_820_656/master/820.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f7f038fb4a4e9b645e417edd70d99661",
-    "publishedAt": "2026-05-28T01:30:00Z",
-    "lang": "en",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com"
-    }
-  },
-  {
-    "id": "1fa218ec146f3bc7ce77593efce95273",
-    "title": "US carries out new strikes on Iran military site",
-    "description": "The US military said it targeted a military site in Bandar Abbas - a strategic port city - and shot down four Iranian attack drones.",
-    "content": "The US military has carried out new strikes on Iran, targeting a military site in Bandar Abbas, a strategic port city.\nUS Central Command (Centcom) confirmed its forces also shot down four Iranian one-way attack drones \"that posed a threat around the... [1331 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c98r2qy5809o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/099b/live/cb654ab0-5a2c-11f1-b118-2f2910cff054.jpg",
-    "publishedAt": "2026-05-28T01:01:51Z",
+    "id": "eb09ab5f9c55de32a225fe434326d2c0",
+    "title": "Portugal breaks hottest May day record as Europe swelters in heatwave",
+    "description": "French students are taking their exams in baking schools, while red alerts are issued in Italy.",
+    "content": "Portugal has set a new hottest day in May with 40.3C recorded in the central town of Mora, as countries in western Europe grapple with sweltering-hot weather.\nThe temperature recorded on Wednesday bests Portugal's previous record of 40C set in May 20... [3906 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c3v2yv5207xo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e6bd/live/11b1bcb0-5ab4-11f1-89a3-d1f559421220.jpg",
+    "publishedAt": "2026-05-28T17:07:00Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
       "name": "BBC",
       "url": "https://www.bbc.co.uk"
+    }
+  },
+  {
+    "id": "1d4a7a7987afd7d06c485f12ea99d449",
+    "title": "US and Iran reach tentative deal to extend ceasefire, US sources say",
+    "description": "The framework, which has reportedly yet to be approved by the leaders of the US and Iran, would extend the fragile ceasefire and launch nuclear programme talks.",
+    "content": "Negotiators for the US and Iran have agreed a framework of a deal that would extend their ceasefire for 60 days and launch negotiations on the future of Iran's nuclear programme, US sources say.\nUS sources told the BBC that the new ceasefire agreemen... [3629 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c87qng40wz9o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f25/live/e8f162b0-5ab5-11f1-8f60-593796f4e07d.jpg",
+    "publishedAt": "2026-05-28T17:03:50Z",
+    "lang": "en",
+    "source": {
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    }
+  },
+  {
+    "id": "34d4ea2583a3cdc3672862c353544107",
+    "title": "Two trains crash into each other leaving 12 injured after 'signal failure' as emergency services rush to scene",
+    "description": "AT least seven people have been rushed to hospital and several others were left injured after a two-tram smash in Germany.\nAuthorities believe...",
+    "content": "AT least seven people have been rushed to hospital and several others were left injured after a two-tram smash in Germany.\nAuthorities believe the light rail collision in Hanover was caused by a points failure.\nAt least seven people were rushed to ho... [1881 chars]",
+    "url": "https://www.thesun.co.uk/news/39246651/two-trains-crash-12-injured-signal-failure-emergency-scene/",
+    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/05/newspress-collage-ow73uk7w4-1779993178696.jpg?quality=90&strip=all&1779996795&w=1920&h=1080&crop=1",
+    "publishedAt": "2026-05-28T18:36:00Z",
+    "lang": "en",
+    "source": {
+      "id": "8312b3960d99553247ab475ee7eeed9a",
+      "name": "The Sun",
+      "url": "https://www.thesun.co.uk"
     }
   }
 ]
