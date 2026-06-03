@@ -1,27 +1,12 @@
 [
   {
-    "id": "f36251a36755146f292c7ca12bb67acf",
-    "title": "What documents are missing from the new release of Mandelson files?",
-    "description": "From vetting summary to declaration of interest, here are the five key papers withheld from latest disclosures",
-    "content": "1. The vetting summary document\nA nine-page summary document produced by United Kingdom Security Vetting (UKSV), giving an outline of the areas of concern that contributed towards security officials concluding that Mandelson should not be given \u201cdeve... [3273 chars]",
-    "url": "https://www.theguardian.com/politics/2026/jun/01/documents-missing-new-release-mandelson-files",
-    "image": "https://i.guim.co.uk/img/media/6836be541b192275af72cd2123a61964646336f7/519_51_2270_1816/master/2270.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=93cc5cf8ac4a7bdb402c1d6e779a1182",
-    "publishedAt": "2026-06-02T01:31:00Z",
-    "lang": "en",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com"
-    }
-  },
-  {
-    "id": "04667a6bae67ba34cfb59feb0c9e96cf",
-    "title": "'Mandelson files lay bare frustration' and 'The welfare party'",
-    "description": "Mandelson files reveal Labour minister's 'frustration' on welfare and tax leads Tuesday's papers.",
-    "content": "The latest documents released by the government relating to Lord Peter Mandelson feature prominently on many front pages. The Guardian, external says they show that he was given private briefings by the heads of the intelligence agencies while still ... [1703 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/crlpy54gyyzo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5664/live/628dba70-5e0c-11f1-89a3-d1f559421220.jpg",
-    "publishedAt": "2026-06-02T01:19:25Z",
+    "id": "c0253ffa867cf977c4643656891aa9db",
+    "title": "'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike",
+    "description": "Scenes of devastation greet residents emerging from underground shelters after a major Russian attack.",
+    "content": "Ukrainians knew a huge strike was coming. Since Russia threatened to step up attacks on the capital, Kyiv, about a week ago, many spent nights in underground shelters.\nWe were two floors underground, and yet we could feel and hear the massive explosi... [3052 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c5y9nyvg9z2o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4a9/live/364daf50-5ead-11f1-9877-71c2729415b9.jpg",
+    "publishedAt": "2026-06-02T19:13:21Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -30,48 +15,63 @@
     }
   },
   {
-    "id": "4c4697deba9d4af7844f1b3e551b0651",
-    "title": "Denmark forms government after months of negotiations",
-    "description": "The leader of Denmark's Social Democratic Party is forming a centre-left coalition minority government, giving her a third term as prime minister.",
-    "content": "Months since Denmark's general election, acting prime minister Mette Frederiksen, the leader of the Social Democratic Party, will form a centre-left coalition minority government.\nTwelve parties won seats in March's inconclusive election. The Social ... [2271 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cn7p3e34x5no",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c28/live/307a81b0-5e22-11f1-a6fd-eda29808c5f6.jpg",
-    "publishedAt": "2026-06-02T01:19:15Z",
+    "id": "cbf83ecb88ad8161d58bbed3976d75ee",
+    "title": "Starmer uses disappearing messages on his phone, No 10 confirms",
+    "description": "A batch of messages between ministers and Lord Mandelson were published on Monday - but there were only a few from the prime minister.",
+    "content": "Downing Street has confirmed that the prime minister uses an auto delete function on his phone meaning his WhatsApp messages with and about Lord Mandelson may have been lost.\nEarlier this year, MPs voted to force the government to publish all documen... [2621 chars]",
+    "url": "https://www.bbc.com/news/articles/cp8pgg0108qo",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/94f0/live/a27bc070-5ea5-11f1-9c69-5be5e9be5821.jpg",
+    "publishedAt": "2026-06-02T17:51:26Z",
     "lang": "en",
     "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
       "name": "BBC",
-      "url": "https://www.bbc.co.uk"
+      "url": "https://www.bbc.com"
     }
   },
   {
-    "id": "ffa94dafe31d090734814c806dd7e0e9",
-    "title": "Four dead and dozens injured in massive Russian strikes on Ukraine",
-    "description": "Thousands of Kyiv residents ran for shelter following what officials said were ballistic missile strikes on the city centre.",
-    "content": "At least five people have been killed and dozens have been injured after Russia launched a major overnight attack on cities across Ukraine.\nFour people were killed in Dnipro and 16 were injured. One person was also killed in Kyiv, where at least 29 w... [419 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c5y8nq8ljqwo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3bf8/live/411c3100-5e2a-11f1-b682-cf91850925ea.jpg",
-    "publishedAt": "2026-06-02T01:12:58Z",
+    "id": "7d9f16b99f3e1953ad2569bcd2a9ed9a",
+    "title": "Ukraine\u2019s Kostyuk blasts Russia stars in French Open outburst over war",
+    "description": "Ukraine\u2019s Marta Kostyuk faces Russia\u2019s Mirra Andreeva in semifinal after beating Elina Svitolina at Roland Garros.",
+    "content": "Marta Kostyuk accused Russian players of hiding behind silence over the war in Ukraine, saying after \u2060four years of conflict they had shown \u201cwhose side they are on\u201d, as she reached her first Grand Slam semifinal at the French Open.\nThe 23-year-old be... [2455 chars]",
+    "url": "https://www.aljazeera.com/sports/2026/6/2/ukraines-kostyuk-blasts-russia-stars-in-french-open-outburst-over-war",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-02T143148Z_1070391646_MT1USATODAY29116945_RTRMADP_3_TENNIS-FRENCH-OPEN-1780422893.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-06-02T18:30:51Z",
     "lang": "en",
     "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
+      "id": "7530d90c9af769eda4cb548f32ed381d",
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com"
     }
   },
   {
-    "id": "13c2ade2c42d05ad65c36a1817391a3e",
-    "title": "Ebola outbreak: How health workers are treating patients and staying safe in DR Congo",
-    "description": "There are currently no approved drugs that target Bundibugyo - the species of Ebola responsible for this outbreak.",
-    "content": "Health workers in the east of the Democratic Republic of Congo are racing against the clock tohelp Ebola patients manage their symptoms, as well as keep themselves safe and prevent the risk of spreading the virus, while the number of cases continues ... [6941 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cgepl7ler5eo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/710b/live/9b1e7d90-5db0-11f1-8132-9508271dd882.jpg",
-    "publishedAt": "2026-06-01T23:20:13Z",
+    "id": "bbfde0ab5ec8e496269d6cb3981c0cc3",
+    "title": "\u2018We want to see justice in our nation again!\u2019 Reverend attending protest speaks out",
+    "description": "A reverend has told GB News \u201cwe want to see justice in our nation again\u201d as he attended a protest following the murder of Henry Nowak.",
+    "content": "Christopher \"The Vexed Vicar\" Wickland said: \u201cI think it's important that we stand with the people and stand up for truth, righteousness and justice.\n\u201cWe're getting very tired of seeing our children being sacrificed on the altars of multiculturalism ... [768 chars]",
+    "url": "https://www.gbnews.com/news/video-henry-nowak-protest-southampton-police-station-reverend",
+    "image": "https://www.gbnews.com/media-library/image.png?id=66852050&width=1200&height=600&coordinates=0%2C44%2C0%2C76",
+    "publishedAt": "2026-06-02T18:10:36Z",
     "lang": "en",
     "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
+      "id": "d71a00fb2423ef08e096efd255c91561",
+      "name": "GB News",
+      "url": "https://www.gbnews.com"
+    }
+  },
+  {
+    "id": "65ca1f2b520d810c42d78b7cc192c615",
+    "title": "Tommy Robinson protests at police station after Henry Nowak bodycam released",
+    "description": "Hundreds of people including Laurence Fox and Tommy Robinson have organised a protest outside Southampton police station after Henry Nowak's killer was sentenced to life in prison.",
+    "content": "Tommy Robinson supporters threw chairs, bricks and bins at police as they tried to get to the spot where Henry Nowak was handcuffed as he died in a pool of his own blood.\nDespite the student\u2019s father\u2019s pleas that he didn\u2019t want his teen son\u2019s death t... [5530 chars]",
+    "url": "https://metro.co.uk/2026/06/02/tommy-robinson-protests-police-station-henry-nowak-bodycam-released-28621859/",
+    "image": "https://metro.co.uk/wp-content/uploads/2026/06/SEI_299845390-1482_1780444692.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+    "publishedAt": "2026-06-02T18:01:00Z",
+    "lang": "en",
+    "source": {
+      "id": "b40633e34a62c20b9ec4adf5e8bee789",
+      "name": "Metro.co.uk",
+      "url": "https://metro.co.uk"
     }
   }
 ]
