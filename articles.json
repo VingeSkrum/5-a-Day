@@ -1,27 +1,12 @@
 [
   {
-    "id": "96005d3b13c851b160d5cef82d4ba78f",
-    "title": "Hegseth attacks Europe over 'invasion' of migrants in D-Day speech",
-    "description": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
-    "content": "US Defence Secretary Pete Hegseth has criticised European nations for allowing an \"invasion\" of migrants on their shores, during a D-Day anniversary speech in France.\nHegseth was speaking in Normandy 82 years after allied forces stormed French beache... [2752 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c802e7jk458o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ac8/live/00068510-61dd-11f1-a211-b739dafd566d.png",
-    "publishedAt": "2026-06-06T19:15:50Z",
-    "lang": "en",
-    "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "5ebd80e4ef1d50d6020a8ca64ed745bf",
-    "title": "EuroMillions winner dies after suspected hit-and-run in Essex",
-    "description": "Eighteen-year-old man arrested after car collides with cyclist Anthony Canty, who died in hospital four days later",
-    "content": "A lottery winner has died after a suspected hit-and-run in Essex, police said.\nOfficers were called to the collision between a cyclist and a black Ford Ka in Tiptree at 6.30am on 21 May. The cyclist, a man in his 30s, was taken to hospital where he d... [1367 chars]",
-    "url": "https://www.theguardian.com/uk-news/2026/jun/06/euromillions-winner-dies-after-suspected-hit-and-run-in-essex",
-    "image": "https://i.guim.co.uk/img/media/55e76b9be0ca60aeb0e237fff003fddc4020a182/492_0_2107_1687/master/2107.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=45393568977518395f44d8ee602bd9ad",
-    "publishedAt": "2026-06-06T18:47:00Z",
+    "id": "7f4a4c6bcbba0ab631b1cad778c42dc1",
+    "title": "Ukraine war briefing: Kyiv unleashes hundreds of drones on Russia after Putin rejected Zelenskyy meeting",
+    "description": "Ukraine targets St Petersburg in wave of strikes; Keir Starmer to host Volodymyr Zelenskyy and EU leaders for talks. What we know on day 1,565",
+    "content": "Ukraine fired hundreds of drones at Russia early on Saturday, leaving one person dead and setting an oil depot ablaze on the final day of Russia\u2019s flagship economic forum in St Petersburg, officials said. Many of the drones targeted St Petersburg its... [2655 chars]",
+    "url": "https://www.theguardian.com/world/2026/jun/07/ukraine-war-briefing-kyiv-unleashes-hundreds-of-drones-on-russia-after-putin-rejected-zelenskyy-meeting",
+    "image": "https://i.guim.co.uk/img/media/28010ee1e6b52ed8d974ea679d434bc11d911029/0_0_2785_2229/master/2785.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=76e496652d6db7181673baaf578045c3",
+    "publishedAt": "2026-06-07T01:14:29Z",
     "lang": "en",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
@@ -30,13 +15,13 @@
     }
   },
   {
-    "id": "eb3c48e6528f8116eaf337184300f373",
-    "title": "Pope Leo begins Spain visit with praise for government",
-    "description": "On the first day of his official seven-day tour of Spain, the Pope praises the country's \"active commitment to peace and solidarity among peoples\".",
-    "content": "Pope Leo XIV has started his official visit to Spain by praising its government's opposition to wars as well as its support for migrants.\nSpeaking at a reception with King Felipe VI and Queen Letizia at the royal palace in Madrid, Pope Leo spoke of S... [2065 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c8d2pgjy4qgo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/473f/live/8e6e1370-61cb-11f1-8c97-a551be738222.jpg",
-    "publishedAt": "2026-06-06T18:34:26Z",
+    "id": "0f16501b503a18d00aa5c22e0f1b71fd",
+    "title": "Starmer tells supporters he will fight any leadership contest",
+    "description": "The prime minister's position has hardened since Andy Burnham said he would seek to enter any potential Labour contest.",
+    "content": "Sir Keir Starmer has told supporters this weekend he will stand in any Labour leadership contest that is triggered.\nUntil now, the prime minster and his allies insisted he would not walk away if one was held but there has been a big question mark ove... [1194 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c3vyxzl625po",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e1fb/live/01d68d80-6206-11f1-8b8c-6d33e1d5abb6.jpg",
+    "publishedAt": "2026-06-07T01:03:55Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -45,33 +30,48 @@
     }
   },
   {
-    "id": "a00e61d63cd08e20a4e6294a3e60e8c3",
-    "title": "Starmer to host Zelenskyy and EU leaders for Ukraine talks",
-    "description": "Ukrainian leader will attend UK meeting along with French president and German chancellor",
-    "content": "Keir Starmer will host Volodymyr Zelenskyy, Emmanuel Macron and Friedrich Merz for talks in Downing Street on Sunday to discuss support for Ukraine.\nThe Ukrainian leader will visit the UK with the French president and German chancellor after a week o... [2000 chars]",
-    "url": "https://www.theguardian.com/world/2026/jun/06/starmer-to-host-zelenskyy-and-eu-leaders-for-ukraine-talks",
-    "image": "https://i.guim.co.uk/img/media/e7fb7cc1bd1c98ecae84c80efbeb9905bf7f07ce/259_0_4463_3573/master/4463.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1ba930eda24352786eed7df85c25e9ba",
-    "publishedAt": "2026-06-06T17:54:00Z",
-    "lang": "en",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com"
-    }
-  },
-  {
-    "id": "e0673923b56e36e3a84208085e4fbdd2",
-    "title": "England vs New Zealand: Friendlies stats & head-to-head",
-    "description": "Follow live text commentary, score updates and match stats from England vs New Zealand in the Friendlies",
-    "content": "Pitch woes\nEngland v New Zealand (21:00 BST)\nThe World Cup hasn't even started yet but, as always with a major tournament, there's plenty of chat already around a number of buzz topics.\nThe weather, the time zones, the ticket prices and, of course, t... [6593 chars]",
-    "url": "https://www.bbc.co.uk/sport/football/live/c5yenj3pj1dt",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b8b7/live/08bea870-61df-11f1-89a3-d1f559421220.jpg",
-    "publishedAt": "2026-06-06T18:57:10Z",
+    "id": "1bdcd15e79ac66e0810895199c15e0aa",
+    "title": "'Cuts to fund defence spark chaos' and 'Kate the cream of hearts'",
+    "description": "The government's defence spending plans feature on many of Sunday's front pages - along with a royal wedding.",
+    "content": "A long-delayed report laying out government defence spending is dominating the front pages of Sunday's papers. The Sunday Times reports Prime Minister Sir Keir Starmer is in talks over plans to cut government spending to raise \u00a36bn to fund his defenc... [3283 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c5yzl0271kqo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/099e/live/3558a210-61fc-11f1-89a3-d1f559421220.png",
+    "publishedAt": "2026-06-07T00:12:56Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
       "name": "BBC",
       "url": "https://www.bbc.co.uk"
+    }
+  },
+  {
+    "id": "47885d22b341449c11e21a8435bfb79c",
+    "title": "I was applying for hundreds of jobs - this tip helped me get one",
+    "description": "Four people who weren't hearing back from job applications shared what they did differently to secure their first role.",
+    "content": "Trying to find your first job right now can be a struggle.\nThere is a lack of opportunities to gain experience and the huge number of AI applications can mean neither you nor the employer can find what you're looking for.\nYet plenty of people are fin... [3006 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cd7pqwr5lqxo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3973/live/aebaa700-600f-11f1-89a3-d1f559421220.jpg",
+    "publishedAt": "2026-06-06T23:39:00Z",
+    "lang": "en",
+    "source": {
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    }
+  },
+  {
+    "id": "e01ebc3592dce61f91e3b8480e5abcb0",
+    "title": "World Cup 2026: England & Thomas Tuchel must get serious after New Zealand game",
+    "description": "England have one more game to prepare for their World Cup campaign - and they must use it wisely, writes Phil McNulty.",
+    "content": "England head coach Thomas Tuchel's pre-World Cup experimentation must surely end here and now.\nTuchel's long examination of the options open to him continued on Saturday with the sight of two separate teams, one for each half, tackling a low-key frie... [6286 chars]",
+    "url": "https://www.bbc.com/sport/football/articles/c3ryd490rz7o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/54c1/live/24b29080-61f5-11f1-89a3-d1f559421220.jpg",
+    "publishedAt": "2026-06-06T23:35:51Z",
+    "lang": "en",
+    "source": {
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "name": "BBC",
+      "url": "https://www.bbc.com"
     }
   }
 ]
