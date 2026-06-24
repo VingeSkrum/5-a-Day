@@ -1,12 +1,27 @@
 [
   {
-    "id": "3d432c1823a700b24536d349ee02ce81",
-    "title": "Ransom note claimed Nancy Guthrie died after abduction",
-    "description": "The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family.",
-    "content": "A ransom note sent days after the 84-year-old mother of US presenter Savannah Guthrie was abducted from her home claimed she had died, according to investigators.\nThe note was one of two addressed to Nancy Guthrie's family and sent to news media in t... [2036 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0937/live/65772ef0-6e98-11f1-a98d-19c4cda006f8.jpg",
-    "publishedAt": "2026-06-23T00:13:30Z",
+    "id": "ce9a45ecebbaf587d8435b5ece37fc71",
+    "title": "Transfer latest: Spurs push for Fernandes and Tonali, Chelsea like Palestra",
+    "description": "Roberto De Zerbi has been given significant funds by Tottenham and is looking to make two big moves in midfield",
+    "content": "Roberto De Zerbi has been given significant funds and is looking to make two big moves in midfield. Tottenham are pushing to land Sandro Tonali, even though Newcastle will demand a huge fee for the Italy international, and have entered the race to si... [1270 chars]",
+    "url": "https://www.theguardian.com/football/2026/jun/23/transfer-latest-spurs-mateus-fernandes-sandro-tonali-chelsea-marco-palestra",
+    "image": "https://i.guim.co.uk/img/media/3790785caf21f1d6fd129c32b317680bff451d78/0_11_1780_1424/master/1780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c9d5ec937859a60b76291cea3ad0acba",
+    "publishedAt": "2026-06-23T19:19:00Z",
+    "lang": "en",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "b5d56ea61ec03868c3faff5e7095fde2",
+    "title": "Tech stocks tumble on concerns over AI spending",
+    "description": "A sudden wave of selling in major tech shares triggers doubt over the sustainability of the AI boom.",
+    "content": "Financial markets received a sharp wake-up call on Tuesday following a sudden wave of selling in major technology shares, triggering widespread doubt over the sustainability of the AI boom.\nThe tech-focused Nasdaq index fell about 2% alongside intern... [3143 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c802gvxpyxzo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd9a/live/e42cc720-6f2c-11f1-8b65-27158411943c.jpg",
+    "publishedAt": "2026-06-23T17:34:02Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -15,63 +30,48 @@
     }
   },
   {
-    "id": "e3142000eeead160b2423391a527add3",
-    "title": "Teplizumab drug to delay type 1 diabetes to be rolled out on the NHS",
-    "description": "The immunotherpay can give children and adults three extra years before they need to use insulin.",
-    "content": "The first drug that can delay the onset of type 1 diabetes is being made available on the NHS in England and Wales.\nTeplizumab is a form of immunotherapy that can give people three extra years before they develop symptoms and need lifelong insulin tr... [4296 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/ce8mzd94r76o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6398/live/471b91b0-6c3d-11f1-8546-8f19e4fe30f4.jpg",
-    "publishedAt": "2026-06-22T23:44:41Z",
+    "id": "f086d9957d9ec24fb423de0d6cc7f4c2",
+    "title": "US stocks plunge in global tech rout",
+    "description": "Stock markets have slumped on Wall Street as a global tech rout gathers pace.",
+    "content": "Stock markets have slumped on Wall Street as a global tech rout gathers pace.\nUS stocks declined for their second day in a row on Tuesday after weeks of strong gains, driven by fears of higher interest rates from the Federal Reserve and concerns over... [2867 chars]",
+    "url": "https://www.telegraph.co.uk/business/2026/06/23/ai-bubble-tech-ftse-100-markets-kospi-musk-spacex/",
+    "image": "https://www.telegraph.co.uk/content/dam/business/2026/06/23/TELEMMGLPICT000491875034_17822047399140_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Live",
+    "publishedAt": "2026-06-23T19:23:24Z",
     "lang": "en",
     "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
+      "id": "0fc579b3cc7a823fd67a74b9ed6f0796",
+      "name": "The Telegraph",
+      "url": "https://www.telegraph.co.uk"
     }
   },
   {
-    "id": "ca5e6fa7c4affe908e5f7e45a52e8e2d",
-    "title": "Julian Alvarez: Atletico Madrid striker wants to leave club to 'fulfil my dream'",
-    "description": "Argentina striker Julian Alvarez says he wants to leave Atletico Madrid to \"fulfil his dream\".",
-    "content": "Argentina striker Julian Alvarez says he wants to leave Atletico Madrid to \"fulfil his dream\".\nThe 26-year-old has reportedly drawn interest from Barcelona and Paris St-Germain, while Atletico rejected a 150m euro (\u00a3130m) offer for Alvarez from rival... [900 chars]",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cgk6r655j5lo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/73dc/live/88d66780-6e8e-11f1-b1db-af71d47507d6.jpg",
-    "publishedAt": "2026-06-22T23:40:47Z",
+    "id": "7af3fd2bdc4d2b16bf3baf49595cdbc5",
+    "title": "Do not travel warnings issued as heatwave sends Britain into meltdown",
+    "description": "Commuters on their way home from work have been told not to travel by train unless \u201cabsolutely necessary\u201d as the heatwave grips Britain.",
+    "content": "Commuters on their way home from work have been told not to travel by train unless \u201cabsolutely necessary\u201d as the heatwave grips Britain.\nThe UK is bracing for what is expected to be the hottest June day on record, with temperatures reaching 34C in Lo... [1028 chars]",
+    "url": "https://www.telegraph.co.uk/news/2026/06/23/weather-heatwave-thunderstorms-britain-june-record-live/",
+    "image": "https://www.telegraph.co.uk/content/dam/news/2026/06/23/TELEMMGLPICT000491975282_17822217858740_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwWGUoDseFNqJElbWj8lWIVU.jpeg?impolicy=OG-Live",
+    "publishedAt": "2026-06-23T19:18:08Z",
     "lang": "en",
     "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
+      "id": "0fc579b3cc7a823fd67a74b9ed6f0796",
+      "name": "The Telegraph",
+      "url": "https://www.telegraph.co.uk"
     }
   },
   {
-    "id": "b9d8889b8eb109946d5b10e4224e9af5",
-    "title": "Norway vs Senegal LIVE: FIFA World Cup Group I score, commentary, updates & stats",
-    "description": "Follow live text updates and listen to BBC Radio 5 Live commentary as Norway take on Senegal at New York New Jersey Stadium in Group G of the 2026 FIFA World Cup.",
-    "content": "Post\nNorway 0-0 Senegal\nKalidou Koulibaly latches onto a loose ball in the Norway half and strides forward but the big defender seems to trip over his own feet and fall flat on his face, though the ball breaks to a white shirt allowing them to contin... [2945 chars]",
-    "url": "https://www.bbc.com/sport/football/live/c3ey5pj14yxt",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a8dc/live/168b36f0-6e99-11f1-a98d-19c4cda006f8.jpg",
-    "publishedAt": "2026-06-22T23:36:57Z",
+    "id": "c3b6c1acd8c5040c9c1d39e0bab7b7bb",
+    "title": "Serpentine Summer party best",
+    "description": "Despite London\u2019s heatwave, guests braved leather and fur for one of the big social events of the summer",
+    "content": "The Serpentine Summer Party is always one of the biggest moments of the London summer social season. Back in 1994, Princess Diana famously appeared at the event in her \u2018revenge dress\u2019.\nNowadays, it\u2019s a gathering for London\u2019s chicest names from the wo... [260 chars]",
+    "url": "https://www.telegraph.co.uk/fashion/events/serpentine-summer-party-2026-best-dressed/",
+    "image": "https://www.telegraph.co.uk/content/dam/fashion/2026/06/23/TELEMMGLPICT000492013355_17822412801280_trans_NvBQzQNjv4BqU2OcGw4mv9yCz78okQSYvk8FchWZRD3tSYOiRwPjWDo.jpeg?impolicy=OG-Standard",
+    "publishedAt": "2026-06-23T19:11:00Z",
     "lang": "en",
     "source": {
-      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
-      "name": "BBC",
-      "url": "https://www.bbc.com"
-    }
-  },
-  {
-    "id": "f503fffa2d22946363f8ff1572790755",
-    "title": "Can you refuse to work or send your kids to school during a heatwave?",
-    "description": "As temperatures increase significantly over the next few days, these are your rights.",
-    "content": "The Met Office has issued a rare red warning for extreme heat covering parts of England and Wales later this week.\nTemperatures will increase significantly in the next few days and could hit 40C in places by Wednesday and Thursday.\nThe warning comes ... [4316 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c6217nv34rro",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b04c/live/b8a3bed0-6e3f-11f1-8a85-d1d176b992ab.jpg",
-    "publishedAt": "2026-06-22T23:08:57Z",
-    "lang": "en",
-    "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
+      "id": "0fc579b3cc7a823fd67a74b9ed6f0796",
+      "name": "The Telegraph",
+      "url": "https://www.telegraph.co.uk"
     }
   }
 ]
