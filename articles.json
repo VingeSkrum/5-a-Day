@@ -1,12 +1,12 @@
 [
   {
-    "id": "d57bd6dcd1e7ccec05933281b996ec2e",
-    "title": "Do declassified files support Trump's election security claims?",
-    "description": "BBC Verify has reviewed these documents, although some of them have been heavily redacted.",
-    "content": "In a 26-minute speech from the White House, President Donald Trump revived some familiar claims about US election fraud and interference.\nStanding in the East Room \u2013 the same venue where Barack Obama announced the killing of Osama bin Laden in 2011 -... [6066 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cz64wx8yjjdo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a8e/live/9e304680-8204-11f1-b976-0b9c15b0ccfc.png",
-    "publishedAt": "2026-07-17T18:11:14Z",
+    "id": "486c37bd0c762553b9a85509817ab4a9",
+    "title": "US strikes hit Iran for seventh consecutive night",
+    "description": "The US command says it is conducting more strikes to degrade Iran's armed forces, as Iran reports explosions near the Strait of Hormuz.",
+    "content": "The US military says it is carrying out the seventh night of strikes on Iran since US President Donald Trump declared the temporary ceasefire agreement was \"over\".\n\"The strikes are designed to continue degrading Iranian military capabilities at the C... [2240 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c76/live/bd872fe0-823f-11f1-926f-c90d1bcfbc84.jpg",
+    "publishedAt": "2026-07-18T01:16:11Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -15,13 +15,43 @@
     }
   },
   {
-    "id": "33b756b74660b3d2160b4e24e92d7d8c",
-    "title": "Brenda Fricker, Oscar winner for My Left Foot, dies aged 81",
-    "description": "The acclaimed Irish actor started her career in Coronation Street and Casualty before a string of high-profile Hollywood roles",
-    "content": "Brenda Fricker, who became the first female Irish Oscar winner for acting with My Left Foot, has died aged 81. Her agent Phil Belfield told the BBC in a statement: \u201cWe will never see her like again and the world is lesser for the lack of her \u2026 I was ... [1548 chars]",
-    "url": "https://www.theguardian.com/film/2026/jul/17/brenda-fricker-oscar-winner-for-my-left-foot-dies",
-    "image": "https://i.guim.co.uk/img/media/0acb7b0def75e6b9c898ca3e211b0448c2206d96/39_1202_2916_2334/master/2916.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7c4004846bf99f2ac8ae2ea8952fd281",
-    "publishedAt": "2026-07-17T17:56:00Z",
+    "id": "714b8d84e5deb2c23ab46b220d31ba29",
+    "title": "UK weather: More heatwaves possible in second half of summer",
+    "description": "Forecasts suggest the weather could turn more changeable during late July and August but the risk of heatwaves remains.",
+    "content": "The UK's weather may turn a little more changeable during the second half of summer with spells of rain featuring in some long-range forecasts.\nThere is also a high chance that temperatures will remain largely above average during late July and Augus... [3137 chars]",
+    "url": "https://www.bbc.co.uk/weather/articles/c07rex9p7x2o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/5e6a/live/7a2346d0-8113-11f1-9ec3-fd524648df46.jpg",
+    "publishedAt": "2026-07-18T01:05:29Z",
+    "lang": "en",
+    "source": {
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    }
+  },
+  {
+    "id": "0cb632f6e655bc50f003aa794ab43997",
+    "title": "Gracie Abrams' Daughter from Hell: Rebellion never sounded so toothless",
+    "description": "The singer's third album is full of incisive, witty lyrics that are let down by muted production.",
+    "content": "Knives. So many knives. Gracie Abrams' third album is like a cutlery drawer full of daggers.\nThey're stuck in her back, waiting to be twisted by a two-faced friend. She's \"cut to the bone\" by the careless words of a lover. Abrams even has a song call... [5337 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c20y0we8nz1o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e48/live/bd719450-8037-11f1-86b6-ffbb9ce74513.jpg",
+    "publishedAt": "2026-07-18T00:33:47Z",
+    "lang": "en",
+    "source": {
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    }
+  },
+  {
+    "id": "36a6a7706eb62b9522613e58a7fb805f",
+    "title": "First Night of the Proms review - 250th anniversary of US independence takes centre stage",
+    "description": "From Copland to Gershwin and a new Emily Dickinson-based commission it was America\u2019s evening \u2013 but with a surprise Mancunian encore",
+    "content": "And we\u2019re back. The \u201cworld\u2019s greatest classical music festival\u201d has flung wide the doors of the Royal Albert Hall for another eight-week season. Where the Last Night of the Proms is often strangely separate \u2013 a self-contained musical party for an ent... [2579 chars]",
+    "url": "https://www.theguardian.com/music/2026/jul/17/first-night-of-the-proms-review-250th-anniversary-of-us-independence-takes-centre-stage",
+    "image": "https://i.guim.co.uk/img/media/b7395b19339abd31c07c8ab4fa1215497e785beb/325_86_891_713/master/891.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=7f57d4ce082e09e655871eddfa2cfcb7",
+    "publishedAt": "2026-07-17T23:43:00Z",
     "lang": "en",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
@@ -30,48 +60,18 @@
     }
   },
   {
-    "id": "a8c740ab389f3f51dce1d28e56940bab",
-    "title": "EU proposes slowing down cuts to carbon emissions for businesses",
-    "description": "Under the proposals, the EU plans to relax its emissions trading system to give companies more time to reduce their carbon output.",
-    "content": "The European Union has unveiled proposals that would slow cuts to businesses' greenhouse gas emissions limits, as part of a major climate policy overhaul.\nThe reforms would relax the rules of the bloc's emissions trading system (ETS) to give business... [2518 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9bda/live/48708610-8204-11f1-a09e-7710dfe15161.jpg",
-    "publishedAt": "2026-07-17T17:52:06Z",
+    "id": "90fefe77388759abe1b83f4b9bfae346",
+    "title": "Could these twins' rare genetic disorder provide the key to preventing cancer?",
+    "description": "Researchers have found that people with Laron syndrome have a lower incidence of cancer than the wider population.",
+    "content": "Nestled in southern Ecuador's network of Andes mountains is the town of Pi\u00f1as, whose 8,000 inhabitants live in houses scattered across a valley.\nThis remote town is home to an unusually high number of people living with Laron syndrome, a rare genetic... [6961 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c8jnlmek8reo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6695/live/5f2f7af0-7c6e-11f1-9fad-d539485c17c2.jpg",
+    "publishedAt": "2026-07-17T23:24:37Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
       "name": "BBC",
       "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "7a2ea764f030d29733c880de8fab26b6",
-    "title": "'Send help rather than complain,' Canada's Ford tells US as wildfire smoke blankets parts of North America",
-    "description": "Thick pollution has made the air stretching from Winnipeg to the southern US unhealthy to breathe and officials are encouraging people to stay indoors.",
-    "content": "How to stay safe in the smoke\nIf you\u2019re in an area impacted by wildfire smoke today, here are some tips on how to reduce health risks:\nStay inside as much as possible, with windows closed\nAvoid strenuous outdoor activities\nWear a well-fitting N95 mas... [13204 chars]",
-    "url": "https://www.bbc.co.uk/news/live/cd9w8xk75ndt",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ebbb/live/1fc15500-8204-11f1-9155-3fc9a8287ebe.jpg",
-    "publishedAt": "2026-07-17T17:35:56Z",
-    "lang": "en",
-    "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "b0f4dd850550a20466bf45267b4a8453",
-    "title": "Motorola issues an official statement on the Edge 70 Max's software update policy",
-    "description": "It's thankfully the best version of the two separate promises it made. Following up on our editorial regarding its incredibly confusing software support...",
-    "content": "Following up on our editorial regarding its incredibly confusing software support policy for the recently announced Edge 70 Max, Motorola reached out to us to clarify the matter.\nThe company rep, who contacted us following our story, had this to say:... [1414 chars]",
-    "url": "https://www.gsmarena.com/motorola_clarifies_the_edge_70_maxs_software_support-news-73776.php",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/07/motorola-clarifies-edge-70-max-update-policy/-952x498w6/gsmarena_000.jpg",
-    "publishedAt": "2026-07-17T18:30:02Z",
-    "lang": "en",
-    "source": {
-      "id": "5e3c34855a7a20621cdd65325f423eb1",
-      "name": "GSMArena.com",
-      "url": "https://www.gsmarena.com"
     }
   }
 ]
