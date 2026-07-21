@@ -1,12 +1,12 @@
 [
   {
-    "id": "e4370492a62645a3f2adb76e9befadc4",
-    "title": "India\u2019s Cockroach party protesters to defy police and march to parliament",
-    "description": "Youth-led movement has been galvanised after Delhi police forcibly moved hunger-striking activist Sonam Wangchuk \u2060to hospital",
-    "content": "Thousands of protesters in Delhi are set to defy police orders and march at the Indian parliament amid growing calls for prime minister Narendra Modi\u2019s education minister to be sacked over exam paper leaks.\nSetting up a possible showdown with student... [3055 chars]",
-    "url": "https://www.theguardian.com/world/2026/jul/20/cockroach-janta-party-protest-march-sonam-wangchuk-india-parliament",
-    "image": "https://i.guim.co.uk/img/media/e043b614546f1301ab1f376ca9a03c8d79b080b3/648_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=35f10919912b30745f9d181c32c13ca4",
-    "publishedAt": "2026-07-20T00:42:00Z",
+    "id": "cde3e43bd3e38988149bb929cc545e87",
+    "title": "\u2018It\u2019s total devastation\u2019: inside the Amazonian war against illegal gold mining",
+    "description": "The Guardian goes on the ground with Brazilian forces fighting to eradicate mining that has destroyed protected areas of Indigenous land",
+    "content": "The jerry-built bordello at the foot of Vila Cururu, an illegal gold-mining settlement at the heart of Brazil\u2019s most desecrated Indigenous territory, was a hive of depravity until just a few weeks ago.\nInebriated prospectors huddled around wooden tab... [9766 chars]",
+    "url": "https://www.theguardian.com/world/2026/jul/20/brazil-gold-rush-illegal-mining-settlements-indigenous-lands",
+    "image": "https://i.guim.co.uk/img/media/b32908c7a7eaabb7194ecfdee23a1b24b43d95e9/241_0_3500_2801/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=55976faa9d945ef7c32194342cec1ac3",
+    "publishedAt": "2026-07-20T18:32:00Z",
     "lang": "en",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
@@ -15,13 +15,28 @@
     }
   },
   {
-    "id": "4cfad6ef6768ada3f69d1d16979de041",
-    "title": "South East Water announces new hosepipe ban for Sussex, Surrey, Hampshire and Berkshire",
-    "description": "South East Water has announced a hosepipe ban for Sussex, Surrey, Hampshire and Berkshire.",
-    "content": "Why is there a hosepipe ban?\nSouth East Water (SEW) said it had to bring in the hosepipe ban to protect some groundwater sources because river levels had declined.\nThis was due to lower than average rainfall, continued hot weather and high demand, th... [1422 chars]",
-    "url": "https://www.bbc.co.uk/news/live/c39z14rnwpjt",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ef2e/live/50eba970-8414-11f1-b3ec-1d7f0502d196.jpg",
-    "publishedAt": "2026-07-20T00:11:00Z",
+    "id": "f7013dddd747c3e919eec31ab9eadbaa",
+    "title": "Andy Burnham\u2019s first Labour cabinet: who\u2019s in and who\u2019s out?",
+    "description": "From the Treasury to the Home Office, we look at who will head up key departments in new PM\u2019s government",
+    "content": "John Healey\nChancellor\nThe former defence secretary who quit the government over a lack of funding for the defence investment plan is the surprise appointment to the Treasury.\nHealey, 66, is a steady and experienced force, having been an MP since 199... [19410 chars]",
+    "url": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-labour-cabinet-profiles",
+    "image": "https://i.guim.co.uk/img/media/ad724ce97e350f477f3529fbef44f7d047add04a/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7089026ad28a81abd4663d986dbdadc6",
+    "publishedAt": "2026-07-20T18:27:00Z",
+    "lang": "en",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "0f952cfe96fd6aa35fe767a349285dfc",
+    "title": "Canadian wildfires rage as Trump warns Carney again over 'poisoning' US air",
+    "description": "The US president raised the issue with the the Canadian prime minister while the pair attended the World Cup Final in New Jersey.",
+    "content": "US President Donald Trump told Canadian Prime Minister Mark Carney during the World Cup Final on Sunday to get control of wildfires burning across Canada whose smoke has been \"poisoning our air\" in the US.\n\"If we can help them, we'll help them. But m... [2470 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/crl7n6j7gr3o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8062/live/7ae1e690-846e-11f1-b286-f1d324aa6c22.jpg",
+    "publishedAt": "2026-07-20T18:16:51Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -30,48 +45,33 @@
     }
   },
   {
-    "id": "3b4a49bc7b616ea5690a77fee4b4c988",
-    "title": "Burnham is fifth PM in four years",
-    "description": "Determined to hit the ground running, the former mayor hopes to maintain the leadership style he adopted in Manchester.",
-    "content": "By lunchtime today, the UK will have its fifth prime minister in four years.\nNo other sentence can so pithily summarise the nature of British politics right now than that one.\nIn the summer of 2022 Boris Johnson was on his way out, but still in offic... [3397 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cr7knml2y99o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/028f/live/fdfcb250-83bd-11f1-b976-0b9c15b0ccfc.jpg",
-    "publishedAt": "2026-07-19T23:53:59Z",
+    "id": "c6b9eceeed391b2338ddf5dc4e8973d0",
+    "title": "Man, 28, charged with murder of former MP Ann Widdecombe",
+    "description": "Joshua Kerry from Rotherham charged over killing of politician whose body was found at her Devon home",
+    "content": "A 28-year-old man from Rotherham has been charged with the murder of the former MP and Reform UK party spokesperson Ann Widdecombe.\nJoshua Kerry was charged with Widdecombe\u2019s murder and will appear at Westminster magistrates court on Tuesday, the Cro... [1552 chars]",
+    "url": "https://www.theguardian.com/uk-news/2026/jul/20/man-charged-with-murder-ann-widdecombe-joshua-kerry",
+    "image": "https://i.guim.co.uk/img/media/1722c612a42689a1d0e84a319357120139408e2b/0_1427_5495_4396/master/5495.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f42a4441f3ee2cedd959c14e3874943",
+    "publishedAt": "2026-07-20T18:10:00Z",
+    "lang": "en",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "ea266d6c751eef5eb6415f44db818a1b",
+    "title": "Mammalian meat allergy: The allergy that can make daily activities deadly",
+    "description": "Mammalian meat allergy is a growing problem along Australia's east coast - and it's caused by tick bites.",
+    "content": "When Myfanwy Webb looks back at her birthday party five years ago, she is overcome with regret - remembering what she now sees as a missed opportunity to save her son's life.\nHours after a celebratory lunch at a restaurant Jeremy began having difficu... [8565 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cj6g03567edo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43f6/live/c2149510-76ab-11f1-9b91-4ff46439d279.png",
+    "publishedAt": "2026-07-20T18:01:00Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
       "name": "BBC",
       "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "de83c12417db35c27fb3d10d07142368",
-    "title": "My fitness tracker knew I was pregnant before I did",
-    "description": "Ravika is one of hundreds of women who are noticing early pregnancy signs through the data on their fitness trackers.",
-    "content": "Ravika was celebrating her birthday on holiday with her husband when she got an unusual alert from her fitness tracker.\nHer Oura ring flagged that her health score was poor. Her heart rate had gone up, her body temperature was elevated and her heart ... [5908 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cr474z1qyn6o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/96bf/live/356d4010-7f8b-11f1-bee8-53ce494e1abc.png",
-    "publishedAt": "2026-07-19T23:09:18Z",
-    "lang": "en",
-    "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "d545c6da629a9c6f61c76a24254a3f48",
-    "title": "Inside Mel C's lavish wedding from who gave speeches to menu & what happened when Geri & Mel B finally came face to face",
-    "description": "SCARY Spice Mel B gave an emotional speech at the wedding of bandmate Mel C at the weekend.\nHer address caused laughter and tears among the...",
-    "content": "SCARY Spice Mel B gave an emotional speech at the wedding of bandmate Mel C at the weekend.\nHer address caused laughter and tears among the guests as Sporty Spice married Aussie model Chris Dingwall.\nAdvertisement\nAdvertisement\nThe pop star, 52, was ... [2151 chars]",
-    "url": "https://www.thesun.co.uk/tvandshowbiz/39807396/mel-c-lavish-wedding-speeches-geri-mel-b/",
-    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/07/crop-39807794.jpg?quality=90&strip=all&1784489800&w=1920&h=1080&crop=1",
-    "publishedAt": "2026-07-20T00:58:36Z",
-    "lang": "en",
-    "source": {
-      "id": "8312b3960d99553247ab475ee7eeed9a",
-      "name": "The Sun",
-      "url": "https://www.thesun.co.uk"
     }
   }
 ]
