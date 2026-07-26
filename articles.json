@@ -1,12 +1,27 @@
 [
   {
-    "id": "56d7f5c0715b916943edb378d7a1839a",
-    "title": "UK weather: Heatwave conditions to return as temperatures to peak at 35C",
-    "description": "Following weeks of mainly dry weather, we can welcome some rain this weekend, but it is not going to be that much.",
-    "content": "Heat is set to intensify and become more widespread across England and parts of Wales next week with temperatures surging as high as 35C (95F).\nFollowing much-needed rain in the north and north-west of the UK this weekend, temperatures will rise back... [1699 chars]",
-    "url": "https://www.bbc.co.uk/weather/articles/c70gwq88gz7o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/194a/live/6580e4c0-8777-11f1-b430-afa19a42b819.png",
-    "publishedAt": "2026-07-25T01:08:38Z",
+    "id": "64f4a286110f108648743d6b8ac5d14d",
+    "title": "Anthony Joshua v Kristian Prenga: heavyweight boxing - live",
+    "description": "Follow along live with Alex Reid as Anthony Joshua looks to make a statement against Kristian Prenga as a warm-up to his planned mega-fight with Tyson Fury",
+    "content": "Kristian Prenga arrives in the arena, chewing some delicious gum. He looks cool enough.\nIn the ring, Agyarko is coming back into the fight against Kelly in the second half, helped by the defending IBF champ being docked a point for a punch to the bac... [3653 chars]",
+    "url": "https://www.theguardian.com/sport/live/2026/jul/25/anthony-joshua-v-kristian-prenga-heavyweight-boxing-live",
+    "image": "https://i.guim.co.uk/img/media/74eea97df925e657f32b5a5ea37877bef7542123/500_275_4021_3218/master/4021.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=58d74d3635c7979b09960d8f5ac08c08",
+    "publishedAt": "2026-07-25T19:00:50Z",
+    "lang": "en",
+    "source": {
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    }
+  },
+  {
+    "id": "87bddf0dfa44749168214966206d1d18",
+    "title": "Bournemouth child star joins Strictly as professional dancer",
+    "description": "Maddie Ingoldsby will be part of the new line-up on Strictly Come Dancing in September.",
+    "content": "A child star who played Annie in the West End musical will join four new professional dancers for Strictly's new line-up.\nMaddie Ingoldsby, from Bournemouth, will join the celebrity dancing competition when it returns in September.\nThe UK National Ba... [404 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cwyjeq60xz7o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cdde/live/6adfecd0-884f-11f1-a6af-61be78d805a2.jpg",
+    "publishedAt": "2026-07-25T18:33:16Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -15,48 +30,48 @@
     }
   },
   {
-    "id": "0337d9a0e7841b5ef377a16e0da454fe",
-    "title": "Teen who singer D4vd is accused of killing had multiple abortions, texts reveal",
-    "description": "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.",
-    "content": "WARNING: Readers may find details in this article distressing.\nTexts between singer D4vd and Celeste Rivas Hernandez, the 14-year-old he is accused of murdering, reveal she had been pregnant and had had an abortion before her death.\nThe messages were... [3703 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f8b/live/a675bbc0-87b5-11f1-88ae-859397b768ed.jpg",
-    "publishedAt": "2026-07-25T00:13:22Z",
+    "id": "abc34f72fe056aa195d877f93d7cffdf",
+    "title": "Thousands attend London Trans+ Pride 2026 march",
+    "description": "The march takes place against a political backdrop that organisers described as \"stark\".",
+    "content": "London Trans+ Pride described the political backdrop to this year's march as \"stark\", following new guidance from the Equalities and Human Rights Commission (EHRC), which states that single-sex spaces must be used on the basis of biological sex.\nThe ... [1989 chars]",
+    "url": "https://www.bbc.com/news/articles/cvgv1v084j0o",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c983/live/7eba58c0-8832-11f1-b2ab-0dd01740f9f6.jpg",
+    "publishedAt": "2026-07-25T17:39:11Z",
     "lang": "en",
     "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
       "name": "BBC",
-      "url": "https://www.bbc.co.uk"
+      "url": "https://www.bbc.com"
     }
   },
   {
-    "id": "e12413ac65c50bbb2ce2570e3ce11779",
-    "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-    "description": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
-    "content": "This week the tech world was gripped by a story that has it all - and which started like a sci-fi thriller.\nHugging Face - a kind of app store for artificial intelligence tools - announced on 16 July it had been hacked by a cyber criminal wielding en... [5708 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/658a/live/19bf2440-8770-11f1-b430-afa19a42b819.jpg",
-    "publishedAt": "2026-07-24T23:11:13Z",
+    "id": "f2583c0a98387788000609337dfba2fb",
+    "title": "Reality TV star Georgia Toffolo reveals she escaped French wildfires",
+    "description": "Made in Chelsea star, who is married to Brewdog co-founder James Watt, was on holiday Cap Ferret last week",
+    "content": "Reality television personality Georgia Toffolo has revealed her narrow escape from the French wildfires alongside her husband, Brewdog co-founder James Watt.\nThe 31-year-old, known for her time on Made In Chelsea, was holidaying with family in Cap Fe... [2230 chars]",
+    "url": "https://www.independent.co.uk/news/uk/home-news/georgia-toffolo-france-spain-wildfires-europe-b3021548.html",
+    "image": "https://static.independent.co.uk/2026/07/25/19/2281909760..?trim=39,0,39,0&width=1200&height=800&crop=1200:800",
+    "publishedAt": "2026-07-25T18:40:00Z",
     "lang": "en",
     "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
+      "id": "0d5c0adfb0e84da759fe48296b9f6e55",
+      "name": "The Independent",
+      "url": "https://www.independent.co.uk"
     }
   },
   {
-    "id": "35a8bc28ca667437b8162212a24b6c84",
-    "title": "Ukraine's Zelensky struggles to fix crisis over removal of defence minister Fedorov",
-    "description": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
-    "content": "With an acting defence minister in place and a new commander-in-chief in charge of the military, Ukraine's recent political crisis is over, right?\nNot so fast.\nThe political fallout from President Volodymyr Zelensky's 15 July decision not to re-appoi... [6046 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/90d1/live/f0b4a0e0-877c-11f1-845d-49d72435354a.jpg",
-    "publishedAt": "2026-07-24T23:01:06Z",
+    "id": "f2ba8e928d40243518112fc6fc1987cc",
+    "title": "I'll buy British on a scale never seen before vows new Chancellor John Healey as he reveals plans to turbocharge economy",
+    "description": "JOHN Healey today vows to go on a \u201cbuy British\u201d blitz on a scale the country has never seen before.\nThe new Chancellor said every pound the...",
+    "content": "JOHN Healey today vows to go on a \u201cbuy British\u201d blitz on a scale the country has never seen before.\nThe new Chancellor said every pound the government spends will be focused on creating new jobs and backing businesses in the UK.\nAdvertisement\nIn his ... [6560 chars]",
+    "url": "https://www.thesun.co.uk/news/39871373/john-healey-buy-british-chancellor/",
+    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/07/2026-london-england-andy-burnham-1096732493_510f5c.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+    "publishedAt": "2026-07-25T18:25:00Z",
     "lang": "en",
     "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
+      "id": "8312b3960d99553247ab475ee7eeed9a",
+      "name": "The Sun",
+      "url": "https://www.thesun.co.uk"
     }
   }
 ]
