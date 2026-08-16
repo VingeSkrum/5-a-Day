@@ -1,57 +1,12 @@
 [
   {
-    "id": "1cebaf5d755621ee5f201eb509a94c74",
-    "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
-    "description": "Border security tightened after social media posts call for another mass crossing into Spain\u2019s north African territory",
-    "content": "Moroccan police have arrested 111 people as they tried to enter Spain\u2019s north African territory of Ceuta, amid \u2060tightened security on both sides after social media posts \u200bcalled for another mass crossing.\nThe attempted crossing on Saturday came two w... [2845 chars]",
-    "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
-    "image": "https://i.guim.co.uk/img/media/16e26ebc9e7e6768f1247ec08c0e829ad225db8c/222_0_2475_1980/master/2475.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a05969c4ffdbc46cb3d0bd883eb189e2",
-    "publishedAt": "2026-08-15T18:08:00Z",
-    "lang": "en",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com"
-    }
-  },
-  {
-    "id": "7c5adc70e0d62b86dae4bdbb531ffd80",
-    "title": "Body found in Romania believed to be missing British hiker George Smyth",
-    "description": "Family paid tribute to Bristol University geology student, 18, after being notified by Avon and Somerset police",
-    "content": "A body has been found in the search for an 18-year-old British man who went missing last year while hiking in Romania, UK police said.\nGeorge Smyth, a geology student at the University of Bristol, went missing in November.\nOn Saturday, Avon and Somer... [2012 chars]",
-    "url": "https://www.theguardian.com/world/2026/aug/15/body-found-in-romania-believed-to-be-missing-british-hiker-george-smyth",
-    "image": "https://i.guim.co.uk/img/media/4516aec85e490feead66b84befd7985ae5d7c615/0_26_586_469/master/586.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=63e8394888a31cb18e9f8bbecb685550",
-    "publishedAt": "2026-08-15T17:37:00Z",
-    "lang": "en",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com"
-    }
-  },
-  {
-    "id": "203f9afd12d1059f82e697186a6d8e68",
-    "title": "Firefighters tackle ongoing blazes as displaced West Midlands residents 'ask to go home'",
-    "description": "Authorities say 43 new fires have started in the West Midlands, South Wales and Hampshire in the last 24 hours, as a Stourbridge resident says \"no one's given us an answer\" on returning home.",
-    "content": "Residents wait to return home as Stourbridge fire under control\nRorey Bosotti\nLive editor\nA fire that \"fully destroyed\" 19 properties in Stourbridge, West Midlands, is now under control and homes are no longer at risk, says the local assistant fire c... [14217 chars]",
-    "url": "https://www.bbc.com/news/live/crjejgz55k7pt",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5316/live/d9e263a0-98ae-11f1-9a0b-ef36d15fc6b3.jpg",
-    "publishedAt": "2026-08-15T16:38:50Z",
-    "lang": "en",
-    "source": {
-      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
-      "name": "BBC",
-      "url": "https://www.bbc.com"
-    }
-  },
-  {
-    "id": "c50442c89316605d02c3e233b8621264",
-    "title": "Body found in search for Shropshire student missing on hike",
-    "description": "A body is found during the search for George Smyth, who went missing while hiking in Romania.",
-    "content": "Tributes are being paid to an 18-year-old who went missing on a hiking trip to the Romanian mountains.\nGeorge Smyth, a University of Bristol student from Shropshire, had been missing since 23 November in the Bucegi mountains, despite daily searches, ... [1086 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cwy4413g6rko",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5c88/live/840e2870-98bc-11f1-b2ab-0dd01740f9f6.png",
-    "publishedAt": "2026-08-15T16:36:23Z",
+    "id": "2c39cb35955548598ac30640bb771fca",
+    "title": "Newspaper headlines: UK-made drones 'strike Russia' and 'Phone theft Britain'",
+    "description": "Ukraine uses UK British-made drones to strike Russia and 230 phones a day stolen in the UK lead the Sunday papers.",
+    "content": "The Sunday Times says \"British drones strike targets inside Russia\", reporting that \"drones made by two UK companies have been supplied to Ukraine\" and used to attack \"the Russian mainland for the first time\". Citing Ukrainian sources, it explains th... [2905 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c4gvv07ww42o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69e0/live/ba051cb0-98f6-11f1-a7ab-8b30adf0800a.jpg",
+    "publishedAt": "2026-08-15T22:36:36Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -60,18 +15,63 @@
     }
   },
   {
-    "id": "8be865e3e4f4de93833b6bd7730f11f4",
-    "title": "Championship LIVE: Build-up, team news, live text, radio & score updates as it happens from across the Championship",
-    "description": "Follow build-up, team news, live text, radio & score updates as it happens from across the opening Saturday of the 2026-27 Championship season.",
-    "content": "One down...\nThat's as far as we go on the opening Saturday of the Championship season.\nMiddlesbrough striker Will Lankshear continued his fine start for his new club after making a big money move from Tottenham in the summer as his two goals saw off ... [1828 chars]",
-    "url": "https://www.bbc.com/sport/football/live/clyevg141e7t",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f0ae/live/23895440-98d3-11f1-9687-fb984065014d.jpg",
-    "publishedAt": "2026-08-15T17:26:10Z",
+    "id": "8449dd0a488523cd5f86c7eb8a4ed9c6",
+    "title": "Cincinnati Open: Novak Djokovic suffers in heat as Thiago Tirante inflicts shock defeat",
+    "description": "Novak Djokovic struggles with the heat and humidity as he falls to a shock defeat by Argentina's Thiago Tirante in the second round of the Cincinnati Open.",
+    "content": "Novak Djokovic struggled with the heat and humidity as he fell to a shock defeat by Argentina's Thiago Tirante in the second round of the Cincinnati Open.\nThe 24-time Grand Slam champion dropped onto his hands and knees and took a medical timeout dur... [914 chars]",
+    "url": "https://www.bbc.com/sport/tennis/articles/cj033qggmv3o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b79f/live/f0fdcb50-98f5-11f1-aa0d-e3900609838d.jpg",
+    "publishedAt": "2026-08-15T22:07:10Z",
     "lang": "en",
     "source": {
       "id": "f331a5ed3965fb59761dfcecfc7e7a34",
       "name": "BBC",
       "url": "https://www.bbc.com"
+    }
+  },
+  {
+    "id": "b8cc86862e24df022bdfdf9904642e71",
+    "title": "Dingle murder detective: I think we've already arrested the person who pulled the trigger",
+    "description": "Sam Rimmer was murdered in 2022. Ten people have been arrested, but no one has ever been charged",
+    "content": "Sam Rimmer was murdered in 2022. Ten people have been arrested, but no one has ever been charged\nA banner bearing the phrase \"silence is not an option\" is a haunting reminder that the family of a murdered young man are still without justice four year... [5368 chars]",
+    "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/dingle-murder-detective-think-weve-34450884",
+    "image": "https://i2-prod.liverpoolecho.co.uk/article34456236.ece/ALTERNATES/s1200d/0_JS414785577.jpg",
+    "publishedAt": "2026-08-15T23:01:00Z",
+    "lang": "en",
+    "source": {
+      "id": "1aa6f0dbd00b7d9acf000f0ae47eaa40",
+      "name": "Liverpool Echo",
+      "url": "https://www.liverpoolecho.co.uk"
+    }
+  },
+  {
+    "id": "abb0a0b93006294d17b3716940e628d1",
+    "title": "Huge cordon in place as police respond to major incident in south Manchester",
+    "description": "A police forensics tent has been erected in Levenshulme",
+    "content": "A police forensics tent has been erected in Levenshulme\nA large cordon is in place as police are tonight responding to a major incident in south Manchester.\nPictures from the scene show a forensics tent erected in a park off Chapel Street in Levenshu... [786 chars]",
+    "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/huge-cordon-place-police-respond-34465924",
+    "image": "https://i2-prod.manchestereveningnews.co.uk/article34465925.ece/ALTERNATES/s1200d/0_JSR-MEN_150826leve_04jpeg.jpg",
+    "publishedAt": "2026-08-15T22:29:00Z",
+    "lang": "en",
+    "source": {
+      "id": "d747ad2c8a358a8ac802059a4e88a6a6",
+      "name": "Manchester Evening News",
+      "url": "https://www.manchestereveningnews.co.uk"
+    }
+  },
+  {
+    "id": "4897a3b2a48d53dc0133611f7efb2579",
+    "title": "Stourbridge residents to learn if they can go home as military called in to tackle wildfires in Wales",
+    "description": "Homeowners have been invited to meet with emergency services officials to decide if they can return to their properties",
+    "content": "A return to home plan has been put in place for residents affected by the wildfires in Stourbridge as emergency services said the blaze is \u201cunder control\u201d.\nWest Midlands Fire Service declared a major incident on Thursday as a wildfire spread across m... [4860 chars]",
+    "url": "https://www.independent.co.uk/news/uk/home-news/uk-wildfires-stourbridge-news-wales-b3033717.html",
+    "image": "https://static.independent.co.uk/2026/08/15/20/64c49cf726c69717e60395db7edbc5e6Y29udGVudHNlYXJjaGFwaSwxNzg2OTA3MDkx-2.85562246.jpg?width=1200&height=800&crop=1200:800",
+    "publishedAt": "2026-08-15T22:20:00Z",
+    "lang": "en",
+    "source": {
+      "id": "0d5c0adfb0e84da759fe48296b9f6e55",
+      "name": "The Independent",
+      "url": "https://www.independent.co.uk"
     }
   }
 ]
