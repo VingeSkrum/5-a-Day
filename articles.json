@@ -1,12 +1,12 @@
 [
   {
-    "id": "7cbef4d8bfbc703b823eebebfa6cbff6",
-    "title": "Canada and US say they are finalising a trade deal, but details remain murky",
-    "description": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
-    "content": "Canada and the US are finalising a highly anticipated trade deal, with President Donald Trump and Prime Minister Mark Carney touting it as a success.\nTrump said the proposed deal will be welcome by US farmers and manufacturers, while Carney said it w... [2064 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cd23/live/184fdf20-9bf0-11f1-8470-d18257d2d589.jpg",
-    "publishedAt": "2026-08-19T17:47:52Z",
+    "id": "29906c04fc69c634c36e5deb58138c75",
+    "title": "Weekly type 2 diabetes jab could replace daily injections",
+    "description": "Hundreds of thousands of people with type 2 diabetes could get access to a new weekly insulin jab to replace daily injections.",
+    "content": "Hundreds of thousands of people with type 2 diabetes could get access to a new weekly insulin jab to replace daily injections, reducing the number needed each year by 86%.\nPatients still have to wait for the treatment to be approved by the medicines ... [1951 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cn8nd1n54zxo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9cf9/live/f9ed6910-9bce-11f1-9a70-efb9935d3d1b.jpg",
+    "publishedAt": "2026-08-20T00:39:40Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -15,13 +15,13 @@
     }
   },
   {
-    "id": "bf711c8a7b9e716cd5d46f6cc1b81343",
-    "title": "Police find body in search for missing Stokesley woman",
-    "description": "Officers believe the body is that of 57-year-old Tracey Smith from the Stokesley area.",
-    "content": "Police searching for a woman who was missing for almost four weeks have found a body.\nThe body was discovered inside a black vehicle found in undergrowth down an embankment on the A172, at its junction with the A19 near the Cleveland Tontine, on Tues... [702 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cn4n910r20yo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a63c/live/ed88ed40-9bd1-11f1-bb4d-1147ef2e78e5.jpg",
-    "publishedAt": "2026-08-19T17:45:09Z",
+    "id": "1e32dbcfffb49ad73801260410341037",
+    "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+    "description": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+    "content": "President Donald Trump has said the US will inflict \"TREMENDOUS Economic Consequences\" on any country that helps or does business with Iran.\nHe wrote in all capital letters on Truth Social that he was launching \"the most crushing economic operation e... [3275 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/725b/live/5ef21940-9c2a-11f1-aa8e-d328e95deb46.jpg",
+    "publishedAt": "2026-08-20T00:25:38Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -30,13 +30,28 @@
     }
   },
   {
-    "id": "a243120ff35409ec070b38addeebee03",
-    "title": "Hounslow murder investigation launched as woman dies after fire",
-    "description": "A total of nine people were taken to hospital following the fire at a residential address in Hounslow.",
-    "content": "A murder investigation is under way after a 48-year-old woman died in a fire in west London.\nOfficers were called to a residential address on Berkeley Avenue, Hounslow, at about 01:15 BST on Wednesday following reports of the blaze, the Metropolitan ... [1201 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c5y4ne1zq0eo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7d82/live/7d47bb80-9bf2-11f1-8470-d18257d2d589.png",
-    "publishedAt": "2026-08-19T17:41:03Z",
+    "id": "6510ae09e44be9db99a2464cc3514077",
+    "title": "Downpours continue for UK with risk of flash flooding",
+    "description": "The prolonged dry spell has come to an end with heavy, thundery showers continuing to sweep across the UK, as Ben Rich explains.",
+    "content": "Heavy showers and thunderstorms will continue to affect large swathes of the UK on Thursday, bringing the threat of flooding and travel disruption.\nA Met Office yellow thunderstorm warning remains in force across northern England and north Wales unti... [2382 chars]",
+    "url": "https://www.bbc.com/weather/articles/cevm32j9pp3o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/097c/live/a609a580-9bd7-11f1-bb4d-1147ef2e78e5.jpg",
+    "publishedAt": "2026-08-19T23:56:33Z",
+    "lang": "en",
+    "source": {
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "name": "BBC",
+      "url": "https://www.bbc.com"
+    }
+  },
+  {
+    "id": "06d0b9065d8a3b55ccdc3711b72def12",
+    "title": "I quit my \u00a380,000 job to make ice cream - here's how",
+    "description": "The co-founder of Little Moons shares her advice for anyone thinking about starting a business of their own.",
+    "content": "At 28, Vivien Wong walked away from an \u00a380,000-a-year accounting job to start making ice cream with her brother.\nGrowing up in her family's bakery, she had dreamt of one day running her own business. She says her father's cancer diagnosis made her ta... [4140 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cz97148eye0o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b0d/live/04272360-9bd1-11f1-bb4d-1147ef2e78e5.jpg",
+    "publishedAt": "2026-08-19T23:08:03Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -45,33 +60,18 @@
     }
   },
   {
-    "id": "933ff3e00700de3f4d4bfe6aee3762e6",
-    "title": "Students wait for GCSE and BTec grades as app launches for 750 schools in England",
-    "description": "Some pupils in England will be able to see their grades on their phones from 11:00 BST on Thursday.",
-    "content": "Pupils in England, Wales and Northern Ireland will receive GCSE, BTecs and other Level 2 results on Thursday, with some grades in England available through an app that is rolling out for the first time.\nSchools and colleges will distribute grades in ... [3715 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c9q9z402d1yo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b521/live/5e586fc0-9bc6-11f1-98c6-93bfcdb08681.jpg",
-    "publishedAt": "2026-08-19T17:09:34Z",
+    "id": "872a8afab9ca7fa42b9f4d8f2158f2ee",
+    "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+    "description": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
+    "content": "Australia's foreign minister has said she is \"outraged\" over an Israeli government decision not to prosecute those responsible for the death of aid worker Zomi Frankcom, who was killed in an IDF strike.\nFrankcom was an Australian aid worker with Worl... [4361 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e39/live/8b4a6c40-9c16-11f1-a291-b542ee92de7c.jpg",
+    "publishedAt": "2026-08-19T22:04:21Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
       "name": "BBC",
       "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "ca70717e5617643dff29c3a79da43fd3",
-    "title": "Calls for urgent law change as UK\u2019s largest water reuse system cannot be switched on",
-    "description": "Recycling system in Cambridgeshire development ready since 2021 is deemed not in line with drinking water rules",
-    "content": "The largest water reuse system in the UK, which could save thousands of litres of water a day for people living in one of the driest regions of the country, is not allowed to be switched on because of drinking water regulations.\nAs water supplies in ... [6447 chars]",
-    "url": "https://www.theguardian.com/environment/2026/aug/19/water-reuse-recycling-law-cambridgeshire",
-    "image": "https://i.guim.co.uk/img/media/cdfb68ab1302c05cb1c21dcaa0e665520f16d92e/498_0_2917_2333/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7b3b127ca1e85d66b9f132156c734c8e",
-    "publishedAt": "2026-08-19T16:56:00Z",
-    "lang": "en",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com"
     }
   }
 ]
