@@ -1,12 +1,12 @@
 [
   {
-    "id": "c8e51b807f547ed34242e9ce586247d5",
-    "title": "Organised crime arrests as police investigate A66 crash that killed seven",
-    "description": "Nine men and three women are arrested as police investigate the lead-up to the crash that killed seven people.",
-    "content": "Twelve people have been arrested as part of the investigation into the A66 crash that killed seven people, including two police officers.\nNine men and three women, aged between 19 and 61, have been arrested across Teesside on suspicion of a range of ... [4239 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c36d6975dzno",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68ab/live/93348dd0-9f24-11f1-b109-879e35c24276.png",
-    "publishedAt": "2026-08-24T17:53:40Z",
+    "id": "4d9a07c3a6d285d18cf9923f1ded6aa9",
+    "title": "US removes Syria from list of state sponsors of terrorism",
+    "description": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+    "content": "The US has removed Syria from its list of state sponsors of terrorism after 47 years, lifting what it said was the \"final major barriers\" for private sector investment in the country and its reintegration into the global economy.\nUS Secretary Of Stat... [2056 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0972/live/c3169dc0-a016-11f1-b109-879e35c24276.jpg",
+    "publishedAt": "2026-08-25T00:17:25Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -15,13 +15,43 @@
     }
   },
   {
-    "id": "6183629120ebd444f8235bfa452de756",
-    "title": "Households in Great Britain \u2018could owe energy suppliers \u00a37bn by end of year\u2019",
-    "description": "After higher prices for winter kick in, energy debt unpaid for more than 30 days likely to rise, says Energy UK",
-    "content": "Households in Great Britain could owe their energy suppliers as much as \u00a37bn by the end of the year after higher gas and electricity prices forecast for the winter kick in, an industry group is warning.\nDomestic energy debt and arrears climbed by abo... [2547 chars]",
-    "url": "https://www.theguardian.com/business/2026/aug/24/households-in-great-britain-could-owe-energy-suppliers-7bn-by-end-of-year",
-    "image": "https://i.guim.co.uk/img/media/2d5f6a7dbde2a4088629768d73935a42837fecaf/86_0_4071_3256/master/4071.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85e497c78e6fbf5d3c418e669f5835ea",
-    "publishedAt": "2026-08-24T16:55:00Z",
+    "id": "53eae77543b5dbc3fd31e0b352b95731",
+    "title": "Sir Chris Hoy: Campaigning for cancer screening should not be down to me",
+    "description": "The cycling legend tells BBC Scotland that the onus to encourage men to get tested for prostate cancer should not just be on high profile individuals like him.",
+    "content": "Sir Chris Hoy believes the onus to encourage men to get tested for prostate cancer should not just be on high-profile individuals like him.\nHoy told BBC Scotland he felt privileged to have the public platform to spread awareness and would continue to... [3203 chars]",
+    "url": "https://www.bbc.com/sport/cycling/articles/c80nzk7dey4o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8759/live/66433610-9faf-11f1-bff6-57f1422ebb0b.jpg",
+    "publishedAt": "2026-08-24T23:39:00Z",
+    "lang": "en",
+    "source": {
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "name": "BBC",
+      "url": "https://www.bbc.com"
+    }
+  },
+  {
+    "id": "fc68fa836c65e19178a161882e94eeff",
+    "title": "Home-testing kits now available for women who have missed cervical screening",
+    "description": "Nearly 4 million women in England can order a self-testing kits to check for high-risk HPV.",
+    "content": "Women who have missed a cervical screening appointment in England are to be offered HPV self-testing kits by the NHS.\nOver the next year, nearly 4 million will receive invites on the NHS App or via text message, email or letter to order a free kit to... [2682 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c9w4jgg4y55o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e70/live/3e5420e0-9fd4-11f1-a291-b542ee92de7c.png",
+    "publishedAt": "2026-08-24T23:27:50Z",
+    "lang": "en",
+    "source": {
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    }
+  },
+  {
+    "id": "d1067f92d13284161136c4224c73651a",
+    "title": "\u2018Immense drop-off\u2019 in support contributing to care leaver deaths in England, review says",
+    "description": "Death rate three to four times higher than among general population blamed on isolation of those leaving care",
+    "content": "Profound isolation contributed to the deaths of more than 100 care leavers in England in a year, with a dramatic drop-off in support from social services at 18 leading to catastrophic consequences, a review has found.\nA government-commissioned report... [4204 chars]",
+    "url": "https://www.theguardian.com/society/2026/aug/25/care-leaver-deaths-isolation-drop-off-support-review",
+    "image": "https://i.guim.co.uk/img/media/79fb17098ba251d6caa5157ee2cfd4b59fe2d9e9/1357_0_2899_2319/master/2899.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d4cbea8648ca9939daedc214ff0c03af",
+    "publishedAt": "2026-08-24T23:03:00Z",
     "lang": "en",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
@@ -30,48 +60,18 @@
     }
   },
   {
-    "id": "64874afb1d19e17e81a880e59d0f44ef",
-    "title": "Trump administration announces \u2018economic D-day\u2019 sanctions on Iran",
-    "description": "Treasury Secretary Scott Bessent says US sanctions will intensify to choke off Iran\u2019s revenues and isolate the country.",
-    "content": "US Secretary of Treasury Scott Bessent has announced an economic pressure campaign against Iran, vowing to target Tehran\u2019s financial interests across the world.\nBessent said on Monday that the US would target all of Iran\u2019s sources of revenue, includi... [2986 chars]",
-    "url": "https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8c7daf-1787592111.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-08-24T17:37:30Z",
+    "id": "b503f570fee4e6ec07824fd8c25fd795",
+    "title": "Lockerbie bombing trial postponed days before it was due to start",
+    "description": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+    "content": "The trial of a Libyan man over the Lockerbie bombing has been postponed for a third time, after new evidence on the 37-year-old case came to light three days ago.\nJury selection was due to get under way in Washington DC on Wednesday but the BBC under... [4688 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9057/live/3d1ddb50-cf68-11ef-94cb-5f844ceb9e30.jpg",
+    "publishedAt": "2026-08-24T22:13:36Z",
     "lang": "en",
     "source": {
-      "id": "7530d90c9af769eda4cb548f32ed381d",
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com"
-    }
-  },
-  {
-    "id": "534d048a640bb0cc00877539988d26f0",
-    "title": "The 60 Day Peace Window Closed, and Trump\u2019s Iran Strategy May Shift Dramatically",
-    "description": "Washington appears focused on sustained military and economic pressure rather than nuclear escalation, with China increasingly central to U.S. efforts to isolate Tehran.",
-    "content": "17 August marked the 240th anniversary of American folk hero Davy Crockett -- \u2018King of the Wild Frontier\u2019, as the old song goes. It also marked the official end of the 60-day period for negotiations to end the conflict between the U.S. and Iran. Whet... [8868 chars]",
-    "url": "https://oilprice.com/Energy/Energy-General/The-60-Day-Peace-Window-Closed-and-Trumps-Iran-Strategy-May-Shift-Dramatically.html",
-    "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-24_0rtybolnmg.jpg",
-    "publishedAt": "2026-08-24T17:00:00Z",
-    "lang": "en",
-    "source": {
-      "id": "0bfd2fc1956a6c3bdfd830c196c1fbab",
-      "name": "Crude Oil Prices Today | OilPrice.com",
-      "url": "https://oilprice.com"
-    }
-  },
-  {
-    "id": "c2e6ca0b2c1cb6209903ecdabbbdbcb6",
-    "title": "Horror tornado hits France's region filled with Brits as orange alert issued",
-    "description": "The event, particularly rare for the European country, struck this afternoon.",
-    "content": "The event, particularly rare for the European country, struck this afternoon.\nA terrifying tornado was caught on camera hitting a region in France particularly popular among not just tourists but also British expats - the Aude. The region was lashed ... [1560 chars]",
-    "url": "https://www.express.co.uk/news/world/2242051/tornado-hits-france-aude-region",
-    "image": "https://cdn.images.express.co.uk/img/dynamic/78/1200x630/7109144.jpg",
-    "publishedAt": "2026-08-24T16:54:00Z",
-    "lang": "en",
-    "source": {
-      "id": "5fee56bcfa73257762a23904b3dd8aeb",
-      "name": "Daily Express",
-      "url": "https://www.express.co.uk"
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
     }
   }
 ]
