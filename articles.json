@@ -1,12 +1,57 @@
 [
   {
-    "id": "ca49d9082c49f5e42b57f993a1454ef6",
-    "title": "Thieves steal more than 70,000 pints\u2019 worth of Guinness from depot in Cheshire",
-    "description": "Police say two lorries were driven into industrial estate in Runcorn and attached to trailers holding about 800 barrels",
-    "content": "The famous tagline \u201cGuinness is good for you\u201d applies only when the drink is bought and paid for, police have said, after thieves made off with more than 70,000 pints\u2019 worth in Cheshire.\nOfficers said they believed two lorries were driven into a depo... [2062 chars]",
-    "url": "https://www.theguardian.com/uk-news/2026/sep/03/thieves-steal-guinness-depot-cheshire-runcorn",
-    "image": "https://i.guim.co.uk/img/media/c6708c113391649f3e64f170e7fe8b811c9f0572/450_0_4454_3563/master/4454.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9e1c3fc7331c2393e95150bbbbb1e55",
-    "publishedAt": "2026-09-03T17:18:00Z",
+    "id": "76024596e71e41cfddbafaf8b6fc7445",
+    "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+    "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
+    "content": "The board of German car giant Volkswagen has approved a plan to cut another 50,000 jobs as part of a sweeping turnaround programme. It brings the total number of roles the company plans to shed by 2030 to 100,000.\nThe group - which includes Audi, Por... [2229 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b1a3/live/90a60580-a7fd-11f1-b109-879e35c24276.jpg",
+    "publishedAt": "2026-09-04T00:18:25Z",
+    "lang": "en",
+    "source": {
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    }
+  },
+  {
+    "id": "fe2669750a79e0d3137a7ab86e4571e1",
+    "title": "Lindsay Clancy trial tensions flare as judge declines to remove holdout juror",
+    "description": "The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.",
+    "content": "A judge has again told the deadlocked jury in Lindsay Clancy's murder trial to keep trying to reach a verdict after a dramatic sixth day of deliberations in a case that has gripped America.\nTensions flared in court after the jury forewoman sent the j... [4074 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f49e/live/1194d700-a7f1-11f1-8061-c3b9abc6cd07.jpg",
+    "publishedAt": "2026-09-03T23:52:00Z",
+    "lang": "en",
+    "source": {
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    }
+  },
+  {
+    "id": "46d92a205b792bc4599aa11c7dce4322",
+    "title": "Jobseekers warned over online interview and recruitment scams",
+    "description": "Job seekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
+    "content": "Jobseekers are being warned to be vigilant as scammers are targeting people on job listings websites to trick them into downloading bogus interview tools.\nOne victim was invited on LinkedIn by a fake recruiter to take part in a job interview process ... [1862 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f931/live/69fc7270-a78f-11f1-9bb7-af8e8fd3d806.jpg",
+    "publishedAt": "2026-09-03T23:41:49Z",
+    "lang": "en",
+    "source": {
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    }
+  },
+  {
+    "id": "2fb99b33e7d893cd7e3bf21f3fe65d3c",
+    "title": "Minister tells Brits to stock up on days of supplies after \u2018supersize\u2019 El Ni\u00f1o warning",
+    "description": "Exclusive: Angela Eagle urges UK citizens to be \u2018a bit more resilient\u2019 as they plan for national emergencies",
+    "content": "British people have been urged to have enough food and water on hand to survive a few days without power or water, as the UN said the El Ni\u00f1o climate phenomenon was \u201csupersizing before our eyes\u201d, exacerbating extreme weather events worldwide.\nForecas... [4499 chars]",
+    "url": "https://www.theguardian.com/environment/2026/sep/03/angela-eagle-uk-stock-up-supplies-el-nino-warning",
+    "image": "https://i.guim.co.uk/img/media/b818fee8c052b4289dcbd7bb977dd4e7766a1467/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a1c7ec9ef6cb3ce83aedadcb8ca5cb3a",
+    "publishedAt": "2026-09-03T23:06:00Z",
     "lang": "en",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
@@ -15,63 +60,18 @@
     }
   },
   {
-    "id": "ad6a058986f4354a3b37c32b79310a72",
-    "title": "Richarlison: Tottenham omit Brazil forward from Premier League squad",
-    "description": "Richarlison is left out of Tottenham's Premier League squad as he does not figure in the club's plans this season.",
-    "content": "Richarlison has been left out of Tottenham's Premier League squad.\nSpurs manager Roberto de Zerbi said last week the Brazil forward had asked to leave the club and he looked close to joining former club Everton before Tuesday's transfer deadline, but... [1168 chars]",
-    "url": "https://www.bbc.com/sport/football/articles/c79038z3q4yo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8b4f/live/74ac0e50-a7b8-11f1-b5cf-8556ae508a51.jpg",
-    "publishedAt": "2026-09-03T17:11:10Z",
+    "id": "17c3d4e6318e312b21612bcbcf10bb3e",
+    "title": "Jackdaw gas field set to be approved as soon as mid-September, sources say",
+    "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+    "content": "The UK government is set to give the go-ahead for a controversial new gas field off the coast of Aberdeen, the BBC understands.\nApproval for the Jackdaw project could come as soon as mid-September, just before Parliament breaks for party conference s... [4331 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ab0/live/294bf5d0-a7b1-11f1-b78b-6b70b0a83270.jpg",
+    "publishedAt": "2026-09-03T23:00:15Z",
     "lang": "en",
     "source": {
-      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "id": "da05009467a13bbcc84557ea09d86db3",
       "name": "BBC",
-      "url": "https://www.bbc.com"
-    }
-  },
-  {
-    "id": "0a301e8020d057bf8e52087f4d5745dd",
-    "title": "SRA missed numerous chances to halt PM Law losses, report finds",
-    "description": "Two investigations were made into potential misconduct but not acted upon, investigation by City firm reveals.",
-    "content": "The Solicitors Regulation Authority missed numerous opportunities to intervene into a law firm group where some \u00a340m of client money went missing, an investigation has revealed.\nA report commissioned by the SRA into the handling of PM Law found the r... [4702 chars]",
-    "url": "https://www.lawgazette.co.uk/news/sra-missed-numerous-chances-to-halt-pm-law-losses-report-finds/5127801.article",
-    "image": "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/1/7/4/130174_screenshot20260203at09.54.50_910484.jpg",
-    "publishedAt": "2026-09-03T18:10:59Z",
-    "lang": "en",
-    "source": {
-      "id": "54d552fd1addc30778121c43a0b06fd1",
-      "name": "The Law Society Gazette",
-      "url": "https://www.lawgazette.co.uk"
-    }
-  },
-  {
-    "id": "a49fe55960075a62a5fbb2f6a0fabaa5",
-    "title": "Gabriel Martinelli transfer news: Forward joins Al Hilal in club-record sale for Arsenal in \u00a360m deal",
-    "description": "Gabriel Martinelli leaves Arsenal in a club-record sale as he joins Al Hilal in a \u00a360m deal; Martinelli made 191 Premier League appearances for the Gunners, but made just 11 starts during their title-winning campaign last season",
-    "content": "Gabriel Martinelli has joined Al Hilal in a club-record \u00a360m sale for Arsenal.\nThe deal, which is a fixed fee and includes a sell-on clause, surpasses the \u00a340m Arsenal sold Alex Oxlade-Chamberlain for to Liverpool in the summer of 2017.\nMartinelli jo... [2892 chars]",
-    "url": "https://www.skysports.com/football/news/11670/13579276/gabriel-martinelli-transfer-news-forward-joins-al-hilal-in-a-club-record-sale-for-arsenal-in-lb60m-deal",
-    "image": "https://e0.365dm.com/26/08/1600x900/skysports-gabriel-martinelli_7329148.jpg?20260823144928",
-    "publishedAt": "2026-09-03T17:58:04Z",
-    "lang": "en",
-    "source": {
-      "id": "375c6022b40a085995083df0ed1ac413",
-      "name": "Sky Sports",
-      "url": "https://www.skysports.com"
-    }
-  },
-  {
-    "id": "8cbde3adf8be9cbe7f5b80ba7834d02f",
-    "title": "Berlin BER airport Terminal 1 evacuated after security scare",
-    "description": "Authorities have emptied Terminal 1 at BER airport in Berlin, at least as a precaution. The airport said that more than two-dozen flights had been delayed but that they were trying to avoid any cancellations.",
-    "content": "Germany's federal police, responsible for transportation security, evacuated Terminal 1 of Berlin Brandenburg Airport (BER) on Thursday evening.\nPreliminary reports suggested a luggage security scare. It was not immediately clear whether or not it po... [2200 chars]",
-    "url": "https://www.dw.com/en/berlin-airport-evacuated/a-78895207",
-    "image": "https://static.dw.com/image/78895771_6.jpg",
-    "publishedAt": "2026-09-03T17:30:12Z",
-    "lang": "en",
-    "source": {
-      "id": "67e0c40c5e24b3fec372ab75763abad9",
-      "name": "dw.com",
-      "url": "https://www.dw.com"
+      "url": "https://www.bbc.co.uk"
     }
   }
 ]
