@@ -1,27 +1,12 @@
 [
   {
-    "id": "1fc42cd4fe9dce06a11ee4a20c177e6d",
-    "title": "US tech stocks drop as calls for AI slowdown worry investors - business live",
-    "description": "Rolling coverage of the latest economic and financial news",
-    "content": "Introduction: AI-linked Asian stocks slump after slowdown call\nGood morning, and welcome to our rolling coverage of business, the financial markets and the world economy.\nInvestors are reassessing the value of companies driving the artificial intelli... [2125 chars]",
-    "url": "https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates",
-    "image": "https://i.guim.co.uk/img/media/a099044b916e09c60455b058bacdf742cf0eb1fb/172_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4457c39665e9da13a499efdf00a308f6",
-    "publishedAt": "2026-09-14T06:08:00Z",
-    "lang": "en",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com"
-    }
-  },
-  {
-    "id": "0f6bd76875cece2720e22a7913075bff",
-    "title": "Widows 'left waiting months' for pensions after Capita takeover",
-    "description": "Women say pension delays are causing further financial stress after losing their husbands.",
-    "content": "People waiting for civil service pensions have described feeling upset, frustrated and ignored as a growing backlog leaves some without payments for months.\nAnne Sinclaire, from Minchinhampton in Gloucestershire, has been waiting six months for her w... [4623 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cn9wvz88wg9o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/444d/live/d139fa30-a86f-11f1-bbad-43eaf67b94b6.jpg",
-    "publishedAt": "2026-09-14T05:09:44Z",
+    "id": "a2a5b0686179fce51c9bb1ea0ec1be18",
+    "title": "Mitch McConnell returns to Senate after three-month absence",
+    "description": "The Republican senator, absent since June, has faced questions about transparency around his health.",
+    "content": "US Senator Mitch McConnell has returned to Congress for the first time since he was admitted to hospital after a fall three months ago.\n\"I'm really looking forward to being back on the Senate floor and seeing my colleagues,\" said the 84-year-old Kent... [1718 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cwvgy1mj4yqmo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc90/live/bc614b50-b093-11f1-b1d1-571ed4d7ff2c.jpg",
+    "publishedAt": "2026-09-14T23:31:51Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -30,43 +15,58 @@
     }
   },
   {
-    "id": "fba0e14172a3f8d0100c8f6b2788e966",
-    "title": "Monarchs, MPs and merchants: the register laying bare Britain\u2019s slave-trading past",
-    "description": "Exclusive: New research identifies thousands who profited from trafficking enslaved Africans and traces some financial links to institutions still operating today",
-    "content": "The big picture\nThe enormous scale of Britain\u2019s centuries-long trafficking of enslaved African people, supported by parliament and the monarchy, has been laid bare by new research.\nThe Register of British Slave Traders, the product of a three-year pr... [13421 chars]",
-    "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/register-british-slave-traders",
-    "image": "https://i.guim.co.uk/img/media/89ea95851915d407f650c7df919850e4ec163484/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a3d5e3cb151642227984823332a8de75",
-    "publishedAt": "2026-09-14T05:00:00Z",
+    "id": "95ed8eab7eb3117058a4325e23cfa8c4",
+    "title": "Nato jets shoot down drone that flew into Lithuanian airspace",
+    "description": "It is currently unknown where the drone came from, officials said.",
+    "content": "Nato fighter pilots have shot down a drone that entered Lithuania's airspace overnight, the Lithuanian president said.\nAuthorities said the drone likely entered southern Lithuania, near the second-largest city of Kaunas, from neighbouring Belarus sho... [2002 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dfc8/live/08f853a0-b08f-11f1-84c3-e1e2978ca87a.jpg",
+    "publishedAt": "2026-09-14T23:26:47Z",
     "lang": "en",
     "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com"
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
     }
   },
   {
-    "id": "a316f9f43e1a8623e86f34c6326ba9f9",
-    "title": "The royal crown branded on enslaved Africans: Britain\u2019s monarchy and the slave trade",
-    "description": "From Elizabeth I\u2019s backing of early voyages to royal investment in trafficking companies, generations of monarchs were central to Britain\u2019s slave trade",
-    "content": "Enslaved African people were seared with hot metal brands bearing the royal crown, according to research by historians who have documented the monarchy\u2019s centuries-long involvement in Britain\u2019s slave trade.\nThe Register of British Slave Traders ident... [8928 chars]",
-    "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/royal-crown-branded-africans-britain-monarchy-slave-trade-trafficking",
-    "image": "https://i.guim.co.uk/img/media/db28a01bae651de1d6a292a74384742c9f4fd8ea/0_0_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=76e779a74c9a3b948436ee769cf841e7",
-    "publishedAt": "2026-09-14T05:00:00Z",
+    "id": "3a955b03667c465dcc210ea1f4279dc5",
+    "title": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'",
+    "description": "An Instagram post from the couple said two nights of their wedding festivities in the Bahamas were partially funded by Umar Kremlev.",
+    "content": "Donald Trump Jr.'s wife, Bettina Trump, confirmed that their May wedding was paid for in part by an ally of Russian President Vladimir Putin.\nA post on her Instagram account - attributed to the couple - said that two nights of their three-day wedding... [3403 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9db8/live/b910afd0-b08a-11f1-8f9f-33e0914f3492.jpg",
+    "publishedAt": "2026-09-14T22:56:44Z",
     "lang": "en",
     "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com"
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
     }
   },
   {
-    "id": "79a2c0b30487be015c283cfa219ef508",
-    "title": "Hyrox athlete sparks debate for pushing through race after soiling herself",
-    "description": "Some have raised concerns around hygiene while others saluted her resolve to finish the race.",
-    "content": "An athlete's Hyrox performance has sparked debate after completing a race in Beijing despite soiling herself midway through the event.\nFootage of the woman competing in the indoor fitness competition despite her soiled legs has gone viral, with some ... [3302 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b721/live/ddbfb070-affd-11f1-9713-5de61387c384.jpg",
-    "publishedAt": "2026-09-14T05:18:31Z",
+    "id": "cdff1d531ccefb8c02acec5214740ab7",
+    "title": "UK could 'unlock' 100 more oil and gas projects, say North Sea bosses",
+    "description": "The UK could supply half of its oil and gas needs without imports if the government showed more support for the sector, an OEUK report claims.",
+    "content": "The UK could supply half of its oil and gas needs without imports if the government showed more support for the sector, an industry report claims.\nOffshore Energies UK (OEUK) said changes to the windfall tax on energy firms and approval of the contro... [3823 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c65ym93p73xmo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5137/live/e8988d50-b075-11f1-a905-bfcd9db6b414.jpg",
+    "publishedAt": "2026-09-14T21:59:02Z",
+    "lang": "en",
+    "source": {
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    }
+  },
+  {
+    "id": "10fe082cbae8a785a8042fe5e52d3134",
+    "title": "Bob Mackie: Legendary costume designer dies aged 87",
+    "description": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
+    "content": "Bob Mackie, who designed dazzling costumes for stars including Cher, Tina Turner, Dolly Parton and Elton John has died, aged 87.\nThe US fashion designer, known as the \"Sultan of Sequins\" for his sparkling creations, won a Tony Award, nine Emmys and r... [2577 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f37e/live/64511030-b05c-11f1-9902-771b6dd8af6a.jpg",
+    "publishedAt": "2026-09-14T21:29:12Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
