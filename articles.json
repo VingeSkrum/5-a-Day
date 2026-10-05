@@ -1,12 +1,12 @@
 [
   {
-    "id": "864e4869790e69ddf73250c5a4044253",
-    "title": "Warrington Wolves vs Wakefield Trinity LIVE: Super League Grand Final",
-    "description": "Build-up, team news, live text, score & listen to local BBC radio commentaries of Saturday's Super League Grand Final as Warrington Wolves face Wakefield Trinity at Old Trafford.",
-    "content": "That's all folks\nFT: Warrington 10-23 Wakefield\nWakefield Trinity head coach Daryl Powell wanted his club to experience a title win in full technicolour glory after its golden age of success was captured in black and white pictures decades ago.\nWell,... [4639 chars]",
-    "url": "https://www.bbc.co.uk/sport/rugby-league/live/c8046w559k6zt",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dfab/live/ce073750-bf59-11f1-88d1-a5a9c4da291e.jpg",
-    "publishedAt": "2026-10-04T00:27:01Z",
+    "id": "fe8c80138abb673b390e3dc73c5919c0",
+    "title": "UEFA Nations League",
+    "description": "Follow live text commentary, score updates and match stats from Republic of Ireland vs Israel in the UEFA Nations League",
+    "content": "Republic of Ireland news conference ends abruptly amid accusations\nRepublic of Ireland v Israel (19:45 BST)\nThe Republic of Ireland's news conference before their second match against Israel ended abruptly as head coach Heimir Hallgrimsson fielded qu... [3528 chars]",
+    "url": "https://www.bbc.co.uk/sport/football/live/cw8r67m4j5gxt",
+    "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
+    "publishedAt": "2026-10-04T17:53:00Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -15,48 +15,63 @@
     }
   },
   {
-    "id": "2f140af467442f3276c2780d45b2ad84",
-    "title": "Cornell University president says school 'must do better' after rape allegations",
-    "description": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
-    "content": "Cornell University's president says the school \"must do better\" after a woman alleged she was drugged and raped by a group of men at a fraternity house.\nIn an eight-minute video statement released on Saturday night, Michael Kotlikoff described the al... [1528 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1acd/live/708a4390-bf7e-11f1-9b0d-03ed169a0cab.jpg",
-    "publishedAt": "2026-10-03T23:35:00Z",
+    "id": "cd198ba64a830c368ea9ce991ccec1ed",
+    "title": "Woman in Cornell rape allegations case targeted with threats, her lawyer says",
+    "description": "Attorney says people have threatened to silence or harm \u2018Jane Doe\u2019 if she does not withdraw civil lawsuit",
+    "content": "The woman who has alleged that \u2060she was drugged \u2060and raped \u200bby Cornell University students has been the target of threats, her lawyer said on Sunday.\nThomas Giuffra, who represents the \u2060woman identified as \u201cJane Doe\u201d, told CNN that people have threat... [1981 chars]",
+    "url": "https://www.theguardian.com/us-news/2026/oct/04/cornell-jane-doe-rape-allegations",
+    "image": "https://i.guim.co.uk/img/media/3bfbf4463267695304a287c3d96aaeda2d09bac1/300_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=88223a2f13784d09ea8909b35d77919d",
+    "publishedAt": "2026-10-04T17:42:00Z",
     "lang": "en",
     "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
     }
   },
   {
-    "id": "f36b30c12851873651bf5fc2c3a9c0e9",
-    "title": "World Grand Prix: Luke Humphries beats James Wade to secure final showdown with Gerwyn Price",
-    "description": "World number two Luke Humphries clinched his spot in the final of the World Grand Prix with a 5-3 victory over James Wade where he will face Gerwyn Price after his 5-2 win over Nathan Aspinall.",
-    "content": "World number two Luke Humphries secured his place in the World Grand Prix final with a 5-3 victory over James Wade.\nHumphries averaged 96.92 and threw 10 180s as he reached the final for the fourth successive time.\nThe 31-year-old Englishman will fac... [1880 chars]",
-    "url": "https://www.bbc.com/sport/darts/articles/cvde8y5w9dkxo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dff6/live/314c1410-bf7e-11f1-b06e-233705d8be62.jpg",
-    "publishedAt": "2026-10-03T23:19:17Z",
+    "id": "713b519a1a6b432a0c9603fef5ea2364",
+    "title": "Five iPhone 18 Pro Features You'll Want To Try The Second You Unbox It",
+    "description": "If you get an iPhone 18 Pro, this is what you need to try first to see what's new and put your new device through its paces.",
+    "content": "The iPhone 18 Pro is finally here, and while it might not seem as exciting as the new iPhone Duo, there's plenty to try out once you take it out of the box. This year, Apple is providing even more control in the Camera app. The camera's main lens wit... [4687 chars]",
+    "url": "https://www.engadget.com/2274578/iphone-18-pro-feature-try-when-unboxed/",
+    "image": "https://www.engadget.com/img/gallery/five-iphone-18-pro-features-youll-want-to-try-the-second-you-unbox-it/l-intro-1790868763.jpg",
+    "publishedAt": "2026-10-04T18:45:00Z",
     "lang": "en",
     "source": {
-      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
-      "name": "BBC",
-      "url": "https://www.bbc.com"
+      "id": "48e27292ccc1733d7eefd6a41c5655d4",
+      "name": "Engadget",
+      "url": "https://www.engadget.com"
     }
   },
   {
-    "id": "93f1fa2c910248673ff20414080a3930",
-    "title": "The Celebrity Traitors connections that might surprise you",
-    "description": "Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics.",
-    "content": "Spoiler warning: This article reveals details from the first two episodes of The Celebrity Traitors\n\"I know Rob very, very well. I mean, I've sat next to him as he's had a colonic.\"\nThat was Romesh Ranganathan, reminding us - in case we were in any d... [5753 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cqkgx895g9vzo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/55c6/live/bcd74b30-bf24-11f1-bc2e-018d645d8d21.jpg",
-    "publishedAt": "2026-10-04T01:31:32Z",
+    "id": "0bee002588fd9303d2f56eea604e94d2",
+    "title": "Let's Flick Through Sammy's Photos from Gamescom and Tokyo Game Show",
+    "description": "Nothing too unsavoury, I promise - I\u2019ve been wanting to share some of my adventures from Gamescom and Tokyo Game Show for weeks now, but I wasn\u2019t really ...",
+    "content": "I\u2019ve been wanting to share some of my adventures from Gamescom and Tokyo Game Show for weeks now, but I wasn\u2019t really sure how best to package it.\nThen, earlier this week while I was out running, I realised I didn\u2019t really need a big overarching them... [11350 chars]",
+    "url": "https://www.pushsquare.com/features/lets-flick-through-sammys-photos-from-gamescom-and-tokyo-game-show",
+    "image": "https://images.pushsquare.com/6684f4a9882b7/1280x720.jpg",
+    "publishedAt": "2026-10-04T18:30:00Z",
     "lang": "en",
     "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
+      "id": "c7c68503aa78dda4184c68c0b81a4f03",
+      "name": "Push Square",
+      "url": "https://www.pushsquare.com"
+    }
+  },
+  {
+    "id": "62ec3fac6c5213dba88638daf808638c",
+    "title": "Your next TV obsession! 5 must-see shows on this week, including Sherwood star's British crime drama",
+    "description": "And a new take on a Stephen King classic.",
+    "content": "With so much on offer on the box, it's sometimes quite hard to choose what to settle down and watch. And with more and more new shows being broadcast each week, the choice can become even harder.\nThankfully, we're on hand to sift through this week's ... [4044 chars]",
+    "url": "https://www.digitalspy.com/tv/a73989187/what-watch-this-week-pierre-carrie-marshals/",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/e1d28a53-2675-4dad-87b9-026278c6ddc1.jpg?crop=1.00xw:0.752xh;0,0&resize=1200:*",
+    "publishedAt": "2026-10-04T17:46:13Z",
+    "lang": "en",
+    "source": {
+      "id": "1cf088fa3eef98a321c96d5809af8824",
+      "name": "Digital Spy",
+      "url": "https://www.digitalspy.com"
     }
   }
 ]
