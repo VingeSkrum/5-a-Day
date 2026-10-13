@@ -1,27 +1,12 @@
 [
   {
-    "id": "58a51ee26774118275d3333cec0a1528",
-    "title": "Singapore Grand Prix: Lewis Hamilton apologises to Ferrari as Kimi Antonelli moves to brink of title",
-    "description": "Lewis Hamilton's incorrect strategy call during the Singapore Grand Prix means Kimi Antonelli can win the world title at the next race in Austin.",
-    "content": "Lewis Hamilton apologised to his Ferrari team after overriding the pit wall and choosing his own strategy during the Singapore Grand Prix.\nFerrari were on course to finish second and third with Charles Leclerc and Hamilton, but instead the seven-time... [8834 chars]",
-    "url": "https://www.bbc.com/sport/formula1/articles/c65yn9kn47eko",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7b41/live/020a6f30-c5a5-11f1-8ef2-31c45d39a4c9.jpg",
-    "publishedAt": "2026-10-11T18:32:19Z",
-    "lang": "en",
-    "source": {
-      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
-      "name": "BBC",
-      "url": "https://www.bbc.com"
-    }
-  },
-  {
-    "id": "3975c1fc980129140cc284e4b0da4da1",
-    "title": "NFL London: Last-second Cam Little kick means Jacksonville Jaguars beat Philadelphia Eagles",
-    "description": "Cam Little kicks a 57-yard field goal in the final second to seal a 19-17 victory for the Jacksonville Jaguars against the Philadelphia Eagles in an exhilarating NFL London game at Tottenham Hotspur Stadium.",
-    "content": "Cam Little kicked a 57-yard field goal in the final second to seal a 19-17 victory for the Jacksonville Jaguars against the Philadelphia Eagles in an exhilarating NFL London game at Tottenham Hotspur Stadium.\nThe Jaguars had conceded the lead with ei... [1608 chars]",
-    "url": "https://www.bbc.co.uk/sport/american-football/articles/cm2kegze5jqyo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1724/live/2308cd00-c59e-11f1-8caf-cb711a6adf3a.jpg",
-    "publishedAt": "2026-10-11T18:19:27Z",
+    "id": "fd5b3b858b42c9c16d1102c7bcde4a31",
+    "title": "Abramovich's close associate misled UK court in \u00a31bn oil-fields case, documents suggest",
+    "description": "Former Chelsea FC director, Eugene Tenenbaum, helped to manage the oligarch\u2019s wealth.",
+    "content": "One of Roman Abramovich's closest associates misled a UK court to help secure ownership of Siberian oil fields, leaked documents seen by the BBC suggest.\nEugene Tenenbaum, a former director of Chelsea Football Club, helped to manage the billionaire's... [5389 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cw4g1e4vpxddo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fac6/live/142bf230-c625-11f1-bc2e-018d645d8d21.png",
+    "publishedAt": "2026-10-12T18:36:34Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -30,48 +15,63 @@
     }
   },
   {
-    "id": "85ee29ae788538542e79836a1031c16f",
-    "title": "Britain to get first look at new AI systems after White House U-turn",
-    "description": "US had blocked regulators from reviewing frontier models from Anthropic, OpenAI and Google DeepMind",
-    "content": "The White House has reinstated the UK\u2019s access to the latest AI models for safety testing after lobbying from ministers, The Telegraph can reveal.\nThe UK\u2019s AI Security Institute (AISI) will now be able to access the latest models from US tech compani... [2869 chars]",
-    "url": "https://www.telegraph.co.uk/news/2026/10/11/britain-get-first-look-ai-systems-after-white-house-u-turn/",
-    "image": "https://www.telegraph.co.uk/content/dam/news/2026/10/11/TELEMMGLPICT000504170569_17917430299750_trans_NvBQzQNjv4BqDDlhzYBYlVolwZmnySJI8cKOdSq0MvGJhebBM6wreoY.jpeg?impolicy=OG-Standard",
-    "publishedAt": "2026-10-11T18:46:00Z",
+    "id": "c45911ad95d7087e1047664311904e0c",
+    "title": "Mahmood orders urgent security review after killing of Ann Widdecombe",
+    "description": "Home secretary also expands police support \u2018with immediate effect\u2019 for high-profile public figures not currently MPs",
+    "content": "Security arrangements for high-profile public figures including politicians and members of the royal family are to be urgently reviewed after the killing of Ann Widdecombe, the home secretary has said.\nShabana Mahmood said former MPs, party leaders w... [2966 chars]",
+    "url": "https://www.theguardian.com/uk-news/2026/oct/12/security-high-profile-public-figures-reviewed-ann-widdecombe",
+    "image": "https://i.guim.co.uk/img/media/e79f82ab83cea62a9c70b023e4bd867088c55451/554_0_4630_3704/master/4630.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba8b29773183d5a26e4630ea66aa3e7c",
+    "publishedAt": "2026-10-12T18:20:00Z",
     "lang": "en",
     "source": {
-      "id": "0fc579b3cc7a823fd67a74b9ed6f0796",
-      "name": "The Telegraph",
-      "url": "https://www.telegraph.co.uk"
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
     }
   },
   {
-    "id": "6b0afa4906a4d78a58d84ea2ca3d905b",
-    "title": "Farage pledges to shut down asylum system",
-    "description": "Reform to declare a \u2018national security emergency\u2019 and deport 90,000 migrants immediately",
-    "content": "Nigel Farage has pledged to impose a five-year ban on migrants being granted asylum and to deport 90,000 applicants immediately.\nIn his most stringent border policy to date, the Reform UK leader will declare a \u201cnational security emergency\u201d and announ... [3847 chars]",
-    "url": "https://www.telegraph.co.uk/politics/2026/10/11/farage-pledges-to-shut-down-asylum-system/",
-    "image": "https://www.telegraph.co.uk/content/dam/politics/2026/10/11/TELEMMGLPICT000506477256_17917465261130_trans_NvBQzQNjv4Bqd8uk6dM6aZEtbziVXNu4-1mnjVKqB1Lzt5OADu6nMNs.jpeg?impolicy=OG-Standard",
-    "publishedAt": "2026-10-11T18:44:00Z",
+    "id": "ae2031ac3dd544882ebc86628cfe4ab9",
+    "title": "Matt Richardson: British Cycling withdraw Olympic medallist from squad for World Track Cycling Championships",
+    "description": "Matt Richardson is withdrawn from the Great Britain squad for next week's World Track Cycling Championships amid reports he is under investigation for misconduct.",
+    "content": "Matt Richardson has been withdrawn from the Great Britain squad for next week's World Track Cycling Championships in Shanghai amid reports he is under investigation for misconduct.\nBritish Cycling confirmed the 27-year-old Olympic medallist's removal... [700 chars]",
+    "url": "https://www.bbc.co.uk/sport/cycling/articles/cmpwgdw0p1d5o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6bf4/live/603c30f0-c665-11f1-8b8f-ddd45afdc2fc.jpg",
+    "publishedAt": "2026-10-12T17:39:27Z",
     "lang": "en",
     "source": {
-      "id": "0fc579b3cc7a823fd67a74b9ed6f0796",
-      "name": "The Telegraph",
-      "url": "https://www.telegraph.co.uk"
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
     }
   },
   {
-    "id": "d3eb7f4a889a84c0ede8772f2f6cb7c4",
-    "title": "Saudi Arabia\u2019s Riyadh airport hit by second Houthi strike, day after 12 killed",
-    "description": "Fire erupts in hall at King Khalid International Airport on Sunday. | ITV National News",
-    "content": "Riyadh airport hit by second Houthi strike a day after 12 killed, as Sabah Choudhry reports.\nA projectile struck a passenger terminal at the international airport in Riyadh on Sunday, a day after a missile hit the same building and killed at least 12... [7853 chars]",
-    "url": "https://www.itv.com/news/2026-10-11/at-least-12-killed-in-attack-on-saudi-arabias-riyadh-airport",
-    "image": "https://images.ctfassets.net/pjshm78m9jt4/2GXcUdBF3QI68SuuJRAHa/759fa5164bf22fb9742cc343e14e9844/AP26284084029156.jpg?fm=jpg&fit=fill&w=1600&h=900&q=80",
-    "publishedAt": "2026-10-11T18:05:43Z",
+    "id": "2662db7d5f2d27b5eab43c4edf5284da",
+    "title": "Citro\u00ebn's iconic 2CV returns as an all-electric model",
+    "description": "Almost 40 years after disappearing, the iconic 2CV returns at the Paris Motor Show as a fully electric city car, keeping things simple and affordable in an increasingly competitive market.",
+    "content": "It is one of the most eagerly awaited stars of the Paris Motor Show, which will open its doors in the French capital from 13 to 18 October: Citro\u00ebn\u2019s legendary 2CV is making a major comeback almost forty years after disappearing from the market, in a... [1754 chars]",
+    "url": "https://www.euronews.com/2026/10/12/citroens-iconic-2cv-returns-as-an-all-electric-model",
+    "image": "https://images.euronews.com/articles/stories/09/94/88/64/1200x675_cmsv2_84994b24-42b5-5074-96d9-a38ff26a435f-9948864.jpg",
+    "publishedAt": "2026-10-12T18:33:08Z",
     "lang": "en",
     "source": {
-      "id": "50e936df020ec4ba91592a1399c1d92f",
-      "name": "ITVX",
-      "url": "https://www.itv.com"
+      "id": "fe7887ab38dfaf6c0f8af3a124d38295",
+      "name": "Euronews.com",
+      "url": "https://www.euronews.com"
+    }
+  },
+  {
+    "id": "f571adf2ce59d3fdcbb5095ad1588f86",
+    "title": "Downing Street trying to play down Andy Burnham comments on Russia\u2019s role in Brexit",
+    "description": "UK prime minister seemed to suggest on politics podcast that Putin influenced outcome of Brexit referendum",
+    "content": "If Brexit dominated the past decade for Britain, many in the halls of power in Westminster believe asymmetric conflict with Russia may dominate the next one.\nUK prime minister Andy Burnham managed to combine both issues at the weekend by appearing to... [2994 chars]",
+    "url": "https://www.irishtimes.com/world/uk/2026/10/12/downing-street-trying-to-play-down-andy-burnham-comments-on-russias-role-in-brexit/",
+    "image": "https://www.irishtimes.com/resizer/v2/FEFCOOG74QHTBSGRKIP6ARN63A.jpg?smart=true&auth=7e6bc8e03ea14f2fbfd96b0297662e5e5ece384c28f63edee9c6fc04e00e0c98&width=1200&height=630",
+    "publishedAt": "2026-10-12T18:08:27Z",
+    "lang": "en",
+    "source": {
+      "id": "735252dcb2793bb57ad34b2a2b258f27",
+      "name": "The Irish Times",
+      "url": "https://www.irishtimes.com"
     }
   }
 ]
