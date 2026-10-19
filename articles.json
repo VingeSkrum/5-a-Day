@@ -1,12 +1,27 @@
 [
   {
-    "id": "6acc351d40fc50ea854436f1985fcae7",
-    "title": "Canadian military base fire: Death toll confirmed and cause under investigation",
-    "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
-    "content": "A huge fire swept through a Canadian military base on Saturday, killing at least four people and seriously injuring dozens more.\nPrime Minister Mark Carney described it as one of the worst peace time tragedies on Canadian soil in the history of the m... [1122 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d82/live/7fedb8b0-cb1a-11f1-a9ef-8b4e735f71f0.jpg",
-    "publishedAt": "2026-10-18T17:48:53Z",
+    "id": "21dd9dfc241fcb2e86a25f5268deaec1",
+    "title": "UK Weather: Stormy weather possible as jet stream roars to life",
+    "description": "Gales are possible later this week as a deep low pressure system crosses the UK, but uncertainty remains whether impacts will be enough for it to be a named storm.",
+    "content": "The UK may see its first named storm of the autumn as forecasts show the potential for a deep area of low pressure to cross the UK later this week.\nA strengthening jet stream triggered by temperature contrasts across North America will cause turbulen... [2694 chars]",
+    "url": "https://www.bbc.com/weather/articles/crp3g7y9n5y7o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/56ea/live/ba38b020-cad8-11f1-9a39-31b474234113.jpg",
+    "publishedAt": "2026-10-19T00:34:38Z",
+    "lang": "en",
+    "source": {
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "name": "BBC",
+      "url": "https://www.bbc.com"
+    }
+  },
+  {
+    "id": "b2a5c7123ca01c014f4b450cd1cbb34a",
+    "title": "People playing loud music on buses could face \u00a3100 fine",
+    "description": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains.\nA national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
+    "content": "Passengers who play loud music on buses in England could be fined up to \u00a3100 under an attempt by the government to crack down on antisocial behaviour.\nThe measures also seek to tackle littering, vaping and threatening behaviour to help improve journe... [4252 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db1b/live/55c58490-cb0c-11f1-8d4d-2553b65f173b.jpg",
+    "publishedAt": "2026-10-19T00:22:20Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -15,63 +30,48 @@
     }
   },
   {
-    "id": "a0eedd5d14f4c6829a883a5f919adfab",
-    "title": "Aspiring Reform MP who said \u2018you cannot be Muslim and British\u2019 suspended",
-    "description": "Activist advocated concentration camps for illegal migrants and lifetime imprisonment for those who could not be returned",
-    "content": "A Reform UK activist who aspires to be an MP has been suspended from the party after he was secretly recorded saying that \u201cyou cannot be Muslim and British\u201d.\nJason Powell suggested that small boat migrants be placed in concentration camps, and that t... [3404 chars]",
-    "url": "https://www.telegraph.co.uk/politics/2026/10/18/jason-powell-racism-itv-islam-expose/",
-    "image": "https://www.telegraph.co.uk/content/dam/politics/2026/10/18/TELEMMGLPICT000507997138_17923454984080_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Standard",
-    "publishedAt": "2026-10-18T18:12:00Z",
+    "id": "f99df657cdc46cbd81183a397b898cdc",
+    "title": "'Neets crisis is moral failure' and 'Credit crunch'",
+    "description": "PM brands Neets \"crisis\" a \"moral failure\" and cereal prices could rise in healthy food crackdown lead Monday's papers.",
+    "content": "Prime Minister Andy Burnham writes in the Times that Britain faces an \"economic catastrophe and moral failure\" if \"a generation of young people is being written off to a life on benefits\". He writes that one million young people are not in education,... [4582 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cmy56p9elwd1o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/934b/live/6f1a9850-cb42-11f1-a64c-550be9e3c66b.jpg",
+    "publishedAt": "2026-10-18T23:52:38Z",
     "lang": "en",
     "source": {
-      "id": "0fc579b3cc7a823fd67a74b9ed6f0796",
-      "name": "The Telegraph",
-      "url": "https://www.telegraph.co.uk"
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
     }
   },
   {
-    "id": "2185377fef8a72f85606cba4b31eb45e",
-    "title": "Jeff Brazier breaks silence on desperate fight to save son Freddy from addiction",
-    "description": "EXCLUSIVE: Jeff Brazier speaks for the first time about his battle to help Freddy including how he searched the streets to try and bring him home, and even spoke to the police",
-    "content": "EXCLUSIVE: Jeff Brazier speaks for the first time about his battle to help Freddy including how he searched the streets to try and bring him home, and even spoke to the police\nJeff Brazier has bravely spoken for the first time about his desperate bat... [8051 chars]",
-    "url": "https://www.mirror.co.uk/3am/celebrity-news/jeff-brazier-breaks-silence-desperate-37784367",
-    "image": "https://i2-prod.mirror.co.uk/article37785291.ece/ALTERNATES/s1200d/0_Tulleys-Christmas-Lights-Festival.jpg",
-    "publishedAt": "2026-10-18T18:13:00Z",
+    "id": "4ff2bea9a1b0acd574850260fcb879ac",
+    "title": "Don't fall for this - how to protect yourself from AI scams",
+    "description": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+    "content": "Be careful where you buy from, shoppers are being warned as criminals use AI to supercharge scams.\nSome fraudsters have made websites for fake retailers that claim to be family-owned firms selling quality UK-made products. Images may show a UK High S... [380 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f70/live/9a6f8400-c98c-11f1-adc3-01d8629f0470.jpg",
+    "publishedAt": "2026-10-18T23:24:59Z",
     "lang": "en",
     "source": {
-      "id": "6cae1c46bb8b237dc470e08f1d7ce41a",
-      "name": "Daily Mirror",
-      "url": "https://www.mirror.co.uk"
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
     }
   },
   {
-    "id": "d838bef9eed520629857134d18734b48",
-    "title": "Four water slides and a swimming pool - Kim Jong-un\u2019s luxury yacht revealed",
-    "description": "Four large vessels seen in Wonsan, a coastal city popular with the country\u2019s elite, including North Korea\u2019s leader",
-    "content": "Dictators and superyachts often go hand-in-hand. But in North Korea, it is practically unheard of for the supreme leader to sun himself on a luxury vessel.\nYet, since July this year, not one but four large ships have been seen in and around Wonsan, a... [3049 chars]",
-    "url": "https://www.telegraph.co.uk/world-news/2026/10/18/four-water-slides-and-a-swimming-pool-kim-jong-uns-luxury/",
-    "image": "https://www.telegraph.co.uk/content/dam/world-news/2026/10/18/TELEMMGLPICT000505443342_17923436943070_trans_NvBQzQNjv4Bq3yQKKyQPa6vTqJf946ZCd2fm4I1hKXb4gO_Z9vBto9k.jpeg?impolicy=OG-Standard",
-    "publishedAt": "2026-10-18T17:54:00Z",
+    "id": "036eaabf504645af5dd091b68309ecd0",
+    "title": "Four killed, dozens injured in major fire at Canada military base",
+    "description": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+    "content": "Four members of the Canadian military have died and dozens were injured in a major fire at a base in the province of Alberta.\nAddressing the nation on Sunday from Ottawa, Prime Minister Mark Carney described it as \"one of the worst tragedies for the ... [3576 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e891/live/86ce21f0-cb34-11f1-9a39-31b474234113.jpg",
+    "publishedAt": "2026-10-18T23:06:09Z",
     "lang": "en",
     "source": {
-      "id": "0fc579b3cc7a823fd67a74b9ed6f0796",
-      "name": "The Telegraph",
-      "url": "https://www.telegraph.co.uk"
-    }
-  },
-  {
-    "id": "983382215fc10f5409d9b06a1f9d6bd9",
-    "title": "\u2018Like a fresh start\u2019: Michael Carrick relieved by Manchester United\u2019s draw at Leeds",
-    "description": "Manchester United\u2019s head coach Michael Carrick claimed the 1-1 draw at Leeds \u2018felt like a fresh start\u2019 and insisted the season can still be a good one",
-    "content": "After a week in which Michael Carrick had \u201cthe headphones on\u201d to quieten the noise, the Manchester United head coach claimed his side\u2019s 1-1 draw at Leeds on Sunday \u201cfelt like a fresh start\u201d and insisted that the season can still be a good one.\nCarric... [2537 chars]",
-    "url": "https://www.theguardian.com/football/2026/oct/18/manchester-united-michael-carrick-draw-leeds-fresh-start",
-    "image": "https://i.guim.co.uk/img/media/c8690c477d6465953ba35ba00d4f7ffdc494b32d/440_0_3993_3196/master/3993.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9f1b0ce451f51e515870cddd9444b14f",
-    "publishedAt": "2026-10-18T18:19:00Z",
-    "lang": "en",
-    "source": {
-      "id": "558a003a7a0164e924408edec7e99f99",
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com"
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
     }
   }
 ]
