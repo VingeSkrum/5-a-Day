@@ -1,27 +1,12 @@
 [
   {
-    "id": "21dd9dfc241fcb2e86a25f5268deaec1",
-    "title": "UK Weather: Stormy weather possible as jet stream roars to life",
-    "description": "Gales are possible later this week as a deep low pressure system crosses the UK, but uncertainty remains whether impacts will be enough for it to be a named storm.",
-    "content": "The UK may see its first named storm of the autumn as forecasts show the potential for a deep area of low pressure to cross the UK later this week.\nA strengthening jet stream triggered by temperature contrasts across North America will cause turbulen... [2694 chars]",
-    "url": "https://www.bbc.com/weather/articles/crp3g7y9n5y7o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/56ea/live/ba38b020-cad8-11f1-9a39-31b474234113.jpg",
-    "publishedAt": "2026-10-19T00:34:38Z",
-    "lang": "en",
-    "source": {
-      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
-      "name": "BBC",
-      "url": "https://www.bbc.com"
-    }
-  },
-  {
-    "id": "b2a5c7123ca01c014f4b450cd1cbb34a",
-    "title": "People playing loud music on buses could face \u00a3100 fine",
-    "description": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains.\nA national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
-    "content": "Passengers who play loud music on buses in England could be fined up to \u00a3100 under an attempt by the government to crack down on antisocial behaviour.\nThe measures also seek to tackle littering, vaping and threatening behaviour to help improve journe... [4252 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db1b/live/55c58490-cb0c-11f1-8d4d-2553b65f173b.jpg",
-    "publishedAt": "2026-10-19T00:22:20Z",
+    "id": "891e49b28798a27201781f4e9bb871fd",
+    "title": "FA Cup first round draw: 2021 winners Leicester City to visit Oxford City",
+    "description": "Leicester City will travel to National League North side Oxford City in the 2026-27 FA Cup first round - five years after winning the competition.",
+    "content": "Leicester City will travel to National League North side Oxford City in the 2026-27 FA Cup first round.\nIt is the first time the Foxes have taken part at this stage of the competition since 2008 and they face sixth-tier opposition for a place in the ... [964 chars]",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckwyqdvedj32o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/31e6/live/81429510-cbf0-11f1-bd6b-397ab98949f6.jpg",
+    "publishedAt": "2026-10-19T18:13:52Z",
     "lang": "en",
     "source": {
       "id": "da05009467a13bbcc84557ea09d86db3",
@@ -30,48 +15,63 @@
     }
   },
   {
-    "id": "f99df657cdc46cbd81183a397b898cdc",
-    "title": "'Neets crisis is moral failure' and 'Credit crunch'",
-    "description": "PM brands Neets \"crisis\" a \"moral failure\" and cereal prices could rise in healthy food crackdown lead Monday's papers.",
-    "content": "Prime Minister Andy Burnham writes in the Times that Britain faces an \"economic catastrophe and moral failure\" if \"a generation of young people is being written off to a life on benefits\". He writes that one million young people are not in education,... [4582 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cmy56p9elwd1o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/934b/live/6f1a9850-cb42-11f1-a64c-550be9e3c66b.jpg",
-    "publishedAt": "2026-10-18T23:52:38Z",
+    "id": "816603dbb9b41f2c6ec67de4e1d06568",
+    "title": "Minister says Mahmood\u2019s migration policy will \u2018prolong integration\u2019",
+    "description": "In now-removed post, Miatta Fahnbulleh criticised home secretary\u2019s proposal to extend qualifying period for settlement in UK",
+    "content": "The energy secretary, Miatta Fahnbulleh, appears to have criticised Shabana Mahmood\u2019s migration policy in a post on her constituency website, in which she suggested she had concerns that a longer settlement process could affect integration.\nFahnbulle... [3421 chars]",
+    "url": "https://www.theguardian.com/politics/2026/oct/19/migration-energy-secretary-mahmood-fahnbulleh",
+    "image": "https://i.guim.co.uk/img/media/dfcc70efcb27c5184b6220e52b45a0f79a6ad134/48_0_4473_3581/master/4473.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1c676bcf6a357f8746e54a1526c70a1d",
+    "publishedAt": "2026-10-19T17:48:00Z",
     "lang": "en",
     "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
+      "id": "558a003a7a0164e924408edec7e99f99",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
     }
   },
   {
-    "id": "4ff2bea9a1b0acd574850260fcb879ac",
-    "title": "Don't fall for this - how to protect yourself from AI scams",
-    "description": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
-    "content": "Be careful where you buy from, shoppers are being warned as criminals use AI to supercharge scams.\nSome fraudsters have made websites for fake retailers that claim to be family-owned firms selling quality UK-made products. Images may show a UK High S... [380 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f70/live/9a6f8400-c98c-11f1-adc3-01d8629f0470.jpg",
-    "publishedAt": "2026-10-18T23:24:59Z",
+    "id": "746ed3bc5fe90006aa90ba5f72fc6774",
+    "title": "Lil Jon discovers man who raised him was not his biological father after cousin\u2019s DNA test; rapper opens up about son Nathan Smith\u2019s death and why he may never get answers about his family",
+    "description": "Rapper and producer Lil Jon has made a startling discovery about his family history in adulthood, learning that Willie, the man he grew up believing was",
+    "content": "In his new memoir, Lil Jon reflects on his family revelations, the unanswered questions surrounding his biological parentage, and the death of his son Nathan Smith.\nRapper and producer Lil Jon has made a startling discovery about his family history i... [4477 chars]",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lil-jon-discovers-man-who-raised-him-was-not-his-biological-father-after-cousins-dna-test-rapper-opens-up-about-son-nathan-smiths-death-and-why-he-may-never-get-answers-about-his-family/articleshow/135054880.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135054949,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-19T18:24:00Z",
     "lang": "en",
     "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
+      "id": "9c931d3332c3a87c89b804230892aa64",
+      "name": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com"
     }
   },
   {
-    "id": "036eaabf504645af5dd091b68309ecd0",
-    "title": "Four killed, dozens injured in major fire at Canada military base",
-    "description": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
-    "content": "Four members of the Canadian military have died and dozens were injured in a major fire at a base in the province of Alberta.\nAddressing the nation on Sunday from Ottawa, Prime Minister Mark Carney described it as \"one of the worst tragedies for the ... [3576 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e891/live/86ce21f0-cb34-11f1-9a39-31b474234113.jpg",
-    "publishedAt": "2026-10-18T23:06:09Z",
+    "id": "80a5288a0772651870b9fffc193db285",
+    "title": "Cristiano Ronaldo: Portugal captain punished over walkout following explosive row with head coach Jorge Jesus",
+    "description": "Portugal captain Cristiano Ronaldo claimed head coach Jorge Jesus twice broke his word about the stars role in the team after he walked out on the national teams camp on the eve of a match; he has now been punished for his actions but will not miss any Portugal matches",
+    "content": "Cristiano Ronaldo has been suspended for 30 days and fined \u00a3215 over his walkout from the Portugal national team following an explosive fallout with head coach Jorge Jesus.\nThe Portuguese FA's disciplinary council did not specify when Ronaldo's ban b... [2243 chars]",
+    "url": "https://www.skysports.com/football/news/13601082/cristiano-ronaldo-portugal-captain-punished-over-walkout-following-explosive-row-with-head-coach-jorge-jesus",
+    "image": "https://e0.365dm.com/26/10/1600x900/skysports-cristiano-ronaldo_7372969.jpg?20261010141017",
+    "publishedAt": "2026-10-19T18:22:30Z",
     "lang": "en",
     "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
+      "id": "375c6022b40a085995083df0ed1ac413",
+      "name": "Sky Sports",
+      "url": "https://www.skysports.com"
+    }
+  },
+  {
+    "id": "8f17e89734ec733e68c50dbc4441d26e",
+    "title": "Why Kendall Jenner Wasn't in the 2026 Victoria's Secret Fashion Show",
+    "description": "Kendall Jenner wasn't seen at the 2026 Victoria's Secret Fashion Show but had a jam-packed weekend. Here's what we know about why she didn't participate in the event.",
+    "content": "2 min read\nTHE RUNDOWN\nKendall Jenner wasn\u2019t seen at the 2026 Victoria\u2019s Secret Fashion Show.\nThe model had a busy Saturday, attending events in Athens, Georgia, and Los Angeles.\nHer younger sister, Kylie Jenner, made her runway debut at the event in... [1639 chars]",
+    "url": "https://www.elle.com/culture/celebrities/a74182213/why-kendall-jenner-didnt-walk-victorias-secret-fashion-show-2026/",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/adb7493c-31e6-4eb4-b5d6-eabd323569b5.jpeg?crop=0.861xw:0.553xh;0.068xw,0.07xh&resize=1200:*",
+    "publishedAt": "2026-10-19T18:17:00Z",
+    "lang": "en",
+    "source": {
+      "id": "7f7b038b42ac40d063e0445cb6bdfd18",
+      "name": "ELLE",
+      "url": "https://www.elle.com"
     }
   }
 ]
