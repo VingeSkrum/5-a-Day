@@ -1,12 +1,57 @@
 [
   {
-    "id": "8a4bbbd6ca45638b781e0f9bb192aa42",
-    "title": "The Legend of Zelda: Ocarina of Time has revived the midnight game launch - but was it worth the wait?",
-    "description": "When our writer found himself among the hundreds on Oxford Street hoping to get their hands on early copies and collectibles, it was a heartwarming reminder of the shared experience of fandom",
-    "content": "It is Thursday night and I am sat blurry-eyed and runny nosed outside the Argos on Oxford Street. Incredibly, I am far from alone. This is not some strange protest against the popular retailer. When the clock strikes midnight, the lavish 4K Switch 2 ... [3048 chars]",
-    "url": "https://www.theguardian.com/games/2026/nov/06/the-legend-of-zelda-ocarina-of-time-midnight-game-launch",
-    "image": "https://i.guim.co.uk/img/media/6faa0bb9c9a766ed30a17dc1d250c2c3f315b6f4/250_238_7202_5762/master/7202.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=971ee75cb3bb5141e4bd98346519d712",
-    "publishedAt": "2026-11-06T18:04:00Z",
+    "id": "70c5d6f4d43558812026f3ee5eab4196",
+    "title": "With Stephen Miller pick, Trump readies for a battle",
+    "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+    "content": "In the aftermath of the Republican Party's sweeping defeat in Tuesday's midterm elections, Donald Trump said he would be willing to work with the newly ascendent Democrats in Congress.\nOn Friday, however, he elevated Stephen Miller, his bare-knuckled... [3731 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg",
+    "publishedAt": "2026-11-06T23:24:15Z",
+    "lang": "en",
+    "source": {
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    }
+  },
+  {
+    "id": "e59c9526d0bb124db89767adb4a41bb4",
+    "title": "Coventry City: Frank Lampard questions decisions after Sky Blues fall at Everton",
+    "description": "Coventry had a trio of decisions go against them in defeat at Everton, with Frank Lampard suggesting a hair pull should have been a penalty.",
+    "content": "Coventry boss Frank Lampard questioned why his side were not given a penalty after a trio of decisions went against them in defeat at Everton.\nThierno Barry's double and Kiernan Dewsbury-Hall's late goal helped the hosts come from behind to win 3-1 o... [4343 chars]",
+    "url": "https://www.bbc.com/sport/football/articles/cr15jj0yy8xeo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8f45/live/bd3a26b0-da36-11f1-bde4-c13870167801.jpg",
+    "publishedAt": "2026-11-06T23:22:21Z",
+    "lang": "en",
+    "source": {
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+      "name": "BBC",
+      "url": "https://www.bbc.com"
+    }
+  },
+  {
+    "id": "ee54db7fcb1ae9a8fc4512f64b83efbc",
+    "title": "From youth offender to junior doctor: 'I wrote a plan and stuck to it'",
+    "description": "Steven Beattie left Scotland's most violent prison 20 years ago vowing to turn his life around.",
+    "content": "Steven Beattie spent his teenage years in and out of Polmont young offenders' institution, once described by a former governor as \"the most violent prison in Scotland\", external.\nHe was sent there at 16 after drunkenly crashing a stolen car, and retu... [3127 chars]",
+    "url": "https://www.bbc.co.uk/news/articles/cm9qz9r8d9wlo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d5a1/live/faecd800-d9e5-11f1-93e1-3b657b665bcf.jpg",
+    "publishedAt": "2026-11-06T23:01:04Z",
+    "lang": "en",
+    "source": {
+      "id": "da05009467a13bbcc84557ea09d86db3",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    }
+  },
+  {
+    "id": "c25a0d7fecbc00719f58ea39d9a04728",
+    "title": "Boy, six, becomes fifth member of family to die after suspected arson in Ireland",
+    "description": "Elliot English died on Friday from injuries sustained in fire in Waterford city that also claimed lives of his parents",
+    "content": "A six-year-old boy has become the third child in his family to die after a suspected arson attack in Waterford that also claimed the lives of his parents, police have said.\nElliot English died on Friday at Children\u2019s Health Ireland hospital in Crumli... [1667 chars]",
+    "url": "https://www.theguardian.com/world/2026/nov/06/boy-six-third-in-child-in-his-family-to-die-after-suspected-arson-attack-in-ireland",
+    "image": "https://i.guim.co.uk/img/media/cdd12751f8fd78a1a12f2a4408dde269fe8446f1/783_0_3606_2885/master/3606.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f2afc800e7b589ef3d8846a09dfdef4c",
+    "publishedAt": "2026-11-06T23:00:00Z",
     "lang": "en",
     "source": {
       "id": "558a003a7a0164e924408edec7e99f99",
@@ -15,63 +60,18 @@
     }
   },
   {
-    "id": "535fe7f3fc500849f36b13bc910f5d73",
-    "title": "Street fireworks arrests amid Bonfire Night disorder",
-    "description": "It is illegal to throw or set off fireworks in the street, police say.",
-    "content": "Fireworks were set off in a residential street as 17 people were arrested on Bonfire Night across Greater Manchester.\nA video, filmed on Thursday night, shows fireworks being launched in the street in all directions, which police said was one of seve... [970 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cv98zzjdd10do",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ac5d/live/902cf380-da06-11f1-bbd1-cf41b7fd4e9b.png",
-    "publishedAt": "2026-11-06T17:25:01Z",
+    "id": "ed59c6e2e9fc422fa552db46e8bc4732",
+    "title": "Premier League LIVE: Everton vs Coventry City",
+    "description": "Follow live text commentary, score updates and match stats as Everton take on Coventry City in the Premier League.",
+    "content": "'It's always a pleasure to play at home'\nFT: Everton 3-1 Coventry\nEverton\nEverton striker Thierno Barry speaking to BBC Match of the Day: \"It's always a pleasure to score and for my team to win so I'm very happy. I just work a lot during this summer ... [8316 chars]",
+    "url": "https://www.bbc.com/sport/football/live/cr15jy8xy50jt",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9810/live/580780b0-da33-11f1-a9e1-31b6ce511c3b.jpg",
+    "publishedAt": "2026-11-06T22:00:11Z",
     "lang": "en",
     "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
+      "id": "f331a5ed3965fb59761dfcecfc7e7a34",
       "name": "BBC",
-      "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "072b67b8407a771e292ebe1b555ac52e",
-    "title": "Council to defend Harrogate Spring Water plant extension appeal",
-    "description": "The plans, rejected in April despite officers recommending approval, are set to be reviewed.",
-    "content": "North Yorkshire Council has confirmed it will defend its decision to reject plans to expand a water bottling factory into community woodland in Harrogate.\nThe stance has been welcomed by campaigners fighting to protect Rotary Wood, who had feared the... [1157 chars]",
-    "url": "https://www.bbc.co.uk/news/articles/cqrmyydxn2dyo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/170f/live/1a946320-da05-11f1-84c1-dbcae60402d7.jpg",
-    "publishedAt": "2026-11-06T17:10:52Z",
-    "lang": "en",
-    "source": {
-      "id": "da05009467a13bbcc84557ea09d86db3",
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk"
-    }
-  },
-  {
-    "id": "dcbf2eb3a3c208b4f8b0aabe0b8610bb",
-    "title": "FTSE 100 slumps in AI rout",
-    "description": "Democrats\u2019 victory in midterms fuels fears over value of tech companies",
-    "content": "The FTSE 100 fell sharply on Friday as a tech sell-off on Wall Street spread across the world.\nThe UK\u2019s flagship index slumped as much as 2.4pc as the Democrats\u2019 victory in the US midterm elections sent investor nerves running over the value of power... [3231 chars]",
-    "url": "https://www.telegraph.co.uk/business/2026/11/06/ftse-100-slumps-in-ai-rout/",
-    "image": "https://www.telegraph.co.uk/content/dam/business/2026/11/06/TELEMMGLPICT000510649859_17939866572220_trans_NvBQzQNjv4BqxXCI9Wh-V1PVtkHuRtXNlOil7a1KV2STY3xRqqFt_No.jpeg?impolicy=OG-Standard",
-    "publishedAt": "2026-11-06T18:15:00Z",
-    "lang": "en",
-    "source": {
-      "id": "0fc579b3cc7a823fd67a74b9ed6f0796",
-      "name": "The Telegraph",
-      "url": "https://www.telegraph.co.uk"
-    }
-  },
-  {
-    "id": "ce8ac07e4c5c5463f525c65b3d480401",
-    "title": "British Ebola patient taken to specialist hospital as experts explain risk to public",
-    "description": "The man will be taken to one of two hospitals equipped to deal with Ebola after he was flown back to the UK from the Democratic Republic of the Congo",
-    "content": "A British doctor who contracted Ebola in the Democratic Republic of the Congo (DRC) has arrived back in the UK for specialist treatment.\nThe patient is the first case involving a British national linked to the current outbreak in the country to test ... [3226 chars]",
-    "url": "https://www.independent.co.uk/news/uk/home-news/british-man-ebola-arrives-uk-drc-congo-b3080742.html",
-    "image": "https://static.independent.co.uk/2026/11/05/12/Switzerland_Ebola_55371.jpg?trim=1,0,1,0&width=1200&height=800&crop=1200:800",
-    "publishedAt": "2026-11-06T18:14:00Z",
-    "lang": "en",
-    "source": {
-      "id": "0d5c0adfb0e84da759fe48296b9f6e55",
-      "name": "The Independent",
-      "url": "https://www.independent.co.uk"
+      "url": "https://www.bbc.com"
     }
   }
 ]
